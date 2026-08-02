@@ -27,7 +27,8 @@ jobs:
       - name: 提交更新
         run: |
           git config user.name "bot"
-          git config user.email "bot@hot"
+          git config user.email "bot@mirequ"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           git add data/
-          git diff --staged --quiet || git commit -m "hot: $(date +%H:%M)"
+          git diff --staged --quiet || git commit -m "[bot] refresh $(date +%H:%M)"
           git push
