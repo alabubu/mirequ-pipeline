@@ -1,5 +1,8 @@
 name: 全网热点刷新
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: '*/5 * * * *'
