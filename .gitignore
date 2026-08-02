@@ -1,0 +1,12 @@
+.workbuddy/
+*.pyc
+__pycache__/
+scanner/
+wechat-100k-miniapp/
+app/
+app_v3/
+app_v4/
+deploy/
+v2/
+node_modules/
+
