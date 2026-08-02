@@ -1,8 +1,9 @@
 name: 热点刷新
 
 on:
-  schedule:
-    - cron: "*/5 * * * *"
+  push:
+    paths:
+      - 'data/.ts'
   workflow_dispatch:
 
 permissions:
