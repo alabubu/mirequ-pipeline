@@ -1,4 +1,4 @@
-name: 全网热点刷新
+name: 热点刷新
 
 on:
   schedule:
@@ -16,15 +16,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - name: 安装依赖
-        run: pip install requests
-      - name: 抓取热点
-        run: python pipeline/fetch_hot.py
-      - name: 提交更新
-        run: |
-          git config user.name "bot"
-          git config user.email "bot@mirequ"
-          echo "$(date +%s)" > data/.ts
-          git add data/
-          git commit -m "[bot] $(date +%H:%M)" || true
-          git push
+      - run: pip install requests
+      - run: python pipeline/fetch_hot.py
+      - run: |
+          git config user.name bot && git config user.email bot@m.bot
+          echo "$(date +%s)" > data/.ts && git add data/
+          git commit -m "data" || true && git push
