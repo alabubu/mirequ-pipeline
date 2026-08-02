@@ -1,34 +1,30 @@
 name: 全网热点刷新
 
-permissions:
-  contents: write
-
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: "*/5 * * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
-          
+          python-version: "3.11"
       - name: 安装依赖
         run: pip install requests
-        
       - name: 抓取热点
         run: python pipeline/fetch_hot.py
-        
-           - name: 提交更新
+      - name: 提交更新
         run: |
           git config user.name "bot"
           git config user.email "bot@mirequ"
           echo "$(date +%s)" > data/.ts
           git add data/
-          git commit -m "[bot] refresh $(date +%H:%M)" || true
+          git commit -m "[bot] $(date +%H:%M)" || true
           git push
