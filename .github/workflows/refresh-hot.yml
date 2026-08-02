@@ -23,4 +23,4 @@ jobs:
           git config user.name bot && git config user.email bot@m.bot
           echo "$(date +%s)" > data/.ts && git add data/
           git commit -m "data" || true && git push
-- run: sleep 300
+      - run: sleep 300
