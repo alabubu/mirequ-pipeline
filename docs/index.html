@@ -20,6 +20,10 @@ body{font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei
 .gate-btn{padding:14px 24px;background:#111;color:#fff;border:none;border-radius:0 12px 12px 0;font-size:15px;cursor:pointer;font-weight:600}
 .gate-error{color:#FF3B30;font-size:12px;margin-top:6px;min-height:18px}
 .gate-footnote{color:#D1D1D6;font-size:11px;margin-top:40px}
+/* 过渡动画 */
+.splash{position:fixed;inset:0;background:#fff;display:flex;align-items:center;justify-content:center;z-index:999}
+.splash-text{font-size:22px;color:#333;font-weight:500;letter-spacing:0.5px;text-align:center;padding:0 40px;animation:fadeIn .6s ease;max-width:320px}
+@keyframes fadeIn{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
 .app{display:flex;height:100vh;overflow:hidden}
 .sidebar{width:200px;background:#fff;border-right:1px solid #E5E5EA;display:flex;flex-direction:column;flex-shrink:0;overflow-y:auto}
 .sidebar-header{padding:20px 20px 16px;border-bottom:1px solid #F2F2F7}
@@ -136,9 +140,12 @@ document.getElementById('passInput').onkeydown = function(e){ if(e.key==='Enter'
 function doLogin(){
   var norm = function(s){ return s.replace(/[^\u4e00-\u9fff\w]/g,'').toLowerCase(); };
   if(norm(document.getElementById('passInput').value.trim())===norm(todayQuote)){
-    document.getElementById('gateScreen').classList.add('hidden');
-    document.getElementById('appScreen').classList.remove('hidden');
+    document.getElementById('gateScreen').innerHTML = '<div class="splash"><div class="splash-text">'+todayQuote+'</div></div>';
     loadData();
+    setTimeout(function(){
+      document.getElementById('gateScreen').classList.add('hidden');
+      document.getElementById('appScreen').classList.remove('hidden');
+    }, 2000);
   }else{ document.getElementById('gateError').textContent='口令错误'; }
 }
 var hotData = null, wcData = null;
