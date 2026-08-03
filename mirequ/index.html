@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>觅热器</title>
+<style>
+*,::before,::after{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;background:#F5F5F7;color:#111;font-size:14px;line-height:1.5;overflow:hidden;height:100vh}
+.hidden{display:none!important}
+.gate-screen{min-height:100vh;display:flex;align-items:center;justify-content:center;padding:24px;background:#F5F5F7}
+.gate-box{max-width:400px;width:100%;text-align:center}
+.gate-logo{width:88px;height:88px;margin:0 auto 12px;display:block;border-radius:20px}
+.gate-name{font-size:28px;font-weight:700;margin-bottom:4px}
+.gate-slogan{color:#999;font-size:13px;margin-bottom:40px}
+.gate-quote{background:#fff;border-radius:16px;padding:24px;margin-bottom:24px;box-shadow:0 1px 3px rgba(0,0,0,0.04)}
+.gate-quote-text{font-size:17px;color:#222;line-height:1.8}
+.gate-input-row{display:flex}
+.gate-input{flex:1;padding:14px 16px;border:1px solid #E5E5EA;border-radius:12px 0 0 12px;font-size:16px;outline:none;background:#fff}
+.gate-btn{padding:14px 24px;background:#111;color:#fff;border:none;border-radius:0 12px 12px 0;font-size:15px;cursor:pointer;font-weight:600}
+.gate-error{color:#FF3B30;font-size:12px;margin-top:6px;min-height:18px}
+.gate-footnote{color:#D1D1D6;font-size:11px;margin-top:40px}
+.app{display:flex;height:100vh;overflow:hidden}
+.sidebar{width:200px;background:#fff;border-right:1px solid #E5E5EA;display:flex;flex-direction:column;flex-shrink:0;overflow-y:auto}
+.sidebar-header{padding:20px 20px 16px;border-bottom:1px solid #F2F2F7}
+.sidebar-brand{display:flex;align-items:center;gap:10px;font-size:16px;font-weight:700}
+.sidebar-brand img{width:32px;height:32px;border-radius:8px}
+.sidebar-nav{flex:1;padding:8px 0}
+.nav-section{padding:0 12px}
+.nav-item{display:flex;align-items:center;gap:8px;padding:10px 12px;border-radius:10px;cursor:pointer;font-size:14px;color:#444;margin-bottom:2px;transition:background 0.12s}
+.nav-item:hover{background:#F2F2F7}
+.nav-item.on{background:#111;color:#fff;font-weight:600}
+.nav-item .arrow{font-size:10px;margin-left:auto;transition:transform 0.2s}
+.nav-item .arrow.open{transform:rotate(90deg)}
+.nav-sub{padding-left:12px;max-height:0;overflow:hidden;transition:max-height 0.25s}
+.nav-sub.expand{max-height:600px}
+.nav-sub .nav-item{padding:8px 12px 8px 28px;font-size:13px}
+.nav-sub .nav-item .count{font-size:11px;color:#999;margin-left:auto}
+.nav-sub .nav-item.on .count{color:rgba(255,255,255,0.6)}
+.sidebar-footer{padding:12px 20px;border-top:1px solid #F2F2F7;font-size:11px;color:#999}
+.main{flex:1;overflow-y:auto;padding:24px 28px;background:#F5F5F7}
+.section-title{font-size:18px;font-weight:700;margin-bottom:16px;display:flex;justify-content:space-between;align-items:center}
+.section-badge{font-size:12px;color:#999;font-weight:400}
+.hot-feed{display:flex;flex-direction:column;gap:12px}
+.hot-card{background:#fff;border-radius:14px;padding:16px 18px;cursor:pointer;display:flex;align-items:flex-start;gap:14px;box-shadow:0 1px 3px rgba(0,0,0,0.03);transition:transform 0.12s}
+.hot-card:active,.hot-card:hover{transform:translateY(-1px);box-shadow:0 4px 12px rgba(0,0,0,0.06)}
+.hot-card .logo{width:36px;height:36px;border-radius:8px;object-fit:cover;flex-shrink:0;margin-top:2px}
+.hot-card .body{flex:1;min-width:0}
+.hot-card .title{font-size:15px;font-weight:600;color:#111;line-height:1.4;overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+.hot-card .meta{display:flex;gap:12px;margin-top:8px;font-size:12px;color:#999}
+.hot-card .source{color:#666;font-weight:500}
+.hot-card .share{font-size:18px;color:#C7C7CC;padding:4px;flex-shrink:0;cursor:pointer;margin-top:2px}
+.back-btn{display:inline-flex;align-items:center;gap:4px;padding:6px 14px;background:#fff;border-radius:20px;font-size:13px;color:#666;cursor:pointer;margin-bottom:16px;box-shadow:0 1px 3px rgba(0,0,0,0.04);border:1px solid #E5E5EA}
+.back-btn:hover{color:#111;border-color:#CCC}
+.platform-grid{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:20px}
+.platform-chip{padding:10px 20px;background:#fff;border-radius:20px;font-size:14px;font-weight:500;color:#444;cursor:pointer;box-shadow:0 1px 3px rgba(0,0,0,0.03);border:1px solid transparent;transition:all 0.12s}
+.platform-chip:hover{border-color:#E5E5EA}
+.platform-chip.on{background:#111;color:#fff;border-color:#111}
+.news-list{display:flex;flex-direction:column;gap:8px}
+.news-item{background:#fff;border-radius:12px;padding:16px 18px;display:flex;align-items:flex-start;gap:12px;box-shadow:0 1px 3px rgba(0,0,0,0.03)}
+.news-item .idx{font-size:16px;font-weight:700;color:#D1D1D6;min-width:24px;text-align:center;padding-top:2px}
+.news-item .idx.top3{color:#FF3B30}
+.news-item .body{flex:1;min-width:0}
+.news-item .title{font-size:14px;font-weight:500;color:#111;line-height:1.4;cursor:pointer}
+.news-item .title:hover{opacity:0.7}
+.news-item .heat-tag{display:inline-block;background:#F2F2F7;padding:2px 10px;border-radius:10px;font-size:11px;color:#999;margin-top:6px}
+.news-item .share{font-size:16px;color:#C7C7CC;padding:4px 8px;flex-shrink:0;cursor:pointer;margin-top:2px}
+@media (max-width:768px){
+  .sidebar{position:fixed;left:-220px;top:0;bottom:0;z-index:100;transition:left 0.25s;box-shadow:2px 0 12px rgba(0,0,0,0.06)}
+  .sidebar.open{left:0}
+  .overlay{position:fixed;inset:0;background:rgba(0,0,0,0.3);z-index:99;display:none}
+  .overlay.show{display:block}
+  .main{padding:16px 12px;margin-top:48px}
+  .mobile-header{position:fixed;top:0;left:0;right:0;height:48px;background:#fff;display:flex;align-items:center;padding:0 16px;z-index:50;border-bottom:1px solid #E5E5EA;gap:12px}
+  .mobile-header .hamburger{font-size:20px;padding:4px;cursor:pointer}
+  .mobile-header .brand{font-size:16px;font-weight:700}
+  .app{padding-top:0}
+  .hot-card{padding:14px 16px;gap:10px}
+  .hot-card .title{font-size:14px}
+  .platform-chip{padding:8px 16px;font-size:13px}
+}
+</style>
+</head>
+<body>
+<div id="gateScreen" class="gate-screen">
+  <div class="gate-box">
+    <img src="assets/logo.png" class="gate-logo" alt="">
+    <div class="gate-name">觅热器</div>
+    <div class="gate-slogan">全网热点实时采集</div>
+    <div class="gate-quote"><div class="gate-quote-text" id="quoteText"></div></div>
+    <div class="gate-input-row">
+      <input class="gate-input" id="passInput" placeholder="输入口令" autocomplete="off">
+      <button class="gate-btn" onclick="doLogin()">进入</button>
+    </div>
+    <div class="gate-error" id="gateError"></div>
+    <div class="gate-footnote">让我们赞美马乔</div>
+  </div>
+</div>
+<div class="overlay" id="overlay" onclick="closeSidebar()"></div>
+<div id="appScreen" class="app hidden">
+  <div class="mobile-header" id="mobileHeader"><span class="hamburger" onclick="toggleSidebar()">☰</span><span class="brand">觅热器</span></div>
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-header"><div class="sidebar-brand"><img src="assets/logo.png">觅热器</div></div>
+    <div class="sidebar-nav">
+      <div class="nav-item on" onclick="navMain('hot')" id="nav-hot">📰 今日最热</div>
+      <div class="nav-item" onclick="navMain('hub')" id="nav-hub">🔥 热点合集</div>
+      <div class="nav-sub" id="sub-hub"></div>
+      <div class="nav-item" onclick="navMain('wc')" id="nav-wc">📡 专项监控</div>
+      <div class="nav-sub" id="sub-wc"></div>
+    </div>
+    <div class="sidebar-footer">觅热器 · 全网热点实时采集</div>
+  </aside>
+  <main class="main" id="mainContent"></main>
+</div>
+<script>
+var QUOTES = [
+  '幸福的家庭都相似','人是一根会思考的芦苇','生而为人我很抱歉','所有真理都是简单的',
+  '冬天来了春天还会远吗','世界属于勇敢者','人不能两次踏进同一条河','我思故我在',
+  '一切过往皆为序章','活着就是为了改变世界','时间终会给出答案','每个人都是自己的岛',
+  '愿原力与你同在','I\'ll be back','人生就像巧克力','不疯魔不成活',
+  'Tomorrow is another day','我命由我不由天','让子弹飞一会儿','世界上只有一种真正的英雄主义',
+  '长夜将尽真理永存','希望是件好东西','不自由毋宁死','Keep moving forward',
+  '长风破浪会有时','千里共婵娟','海内存知己','会当凌绝顶',
+  '大江东去','山高月小','春风又绿江南岸','行到水穷处坐看云起时',
+  '身如不系之舟','人生若只如初见','不畏浮云遮望眼','一蓑烟雨任平生',
+  '天生我材必有用','此心安处是吾乡','面朝大海春暖花开','心有猛虎细嗅蔷薇',
+  'Stay hungry stay foolish','Done is better than perfect','Less is more','Think different',
+  '天下难事必作于易','知行合一','慢就是快','求真务实',
+  'Talk is cheap show me the code','Code wins arguments','Ship it','Move fast',
+  '世界是个草台班子','尊重祝福','人间清醒','格局打开',
+  '稳住别浪','听劝','有点东西','做减法','身体最重要',
+];
+var todayQuote = QUOTES[Math.floor(Date.now()/3600000)%QUOTES.length];
+document.getElementById('quoteText').textContent = todayQuote;
+document.getElementById('passInput').onkeydown = function(e){ if(e.key==='Enter') doLogin(); };
+function doLogin(){
+  var norm = function(s){ return s.replace(/[^\u4e00-\u9fff\w]/g,'').toLowerCase(); };
+  if(norm(document.getElementById('passInput').value.trim())===norm(todayQuote)){
+    document.getElementById('gateScreen').classList.add('hidden');
+    document.getElementById('appScreen').classList.remove('hidden');
+    loadData();
+  }else{ document.getElementById('gateError').textContent='口令错误'; }
+}
+var hotData = null, wcData = null;
+var currentSection = 'hot', currentPlatform = null, currentWcAccount = null;
+function loadData(){
+  Promise.all([
+    fetch('hot.json').then(function(r){return r.json();}),
+    fetch('wechat.json').then(function(r){return r.json();})
+  ]).then(function(results){
+    hotData = results[0]; wcData = results[1];
+    navMain('hot');
+  }).catch(function(){ navMain('hot'); });
+}
+var PLATFORMS = [
+  {id:'zhihu',name:'知乎'},{id:'weibo',name:'微博'},{id:'douyin',name:'抖音'},
+  {id:'bilibili',name:'B站'},{id:'wallstreetcn',name:'华尔街见闻'},{id:'tieba',name:'贴吧'},
+  {id:'baidu',name:'百度'},{id:'cls',name:'财联社'},{id:'thepaper',name:'澎湃新闻'},
+  {id:'ifeng',name:'凤凰网'},{id:'toutiao',name:'今日头条'},{id:'jin10',name:'金十数据'},
+];
+var WECHAT_ACCOUNTS = ['第一财经','大河报','每日经济新闻','中新经纬','21世纪经济报道','红星新闻','封面新闻','新黄河','中国新闻网','中国证券报','上海证券报','证券时报'];
+function navMain(section){ currentSection = section; currentPlatform = null; currentWcAccount = null;
+  document.querySelectorAll('.nav-item.on').forEach(function(e){e.classList.remove('on');});
+  document.getElementById('nav-'+section).classList.add('on'); renderMain(); }
+function navPlatform(pid){ currentPlatform = pid; currentSection = 'hub'; renderMain(); }
+function navWcAccount(name){ currentWcAccount = name; currentSection = 'wc'; renderMain(); }
+function shareNews(title, url){ var text = title + ' ' + url; if(navigator.clipboard){ navigator.clipboard.writeText(text); } }
+function renderMain(){
+  var h = '', m = document.getElementById('mainContent');
+  if(currentSection === 'hot'){
+    h += '<div class="section-title">📰 今日最热<div class="section-badge">12平台 TOP1</div></div>';
+    h += '<div class="hot-feed">';
+    if(hotData && hotData.platforms){
+      hotData.platforms.forEach(function(p){ var item = p.items && p.items[0]; if(!item) return;
+        var pid = ({'zhihu':'zhihu','weibo':'weibo','douyin':'douyin','bilibili-hot-search':'bilibili','wallstreetcn-hot':'wallstreetcn','tieba':'tieba','baidu':'baidu','cls-hot':'cls','thepaper':'thepaper','ifeng':'ifeng','toutiao':'toutiao','jin10':'jin10'})[p.id]||p.id;
+        var pt = PLATFORMS.find(function(x){return x.id===pid;});
+        h += '<div class="hot-card" onclick="window.open(\''+(item.url||'#')+'\')"><img class="logo" src="assets/'+pid+'.png"><div class="body"><div class="title">'+item.title+'</div><div class="meta"><span class="source">'+pt.name+'</span></div></div><div class="share" onclick="event.stopPropagation();shareNews(\''+item.title.replace(/'/g,"\\'")+'\',\''+(item.url||'')+'\')">↗</div></div>';
+      });
+    } else h += '<div style="text-align:center;color:#999;padding:40px;">加载中…</div>';
+    h += '</div>';
+  }
+  else if(currentSection === 'hub' && !currentPlatform){
+    h += '<div class="section-title">🔥 热点合集<div class="section-badge">12 平台</div></div><div class="platform-grid">';
+    PLATFORMS.forEach(function(p){ h += '<div class="platform-chip" onclick="navPlatform(\''+p.id+'\')">'+p.name+'</div>'; });
+    h += '</div>';
+  }
+  else if(currentSection === 'hub' && currentPlatform){
+    var pn = (PLATFORMS.find(function(x){return x.id===currentPlatform;})||{}).name || currentPlatform;
+    h += '<div class="back-btn" onclick="currentPlatform=null;renderMain();">← 返回</div>';
+    h += '<div class="section-title">🔥 '+pn+'</div><div class="news-list">';
+    if(hotData && hotData.platforms){
+      var pd = hotData.platforms.find(function(x){ return x.id===currentPlatform || (currentPlatform==='bilibili'&&x.id==='bilibili-hot-search') || (currentPlatform==='wallstreetcn'&&x.id==='wallstreetcn-hot') || (currentPlatform==='cls'&&x.id==='cls-hot'); });
+      if(pd && pd.items){ pd.items.forEach(function(item,i){
+        h += '<div class="news-item"><div class="idx '+(i<3?'top3':'')+'">'+(i+1)+'</div><div class="body"><a class="title" href="'+item.url+'" target="_blank" style="text-decoration:none;">'+item.title+'</a><div class="heat-tag">'+(item.heat||'')+'</div></div><div class="share" onclick="shareNews(\''+item.title.replace(/'/g,"\\'")+'\',\''+(item.url||'')+'\')">↗</div></div>';
+      });}
+    }
+    h += '</div>';
+  }
+  else if(currentSection === 'wc' && !currentWcAccount){
+    h += '<div class="section-title">📡 监控目标<div class="section-badge">12 个公众号</div></div>';
+    h += '<div class="platform-grid" style="margin-bottom:24px">';
+    WECHAT_ACCOUNTS.forEach(function(a){
+      var cnt = ''; if(wcData&&wcData.articles) cnt = wcData.articles.filter(function(x){return x.account===a;}).length+' 篇';
+      h += '<div class="platform-chip" onclick="navWcAccount(\''+a+'\')">'+a+' <span style="font-size:11px;color:#999;">'+cnt+'</span></div>';
+    });
+    h += '</div>';
+    if(wcData && wcData.top100k && wcData.top100k.length){
+      h += '<div class="section-title">🔥 今日10万+<div class="section-badge">'+wcData.top100k.length+' 篇</div></div><div class="hot-feed">';
+      wcData.top100k.forEach(function(a){
+        h += '<div class="hot-card" onclick="window.open(\''+(a.url||'#')+'\')"><div class="body"><div class="title">'+a.title+'</div><div class="meta"><span class="source">'+a.account+' · 100000+</span></div></div><div class="share" onclick="event.stopPropagation();shareNews(\''+a.title.replace(/'/g,"\\'")+'\',\''+(a.url||'')+'\')">↗</div></div>';
+      });
+      h += '</div>';
+    }
+  }
+  else if(currentSection === 'wc' && currentWcAccount){
+    h += '<div class="back-btn" onclick="currentWcAccount=null;renderMain();">← 返回</div>';
+    h += '<div class="section-title">📡 '+currentWcAccount+'</div><div class="news-list">';
+    if(wcData && wcData.articles){
+      wcData.articles.filter(function(x){return x.account===currentWcAccount;}).forEach(function(a){
+        var reads = Math.min(a.read_count||0, 100000);
+        h += '<div class="news-item"><div class="body"><a class="title" href="'+a.url+'" target="_blank" style="text-decoration:none;">'+a.title+'</a><div class="heat-tag">阅读 '+(reads>=100000?'100000+':reads)+'</div></div><div class="share" onclick="shareNews(\''+a.title.replace(/'/g,"\\'")+'\',\''+(a.url||'')+'\')">↗</div></div>';
+      });
+    }
+    h += '</div>';
+  }
+  m.innerHTML = h;
+}
+function toggleSidebar(){ var s = document.getElementById('sidebar'); var o = document.getElementById('overlay'); s.classList.toggle('open'); o.classList.toggle('show'); }
+function closeSidebar(){ document.getElementById('sidebar').classList.remove('open'); document.getElementById('overlay').classList.remove('show'); }
+(function(){ if(window.innerWidth <= 768) document.getElementById('mobileHeader').style.display = 'flex'; })();
+</script>
+</body>
+</html>
