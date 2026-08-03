@@ -1,6 +1,6 @@
 {
-  "updated": "04:31:05",
-  "total": 230,
+  "updated": "04:35:27",
+  "total": 285,
   "platforms": [
     {
       "id": "zhihu",
@@ -269,8 +269,159 @@
     {
       "id": "douyin",
       "name": "抖音",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "中央政法委：严厉打击黑恶势力",
+          "url": "https://www.douyin.com/hot/2594572",
+          "heat": ""
+        },
+        {
+          "title": "谁的青春不想有场说走就走的旅行",
+          "url": "https://www.douyin.com/hot/2595428",
+          "heat": ""
+        },
+        {
+          "title": "万兆光网正加速到来",
+          "url": "https://www.douyin.com/hot/2595419",
+          "heat": ""
+        },
+        {
+          "title": "台风白海豚周四起影响我国",
+          "url": "https://www.douyin.com/hot/2595286",
+          "heat": ""
+        },
+        {
+          "title": "四川宜宾高县4.8级地震",
+          "url": "https://www.douyin.com/hot/2595194",
+          "heat": ""
+        },
+        {
+          "title": "特鲁姆普大心脏一分逆转绝杀",
+          "url": "https://www.douyin.com/hot/2594712",
+          "heat": ""
+        },
+        {
+          "title": "养宠人不苦夏",
+          "url": "https://www.douyin.com/hot/2594290",
+          "heat": ""
+        },
+        {
+          "title": "日韩股市双双下跌",
+          "url": "https://www.douyin.com/hot/2595218",
+          "heat": ""
+        },
+        {
+          "title": "普通人如何抓住体育强国新机会",
+          "url": "https://www.douyin.com/hot/2595141",
+          "heat": ""
+        },
+        {
+          "title": "抖音作者上手揭秘“天下第一刀”",
+          "url": "https://www.douyin.com/hot/2593694",
+          "heat": ""
+        },
+        {
+          "title": "云南烧烤是炭火与肉的滇味暴击",
+          "url": "https://www.douyin.com/hot/2594757",
+          "heat": ""
+        },
+        {
+          "title": "“洪灾后广西街头现枪手”不实",
+          "url": "https://www.douyin.com/hot/2595188",
+          "heat": ""
+        },
+        {
+          "title": "大司马杯S2冠军诞生",
+          "url": "https://www.douyin.com/hot/2595309",
+          "heat": ""
+        },
+        {
+          "title": "三角洲主播巅峰赛冠军诞生",
+          "url": "https://www.douyin.com/hot/2595195",
+          "heat": ""
+        },
+        {
+          "title": "曾曾摇卡点舞挑战",
+          "url": "https://www.douyin.com/hot/2595091",
+          "heat": ""
+        },
+        {
+          "title": "台风白海豚内眼壁崩塌",
+          "url": "https://www.douyin.com/hot/2594552",
+          "heat": ""
+        },
+        {
+          "title": "蔡徐坤澳门演唱会",
+          "url": "https://www.douyin.com/hot/2595151",
+          "heat": ""
+        },
+        {
+          "title": "恭喜你被分配到了各地文旅",
+          "url": "https://www.douyin.com/hot/2594697",
+          "heat": ""
+        },
+        {
+          "title": "电影去你的岛提档",
+          "url": "https://www.douyin.com/hot/2595458",
+          "heat": ""
+        },
+        {
+          "title": "九门出隔世楼了",
+          "url": "https://www.douyin.com/hot/2594944",
+          "heat": ""
+        },
+        {
+          "title": "和平精英刺激空投节",
+          "url": "https://www.douyin.com/hot/2594838",
+          "heat": ""
+        },
+        {
+          "title": "全国烤肉师傅申请出战",
+          "url": "https://www.douyin.com/hot/2594573",
+          "heat": ""
+        },
+        {
+          "title": "光遇夏之日上线",
+          "url": "https://www.douyin.com/hot/2595004",
+          "heat": ""
+        },
+        {
+          "title": "请问你现在那边是几点",
+          "url": "https://www.douyin.com/hot/2594646",
+          "heat": ""
+        },
+        {
+          "title": "官方通报赛里木湖打人事件处理结果",
+          "url": "https://www.douyin.com/hot/2595197",
+          "heat": ""
+        },
+        {
+          "title": "九门正太扭腰扭到新月饭店",
+          "url": "https://www.douyin.com/hot/2594954",
+          "heat": ""
+        },
+        {
+          "title": "HYBE新女团TUIDE公开",
+          "url": "https://www.douyin.com/hot/2595051",
+          "heat": ""
+        },
+        {
+          "title": "多往山里走 少往心里去",
+          "url": "https://www.douyin.com/hot/2594400",
+          "heat": ""
+        },
+        {
+          "title": "昊天巅峰赛43杀登击杀榜第一",
+          "url": "https://www.douyin.com/hot/2595425",
+          "heat": ""
+        },
+        {
+          "title": "孙颖莎因伤退出WTT瑞典站赛事",
+          "url": "https://www.douyin.com/hot/2595096",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "bilibili-hot-search",
@@ -803,8 +954,74 @@
     {
       "id": "cls-hot",
       "name": "财联社",
-      "count": 0,
-      "items": []
+      "count": 13,
+      "items": [
+        {
+          "title": "A股8月修复可期？科技仍为中长期主线？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2443573",
+          "heat": ""
+        },
+        {
+          "title": "【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策",
+          "url": "https://www.cls.cn/detail/2443662",
+          "heat": ""
+        },
+        {
+          "title": "周末要闻汇总：事关核电、新型电网等，国常会最新部署来了；股票ETF7月净流入创历史峰值",
+          "url": "https://www.cls.cn/detail/2443510",
+          "heat": ""
+        },
+        {
+          "title": "中国人民银行召开2026年下半年工作会议",
+          "url": "https://www.cls.cn/detail/2443498",
+          "heat": ""
+        },
+        {
+          "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
+          "url": "https://www.cls.cn/detail/2443548",
+          "heat": ""
+        },
+        {
+          "title": "厦门象屿，旗下公司仓库起火",
+          "url": "https://www.cls.cn/detail/2443593",
+          "heat": ""
+        },
+        {
+          "title": "中信证券：调整基本结束，8月修复可期",
+          "url": "https://www.cls.cn/detail/2443534",
+          "heat": ""
+        },
+        {
+          "title": "事关霍尔木兹！特朗普称今日举行谈判，伊朗重申“不会恢复至战前”！",
+          "url": "https://www.cls.cn/detail/2443690",
+          "heat": ""
+        },
+        {
+          "title": "AI的风吹向粤北，大湾区唯一集群如何“织网”｜“逐鹿算网”实地调研韶关篇",
+          "url": "https://www.cls.cn/detail/2443826",
+          "heat": ""
+        },
+        {
+          "title": "春秋航空致歉",
+          "url": "https://www.cls.cn/detail/2443468",
+          "heat": ""
+        },
+        {
+          "title": "【图解牛熊股】7月创业板指月跌23%，油气开采、创新药概念股逆势走强",
+          "url": "https://www.cls.cn/detail/2443459",
+          "heat": ""
+        },
+        {
+          "title": "券商晨会精华：科技行情交易底初现 拥挤度是市场的核心锚点",
+          "url": "https://www.cls.cn/detail/2443674",
+          "heat": ""
+        },
+        {
+          "title": "赛里木湖景区工作人员殴打旅游车司机处理情况：7人被行政拘留 优化自驾服务费",
+          "url": "https://www.cls.cn/detail/2443672",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "thepaper",
@@ -916,8 +1133,69 @@
     {
       "id": "ifeng",
       "name": "凤凰网",
-      "count": 0,
-      "items": []
+      "count": 12,
+      "items": [
+        {
+          "title": "伊朗看到了美国的3个软肋",
+          "url": "https://news.ifeng.com/c/8vHU3Votl6y",
+          "heat": ""
+        },
+        {
+          "title": "接连反转！特朗普透露三个信息",
+          "url": "https://news.ifeng.com/c/8vHV3ihqOZt",
+          "heat": ""
+        },
+        {
+          "title": "印尼客轮海上起火，已致5死41失踪",
+          "url": "https://news.ifeng.com/c/8vHPJI0FDQv",
+          "heat": ""
+        },
+        {
+          "title": "面临双重困局？以色列自曝被盟友抛弃",
+          "url": "https://news.ifeng.com/c/8vHV3ihqOcY",
+          "heat": ""
+        },
+        {
+          "title": "特朗普：已决定惩罚加拿大",
+          "url": "https://news.ifeng.com/c/8vHh8bqoTlY",
+          "heat": ""
+        },
+        {
+          "title": "泰国总理发声：是“巨大耻辱”",
+          "url": "https://news.ifeng.com/c/8vGLGMLrAco",
+          "heat": ""
+        },
+        {
+          "title": "日元跌跌不休，美国罕见出手",
+          "url": "https://news.ifeng.com/c/8vHT4t7Augr",
+          "heat": ""
+        },
+        {
+          "title": "立不擅应酬人设，高市早苗装不下去了",
+          "url": "https://news.ifeng.com/c/8vHKl6a6oZI",
+          "heat": ""
+        },
+        {
+          "title": "俄乌夏季战役第二阶段开打！乌军战损一整个连",
+          "url": "https://news.ifeng.com/c/8vHThcpVEiz",
+          "heat": ""
+        },
+        {
+          "title": "沙特、俄罗斯、伊拉克等7个国家发表声明",
+          "url": "https://news.ifeng.com/c/8vGi6FW8U9Q",
+          "heat": ""
+        },
+        {
+          "title": "日媒：高市早苗电话外交“熄火”",
+          "url": "https://news.ifeng.com/c/8vHT4t7Auou",
+          "heat": ""
+        },
+        {
+          "title": "涉及中国AI，两家英媒同日发文",
+          "url": "https://news.ifeng.com/c/8vHVJUrYdxh",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "toutiao",
