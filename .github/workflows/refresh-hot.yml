@@ -1,8 +1,6 @@
 name: 热点刷新
 
 on:
-  schedule:
-    - cron: "*/5 * * * *"
   push:
     branches:
       - main
@@ -13,7 +11,6 @@ permissions:
 
 jobs:
   refresh:
-    if: ${{ !contains(github.event.head_commit.message, '[skip]') }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -22,8 +19,8 @@ jobs:
           python-version: "3.11"
       - run: pip install requests
       - run: python pipeline/fetch_hot.py
+      - run: sleep 300
       - run: |
           git config user.name bot && git config user.email bot@m.bot
           echo "$(date +%s)" > data/.ts && git add data/
-          git commit -m "[skip] data" || true && git push
-      - run: sleep 300
+          git commit -m "data" || true && git push
