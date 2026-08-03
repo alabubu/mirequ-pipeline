@@ -1,6 +1,6 @@
 {
-  "updated": "15:01:07",
-  "total": 152,
+  "updated": "15:05:35",
+  "total": 281,
   "platforms": [
     {
       "id": "zhihu",
@@ -269,8 +269,159 @@
     {
       "id": "douyin",
       "name": "抖音",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "台风白海豚周四起影响我国",
+          "url": "https://www.douyin.com/hot/2595286",
+          "heat": ""
+        },
+        {
+          "title": "谁的青春不想有场说走就走的旅行",
+          "url": "https://www.douyin.com/hot/2595428",
+          "heat": ""
+        },
+        {
+          "title": "上半年海洋生产总值5.5万亿",
+          "url": "https://www.douyin.com/hot/2595410",
+          "heat": ""
+        },
+        {
+          "title": "这里有人被新疆美晕了",
+          "url": "https://www.douyin.com/hot/2595518",
+          "heat": ""
+        },
+        {
+          "title": "攀岩静门十级挑战",
+          "url": "https://www.douyin.com/hot/2595579",
+          "heat": ""
+        },
+        {
+          "title": "美国制裁洽洽瓜子等中国品牌",
+          "url": "https://www.douyin.com/hot/2595693",
+          "heat": ""
+        },
+        {
+          "title": "日韩股市双双下跌",
+          "url": "https://www.douyin.com/hot/2595218",
+          "heat": ""
+        },
+        {
+          "title": "昊天巅峰赛43杀登击杀榜第一",
+          "url": "https://www.douyin.com/hot/2595425",
+          "heat": ""
+        },
+        {
+          "title": "“速成车”正在被叫停",
+          "url": "https://www.douyin.com/hot/2596126",
+          "heat": ""
+        },
+        {
+          "title": "专家谈美日共同干预日元汇率",
+          "url": "https://www.douyin.com/hot/2596297",
+          "heat": ""
+        },
+        {
+          "title": "周楷恒92:100不敌古德温",
+          "url": "https://www.douyin.com/hot/2596096",
+          "heat": ""
+        },
+        {
+          "title": "全球首款可DIY个人机器人亮相",
+          "url": "https://www.douyin.com/hot/2595733",
+          "heat": ""
+        },
+        {
+          "title": "国家博物馆：从未授权馆外扫码",
+          "url": "https://www.douyin.com/hot/2596263",
+          "heat": ""
+        },
+        {
+          "title": "蜘蛛侠崭新之日为何能大爆",
+          "url": "https://www.douyin.com/hot/2595446",
+          "heat": ""
+        },
+        {
+          "title": "三角洲主播巅峰赛冠军诞生",
+          "url": "https://www.douyin.com/hot/2595195",
+          "heat": ""
+        },
+        {
+          "title": "MV既视感拿捏住了",
+          "url": "https://www.douyin.com/hot/2595527",
+          "heat": ""
+        },
+        {
+          "title": "这城市那么空 这回忆那么凶",
+          "url": "https://www.douyin.com/hot/2595862",
+          "heat": ""
+        },
+        {
+          "title": "电影去你的岛提档",
+          "url": "https://www.douyin.com/hot/2595458",
+          "heat": ""
+        },
+        {
+          "title": "蔡徐坤澳门演唱会",
+          "url": "https://www.douyin.com/hot/2595151",
+          "heat": ""
+        },
+        {
+          "title": "没人告诉我打十个蛋这么难啊",
+          "url": "https://www.douyin.com/hot/2595560",
+          "heat": ""
+        },
+        {
+          "title": "律师谈虞书欣疑被激光笔照射",
+          "url": "https://www.douyin.com/hot/2595911",
+          "heat": ""
+        },
+        {
+          "title": "谁听过放慢版的猫咪叫声",
+          "url": "https://www.douyin.com/hot/2595730",
+          "heat": ""
+        },
+        {
+          "title": "曾曾摇卡点舞挑战",
+          "url": "https://www.douyin.com/hot/2595091",
+          "heat": ""
+        },
+        {
+          "title": "九门正太扭腰扭到新月饭店",
+          "url": "https://www.douyin.com/hot/2594954",
+          "heat": ""
+        },
+        {
+          "title": "火影百战虎皮招募动画",
+          "url": "https://www.douyin.com/hot/2596245",
+          "heat": ""
+        },
+        {
+          "title": "田曦薇新剧治愈敏感哥哥",
+          "url": "https://www.douyin.com/hot/2595558",
+          "heat": ""
+        },
+        {
+          "title": "谢谢你们出现在我身边",
+          "url": "https://www.douyin.com/hot/2595828",
+          "heat": ""
+        },
+        {
+          "title": "霍仙姑让霍家浴血重生",
+          "url": "https://www.douyin.com/hot/2596322",
+          "heat": ""
+        },
+        {
+          "title": "谁有后羿电话帮我打一下",
+          "url": "https://www.douyin.com/hot/2596325",
+          "heat": ""
+        },
+        {
+          "title": "虞书欣现场为AUBL比赛跳球",
+          "url": "https://www.douyin.com/hot/2596306",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "bilibili-hot-search",
@@ -432,14 +583,216 @@
     {
       "id": "wallstreetcn-hot",
       "name": "华尔街见闻",
-      "count": 0,
-      "items": []
+      "count": 10,
+      "items": [
+        {
+          "title": "美日联合干预：新“广场协议”，布雷顿森林体系2.0的开端与日元套利时代的终结",
+          "url": "https://wallstreetcn.com/articles/3778528",
+          "heat": ""
+        },
+        {
+          "title": "华尔街见闻早餐FM-Radio | 2026年8月3日",
+          "url": "https://wallstreetcn.com/articles/3778524",
+          "heat": ""
+        },
+        {
+          "title": "美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%",
+          "url": "https://wallstreetcn.com/articles/3778526",
+          "heat": ""
+        },
+        {
+          "title": "科创50跌超5%，半导体再跌、兆易创新跌停，核电掀涨停潮，恒科指涨1%，阿里大涨超7%",
+          "url": "https://wallstreetcn.com/articles/3778543",
+          "heat": ""
+        },
+        {
+          "title": "高盛旗帜鲜明：这是人类历史上最大规模的资本需求周期，美联储只是看客",
+          "url": "https://wallstreetcn.com/articles/3778540",
+          "heat": ""
+        },
+        {
+          "title": "韩国总统府政策室长面临刑事指控，因仓促推动单一股票杠杆ETF上市",
+          "url": "https://wallstreetcn.com/articles/3778559",
+          "heat": ""
+        },
+        {
+          "title": "性能与Anthropic Fable 5相当！阿里巴巴发布千问3.8-MAX，2.4万亿个参数，长程自动编程表现出色",
+          "url": "https://wallstreetcn.com/articles/3778546",
+          "heat": ""
+        },
+        {
+          "title": "KOSPI再暴跌超5%，韩国监管拟出手降杠杆：单股杠杆ETF倍数或直接砍至1倍",
+          "url": "https://wallstreetcn.com/articles/3778557",
+          "heat": ""
+        },
+        {
+          "title": "中微公司上半年净利预增282%-311%，股权投资贡献近20亿元收益，设备业务延续高增｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778581",
+          "heat": ""
+        },
+        {
+          "title": "中金：AI之外还有什么值得买",
+          "url": "https://wallstreetcn.com/articles/3778538",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "tieba",
       "name": "贴吧",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "星巴克员工公然羞辱周杰伦",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356748&amp;topic_name=%E6%98%9F%E5%B7%B4%E5%85%8B%E5%91%98%E5%B7%A5%E5%85%AC%E7%84%B6%E7%BE%9E%E8%BE%B1%E5%91%A8%E6%9D%B0%E4%BC%A6",
+          "heat": ""
+        },
+        {
+          "title": "粥友吃饭自称蟑螂,店家吓坏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356756&amp;topic_name=%E7%B2%A5%E5%8F%8B%E5%90%83%E9%A5%AD%E8%87%AA%E7%A7%B0%E8%9F%91%E8%9E%82%2C%E5%BA%97%E5%AE%B6%E5%90%93%E5%9D%8F",
+          "heat": ""
+        },
+        {
+          "title": "T1男团出道,Faker领衔六男一",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356752&amp;topic_name=T1%E7%94%B7%E5%9B%A2%E5%87%BA%E9%81%93%2CFaker%E9%A2%86%E8%A1%94%E5%85%AD%E7%94%B7%E4%B8%80",
+          "heat": ""
+        },
+        {
+          "title": "小天采访哽咽,主持人紧急掐断",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356745&amp;topic_name=%E5%B0%8F%E5%A4%A9%E9%87%87%E8%AE%BF%E5%93%BD%E5%92%BD%2C%E4%B8%BB%E6%8C%81%E4%BA%BA%E7%B4%A7%E6%80%A5%E6%8E%90%E6%96%AD",
+          "heat": ""
+        },
+        {
+          "title": "奥运凉透,中国三城拒接盘",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356749&amp;topic_name=%E5%A5%A5%E8%BF%90%E5%87%89%E9%80%8F%2C%E4%B8%AD%E5%9B%BD%E4%B8%89%E5%9F%8E%E6%8B%92%E6%8E%A5%E7%9B%98",
+          "heat": ""
+        },
+        {
+          "title": "OpenAI降价,老日高喊中国万岁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
+          "heat": ""
+        },
+        {
+          "title": "辱骂捐日军罪证少年者被传唤",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356746&amp;topic_name=%E8%BE%B1%E9%AA%82%E6%8D%90%E6%97%A5%E5%86%9B%E7%BD%AA%E8%AF%81%E5%B0%91%E5%B9%B4%E8%80%85%E8%A2%AB%E4%BC%A0%E5%94%A4",
+          "heat": ""
+        },
+        {
+          "title": "山体雪崩,登山队全员遇难",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356747&amp;topic_name=%E5%B1%B1%E4%BD%93%E9%9B%AA%E5%B4%A9%2C%E7%99%BB%E5%B1%B1%E9%98%9F%E5%85%A8%E5%91%98%E9%81%87%E9%9A%BE",
+          "heat": ""
+        },
+        {
+          "title": "分手躲前任,Rookie拒绝采访",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356742&amp;topic_name=%E5%88%86%E6%89%8B%E8%BA%B2%E5%89%8D%E4%BB%BB%2CRookie%E6%8B%92%E7%BB%9D%E9%87%87%E8%AE%BF",
+          "heat": ""
+        },
+        {
+          "title": "玩脱了,解说内涵Shy哥遭制裁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356731&amp;topic_name=%E7%8E%A9%E8%84%B1%E4%BA%86%2C%E8%A7%A3%E8%AF%B4%E5%86%85%E6%B6%B5Shy%E5%93%A5%E9%81%AD%E5%88%B6%E8%A3%81",
+          "heat": ""
+        },
+        {
+          "title": "瑞幸员工自曝工具怼嘴进食",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356728&amp;topic_name=%E7%91%9E%E5%B9%B8%E5%91%98%E5%B7%A5%E8%87%AA%E6%9B%9D%E5%B7%A5%E5%85%B7%E6%80%BC%E5%98%B4%E8%BF%9B%E9%A3%9F",
+          "heat": ""
+        },
+        {
+          "title": "Blg卡点发动态,疑似暗讽Bin",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356735&amp;topic_name=Blg%E5%8D%A1%E7%82%B9%E5%8F%91%E5%8A%A8%E6%80%81%2C%E7%96%91%E4%BC%BC%E6%9A%97%E8%AE%BDBin",
+          "heat": ""
+        },
+        {
+          "title": "3千招工遇学霸,老板血赚9千",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356740&amp;topic_name=3%E5%8D%83%E6%8B%9B%E5%B7%A5%E9%81%87%E5%AD%A6%E9%9C%B8%2C%E8%80%81%E6%9D%BF%E8%A1%80%E8%B5%9A9%E5%8D%83",
+          "heat": ""
+        },
+        {
+          "title": "蜘蛛侠没上大学,老中人破防",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356732&amp;topic_name=%E8%9C%98%E8%9B%9B%E4%BE%A0%E6%B2%A1%E4%B8%8A%E5%A4%A7%E5%AD%A6%2C%E8%80%81%E4%B8%AD%E4%BA%BA%E7%A0%B4%E9%98%B2",
+          "heat": ""
+        },
+        {
+          "title": "美食番整狠活,主角给评委下药",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356737&amp;topic_name=%E7%BE%8E%E9%A3%9F%E7%95%AA%E6%95%B4%E7%8B%A0%E6%B4%BB%2C%E4%B8%BB%E8%A7%92%E7%BB%99%E8%AF%84%E5%A7%94%E4%B8%8B%E8%8D%AF",
+          "heat": ""
+        },
+        {
+          "title": "西班牙移民危机致72人死亡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356739&amp;topic_name=%E8%A5%BF%E7%8F%AD%E7%89%99%E7%A7%BB%E6%B0%91%E5%8D%B1%E6%9C%BA%E8%87%B472%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+          "heat": ""
+        },
+        {
+          "title": "日本人买中国车痛失国籍",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356733&amp;topic_name=%E6%97%A5%E6%9C%AC%E4%BA%BA%E4%B9%B0%E4%B8%AD%E5%9B%BD%E8%BD%A6%E7%97%9B%E5%A4%B1%E5%9B%BD%E7%B1%8D",
+          "heat": ""
+        },
+        {
+          "title": "TheShy险遭男粉强吻,走位立大功",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356730&amp;topic_name=TheShy%E9%99%A9%E9%81%AD%E7%94%B7%E7%B2%89%E5%BC%BA%E5%90%BB%2C%E8%B5%B0%E4%BD%8D%E7%AB%8B%E5%A4%A7%E5%8A%9F",
+          "heat": ""
+        },
+        {
+          "title": "张继科参赛遭解说嘲讽划水",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356738&amp;topic_name=%E5%BC%A0%E7%BB%A7%E7%A7%91%E5%8F%82%E8%B5%9B%E9%81%AD%E8%A7%A3%E8%AF%B4%E5%98%B2%E8%AE%BD%E5%88%92%E6%B0%B4",
+          "heat": ""
+        },
+        {
+          "title": "主持半蹲采访老外,被批太卑微",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356723&amp;topic_name=%E4%B8%BB%E6%8C%81%E5%8D%8A%E8%B9%B2%E9%87%87%E8%AE%BF%E8%80%81%E5%A4%96%2C%E8%A2%AB%E6%89%B9%E5%A4%AA%E5%8D%91%E5%BE%AE",
+          "heat": ""
+        },
+        {
+          "title": "离谱,日本职场比地震还狠",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356727&amp;topic_name=%E7%A6%BB%E8%B0%B1%2C%E6%97%A5%E6%9C%AC%E8%81%8C%E5%9C%BA%E6%AF%94%E5%9C%B0%E9%9C%87%E8%BF%98%E7%8B%A0",
+          "heat": ""
+        },
+        {
+          "title": "JDG全程避战,TES双龙汇平推",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356729&amp;topic_name=JDG%E5%85%A8%E7%A8%8B%E9%81%BF%E6%88%98%2CTES%E5%8F%8C%E9%BE%99%E6%B1%87%E5%B9%B3%E6%8E%A8",
+          "heat": ""
+        },
+        {
+          "title": "后宫文引战,点吧肘击二游痴",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356722&amp;topic_name=%E5%90%8E%E5%AE%AB%E6%96%87%E5%BC%95%E6%88%98%2C%E7%82%B9%E5%90%A7%E8%82%98%E5%87%BB%E4%BA%8C%E6%B8%B8%E7%97%B4",
+          "heat": ""
+        },
+        {
+          "title": "低价流量卡退场,用户直呼被宰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356718&amp;topic_name=%E4%BD%8E%E4%BB%B7%E6%B5%81%E9%87%8F%E5%8D%A1%E9%80%80%E5%9C%BA%2C%E7%94%A8%E6%88%B7%E7%9B%B4%E5%91%BC%E8%A2%AB%E5%AE%B0",
+          "heat": ""
+        },
+        {
+          "title": "茄皇变味,吧面跌落神坛",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356721&amp;topic_name=%E8%8C%84%E7%9A%87%E5%8F%98%E5%91%B3%2C%E5%90%A7%E9%9D%A2%E8%B7%8C%E8%90%BD%E7%A5%9E%E5%9D%9B",
+          "heat": ""
+        },
+        {
+          "title": "日本灾区呼吁别送千纸鹤了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356725&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%81%BE%E5%8C%BA%E5%91%BC%E5%90%81%E5%88%AB%E9%80%81%E5%8D%83%E7%BA%B8%E9%B9%A4%E4%BA%86",
+          "heat": ""
+        },
+        {
+          "title": "中国人能飞,揽佬新歌魔性洗脑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356724&amp;topic_name=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E%2C%E6%8F%BD%E4%BD%AC%E6%96%B0%E6%AD%8C%E9%AD%94%E6%80%A7%E6%B4%97%E8%84%91",
+          "heat": ""
+        },
+        {
+          "title": "越南人日本救灾反遭网暴",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356712&amp;topic_name=%E8%B6%8A%E5%8D%97%E4%BA%BA%E6%97%A5%E6%9C%AC%E6%95%91%E7%81%BE%E5%8F%8D%E9%81%AD%E7%BD%91%E6%9A%B4",
+          "heat": ""
+        },
+        {
+          "title": "玩梗惹祸,传统玩具被封杀",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356720&amp;topic_name=%E7%8E%A9%E6%A2%97%E6%83%B9%E7%A5%B8%2C%E4%BC%A0%E7%BB%9F%E7%8E%A9%E5%85%B7%E8%A2%AB%E5%B0%81%E6%9D%80",
+          "heat": ""
+        },
+        {
+          "title": "59岁绿化工遭职场霸凌坠亡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356717&amp;topic_name=59%E5%B2%81%E7%BB%BF%E5%8C%96%E5%B7%A5%E9%81%AD%E8%81%8C%E5%9C%BA%E9%9C%B8%E5%87%8C%E5%9D%A0%E4%BA%A1",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "baidu",
@@ -601,14 +954,181 @@
     {
       "id": "cls-hot",
       "name": "财联社",
-      "count": 0,
-      "items": []
+      "count": 13,
+      "items": [
+        {
+          "title": "修订后的《集成电路布图设计保护条例》公布",
+          "url": "https://www.cls.cn/detail/2444239",
+          "heat": ""
+        },
+        {
+          "title": "两部门印发《新型电力系统建设“十五五”规划》",
+          "url": "https://www.cls.cn/detail/2444177",
+          "heat": ""
+        },
+        {
+          "title": "关停局域网行情通道，新规实施首日，A股成交量影响如何？",
+          "url": "https://www.cls.cn/detail/2444433",
+          "heat": ""
+        },
+        {
+          "title": "韩国杠杆ETF风波持续升级 青瓦台政策室长面临刑事指控",
+          "url": "https://www.cls.cn/detail/2444199",
+          "heat": ""
+        },
+        {
+          "title": "【每日收评】科创50跌超5%，两市成交额单日缩量超5000亿，核电概念股集体走强",
+          "url": "https://www.cls.cn/detail/2444185",
+          "heat": ""
+        },
+        {
+          "title": "融资余额单月下降超4000亿，这一轮杠杆降到了哪一步？与2015有何不同？",
+          "url": "https://www.cls.cn/detail/2444275",
+          "heat": ""
+        },
+        {
+          "title": "【焦点复盘】创业板指弱势震荡再失年线，AI软硬件持续分化，电网产业链卷土重来",
+          "url": "https://www.cls.cn/detail/2444244",
+          "heat": ""
+        },
+        {
+          "title": "中东紧张局势降温 美股期指上涨、油价重挫 存储股盘前下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2444462",
+          "heat": ""
+        },
+        {
+          "title": "微盘股指数两日涨超7%！年内跌幅接近填平，相关ETF资金动向如何？",
+          "url": "https://www.cls.cn/detail/2444249",
+          "heat": ""
+        },
+        {
+          "title": "玉渊谭天：中国科技产业，正在批量越过“可见线”",
+          "url": "https://www.cls.cn/detail/2444054",
+          "heat": ""
+        },
+        {
+          "title": "从概念到规模化落地，虚拟电厂进入“跑马圈地”前夜|虚拟电厂风口前夜②",
+          "url": "https://www.cls.cn/detail/2444236",
+          "heat": ""
+        },
+        {
+          "title": "接手的是光，也是烫手山芋，一基金经理任职53天亏超30%",
+          "url": "https://www.cls.cn/detail/2444356",
+          "heat": ""
+        },
+        {
+          "title": "南向资金追踪｜单日净买入超110亿港元创近半个月新高 加仓阿里及腾讯流出中芯国际",
+          "url": "https://www.cls.cn/detail/2444304",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "thepaper",
       "name": "澎湃新闻",
-      "count": 0,
-      "items": []
+      "count": 20,
+      "items": [
+        {
+          "title": "影子暗访｜“抗生素”牛蛙，何以难禁？",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33631457",
+          "heat": ""
+        },
+        {
+          "title": "甘肃西和县灯塔村数百村民出现饮水困难：靠背水拉水维持生计，当地称正着手解决",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33709819",
+          "heat": ""
+        },
+        {
+          "title": "澎湃回声｜福建漳州通报“抗生素”牛蛙：组成调查组全面核查",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33708571",
+          "heat": ""
+        },
+        {
+          "title": "“装得越多，浪费越多”？新能源装机大涨背后仍面临消纳考验",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33708330",
+          "heat": ""
+        },
+        {
+          "title": "旁白｜直面“抗生素牛蛙”乱象，让“记者到场”与“监管到场”同频共振",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33710676",
+          "heat": ""
+        },
+        {
+          "title": "数学家丘成桐《求是》撰文：科技为人文立实，人文为科技立心",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33709962",
+          "heat": ""
+        },
+        {
+          "title": "央媒四问垃圾分类：网传“垃圾不够烧”，生活垃圾分类是否还需要",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33707882",
+          "heat": ""
+        },
+        {
+          "title": "魔都眼｜一场演唱会的三重图景：粉丝赴约、家长守候与警方护航",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33708528",
+          "heat": ""
+        },
+        {
+          "title": "马上测丨爱吃牛蛙的注意了！多批次牛蛙检出抗生素超标",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33673719",
+          "heat": ""
+        },
+        {
+          "title": "音乐老师在校跳舞发抖音被家长投诉，回应“约谈”称会按学校要求来",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33708573",
+          "heat": ""
+        },
+        {
+          "title": "“能力有限，和大家一起庆祝”，骑手的电瓶车上挂满饮料，分享女儿考上北大的喜悦",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33709073",
+          "heat": ""
+        },
+        {
+          "title": "澎湃回声｜电商平台回应“抗生素”牛蛙：涉事商品已下架，将严格要求商家准入资质",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33709037",
+          "heat": ""
+        },
+        {
+          "title": "新闻蒸馏器｜数万人突然涌入西班牙飞地：休达越境潮的三重推手与欧洲困局",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33708525",
+          "heat": ""
+        },
+        {
+          "title": "阿里Qwen3.8正式发布：总参数量2.4万亿，第三方榜单仅次于Claude",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33708536",
+          "heat": ""
+        },
+        {
+          "title": "上海交通执法开出首批网约车平台集中处罚决定书",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33710474",
+          "heat": ""
+        },
+        {
+          "title": "广东饶平：已对涉牛蛙抗生素超标企业仓库产品进行封存并抽样送检",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33710648",
+          "heat": ""
+        },
+        {
+          "title": "光明日报：字母词涌入中文，是否影响汉语美感？",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33701105",
+          "heat": ""
+        },
+        {
+          "title": "魔都怎么样｜沉浸式体验“爆米花”们的上海“团建”",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33710580",
+          "heat": ""
+        },
+        {
+          "title": "【社论】亚洲演艺之都：来上海，看演唱会",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33710769",
+          "heat": ""
+        },
+        {
+          "title": "澎湃思想周报｜当菲尔兹奖得主加入OpenAI；“云霸权”兴起",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33698195",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "ifeng",
@@ -837,8 +1357,139 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 0,
-      "items": []
+      "count": 26,
+      "items": [
+        {
+          "title": "俄罗斯总统普京已任命德米特里·多加金（Dmitry Dogadkin）为俄驻叙利亚大使。",
+          "url": "https://flash.jin10.com/detail/20260803224223254800",
+          "heat": false
+        },
+        {
+          "title": "以色列总理内塔尼亚胡向最高法院表示，其打算在选举期间任命一名内政部长。",
+          "url": "https://flash.jin10.com/detail/20260803224120850800",
+          "heat": false
+        },
+        {
+          "title": "法国巴黎银行：将西部数据(WDC.O)目标价从1050美元上调至1275美元。",
+          "url": "https://flash.jin10.com/detail/20260803224014700800",
+          "heat": false
+        },
+        {
+          "title": "巴基斯坦外交部：巴基斯坦外交部长与伊朗外长阿拉格齐通话，讨论地区和国际局势。其邀请阿拉格齐尽快访问巴基斯坦。",
+          "url": "https://flash.jin10.com/detail/20260803223901310800",
+          "heat": false
+        },
+        {
+          "title": "法国CAC40指数上涨1.6%，创2月26日以来盘中新高。",
+          "url": "https://flash.jin10.com/detail/20260803223730729800",
+          "heat": false
+        },
+        {
+          "title": "此前有X平台用户针对SpaceX(SPCX.O)股票发文称，回过头来看，这将是一个绝佳的（买入）机会。马斯克回应该贴称，我也是这么认为。",
+          "url": "https://flash.jin10.com/detail/20260803223633690800",
+          "heat": false
+        },
+        {
+          "title": "瑞典外交部召见俄罗斯外交官。",
+          "url": "https://flash.jin10.com/detail/20260803223559038800",
+          "heat": false
+        },
+        {
+          "title": "招商证券：海外厂商云收入保持高增，AI应用有望加速发展",
+          "url": "https://flash.jin10.com/detail/20260803223346215800",
+          "heat": false
+        },
+        {
+          "title": "美媒：白宫拟于周二举办人工智能企业会议，审查人工智能框架",
+          "url": "https://flash.jin10.com/detail/20260803223053724800",
+          "heat": "✰"
+        },
+        {
+          "title": "Plus图示",
+          "url": "https://flash.jin10.com/detail/20260803223026013800",
+          "heat": false
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：瑞士外交部发言人回应是否会再次主办美伊谈判时表示，瑞士与所有相关国家保持联系，并在双方有意愿的情况下，准备提供必要的帮助。",
+          "url": "https://flash.jin10.com/detail/20260803223019758800",
+          "heat": "✰"
+        },
+        {
+          "title": "据The Information：白宫将于周二与人工智能公司召开会议，审议人工智能框架。",
+          "url": "https://flash.jin10.com/detail/20260803222650867800",
+          "heat": "✰"
+        },
+        {
+          "title": "欧洲斯托克50指数上涨1.2%，创下7月6日以来盘中纪录新高。",
+          "url": "https://flash.jin10.com/detail/20260803222402122800",
+          "heat": false
+        },
+        {
+          "title": "美国共和党参议员科宁和蒂利斯放弃对特朗普政府司法部长提名的阻挠，他们将支持托德·布兰奇出任司法部长。",
+          "url": "https://flash.jin10.com/detail/20260803222231646800",
+          "heat": false
+        },
+        {
+          "title": "美国财政部网站：美国许可证授权自9月17日或之后与委内瑞拉国家石油公司2020年8.5%债券相关的特定交易。",
+          "url": "https://flash.jin10.com/detail/20260803222135753800",
+          "heat": false
+        },
+        {
+          "title": "传智教育：近日发布“AI具身智能机器人开发”新学科 首期班报名已完成",
+          "url": "https://flash.jin10.com/detail/20260803222135439800",
+          "heat": false
+        },
+        {
+          "title": "标普500指数涨幅扩大至1%，创7月16日以来最高水平。道指现涨1.3%，纳指涨1.38%。",
+          "url": "https://flash.jin10.com/detail/20260803222002939800",
+          "heat": "✰"
+        },
+        {
+          "title": "波音(BA.N)创下三周以来新高，最新上涨5.3%；此前法国巴黎银行上调其评级。",
+          "url": "https://flash.jin10.com/detail/20260803221923837800",
+          "heat": false
+        },
+        {
+          "title": "美股部分科技巨头走强，Meta Platforms(META.O)涨逾6%，微软(MSFT.O)现涨近5%，谷歌A(GOOGL.O)涨3.7%，甲骨文(ORCL.N)涨4.6%。",
+          "url": "https://flash.jin10.com/detail/20260803221900069800",
+          "heat": "✰"
+        },
+        {
+          "title": "美国制造业活动扩张速度创2022年以来新高",
+          "url": "https://flash.jin10.com/detail/20260803221303899800",
+          "heat": false
+        },
+        {
+          "title": "RWE：Crooked Creek太阳能项目预计将在2028年开始商业运营。",
+          "url": "https://flash.jin10.com/detail/20260803221231238800",
+          "heat": false
+        },
+        {
+          "title": "RWE与谷歌(GOOG.O)签署为期五年的购电协议，承购俄克拉荷马州麦柯廷县155兆瓦Crooked Creek太阳能项目的全部发电量。RWE计划于今年晚些时候启动该项目的现场建设。",
+          "url": "https://flash.jin10.com/detail/20260803221202004800",
+          "heat": false
+        },
+        {
+          "title": "印度将柴油出口税上调至每升24卢比。",
+          "url": "https://flash.jin10.com/detail/20260803221046637800",
+          "heat": false
+        },
+        {
+          "title": "RWE与谷歌(GOOG.O)签署俄克拉荷马州太阳能项目购电协议。",
+          "url": "https://flash.jin10.com/detail/20260803220851286800",
+          "heat": false
+        },
+        {
+          "title": "美国外交关系委员会核安全专家：美沙核协议可能削弱全球防扩散体系",
+          "url": "https://flash.jin10.com/detail/20260803220716657800",
+          "heat": "✰"
+        },
+        {
+          "title": "亚马逊成为史上第五家市值突破三万亿的公司",
+          "url": "https://flash.jin10.com/detail/20260803220613385800",
+          "heat": false
+        }
+      ]
     }
   ]
 }
