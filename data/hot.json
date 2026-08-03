@@ -1,6 +1,6 @@
 {
-  "updated": "09:25:28",
-  "total": 284,
+  "updated": "09:31:09",
+  "total": 239,
   "platforms": [
     {
       "id": "zhihu",
@@ -954,248 +954,20 @@
     {
       "id": "cls-hot",
       "name": "财联社",
-      "count": 13,
-      "items": [
-        {
-          "title": "AI的风吹向粤北，大湾区唯一集群如何“织网”｜“逐鹿算网”实地调研韶关篇",
-          "url": "https://www.cls.cn/detail/2443826",
-          "heat": ""
-        },
-        {
-          "title": "吴清：积极支持符合条件的内地企业在港上市",
-          "url": "https://www.cls.cn/detail/2443864",
-          "heat": ""
-        },
-        {
-          "title": "SpaceX首次财报本周重磅登场！除业绩外，市场还将关注这些……",
-          "url": "https://www.cls.cn/detail/2443959",
-          "heat": ""
-        },
-        {
-          "title": "核电板块掀涨停潮：千亿投资“落袋”，产业链迎确定性时刻",
-          "url": "https://www.cls.cn/detail/2443935",
-          "heat": ""
-        },
-        {
-          "title": "华尔街终于开悟了：AI巨头的护城河在“云”里？",
-          "url": "https://www.cls.cn/detail/2443873",
-          "heat": ""
-        },
-        {
-          "title": "美债彻底陷入“失控边缘”：真正的风暴才刚开始？",
-          "url": "https://www.cls.cn/detail/2443731",
-          "heat": ""
-        },
-        {
-          "title": "本周，A股“光”和“芯”新股都来了",
-          "url": "https://www.cls.cn/detail/2443770",
-          "heat": ""
-        },
-        {
-          "title": "【每日收评】科创50跌超5%，两市成交额单日缩量超5000亿，核电概念股集体走强",
-          "url": "https://www.cls.cn/detail/2444185",
-          "heat": ""
-        },
-        {
-          "title": "两部门印发《新型电力系统建设“十五五”规划》",
-          "url": "https://www.cls.cn/detail/2444177",
-          "heat": ""
-        },
-        {
-          "title": "玉渊谭天：中国科技产业，正在批量越过“可见线”",
-          "url": "https://www.cls.cn/detail/2444054",
-          "heat": ""
-        },
-        {
-          "title": "韩股巨震不止！监管层酝酿“大招” 拟紧急时调降杠杆产品倍数",
-          "url": "https://www.cls.cn/detail/2443940",
-          "heat": ""
-        },
-        {
-          "title": "存储赛道回调：A股概念股全线走弱 韩国存储龙头再遭重挫",
-          "url": "https://www.cls.cn/detail/2443973",
-          "heat": ""
-        },
-        {
-          "title": "微盘股指数两日涨超7%！年内跌幅接近填平，相关ETF资金动向如何？",
-          "url": "https://www.cls.cn/detail/2444249",
-          "heat": ""
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "id": "thepaper",
       "name": "澎湃新闻",
-      "count": 20,
-      "items": [
-        {
-          "title": "影子暗访｜“抗生素”牛蛙，何以难禁？",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33631457",
-          "heat": ""
-        },
-        {
-          "title": "网友呼吁将邮件礼仪纳入大学课程，北大等此前已发布实操指南",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33697943",
-          "heat": ""
-        },
-        {
-          "title": "央视曝光网红“高空秋千”成危险秋千：成本仅50万，景区一个月回本",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33698760",
-          "heat": ""
-        },
-        {
-          "title": "“装得越多，浪费越多”？新能源装机大涨背后仍面临消纳考验",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33708330",
-          "heat": ""
-        },
-        {
-          "title": "澎湃回声｜福建漳州通报“抗生素”牛蛙：组成调查组全面核查",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33708571",
-          "heat": ""
-        },
-        {
-          "title": "韩国庆尚南道梁山市气温飙至42.5℃，创百年气象观测纪录",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33698215",
-          "heat": ""
-        },
-        {
-          "title": "央媒四问垃圾分类：网传“垃圾不够烧”，生活垃圾分类是否还需要",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33707882",
-          "heat": ""
-        },
-        {
-          "title": "人民锐评：“消费善良”就是撕裂信任",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33698789",
-          "heat": ""
-        },
-        {
-          "title": "体育中心附近地块被开垦种菜、垃圾遍地，合肥新站高新区回应",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33697598",
-          "heat": ""
-        },
-        {
-          "title": "魔都眼｜一场演唱会的三重图景：粉丝赴约、家长守候与警方护航",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33708528",
-          "heat": ""
-        },
-        {
-          "title": "马上测丨爱吃牛蛙的注意了！多批次牛蛙检出抗生素超标",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33673719",
-          "heat": ""
-        },
-        {
-          "title": "音乐老师在校跳舞发抖音被家长投诉，回应“约谈”称会按学校要求来",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33708573",
-          "heat": ""
-        },
-        {
-          "title": "长沙一高层住宅火灾致4死2伤",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33698197",
-          "heat": ""
-        },
-        {
-          "title": "澎湃回声｜电商平台回应“抗生素”牛蛙：涉事商品已下架，将严格要求商家准入资质",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33709037",
-          "heat": ""
-        },
-        {
-          "title": "新闻蒸馏器｜数万人突然涌入西班牙飞地：休达越境潮的三重推手与欧洲困局",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33708525",
-          "heat": ""
-        },
-        {
-          "title": "阿里Qwen3.8正式发布：总参数量2.4万亿，第三方榜单仅次于Claude",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33708536",
-          "heat": ""
-        },
-        {
-          "title": "光明日报：字母词涌入中文，是否影响汉语美感？",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33701105",
-          "heat": ""
-        },
-        {
-          "title": "“白海豚”维持超强台风级别，江浙多地部署防御准备工作",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33697942",
-          "heat": ""
-        },
-        {
-          "title": "河南西平县发生重大刑案嫌疑人在逃，官方通报",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33698505",
-          "heat": ""
-        },
-        {
-          "title": "深观察｜这些群体何以成为“十五五”政策关爱重点？",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33697745",
-          "heat": ""
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "id": "ifeng",
       "name": "凤凰网",
-      "count": 12,
-      "items": [
-        {
-          "title": "伊朗看到了美国的3个软肋",
-          "url": "https://news.ifeng.com/c/8vHU3Votl6y",
-          "heat": ""
-        },
-        {
-          "title": "印尼客轮海上起火，已致5死41失踪",
-          "url": "https://news.ifeng.com/c/8vHPJI0FDQv",
-          "heat": ""
-        },
-        {
-          "title": "面临双重困局？以色列自曝被盟友抛弃",
-          "url": "https://news.ifeng.com/c/8vHV3ihqOcY",
-          "heat": ""
-        },
-        {
-          "title": "特朗普称决定惩罚加拿大",
-          "url": "https://news.ifeng.com/c/8vHh8bqoTlY",
-          "heat": ""
-        },
-        {
-          "title": "特朗普：日本向我们求助",
-          "url": "https://news.ifeng.com/c/8vHueaJjUVf",
-          "heat": ""
-        },
-        {
-          "title": "泰国总理发声：是“巨大耻辱”",
-          "url": "https://news.ifeng.com/c/8vGLGMLrAco",
-          "heat": ""
-        },
-        {
-          "title": "菲总统遭痛批“亲美上头”：瞧瞧乌克兰下场",
-          "url": "https://news.ifeng.com/c/8vHyo9Rsi6i",
-          "heat": ""
-        },
-        {
-          "title": "立不擅应酬人设，高市早苗装不下去了",
-          "url": "https://news.ifeng.com/c/8vHKl6a6oZI",
-          "heat": ""
-        },
-        {
-          "title": "多名驻日美军士兵被捕",
-          "url": "https://news.ifeng.com/c/8vGfEHjZrLi",
-          "heat": ""
-        },
-        {
-          "title": "“我们时隔20多年，又一次向那片海域实施导弹发射”",
-          "url": "https://news.ifeng.com/c/8vHvTqOOabn",
-          "heat": ""
-        },
-        {
-          "title": "特朗普盟友威胁杀死普京，俄媒怒怼",
-          "url": "https://news.ifeng.com/c/8vHyypr7Wj0",
-          "heat": ""
-        },
-        {
-          "title": "日媒：高市早苗电话外交“熄火”",
-          "url": "https://news.ifeng.com/c/8vHT4t7Auou",
-          "heat": ""
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "id": "toutiao",
@@ -1203,13 +975,13 @@
       "count": 30,
       "items": [
         {
-          "title": "黄岩岛上空首现中国最强教练机意味啥",
-          "url": "https://www.toutiao.com/trending/7669347375479000595/",
+          "title": "DeepSeek模型单日吞下8万亿Token",
+          "url": "https://www.toutiao.com/trending/7669679149316836902/",
           "heat": ""
         },
         {
-          "title": "哥哥去世嫂子离家 婶婶成7个孩子的妈",
-          "url": "https://www.toutiao.com/trending/7669309305876283438/",
+          "title": "美国制裁洽洽瓜子思念水饺七匹狼男装",
+          "url": "https://www.toutiao.com/trending/7668995465958051347/",
           "heat": ""
         },
         {
@@ -1223,23 +995,13 @@
           "heat": ""
         },
         {
-          "title": "美国制裁洽洽瓜子思念水饺七匹狼男装",
-          "url": "https://www.toutiao.com/trending/7668995465958051347/",
+          "title": "黄岩岛上空首现中国最强教练机意味啥",
+          "url": "https://www.toutiao.com/trending/7669347375479000595/",
           "heat": ""
         },
         {
-          "title": "中央气象台发布暴雨和强对流预警",
-          "url": "https://www.toutiao.com/trending/7668908180629372947/",
-          "heat": ""
-        },
-        {
-          "title": "DeepSeek模型单日吞下8万亿Token",
-          "url": "https://www.toutiao.com/trending/7669679149316836902/",
-          "heat": ""
-        },
-        {
-          "title": "数百斤大门突然倒下被女子死死撑住",
-          "url": "https://www.toutiao.com/trending/7669603514058342406/",
+          "title": "各国武官排队打卡中餐美食",
+          "url": "https://www.toutiao.com/trending/7668896884770308132/",
           "heat": ""
         },
         {
@@ -1248,8 +1010,18 @@
           "heat": ""
         },
         {
-          "title": "世行下调菲律宾2027年经济增长预期",
-          "url": "https://www.toutiao.com/trending/7668878799287566382/",
+          "title": "中央气象台发布暴雨和强对流预警",
+          "url": "https://www.toutiao.com/trending/7668908180629372947/",
+          "heat": ""
+        },
+        {
+          "title": "东风系列导弹罕见集中亮相",
+          "url": "https://www.toutiao.com/trending/7669064820716716082/",
+          "heat": ""
+        },
+        {
+          "title": "男女佯装挑手机抢夺2部手机逃走",
+          "url": "https://www.toutiao.com/trending/7669704144693526591/",
           "heat": ""
         },
         {
@@ -1263,8 +1035,8 @@
           "heat": ""
         },
         {
-          "title": "摊主误往袋子放2700元 买家果断归还",
-          "url": "https://www.toutiao.com/trending/7669692532867416105/",
+          "title": "福建漳州全面核查抗生素牛蛙",
+          "url": "https://www.toutiao.com/trending/7669643929184144938/",
           "heat": ""
         },
         {
@@ -1273,58 +1045,28 @@
           "heat": ""
         },
         {
-          "title": "福建漳州全面核查抗生素牛蛙",
-          "url": "https://www.toutiao.com/trending/7669643929184144938/",
-          "heat": ""
-        },
-        {
-          "title": "各国武官排队打卡中餐美食",
-          "url": "https://www.toutiao.com/trending/7668896884770308132/",
-          "heat": ""
-        },
-        {
-          "title": "受台风影响浙江部分渔船开捕时间推迟",
-          "url": "https://www.toutiao.com/trending/7669640380501950473/",
-          "heat": ""
-        },
-        {
           "title": "演员孙浩：从翻红至今没有赚一分钱",
           "url": "https://www.toutiao.com/trending/7669534587266990089/",
           "heat": ""
         },
         {
-          "title": "李亚鹏昆明民宿开业",
-          "url": "https://www.toutiao.com/trending/7669299851364368435/",
+          "title": "摊主误往袋子放2700元 买家果断归还",
+          "url": "https://www.toutiao.com/trending/7669692532867416105/",
           "heat": ""
         },
         {
-          "title": "中央政法委：严厉打击村霸乡霸",
-          "url": "https://www.toutiao.com/trending/7668842041186582569/",
+          "title": "辱骂捐赠日军罪证少年者被警方传唤",
+          "url": "https://www.toutiao.com/trending/7669287016593637382/",
           "heat": ""
         },
         {
-          "title": "东风系列导弹罕见集中亮相",
-          "url": "https://www.toutiao.com/trending/7669064820716716082/",
+          "title": "哥哥去世嫂子离家 婶婶成7个孩子的妈",
+          "url": "https://www.toutiao.com/trending/7669309305876283438/",
           "heat": ""
         },
         {
-          "title": "7名赛里木湖工作人员打司机被行拘",
-          "url": "https://www.toutiao.com/trending/7669574852038574116/",
-          "heat": ""
-        },
-        {
-          "title": "瑞幸对嘴喷奶油员工已被开除",
-          "url": "https://www.toutiao.com/trending/7669698225951182382/",
-          "heat": ""
-        },
-        {
-          "title": "姜潮麦迪娜晒一家四口婚纱照",
-          "url": "https://www.toutiao.com/trending/7669390094249197606/",
-          "heat": ""
-        },
-        {
-          "title": "专家解读为何山东沿海也难逃酷热",
-          "url": "https://www.toutiao.com/trending/7668992823219568682/",
+          "title": "媒体：别让吃知了变成“绝蝉计”",
+          "url": "https://www.toutiao.com/trending/7669688424006205481/",
           "heat": ""
         },
         {
@@ -1333,23 +1075,53 @@
           "heat": ""
         },
         {
+          "title": "8月首个交易日A股这些细节值得关注",
+          "url": "https://www.toutiao.com/trending/7669163561474179114/",
+          "heat": ""
+        },
+        {
+          "title": "外媒：弹道导弹正在重塑全球战场",
+          "url": "https://www.toutiao.com/trending/7669696769706754054/",
+          "heat": ""
+        },
+        {
+          "title": "数百斤大门突然倒下被女子死死撑住",
+          "url": "https://www.toutiao.com/trending/7669603514058342406/",
+          "heat": ""
+        },
+        {
+          "title": "受台风影响浙江部分渔船开捕时间推迟",
+          "url": "https://www.toutiao.com/trending/7669640380501950473/",
+          "heat": ""
+        },
+        {
+          "title": "世行下调菲律宾2027年经济增长预期",
+          "url": "https://www.toutiao.com/trending/7668878799287566382/",
+          "heat": ""
+        },
+        {
+          "title": "重庆人在防空洞里涮火锅喝盖碗茶",
+          "url": "https://www.toutiao.com/trending/7669248483731243044/",
+          "heat": ""
+        },
+        {
           "title": "日本女子地震后返回商场遇爆炸身亡",
           "url": "https://www.toutiao.com/trending/7669059486188191753/",
           "heat": ""
         },
         {
-          "title": "凯伦·威尔逊：我的家人非常喜欢上海",
-          "url": "https://www.toutiao.com/trending/7669228077041762310/",
+          "title": "瑞幸对嘴喷奶油员工已被开除",
+          "url": "https://www.toutiao.com/trending/7669698225951182382/",
           "heat": ""
         },
         {
-          "title": "海湾盟友对美国越来越不满",
-          "url": "https://www.toutiao.com/trending/7669416764547252234/",
+          "title": "两男子假装买手机趁机抢走4部手机",
+          "url": "https://www.toutiao.com/trending/7668627614135435300/",
           "heat": ""
         },
         {
-          "title": "媒体：别让吃知了变成“绝蝉计”",
-          "url": "https://www.toutiao.com/trending/7669688424006205481/",
+          "title": "博主：DeepSeek给全球AI画斩杀线",
+          "url": "https://www.toutiao.com/trending/7669679705066327595/",
           "heat": ""
         }
       ]
