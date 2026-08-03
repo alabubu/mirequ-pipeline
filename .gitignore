@@ -1,7 +1,8 @@
 .workbuddy/
 *.pyc
 __pycache__/
-scanner/
+scanner/*.log
+scanner/*.csv
 wechat-100k-miniapp/
 app/
 app_v3/
