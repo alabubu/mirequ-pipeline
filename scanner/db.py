@@ -83,6 +83,15 @@ class ArticleDB:
 
     # ---------- 核心写入 ----------
 
+    @staticmethod
+    def _extract_msg_key(url: str, msg_id: Optional[str] = None) -> str:
+        """提取文章唯一标识: msg_id优先，否则URL中的mid参数"""
+        if msg_id:
+            return msg_id
+        import re
+        m = re.search(r'mid=(\d+)', url or '')
+        return m.group(1) if m else (url or '')
+
     def upsert_article(
         self,
         account_name: str,
@@ -96,53 +105,22 @@ class ArticleDB:
         **stats,
     ) -> bool:
         """
-        有 msg_id → UPDATE 互动数据 + last_seen_time
-        无 msg_id → 用 url 做 msg_key, INSERT 新记录
-        返回 True=新插入, False=更新
+        去重 upsert: 从URL提取mid为唯一key，DELETE旧记录后INSERT
+        返回 True=新插入, False=已有记录(更新)
         """
-        msg_key = msg_id or url
+        msg_key = self._extract_msg_key(url, msg_id)
         now = datetime.now().isoformat()
+        new_read = stats.get("read_count", 0)
 
         with self._get_conn() as conn:
-            existing = conn.execute(
-                "SELECT id FROM articles WHERE msg_key = ?", (msg_key,)
-            ).fetchone()
+            existing_all = conn.execute(
+                "SELECT id, read_count FROM articles WHERE msg_key = ?", (msg_key,)
+            ).fetchall()
 
-            if existing:
-                # 已存在 → 更新互动数据 + last_seen_time
-                conn.execute(
-                    """
-                    UPDATE articles SET
-                        read_count      = COALESCE(?, read_count),
-                        like_count      = COALESCE(?, like_count),
-                        wonderful_count = COALESCE(?, wonderful_count),
-                        share_count     = COALESCE(?, share_count),
-                        collect_count   = COALESCE(?, collect_count),
-                        comment_count   = COALESCE(?, comment_count),
-                        title           = COALESCE(?, title),
-                        publish_time    = COALESCE(?, publish_time),
-                        last_seen_time  = ?,
-                        updated_at      = ?,
-                        is_dedup        = 0
-                    WHERE id = ?
-                    """,
-                    (
-                        stats.get("read_count"),
-                        stats.get("like_count"),
-                        stats.get("wonderful_count"),
-                        stats.get("share_count"),
-                        stats.get("collect_count"),
-                        stats.get("comment_count"),
-                        title,
-                        publish_time,
-                        now,
-                        now,
-                        existing["id"],
-                    ),
-                )
-                return False
-            else:
-                # 新文章 → INSERT
+            if existing_all:
+                max_existing = max((r["read_count"] or 0) for r in existing_all)
+                final_read = max(max_existing, new_read)
+                conn.execute("DELETE FROM articles WHERE msg_key = ?", (msg_key,))
                 conn.execute(
                     """
                     INSERT INTO articles (
@@ -154,24 +132,35 @@ class ArticleDB:
                     ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                     """,
                     (
-                        account_name,
-                        msg_id,
-                        msg_key,
-                        url,
-                        title,
-                        publish_time,
-                        stats.get("read_count", 0),
-                        stats.get("like_count", 0),
-                        stats.get("wonderful_count", 0),
-                        stats.get("share_count", 0),
-                        stats.get("collect_count", 0),
+                        account_name, msg_id, msg_key, url, title, publish_time,
+                        final_read,
+                        stats.get("like_count", 0), stats.get("wonderful_count", 0),
+                        stats.get("share_count", 0), stats.get("collect_count", 0),
                         stats.get("comment_count", 0),
-                        digest,
-                        cover,
-                        data_source,
-                        now,
-                        now,
-                        now,
+                        digest, cover, data_source,
+                        now, now, now,
+                    ),
+                )
+                return False
+            else:
+                conn.execute(
+                    """
+                    INSERT INTO articles (
+                        account_name, msg_id, msg_key, url, title, publish_time,
+                        read_count, like_count, wonderful_count,
+                        share_count, collect_count, comment_count,
+                        digest, cover, data_source,
+                        last_seen_time, created_at, updated_at
+                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                    """,
+                    (
+                        account_name, msg_id, msg_key, url, title, publish_time,
+                        new_read,
+                        stats.get("like_count", 0), stats.get("wonderful_count", 0),
+                        stats.get("share_count", 0), stats.get("collect_count", 0),
+                        stats.get("comment_count", 0),
+                        digest, cover, data_source,
+                        now, now, now,
                     ),
                 )
                 return True
