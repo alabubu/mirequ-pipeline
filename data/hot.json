@@ -1,270 +1,18 @@
 {
-  "updated": "07:25:54",
-  "total": 280,
+  "updated": "07:31:10",
+  "total": 210,
   "platforms": [
     {
       "id": "zhihu",
       "name": "知乎",
-      "count": 20,
-      "items": [
-        {
-          "title": "如何看待同济大学教师考核新规取消长期聘任，这是全员非升即走吗？可能会对教师、学生、学术环境有何影响？",
-          "url": "https://www.zhihu.com/question/2067235011804320517",
-          "heat": "2726 万热度"
-        },
-        {
-          "title": "康师傅冰红茶为何一次涨价就大幅丢失市场？",
-          "url": "https://www.zhihu.com/question/2063895390546563948",
-          "heat": "1356 万热度"
-        },
-        {
-          "title": "方程豹 7 月销量超 4 万辆，这对新能源汽车市场意味着什么？越野市场需求被打开了吗？",
-          "url": "https://www.zhihu.com/question/2066988587279718231",
-          "heat": "523 万热度"
-        },
-        {
-          "title": "住房公积金条例迎重大修订，装修、物业费被明确纳入范围，灵活就业人员可自愿缴存，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2067218440234985170",
-          "heat": "281 万热度"
-        },
-        {
-          "title": "哥哥离世两次请假被拒，男子返乡奔丧被辞退后起诉公司赔款，奔丧算「擅自离岗」吗？公司的行为违法了吗？",
-          "url": "https://www.zhihu.com/question/2066121773574369559",
-          "heat": "273 万热度"
-        },
-        {
-          "title": "儿科医生韩杰漏诊致幼儿死亡，因医疗事故罪被判一年缓刑，怎样从法律角度解读？",
-          "url": "https://www.zhihu.com/question/2067369494037651723",
-          "heat": "218 万热度"
-        },
-        {
-          "title": "美团联合苏州上线「等灯停表」并将在 20 城试点，能缓解外卖骑手的时间压力吗？这一功能值得全国推广吗？",
-          "url": "https://www.zhihu.com/question/2066562892879738224",
-          "heat": "206 万热度"
-        },
-        {
-          "title": "王宝强为何戏路比黄渤更宽？",
-          "url": "https://www.zhihu.com/question/2066441179537920711",
-          "heat": "170 万热度"
-        },
-        {
-          "title": "盒马、山姆等顶流商超接连布局县城，如何看待头部商超集体「下乡」这一趋势？县城消费力能否支撑其野心？",
-          "url": "https://www.zhihu.com/question/2066600913112753139",
-          "heat": "134 万热度"
-        },
-        {
-          "title": "如果我有每天一吨的可稳定供应的西葫芦炖茄子，可以发财吗？",
-          "url": "https://www.zhihu.com/question/2017228756352266760",
-          "heat": "131 万热度"
-        },
-        {
-          "title": "精神科医生「10 级美颜证件照」火了，出诊照却素颜干练，这种反差戳中了什么？为什么大家边笑边把号挂满了？",
-          "url": "https://www.zhihu.com/question/2066913394364568113",
-          "heat": "129 万热度"
-        },
-        {
-          "title": "哥哥冒用弟弟高考身份一路读到博士，为什么一直没被发现？暴露了学籍审核等方面哪些问题？",
-          "url": "https://www.zhihu.com/question/2066958063932912243",
-          "heat": "127 万热度"
-        },
-        {
-          "title": "如何评价 8 月 3 日上线的阿里 Qwen 3.8 Max 正式版？相比其他模型表现如何？",
-          "url": "https://www.zhihu.com/question/2067550234776020574",
-          "heat": "126 万热度"
-        },
-        {
-          "title": "为什么爱因斯坦后期执着于大统一理论？",
-          "url": "https://www.zhihu.com/question/2041974411843068257",
-          "heat": "113 万热度"
-        },
-        {
-          "title": "男子癌症晚期发现医保断缴两年，村干部称不是私吞而是漏缴，可能是哪个环节出了问题？该如何避免？",
-          "url": "https://www.zhihu.com/question/2067534271393133838",
-          "heat": "111 万热度"
-        },
-        {
-          "title": "如何看待某解说在二路直播中涉及 TheShy 的不当言论引发争议，联盟回应将进行处罚？",
-          "url": "https://www.zhihu.com/question/2067451866271703097",
-          "heat": "107 万热度"
-        },
-        {
-          "title": "7 月统计局制造业 PMI 降至 49.2，供需均收缩致生产经营活动放缓，这反映了制造业的哪些挑战？",
-          "url": "https://www.zhihu.com/question/2066483823928422483",
-          "heat": "102 万热度"
-        },
-        {
-          "title": "邓煜团队证明微观粒子可以推导出 N‑S 方程，未来会改变 Fluent 这类 CFD 仿真软件吗？",
-          "url": "https://www.zhihu.com/question/2064355224899395856",
-          "heat": "96 万热度"
-        },
-        {
-          "title": "玩过《英雄联盟》「经典模式」后，你发现拳头这些年哪些改动真是正确的？",
-          "url": "https://www.zhihu.com/question/2066106449596526766",
-          "heat": "86 万热度"
-        },
-        {
-          "title": "主持人半蹲给《奥德赛》主创递麦引争议，有人认为是配合机位，有人质疑姿态过于卑微，有哪些更好的处理方式？",
-          "url": "https://www.zhihu.com/question/2067369578586543589",
-          "heat": "84 万热度"
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "id": "weibo",
       "name": "微博",
-      "count": 30,
-      "items": [
-        {
-          "title": "豆包简直是压力全吃之人",
-          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E7%AE%80%E7%9B%B4%E6%98%AF%E5%8E%8B%E5%8A%9B%E5%85%A8%E5%90%83%E4%B9%8B%E4%BA%BA&t=31&band_rank=1&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "内娱居然还有这么多积压的剧",
-          "url": "https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E5%B1%85%E7%84%B6%E8%BF%98%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%9A%E7%A7%AF%E5%8E%8B%E7%9A%84%E5%89%A7&t=31&band_rank=2&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "这是国之重器也是国之底气",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E5%9B%BD%E4%B9%8B%E9%87%8D%E5%99%A8%E4%B9%9F%E6%98%AF%E5%9B%BD%E4%B9%8B%E5%BA%95%E6%B0%94%23&t=31&band_rank=3&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "原来自己很少睡过舒服觉",
-          "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E8%87%AA%E5%B7%B1%E5%BE%88%E5%B0%91%E7%9D%A1%E8%BF%87%E8%88%92%E6%9C%8D%E8%A7%89&t=31&band_rank=4&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "现在年轻人已经克服异地了",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%85%8B%E6%9C%8D%E5%BC%82%E5%9C%B0%E4%BA%86&t=31&band_rank=5&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "女儿考上北大 请大家喝水",
-          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%84%BF%E8%80%83%E4%B8%8A%E5%8C%97%E5%A4%A7%20%E8%AF%B7%E5%A4%A7%E5%AE%B6%E5%96%9D%E6%B0%B4&t=31&band_rank=6&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "韩国股市逾百万账户爆仓",
-          "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E9%80%BE%E7%99%BE%E4%B8%87%E8%B4%A6%E6%88%B7%E7%88%86%E4%BB%93&t=31&band_rank=7&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "瑞幸对嘴喷奶油员工已开除",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%AF%B9%E5%98%B4%E5%96%B7%E5%A5%B6%E6%B2%B9%E5%91%98%E5%B7%A5%E5%B7%B2%E5%BC%80%E9%99%A4%23&t=31&band_rank=8&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "孙颖莎多处劳损正系统康复",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A4%9A%E5%A4%84%E5%8A%B3%E6%8D%9F%E6%AD%A3%E7%B3%BB%E7%BB%9F%E5%BA%B7%E5%A4%8D%23&t=31&band_rank=9&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "中国女博士采访诺兰火爆外网",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%8D%9A%E5%A3%AB%E9%87%87%E8%AE%BF%E8%AF%BA%E5%85%B0%E7%81%AB%E7%88%86%E5%A4%96%E7%BD%91&t=31&band_rank=10&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "罗正被扒太入戏亲女演员",
-          "url": "https://s.weibo.com/weibo?q=%E7%BD%97%E6%AD%A3%E8%A2%AB%E6%89%92%E5%A4%AA%E5%85%A5%E6%88%8F%E4%BA%B2%E5%A5%B3%E6%BC%94%E5%91%98&t=31&band_rank=11&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "普通人去漫展才是误闯天家",
-          "url": "https://s.weibo.com/weibo?q=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%8E%BB%E6%BC%AB%E5%B1%95%E6%89%8D%E6%98%AF%E8%AF%AF%E9%97%AF%E5%A4%A9%E5%AE%B6&t=31&band_rank=12&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "易烊千玺 打码更糟糕了",
-          "url": "https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%20%E6%89%93%E7%A0%81%E6%9B%B4%E7%B3%9F%E7%B3%95%E4%BA%86&t=31&band_rank=13&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "大冰公开恋情",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%86%B0%E5%85%AC%E5%BC%80%E6%81%8B%E6%83%85%23&t=31&band_rank=14&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "阿德巴约评历史前5球星没有詹姆斯",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%BE%B7%E5%B7%B4%E7%BA%A6%E8%AF%84%E5%8E%86%E5%8F%B2%E5%89%8D5%E7%90%83%E6%98%9F%E6%B2%A1%E6%9C%89%E8%A9%B9%E5%A7%86%E6%96%AF%23&t=31&band_rank=15&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "20岁李嫣近照",
-          "url": "https://s.weibo.com/weibo?q=%2320%E5%B2%81%E6%9D%8E%E5%AB%A3%E8%BF%91%E7%85%A7%23&t=31&band_rank=16&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "姜潮麦迪娜终于要办婚礼了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A7%9C%E6%BD%AE%E9%BA%A6%E8%BF%AA%E5%A8%9C%E7%BB%88%E4%BA%8E%E8%A6%81%E5%8A%9E%E5%A9%9A%E7%A4%BC%E4%BA%86%23&t=31&band_rank=17&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "全球大模型进入DeepSeek斩杀区",
-          "url": "https://s.weibo.com/weibo?q=%E5%85%A8%E7%90%83%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BF%9B%E5%85%A5DeepSeek%E6%96%A9%E6%9D%80%E5%8C%BA&t=31&band_rank=18&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "新冠检测阳性率超20%连续数周上升",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E6%A3%80%E6%B5%8B%E9%98%B3%E6%80%A7%E7%8E%87%E8%B6%8520%25%E8%BF%9E%E7%BB%AD%E6%95%B0%E5%91%A8%E4%B8%8A%E5%8D%87%23&t=31&band_rank=19&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "赵丽颖尹新月热度",
-          "url": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%B0%B9%E6%96%B0%E6%9C%88%E7%83%AD%E5%BA%A6&t=31&band_rank=20&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "173万亿为什么花不出去",
-          "url": "https://s.weibo.com/weibo?q=%23173%E4%B8%87%E4%BA%BF%E4%B8%BA%E4%BB%80%E4%B9%88%E8%8A%B1%E4%B8%8D%E5%87%BA%E5%8E%BB%23&t=31&band_rank=21&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "用Codex做了个电影痴迷女主",
-          "url": "https://s.weibo.com/weibo?q=%E7%94%A8Codex%E5%81%9A%E4%BA%86%E4%B8%AA%E7%94%B5%E5%BD%B1%E7%97%B4%E8%BF%B7%E5%A5%B3%E4%B8%BB&t=31&band_rank=22&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "A股半导体多股大跌",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%A4%9A%E8%82%A1%E5%A4%A7%E8%B7%8C%23&t=31&band_rank=23&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "曝理想CEO李想将迎来第六娃",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%90%86%E6%83%B3CEO%E6%9D%8E%E6%83%B3%E5%B0%86%E8%BF%8E%E6%9D%A5%E7%AC%AC%E5%85%AD%E5%A8%83%23&t=31&band_rank=24&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "魏晨让关晓彤实现高跟鞋自由",
-          "url": "https://s.weibo.com/weibo?q=%E9%AD%8F%E6%99%A8%E8%AE%A9%E5%85%B3%E6%99%93%E5%BD%A4%E5%AE%9E%E7%8E%B0%E9%AB%98%E8%B7%9F%E9%9E%8B%E8%87%AA%E7%94%B1&t=31&band_rank=25&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "谢贤去世后谢婷婷晒一家与亲友聚会照",
-          "url": "https://s.weibo.com/weibo?q=%E8%B0%A2%E8%B4%A4%E5%8E%BB%E4%B8%96%E5%90%8E%E8%B0%A2%E5%A9%B7%E5%A9%B7%E6%99%92%E4%B8%80%E5%AE%B6%E4%B8%8E%E4%BA%B2%E5%8F%8B%E8%81%9A%E4%BC%9A%E7%85%A7&t=31&band_rank=26&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "男子常吃牛蛙被怪病缠身12年",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B8%B8%E5%90%83%E7%89%9B%E8%9B%99%E8%A2%AB%E6%80%AA%E7%97%85%E7%BC%A0%E8%BA%AB12%E5%B9%B4%23&t=31&band_rank=27&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "网传刺棠海报",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%88%BA%E6%A3%A0%E6%B5%B7%E6%8A%A5%23&t=31&band_rank=28&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "舒淇说跟冯德伦历任女友都很熟",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%88%92%E6%B7%87%E8%AF%B4%E8%B7%9F%E5%86%AF%E5%BE%B7%E4%BC%A6%E5%8E%86%E4%BB%BB%E5%A5%B3%E5%8F%8B%E9%83%BD%E5%BE%88%E7%86%9F%23&t=31&band_rank=29&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "长期熬夜的人会有9个变化",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E7%86%AC%E5%A4%9C%E7%9A%84%E4%BA%BA%E4%BC%9A%E6%9C%899%E4%B8%AA%E5%8F%98%E5%8C%96%23&t=31&band_rank=30&Refer=top",
-          "heat": ""
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "id": "douyin",
@@ -583,59 +331,8 @@
     {
       "id": "wallstreetcn-hot",
       "name": "华尔街见闻",
-      "count": 10,
-      "items": [
-        {
-          "title": "美日联合干预：新“广场协议”，布雷顿森林体系2.0的开端与日元套利时代的终结",
-          "url": "https://wallstreetcn.com/articles/3778528",
-          "heat": ""
-        },
-        {
-          "title": "华尔街见闻早餐FM-Radio | 2026年8月3日",
-          "url": "https://wallstreetcn.com/articles/3778524",
-          "heat": ""
-        },
-        {
-          "title": "韩国存储调研：三星长协“限制跌幅、不限涨幅”，现货价格在四季度旺季前持续反弹",
-          "url": "https://wallstreetcn.com/articles/3778507",
-          "heat": ""
-        },
-        {
-          "title": "部署下半年八大重点！央行定调：适时调整、加力扩内需",
-          "url": "https://wallstreetcn.com/articles/3778506",
-          "heat": ""
-        },
-        {
-          "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
-          "url": "https://wallstreetcn.com/articles/3778516",
-          "heat": ""
-        },
-        {
-          "title": "沃什怎么想？9月会加息吗？在8月美联储“杰克逊霍尔年会”前，市场都将纠结 ",
-          "url": "https://wallstreetcn.com/articles/3778508",
-          "heat": ""
-        },
-        {
-          "title": "货币政策的“安娜卡列尼娜原则”：沃什要保住信誉，美联储9月就必须加息？",
-          "url": "https://wallstreetcn.com/articles/3778513",
-          "heat": ""
-        },
-        {
-          "title": "高盛旗帜鲜明：这是人类历史上最大规模的资本需求周期，美联储只是看客",
-          "url": "https://wallstreetcn.com/articles/3778540",
-          "heat": ""
-        },
-        {
-          "title": "大摩邢自强：AI投资将进入“半场休息”，“9.24”式反转暂时不会到来",
-          "url": "https://wallstreetcn.com/articles/3778511",
-          "heat": ""
-        },
-        {
-          "title": "性能与Anthropic Fable 5相当！阿里巴巴发布千问3.8-MAX，2.4万亿个参数，长程自动编程表现出色",
-          "url": "https://wallstreetcn.com/articles/3778546",
-          "heat": ""
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "id": "tieba",
@@ -954,85 +651,14 @@
     {
       "id": "cls-hot",
       "name": "财联社",
-      "count": 13,
-      "items": [
-        {
-          "title": "A股8月修复可期？科技仍为中长期主线？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2443573",
-          "heat": ""
-        },
-        {
-          "title": "【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策",
-          "url": "https://www.cls.cn/detail/2443662",
-          "heat": ""
-        },
-        {
-          "title": "厦门象屿，旗下公司仓库起火",
-          "url": "https://www.cls.cn/detail/2443593",
-          "heat": ""
-        },
-        {
-          "title": "AI的风吹向粤北，大湾区唯一集群如何“织网”｜“逐鹿算网”实地调研韶关篇",
-          "url": "https://www.cls.cn/detail/2443826",
-          "heat": ""
-        },
-        {
-          "title": "事关霍尔木兹！特朗普称今日举行谈判，伊朗重申“不会恢复至战前”！",
-          "url": "https://www.cls.cn/detail/2443690",
-          "heat": ""
-        },
-        {
-          "title": "吴清：积极支持符合条件的内地企业在港上市",
-          "url": "https://www.cls.cn/detail/2443864",
-          "heat": ""
-        },
-        {
-          "title": "券商晨会精华：科技行情交易底初现 拥挤度是市场的核心锚点",
-          "url": "https://www.cls.cn/detail/2443674",
-          "heat": ""
-        },
-        {
-          "title": "赛里木湖景区工作人员殴打旅游车司机处理情况：7人被行政拘留 优化自驾服务费",
-          "url": "https://www.cls.cn/detail/2443672",
-          "heat": ""
-        },
-        {
-          "title": "8月3日投资避雷针：9连板人气股提示风险 自8月3日起停牌核查",
-          "url": "https://www.cls.cn/detail/2443703",
-          "heat": ""
-        },
-        {
-          "title": "【数读IPO】今日1申购1上市，涉及智能穿戴概念等",
-          "url": "https://www.cls.cn/detail/2443669",
-          "heat": ""
-        },
-        {
-          "title": "美债彻底陷入“失控边缘”：真正的风暴才刚开始？",
-          "url": "https://www.cls.cn/detail/2443731",
-          "heat": ""
-        },
-        {
-          "title": "华尔街终于开悟了：AI巨头的护城河在“云”里？",
-          "url": "https://www.cls.cn/detail/2443873",
-          "heat": ""
-        },
-        {
-          "title": "核电板块掀涨停潮：千亿投资“落袋”，产业链迎确定性时刻",
-          "url": "https://www.cls.cn/detail/2443935",
-          "heat": ""
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "id": "thepaper",
       "name": "澎湃新闻",
       "count": 20,
       "items": [
-        {
-          "title": "全国开展深化扫黑除恶专项斗争，举报途径公布",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33697649",
-          "heat": ""
-        },
         {
           "title": "影子暗访｜“抗生素”牛蛙，何以难禁？",
           "url": "https://www.thepaper.cn/newsDetail_forward_33631457",
@@ -1051,11 +677,6 @@
         {
           "title": "央视曝光网红“高空秋千”成危险秋千：成本仅50万，景区一个月回本",
           "url": "https://www.thepaper.cn/newsDetail_forward_33698760",
-          "heat": ""
-        },
-        {
-          "title": "媒体：公职人员停车受阻踹坏他人地锁，哪来的底气？",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33697613",
           "heat": ""
         },
         {
@@ -1084,8 +705,18 @@
           "heat": ""
         },
         {
+          "title": "体育中心附近地块被开垦种菜、垃圾遍地，合肥新站高新区回应",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33697598",
+          "heat": ""
+        },
+        {
           "title": "马上测丨爱吃牛蛙的注意了！多批次牛蛙检出抗生素超标",
           "url": "https://www.thepaper.cn/newsDetail_forward_33673719",
+          "heat": ""
+        },
+        {
+          "title": "马上评｜守住“三支一扶”考试底线，让奋斗者有前途",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33709947",
           "heat": ""
         },
         {
@@ -1104,8 +735,8 @@
           "heat": ""
         },
         {
-          "title": "河南西平县发生重大刑案嫌疑人在逃，官方通报",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33698505",
+          "title": "阿里Qwen3.8正式发布：总参数量2.4万亿，第三方榜单仅次于Claude",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33708536",
           "heat": ""
         },
         {
@@ -1114,18 +745,18 @@
           "heat": ""
         },
         {
+          "title": "河南西平县发生重大刑案嫌疑人在逃，官方通报",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33698505",
+          "heat": ""
+        },
+        {
           "title": "深观察｜这些群体何以成为“十五五”政策关爱重点？",
           "url": "https://www.thepaper.cn/newsDetail_forward_33697745",
           "heat": ""
         },
         {
-          "title": "社会团体分支机构规范称谓：“会长”“秘书长”等纷纷改名",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33698459",
-          "heat": ""
-        },
-        {
-          "title": "一场超大型演唱会的奔赴与守护",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33698994",
+          "title": "澎湃回声｜电商平台回应“抗生素”牛蛙：涉事商品已下架，将严格要求商家准入资质",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33709037",
           "heat": ""
         }
       ]
@@ -1357,131 +988,146 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 25,
+      "count": 28,
       "items": [
         {
-          "title": "中国科技产业，正在批量越过“可见线”",
-          "url": "https://flash.jin10.com/detail/20260803145601882800",
+          "title": "伊朗外交部发言人巴加埃：德黑兰方面已与阿曼“进行了7到8天的会谈”。已取得一些进展，目前正与地区内外官员举行会谈。",
+          "url": "https://flash.jin10.com/detail/20260803152911592800",
           "heat": false
         },
         {
-          "title": "长鑫存储增资至约313.9亿 增幅约31%",
-          "url": "https://flash.jin10.com/detail/20260803145506443800",
+          "title": "广东河源新丰江水库将于今日17时开闸泄洪",
+          "url": "https://flash.jin10.com/detail/20260803152802226800",
           "heat": false
         },
         {
-          "title": "国管局：扎实开展中央行政事业单位资产核查治理工作",
-          "url": "https://flash.jin10.com/detail/20260803145125549800",
+          "title": "伊朗外交部发言人巴加埃：伊朗外长阿拉格齐今天将前往伊拉克参加阿尔巴因朝圣活动。",
+          "url": "https://flash.jin10.com/detail/20260803152649019800",
           "heat": false
         },
         {
-          "title": "科创50ETF华夏连续第5个交易日突破100亿",
-          "url": "https://flash.jin10.com/detail/20260803144756915800",
-          "heat": false
-        },
-        {
-          "title": "黄金资金布局整体偏向上破，短期回调的“高发区”位于...——增强版同步发布！",
-          "url": "https://flash.jin10.com/detail/20260803144617188800",
+          "title": "金十数据整理：A股每日市场要闻回顾（2026-08-03）",
+          "url": "https://flash.jin10.com/detail/20260803152643128800",
           "heat": "✰"
         },
         {
-          "title": "杠杆ETF引发市场波动争议，韩国总统府高官面临刑事指控",
-          "url": "https://flash.jin10.com/detail/20260803144604974800",
-          "heat": false
-        },
-        {
-          "title": "摩根士丹利将泰国股票评级上调至超配评级，将澳大利亚股票评级下调至减配评级。",
-          "url": "https://flash.jin10.com/detail/20260803144149701800",
-          "heat": false
-        },
-        {
-          "title": "摩根士丹利：小米第二季智能手机出货量超预期 维持“增持”评级",
-          "url": "https://flash.jin10.com/detail/20260803144038803800",
-          "heat": false
-        },
-        {
-          "title": "据韩国《中央日报》：韩国总统办公室政策室长金容范因杠杆ETF面临刑事指控。",
-          "url": "https://flash.jin10.com/detail/20260803143906377800",
+          "title": "Asahi金库去注册化逾8万盎司，库存结构正向Eligible端转移｜黄金库存日报上新",
+          "url": "https://flash.jin10.com/detail/20260803152329687800",
           "heat": "✰"
         },
         {
-          "title": "壳牌与道达尔能源签署协议，出售其欧洲陆上可再生能源资产组合。",
-          "url": "https://flash.jin10.com/detail/20260803143641138800",
+          "title": "农业农村部召开全国秋粮生产现场推进会 强调统筹抓好田间管理和农业防灾减灾救灾",
+          "url": "https://flash.jin10.com/detail/20260803152254320800",
           "heat": false
         },
         {
-          "title": "侨福集团：境内贷款不存在逾期或违约情形 境外融资部分正在积极磋商",
-          "url": "https://flash.jin10.com/detail/20260803143619996800",
-          "heat": false
-        },
-        {
-          "title": "日股收跌0.94% 韩国两大股指涨跌不一",
-          "url": "https://flash.jin10.com/detail/20260803143242519800",
+          "title": "南向资金净买额达50亿元。",
+          "url": "https://flash.jin10.com/detail/20260803152220004800",
           "heat": "✰"
         },
         {
-          "title": "瑞士7月CPI月率 -0.1%，预期-0.10%，前值0.00%。",
-          "url": "https://flash.jin10.com/detail/20260803143002226800",
+          "title": "伊朗外交部发言人巴加埃：伊朗与美国的问题应在后续阶段予以解决。",
+          "url": "https://flash.jin10.com/detail/20260803152147388800",
+          "heat": false
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：与阿曼就航线达成协议不足以重新开放霍尔木兹海峡，只要美国的“侵略”持续，局势将保持不变。",
+          "url": "https://flash.jin10.com/detail/20260803152028058800",
+          "heat": false
+        },
+        {
+          "title": "美、布两油短线小幅走高，伊朗方面表示没有在与美国进行对话。",
+          "url": "https://flash.jin10.com/detail/20260803151931867800",
           "heat": "✰"
         },
         {
-          "title": "瑞士7月CPI年率 0.4%，预期0.40%，前值0.50%。",
-          "url": "https://flash.jin10.com/detail/20260803143002204800",
+          "title": "民爆光电：当前公司订单饱满",
+          "url": "https://flash.jin10.com/detail/20260803151858638800",
           "heat": false
         },
         {
-          "title": "欧拉汽车7月销量10820台，同比增长152%",
-          "url": "https://flash.jin10.com/detail/20260803142344852800",
-          "heat": false
-        },
-        {
-          "title": "蚂蚁集团旗下具身智能公司灵波科技首轮拟募资 15 亿元",
-          "url": "https://flash.jin10.com/detail/20260803142314544800",
-          "heat": false
-        },
-        {
-          "title": "又一年凛冬将至！俄乌局势即将迎来最危险时刻？",
-          "url": "https://flash.jin10.com/detail/20260803142058200800",
+          "title": "伊朗外交部发言人巴加埃：正与阿曼合作在霍尔木兹海峡开辟临时安全通道。",
+          "url": "https://flash.jin10.com/detail/20260803151831827800",
           "heat": "✰"
         },
         {
-          "title": "澳大利亚S&P/ASX200指数8月3日（周一）收盘上涨22.20点，涨幅0.25%，报8999.00点。",
-          "url": "https://flash.jin10.com/detail/20260803142026303800",
-          "heat": false
-        },
-        {
-          "title": "瑞士7月CPI月率将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260803142000001800",
+          "title": "伊朗外交部：目前没有在与美国进行对话",
+          "url": "https://flash.jin10.com/detail/20260803151804344800",
           "heat": "✰"
         },
         {
-          "title": "AI前沿日报-8月3日",
-          "url": "https://flash.jin10.com/detail/20260803141925230800",
+          "title": "国债期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20260803151610615800",
           "heat": false
         },
         {
-          "title": "俄电商平台“野莓”仓库再遭袭",
-          "url": "https://flash.jin10.com/detail/20260803141908974800",
+          "title": "西班牙7月制造业PMI 50.2，预期50，前值49.7。",
+          "url": "https://flash.jin10.com/detail/20260803151502263800",
           "heat": false
         },
         {
-          "title": "据俄新社：俄罗斯正采取措施，确保亚速海-黑海船舶航行安全及保护船只，以应对无人机袭击。",
-          "url": "https://flash.jin10.com/detail/20260803141821905800",
+          "title": "金十图示：2026年08月03日（周一）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260803151425470800",
           "heat": false
         },
         {
-          "title": "据丹麦汽车统计网站Bilstatistik.dk：特斯拉7月份在丹麦的注册量同比增长52%。",
-          "url": "https://flash.jin10.com/detail/20260803141732087800",
+          "title": "金十图示：2026年08月03日（周一）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20260803151423121800",
           "heat": false
         },
         {
-          "title": "加息尾部不退，风险资产还得熬？｜市场赔率数据表",
-          "url": "https://flash.jin10.com/detail/20260803141504349800",
+          "title": "德国DAX指数上涨1.1%，创下自7月6日以来盘中新高。",
+          "url": "https://flash.jin10.com/detail/20260803151408638800",
+          "heat": false
+        },
+        {
+          "title": "瑞士7月通胀降至四个月低点，预计央行继续维持零利率",
+          "url": "https://flash.jin10.com/detail/20260803151340222800",
+          "heat": false
+        },
+        {
+          "title": "现代汽车：七月全球销量为318,454辆，同比下降5.1%。",
+          "url": "https://flash.jin10.com/detail/20260803151215349800",
+          "heat": false
+        },
+        {
+          "title": "波兰蓝筹股指数上涨0.6%，创历史新高。",
+          "url": "https://flash.jin10.com/detail/20260803151204502800",
+          "heat": false
+        },
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流出418.71亿元，占比2.1%；大单资金净流出133.24亿元，占比0.67%；小单资金净流入393.70亿元，占比1.97%。",
+          "url": "https://flash.jin10.com/detail/20260803150856791800",
+          "heat": false
+        },
+        {
+          "title": "沙特延布港油轮活动激增，红海石油通道恢复活跃",
+          "url": "https://flash.jin10.com/detail/20260803150850982800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：北京时间8月3日22:00将有欧美、美日、镑美、澳美等外汇期权大单到期，4个行权价10亿以上大单，敬请管理风险。",
+          "url": "https://flash.jin10.com/detail/20260803150551110800",
+          "heat": false
+        },
+        {
+          "title": "挂单报告：国际现货黄金维持震荡 国际现货白银此处多单集中",
+          "url": "https://flash.jin10.com/detail/20260803150542553800",
           "heat": "✰"
         },
         {
-          "title": "起亚汽车：七月全球销量汽车为298,037辆，同比增长13.4%。",
-          "url": "https://flash.jin10.com/detail/20260803141238813800",
+          "title": "英国国债全线高开，10年期国债收益率下跌7个基点至4.98%。",
+          "url": "https://flash.jin10.com/detail/20260803150457062800",
+          "heat": false
+        },
+        {
+          "title": "英国上市能源公司股价下跌，伊萨卡能源下跌4.1%，英国石油公司下跌2.9%，壳牌下跌2.1%。",
+          "url": "https://flash.jin10.com/detail/20260803150438925800",
+          "heat": false
+        },
+        {
+          "title": "A股收评：三大股指全日低位震荡 半导体、存储芯片概念股跌幅居前",
+          "url": "https://flash.jin10.com/detail/20260803150419866800",
           "heat": false
         }
       ]
