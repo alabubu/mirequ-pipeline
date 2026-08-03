@@ -16,20 +16,28 @@ rows = conn.execute(
 ).fetchall()
 conn.close()
 
-filtered = []
-for r in rows:
-    if r['account_name'] in EXCLUDE:
-        continue
-    publish_date = str(r['publish_time'])[:10] if r['publish_time'] else ''
-    if publish_date != TODAY:
-        continue
-    filtered.append({
-        'title': r['title'],
-        'account': r['account_name'],
-        'url': r['url'],
-        'read_count': min(r['read_count'] or 0, 100000),
-        'publish_time': str(r['publish_time']),
-    })
+# 先尝试当日数据，为空则回退昨日
+def filter_by_date(target_date):
+    result = []
+    for r in rows:
+        if r['account_name'] in EXCLUDE: continue
+        pd = str(r['publish_time'])[:10] if r['publish_time'] else ''
+        if pd != target_date: continue
+        result.append({
+            'title': r['title'],
+            'account': r['account_name'],
+            'url': r['url'],
+            'read_count': min(r['read_count'] or 0, 100000),
+            'publish_time': str(r['publish_time']),
+        })
+    return result
+
+filtered = filter_by_date(TODAY)
+actual_date = TODAY
+if not filtered:
+    yesterday = (date.today() - __import__('datetime').timedelta(days=1)).isoformat()
+    filtered = filter_by_date(yesterday)
+    actual_date = yesterday
 
 top100k = [r for r in filtered if r['read_count'] >= 100000]
 
@@ -40,7 +48,7 @@ ranking = [{'name': a, 'cnt': rank_counter[a], 'k100': hot_counter.get(a, 0)} fo
 ranking.sort(key=lambda x: x['cnt'], reverse=True)
 
 data = {
-    'date': TODAY,
+    'date': actual_date,
     'stats': {'total': len(filtered), 'hot100k': len(top100k)},
     'ranking': ranking,
     'top100k': top100k,
@@ -52,6 +60,6 @@ out = os.path.join(DATA_DIR, 'wechat.json')
 with open(out, 'w', encoding='utf-8') as f:
     json.dump(data, f, ensure_ascii=False, default=str)
 
-print(f'{TODAY}: {len(filtered)}篇 ({len(top100k)}篇10万+)')
+print(f'{actual_date}: {len(filtered)}篇 ({len(top100k)}篇10万+)')
 for r in ranking:
     print(f'  {r["name"]}: {r["cnt"]}篇 {r["k100"]}个10万+')
