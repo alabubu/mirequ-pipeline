@@ -1,113 +1,12 @@
 {
-  "updated": "07:55:55",
-  "total": 283,
+  "updated": "08:01:22",
+  "total": 230,
   "platforms": [
     {
       "id": "zhihu",
       "name": "知乎",
-      "count": 20,
-      "items": [
-        {
-          "title": "如何看待同济大学教师考核新规取消长期聘任，这是全员非升即走吗？可能会对教师、学生、学术环境有何影响？",
-          "url": "https://www.zhihu.com/question/2067235011804320517",
-          "heat": "2789 万热度"
-        },
-        {
-          "title": "康师傅冰红茶为何一次涨价就大幅丢失市场？",
-          "url": "https://www.zhihu.com/question/2063895390546563948",
-          "heat": "1334 万热度"
-        },
-        {
-          "title": "方程豹 7 月销量超 4 万辆，这对新能源汽车市场意味着什么？越野市场需求被打开了吗？",
-          "url": "https://www.zhihu.com/question/2066988587279718231",
-          "heat": "518 万热度"
-        },
-        {
-          "title": "住房公积金条例迎重大修订，装修、物业费被明确纳入范围，灵活就业人员可自愿缴存，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2067218440234985170",
-          "heat": "302 万热度"
-        },
-        {
-          "title": "美团联合苏州上线「等灯停表」并将在 20 城试点，能缓解外卖骑手的时间压力吗？这一功能值得全国推广吗？",
-          "url": "https://www.zhihu.com/question/2066562892879738224",
-          "heat": "205 万热度"
-        },
-        {
-          "title": "哥哥离世两次请假被拒，男子返乡奔丧被辞退后起诉公司赔款，奔丧算「擅自离岗」吗？公司的行为违法了吗？",
-          "url": "https://www.zhihu.com/question/2066121773574369559",
-          "heat": "190 万热度"
-        },
-        {
-          "title": "王宝强为何戏路比黄渤更宽？",
-          "url": "https://www.zhihu.com/question/2066441179537920711",
-          "heat": "175 万热度"
-        },
-        {
-          "title": "精神科医生「10 级美颜证件照」火了，出诊照却素颜干练，这种反差戳中了什么？为什么大家边笑边把号挂满了？",
-          "url": "https://www.zhihu.com/question/2066913394364568113",
-          "heat": "162 万热度"
-        },
-        {
-          "title": "盒马、山姆等顶流商超接连布局县城，如何看待头部商超集体「下乡」这一趋势？县城消费力能否支撑其野心？",
-          "url": "https://www.zhihu.com/question/2066600913112753139",
-          "heat": "136 万热度"
-        },
-        {
-          "title": "如何评价 8 月 3 日上线的阿里 Qwen 3.8 Max 正式版？相比其他模型表现如何？",
-          "url": "https://www.zhihu.com/question/2067550234776020574",
-          "heat": "133 万热度"
-        },
-        {
-          "title": "如果我有每天一吨的可稳定供应的西葫芦炖茄子，可以发财吗？",
-          "url": "https://www.zhihu.com/question/2017228756352266760",
-          "heat": "131 万热度"
-        },
-        {
-          "title": "巴基斯坦发生雪崩，10 人国际登山队全部遇难，中国登山者王钟遗体被冲到千米之下，雪山雪崩究竟有多危险？",
-          "url": "https://www.zhihu.com/question/2066825720576398691",
-          "heat": "128 万热度"
-        },
-        {
-          "title": "如何看待欧足联逼宫因凡蒂诺，要求其主动辞职，否则投票罢免？特朗普会帮因凡蒂诺渡过难关吗？",
-          "url": "https://www.zhihu.com/question/2067356009170048272",
-          "heat": "128 万热度"
-        },
-        {
-          "title": "儿科医生韩杰漏诊致幼儿死亡，因医疗事故罪被判一年缓刑，怎样从法律角度解读？",
-          "url": "https://www.zhihu.com/question/2067369494037651723",
-          "heat": "122 万热度"
-        },
-        {
-          "title": "为什么爱因斯坦后期执着于大统一理论？",
-          "url": "https://www.zhihu.com/question/2041974411843068257",
-          "heat": "116 万热度"
-        },
-        {
-          "title": "男子癌症晚期发现医保断缴两年，村干部称不是私吞而是漏缴，可能是哪个环节出了问题？该如何避免？",
-          "url": "https://www.zhihu.com/question/2067534271393133838",
-          "heat": "114 万热度"
-        },
-        {
-          "title": "如何看待某解说在二路直播中涉及 TheShy 的不当言论引发争议，联盟回应将进行处罚？",
-          "url": "https://www.zhihu.com/question/2067451866271703097",
-          "heat": "107 万热度"
-        },
-        {
-          "title": "7 月统计局制造业 PMI 降至 49.2，供需均收缩致生产经营活动放缓，这反映了制造业的哪些挑战？",
-          "url": "https://www.zhihu.com/question/2066483823928422483",
-          "heat": "104 万热度"
-        },
-        {
-          "title": "哥哥冒用弟弟高考身份一路读到博士，为什么一直没被发现？暴露了学籍审核等方面哪些问题？",
-          "url": "https://www.zhihu.com/question/2066958063932912243",
-          "heat": "98 万热度"
-        },
-        {
-          "title": "如何看待雷军在发布会最后说「晚安」被指营销？",
-          "url": "https://www.zhihu.com/question/2067158057784718693",
-          "heat": "93 万热度"
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "id": "weibo",
@@ -1026,176 +925,14 @@
     {
       "id": "thepaper",
       "name": "澎湃新闻",
-      "count": 20,
-      "items": [
-        {
-          "title": "影子暗访｜“抗生素”牛蛙，何以难禁？",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33631457",
-          "heat": ""
-        },
-        {
-          "title": "“游泳就能去欧洲”：一场误读引爆的非法移民危机",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33695881",
-          "heat": ""
-        },
-        {
-          "title": "网友呼吁将邮件礼仪纳入大学课程，北大等此前已发布实操指南",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33697943",
-          "heat": ""
-        },
-        {
-          "title": "央视曝光网红“高空秋千”成危险秋千：成本仅50万，景区一个月回本",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33698760",
-          "heat": ""
-        },
-        {
-          "title": "“装得越多，浪费越多”？新能源装机大涨背后仍面临消纳考验",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33708330",
-          "heat": ""
-        },
-        {
-          "title": "澎湃回声｜福建漳州通报“抗生素”牛蛙：组成调查组全面核查",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33708571",
-          "heat": ""
-        },
-        {
-          "title": "韩国庆尚南道梁山市气温飙至42.5℃，创百年气象观测纪录",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33698215",
-          "heat": ""
-        },
-        {
-          "title": "央媒四问垃圾分类：网传“垃圾不够烧”，生活垃圾分类是否还需要",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33707882",
-          "heat": ""
-        },
-        {
-          "title": "人民锐评：“消费善良”就是撕裂信任",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33698789",
-          "heat": ""
-        },
-        {
-          "title": "体育中心附近地块被开垦种菜、垃圾遍地，合肥新站高新区回应",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33697598",
-          "heat": ""
-        },
-        {
-          "title": "马上测丨爱吃牛蛙的注意了！多批次牛蛙检出抗生素超标",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33673719",
-          "heat": ""
-        },
-        {
-          "title": "马上评｜守住“三支一扶”考试底线，让奋斗者有前途",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33709947",
-          "heat": ""
-        },
-        {
-          "title": "音乐老师在校跳舞发抖音被家长投诉，回应“约谈”称会按学校要求来",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33708573",
-          "heat": ""
-        },
-        {
-          "title": "长沙一高层住宅火灾致4死2伤",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33698197",
-          "heat": ""
-        },
-        {
-          "title": "光明日报：字母词涌入中文，是否影响汉语美感？",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33701105",
-          "heat": ""
-        },
-        {
-          "title": "阿里Qwen3.8正式发布：总参数量2.4万亿，第三方榜单仅次于Claude",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33708536",
-          "heat": ""
-        },
-        {
-          "title": "“白海豚”维持超强台风级别，江浙多地部署防御准备工作",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33697942",
-          "heat": ""
-        },
-        {
-          "title": "河南西平县发生重大刑案嫌疑人在逃，官方通报",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33698505",
-          "heat": ""
-        },
-        {
-          "title": "深观察｜这些群体何以成为“十五五”政策关爱重点？",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33697745",
-          "heat": ""
-        },
-        {
-          "title": "澎湃回声｜电商平台回应“抗生素”牛蛙：涉事商品已下架，将严格要求商家准入资质",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33709037",
-          "heat": ""
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "id": "ifeng",
       "name": "凤凰网",
-      "count": 12,
-      "items": [
-        {
-          "title": "伊朗看到了美国的3个软肋",
-          "url": "https://news.ifeng.com/c/8vHU3Votl6y",
-          "heat": ""
-        },
-        {
-          "title": "印尼客轮海上起火，已致5死41失踪",
-          "url": "https://news.ifeng.com/c/8vHPJI0FDQv",
-          "heat": ""
-        },
-        {
-          "title": "面临双重困局？以色列自曝被盟友抛弃",
-          "url": "https://news.ifeng.com/c/8vHV3ihqOcY",
-          "heat": ""
-        },
-        {
-          "title": "特朗普称决定惩罚加拿大",
-          "url": "https://news.ifeng.com/c/8vHh8bqoTlY",
-          "heat": ""
-        },
-        {
-          "title": "特朗普：日本向我们求助",
-          "url": "https://news.ifeng.com/c/8vHueaJjUVf",
-          "heat": ""
-        },
-        {
-          "title": "泰国总理发声：是“巨大耻辱”",
-          "url": "https://news.ifeng.com/c/8vGLGMLrAco",
-          "heat": ""
-        },
-        {
-          "title": "菲总统遭痛批“亲美上头”：瞧瞧乌克兰下场",
-          "url": "https://news.ifeng.com/c/8vHyo9Rsi6i",
-          "heat": ""
-        },
-        {
-          "title": "立不擅应酬人设，高市早苗装不下去了",
-          "url": "https://news.ifeng.com/c/8vHKl6a6oZI",
-          "heat": ""
-        },
-        {
-          "title": "多名驻日美军士兵被捕",
-          "url": "https://news.ifeng.com/c/8vGfEHjZrLi",
-          "heat": ""
-        },
-        {
-          "title": "沙特、俄罗斯、伊拉克等7个国家发表声明",
-          "url": "https://news.ifeng.com/c/8vGi6FW8U9Q",
-          "heat": ""
-        },
-        {
-          "title": "特朗普盟友威胁杀死普京，俄媒怒怼",
-          "url": "https://news.ifeng.com/c/8vHyypr7Wj0",
-          "heat": ""
-        },
-        {
-          "title": "日媒：高市早苗电话外交“熄火”",
-          "url": "https://news.ifeng.com/c/8vHT4t7Auou",
-          "heat": ""
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "id": "toutiao",
@@ -1357,147 +1094,142 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 28,
+      "count": 27,
       "items": [
         {
-          "title": "伊朗外交部发言人巴加埃：德黑兰方面已与阿曼“进行了7到8天的会谈”。已取得一些进展，目前正与地区内外官员举行会谈。",
-          "url": "https://flash.jin10.com/detail/20260803152911592800",
+          "title": "强势日元引发日股调整，分析师称企业盈利风险可控",
+          "url": "https://flash.jin10.com/detail/20260803155736093800",
           "heat": false
         },
         {
-          "title": "广东河源新丰江水库将于今日17时开闸泄洪",
-          "url": "https://flash.jin10.com/detail/20260803152802226800",
-          "heat": false
-        },
-        {
-          "title": "伊朗外交部发言人巴加埃：伊朗外长阿拉格齐今天将前往伊拉克参加阿尔巴因朝圣活动。",
-          "url": "https://flash.jin10.com/detail/20260803152649019800",
-          "heat": false
-        },
-        {
-          "title": "金十数据整理：A股每日市场要闻回顾（2026-08-03）",
-          "url": "https://flash.jin10.com/detail/20260803152643128800",
+          "title": "金十数据整理：每日房地产行业动态汇总（2026-08-03）",
+          "url": "https://flash.jin10.com/detail/20260803155631538800",
           "heat": "✰"
         },
         {
-          "title": "Asahi金库去注册化逾8万盎司，库存结构正向Eligible端转移｜黄金库存日报上新",
-          "url": "https://flash.jin10.com/detail/20260803152329687800",
+          "title": "南向资金净买额达100亿元。",
+          "url": "https://flash.jin10.com/detail/20260803155521280800",
           "heat": "✰"
         },
         {
-          "title": "农业农村部召开全国秋粮生产现场推进会 强调统筹抓好田间管理和农业防灾减灾救灾",
-          "url": "https://flash.jin10.com/detail/20260803152254320800",
+          "title": "奥锐特：恩扎卢胺片和地屈孕酮片拟中选第十二批国家药品集采",
+          "url": "https://flash.jin10.com/detail/20260803155516304800",
           "heat": false
         },
         {
-          "title": "南向资金净买额达50亿元。",
-          "url": "https://flash.jin10.com/detail/20260803152220004800",
+          "title": "德国7月制造业PMI终值 52.2，预期52.2，前值52.2。",
+          "url": "https://flash.jin10.com/detail/20260803155502195800",
           "heat": "✰"
         },
         {
-          "title": "伊朗外交部发言人巴加埃：伊朗与美国的问题应在后续阶段予以解决。",
-          "url": "https://flash.jin10.com/detail/20260803152147388800",
+          "title": "伊朗外交部发言人巴加埃：与阿曼讨论的霍尔木兹海峡新路线将设有进出口通道。",
+          "url": "https://flash.jin10.com/detail/20260803155414836800",
           "heat": false
         },
         {
-          "title": "伊朗外交部发言人巴加埃：与阿曼就航线达成协议不足以重新开放霍尔木兹海峡，只要美国的“侵略”持续，局势将保持不变。",
-          "url": "https://flash.jin10.com/detail/20260803152028058800",
-          "heat": false
-        },
-        {
-          "title": "美、布两油短线小幅走高，伊朗方面表示没有在与美国进行对话。",
-          "url": "https://flash.jin10.com/detail/20260803151931867800",
+          "title": "国际金4000关口存在较强底部，美联储仍缺乏加息意愿？  | Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260803155256683800",
           "heat": "✰"
         },
         {
-          "title": "民爆光电：当前公司订单饱满",
-          "url": "https://flash.jin10.com/detail/20260803151858638800",
+          "title": "俄罗斯加强黑海航运保护，着手开发替代货运路线",
+          "url": "https://flash.jin10.com/detail/20260803155246413800",
           "heat": false
         },
         {
-          "title": "伊朗外交部发言人巴加埃：正与阿曼合作在霍尔木兹海峡开辟临时安全通道。",
-          "url": "https://flash.jin10.com/detail/20260803151831827800",
+          "title": "金石亚药：子公司双氯芬酸钠缓释片拟中选第十二批国家药品集采",
+          "url": "https://flash.jin10.com/detail/20260803155229717800",
+          "heat": false
+        },
+        {
+          "title": "伊朗外交部：目前未与美国对话，与阿曼对话集中在海峡协议上",
+          "url": "https://flash.jin10.com/detail/20260803155138919800",
+          "heat": false
+        },
+        {
+          "title": "仙琚制药：3个产品拟中选第十二批国家药品集采，采购周期至2029年底",
+          "url": "https://flash.jin10.com/detail/20260803155049834800",
+          "heat": false
+        },
+        {
+          "title": "宏工科技：截至2026年7月31日尚未开始实施回购",
+          "url": "https://flash.jin10.com/detail/20260803155043242800",
+          "heat": false
+        },
+        {
+          "title": "万通发展成立科技公司 含集成电路设计业务",
+          "url": "https://flash.jin10.com/detail/20260803155034722800",
+          "heat": false
+        },
+        {
+          "title": "法国7月制造业PMI终值 49.8，预期50，前值50。",
+          "url": "https://flash.jin10.com/detail/20260803155002501800",
           "heat": "✰"
         },
         {
-          "title": "伊朗外交部：目前没有在与美国进行对话",
-          "url": "https://flash.jin10.com/detail/20260803151804344800",
+          "title": "大秦铁路：拟以4亿元-5亿元回购公司股份",
+          "url": "https://flash.jin10.com/detail/20260803154854016800",
+          "heat": false
+        },
+        {
+          "title": "白银库存延续高位累库，Loomis补库推动Eligible回升｜白银库存日报上新",
+          "url": "https://flash.jin10.com/detail/20260803154851526800",
           "heat": "✰"
         },
         {
-          "title": "国债期货午盘收盘",
-          "url": "https://flash.jin10.com/detail/20260803151610615800",
+          "title": "安盛保险拟以11亿欧元出售马来西亚合资企业股权",
+          "url": "https://flash.jin10.com/detail/20260803154844753800",
           "heat": false
         },
         {
-          "title": "西班牙7月制造业PMI 50.2，预期50，前值49.7。",
-          "url": "https://flash.jin10.com/detail/20260803151502263800",
+          "title": "华康洁净：预中标“江西省鹰潭市人民医院病房改造项目”",
+          "url": "https://flash.jin10.com/detail/20260803154814571800",
           "heat": false
         },
         {
-          "title": "金十图示：2026年08月03日（周一）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260803151425470800",
+          "title": "汉马科技：7月货车销量1121辆，同比17.26%",
+          "url": "https://flash.jin10.com/detail/20260803154549227800",
           "heat": false
         },
         {
-          "title": "金十图示：2026年08月03日（周一）投机情绪指数",
-          "url": "https://flash.jin10.com/detail/20260803151423121800",
+          "title": "意大利7月制造业PMI 51.3，预期52.3，前值52.2。",
+          "url": "https://flash.jin10.com/detail/20260803154502687800",
           "heat": false
         },
         {
-          "title": "德国DAX指数上涨1.1%，创下自7月6日以来盘中新高。",
-          "url": "https://flash.jin10.com/detail/20260803151408638800",
+          "title": "海正药业：公司参与全国药品集中采购5个产品拟中选",
+          "url": "https://flash.jin10.com/detail/20260803154454573800",
           "heat": false
         },
         {
-          "title": "瑞士7月通胀降至四个月低点，预计央行继续维持零利率",
-          "url": "https://flash.jin10.com/detail/20260803151340222800",
+          "title": "分析师：让伊朗暂时管理霍尔木兹海峡才是最现实的解决方法",
+          "url": "https://flash.jin10.com/detail/20260803154424266800",
           "heat": false
         },
         {
-          "title": "现代汽车：七月全球销量为318,454辆，同比下降5.1%。",
-          "url": "https://flash.jin10.com/detail/20260803151215349800",
+          "title": "伊朗外交部发言人巴加埃：巴基斯坦是伊美问题的调解方，卡塔尔也提供了帮助。",
+          "url": "https://flash.jin10.com/detail/20260803154322558800",
           "heat": false
         },
         {
-          "title": "波兰蓝筹股指数上涨0.6%，创历史新高。",
-          "url": "https://flash.jin10.com/detail/20260803151204502800",
+          "title": "策略师：日元升值将带动亚洲货币走强",
+          "url": "https://flash.jin10.com/detail/20260803154259537800",
           "heat": false
         },
         {
-          "title": "股市资金流向图：今日沪深两市主力资金净流出418.71亿元，占比2.1%；大单资金净流出133.24亿元，占比0.67%；小单资金净流入393.70亿元，占比1.97%。",
-          "url": "https://flash.jin10.com/detail/20260803150856791800",
-          "heat": false
-        },
-        {
-          "title": "沙特延布港油轮活动激增，红海石油通道恢复活跃",
-          "url": "https://flash.jin10.com/detail/20260803150850982800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：北京时间8月3日22:00将有欧美、美日、镑美、澳美等外汇期权大单到期，4个行权价10亿以上大单，敬请管理风险。",
-          "url": "https://flash.jin10.com/detail/20260803150551110800",
-          "heat": false
-        },
-        {
-          "title": "挂单报告：国际现货黄金维持震荡 国际现货白银此处多单集中",
-          "url": "https://flash.jin10.com/detail/20260803150542553800",
+          "title": "韩股猛跌后恐慌情绪蔓延！李在明的“青瓦台魔咒”将至？",
+          "url": "https://flash.jin10.com/detail/20260803154223852800",
           "heat": "✰"
         },
         {
-          "title": "英国国债全线高开，10年期国债收益率下跌7个基点至4.98%。",
-          "url": "https://flash.jin10.com/detail/20260803150457062800",
+          "title": "蚂蚁灵波确认融资传闻：将持续聚焦通用机器人大脑 加速产业落地",
+          "url": "https://flash.jin10.com/detail/20260803154012413800",
           "heat": false
         },
         {
-          "title": "英国上市能源公司股价下跌，伊萨卡能源下跌4.1%，英国石油公司下跌2.9%，壳牌下跌2.1%。",
-          "url": "https://flash.jin10.com/detail/20260803150438925800",
-          "heat": false
-        },
-        {
-          "title": "A股收评：三大股指全日低位震荡 半导体、存储芯片概念股跌幅居前",
-          "url": "https://flash.jin10.com/detail/20260803150419866800",
-          "heat": false
+          "title": "法国、德国及欧元区7月制造业PMI终值将于十分钟后陆续公布。",
+          "url": "https://flash.jin10.com/detail/20260803154000001800",
+          "heat": "✰"
         }
       ]
     }
