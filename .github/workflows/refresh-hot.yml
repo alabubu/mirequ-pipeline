@@ -21,4 +21,8 @@ jobs:
       - run: |
           git config user.name bot && git config user.email bot@m.bot
           echo "$(date +%s)" > data/.ts && git add data/
-          git commit -m "data" || true && git push
+          git commit -m "data" || true
+          for i in 1 2 3; do
+            git pull --rebase origin main 2>/dev/null && git push && break
+            sleep 3
+          done
