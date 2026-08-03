@@ -1,13 +1,25 @@
 #!/usr/bin/env python3
-"""导出公众号数据 → data/wechat.json（当日数据，时间倒序，10万+独立板块）"""
+"""导出公众号数据 → data/wechat.json（当日数据，时间倒序，10万+独立板块）
+规则: 北京8点前→沿用昨日数据; 8点后→严格当日数据(没发的号显示空)
+"""
 import json, sqlite3, os
-from datetime import date
+from datetime import date, datetime, timezone, timedelta
+
+TZ = timezone(timedelta(hours=8))
+NOW = datetime.now(TZ)
+TODAY = date.today().isoformat()
+HOUR = NOW.hour
+
+# 8点前用昨天，8点后严格用今天
+if HOUR < 8:
+    target_date = (date.today() - timedelta(days=1)).isoformat()
+else:
+    target_date = TODAY
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 DB = os.path.join(SCRIPT_DIR, "articles.db")
 EXCLUDE = ['大河财立方', '经济参考报']
 DATA_DIR = os.path.join(os.path.dirname(SCRIPT_DIR), "data")
-TODAY = date.today().isoformat()
 
 conn = sqlite3.connect(DB)
 conn.row_factory = sqlite3.Row
@@ -16,28 +28,19 @@ rows = conn.execute(
 ).fetchall()
 conn.close()
 
-# 先尝试当日数据，为空则回退昨日
-def filter_by_date(target_date):
-    result = []
-    for r in rows:
-        if r['account_name'] in EXCLUDE: continue
-        pd = str(r['publish_time'])[:10] if r['publish_time'] else ''
-        if pd != target_date: continue
-        result.append({
-            'title': r['title'],
-            'account': r['account_name'],
-            'url': r['url'],
-            'read_count': min(r['read_count'] or 0, 100000),
-            'publish_time': str(r['publish_time']),
-        })
-    return result
-
-filtered = filter_by_date(TODAY)
-actual_date = TODAY
-if not filtered:
-    yesterday = (date.today() - __import__('datetime').timedelta(days=1)).isoformat()
-    filtered = filter_by_date(yesterday)
-    actual_date = yesterday
+# 按目标日期过滤
+filtered = []
+for r in rows:
+    if r['account_name'] in EXCLUDE: continue
+    pd = str(r['publish_time'])[:10] if r['publish_time'] else ''
+    if pd != target_date: continue
+    filtered.append({
+        'title': r['title'],
+        'account': r['account_name'],
+        'url': r['url'],
+        'read_count': min(r['read_count'] or 0, 100000),
+        'publish_time': str(r['publish_time']),
+    })
 
 top100k = [r for r in filtered if r['read_count'] >= 100000]
 
@@ -48,7 +51,7 @@ ranking = [{'name': a, 'cnt': rank_counter[a], 'k100': hot_counter.get(a, 0)} fo
 ranking.sort(key=lambda x: x['cnt'], reverse=True)
 
 data = {
-    'date': actual_date,
+    'date': target_date,
     'stats': {'total': len(filtered), 'hot100k': len(top100k)},
     'ranking': ranking,
     'top100k': top100k,
@@ -60,6 +63,6 @@ out = os.path.join(DATA_DIR, 'wechat.json')
 with open(out, 'w', encoding='utf-8') as f:
     json.dump(data, f, ensure_ascii=False, default=str)
 
-print(f'{actual_date}: {len(filtered)}篇 ({len(top100k)}篇10万+)')
+print(f'{target_date}: {len(filtered)}篇 ({len(top100k)}篇10万+)')
 for r in ranking:
     print(f'  {r["name"]}: {r["cnt"]}篇 {r["k100"]}个10万+')
