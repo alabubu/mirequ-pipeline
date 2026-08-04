@@ -1,6 +1,6 @@
 {
-  "updated": "20:05:32",
-  "total": 281,
+  "updated": "20:10:34",
+  "total": 282,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,53 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 26,
+      "count": 27,
       "items": [
+        {
+          "title": "道琼斯指数8月4日（周二）收盘上涨907.53点，涨幅1.71%，报54085.94点；<br/>标普500指数8月4日（周二）收盘上涨136.02点，涨幅1.79%，报7736.52点；<br/>纳斯达克综合指数8月4日（周二）收盘上涨671.10点，涨幅2.59%，报26584.99点。",
+          "url": "https://flash.jin10.com/detail/20260805040521494800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月04日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260805040520889800",
+          "heat": false
+        },
+        {
+          "title": "SpaceX(SPCX.O)：第二季度末Starlink用户达到1200万。",
+          "url": "https://flash.jin10.com/detail/20260805040514383800",
+          "heat": false
+        },
+        {
+          "title": "国际油价4日大幅下跌",
+          "url": "https://flash.jin10.com/detail/20260805040512783800",
+          "heat": false
+        },
+        {
+          "title": "SpaceX(SPCX.O)Q2总资本支出为183.69亿美元，净亏损5.41亿美元。",
+          "url": "https://flash.jin10.com/detail/20260805040434852800",
+          "heat": false
+        },
+        {
+          "title": "SpaceX(SPCX.O)美股盘后涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260805040357009800",
+          "heat": false
+        },
+        {
+          "title": "SpaceX(SPCX.O)2026年Q2营收78亿美元，市场预期为69.34亿美元。",
+          "url": "https://flash.jin10.com/detail/20260805040253087800",
+          "heat": "✰"
+        },
+        {
+          "title": "美股收盘：道指、标普500创新高 海力士涨8%",
+          "url": "https://flash.jin10.com/detail/20260805040059195800",
+          "heat": "✰"
+        },
+        {
+          "title": "内塔尼亚胡：哈马斯完全解除武装前不会从加沙撤军",
+          "url": "https://flash.jin10.com/detail/20260805034809976800",
+          "heat": false
+        },
         {
           "title": "据法院裁决，法官将于2027年3月就针对派拉蒙(PSKY.O)收购华纳兄弟探索公司(WBD.O)交易的挑战举行审判。",
           "url": "https://flash.jin10.com/detail/20260805033532345800",
@@ -1447,46 +1492,6 @@
         {
           "title": "巴西雷亚尔兑美元在即期交易中下跌1%。",
           "url": "https://flash.jin10.com/detail/20260805024202541800",
-          "heat": false
-        },
-        {
-          "title": "英伟达(NVDA.O)涨幅达3%。",
-          "url": "https://flash.jin10.com/detail/20260805023531982800",
-          "heat": false
-        },
-        {
-          "title": "据伊朗法尔斯通讯社：一位接近谈判团队的消息人士表示，如果美国停止对伊朗及其利益的侵略和犯罪行为，并满足所有必要条件以及既定要求，海峡局势才可能恢复到一个月前的状态。",
-          "url": "https://flash.jin10.com/detail/20260805023522601800",
-          "heat": false
-        },
-        {
-          "title": "据伊朗法尔斯通讯社：一位接近谈判团队的消息人士表示，即使谈判最终促成伊朗与阿曼之间达成双边协议，该协议本身也无法提供确保霍尔木兹海峡安全所需的全部条件。",
-          "url": "https://flash.jin10.com/detail/20260805023452753800",
-          "heat": false
-        },
-        {
-          "title": "夜盘主力合约收盘",
-          "url": "https://flash.jin10.com/detail/20260805023146283800",
-          "heat": false
-        },
-        {
-          "title": "美媒：白宫不计划公开先进AI模型评估框架细节",
-          "url": "https://flash.jin10.com/detail/20260805023142240800",
-          "heat": false
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 8月4日（周二）晚盘收盘上涨0.64%报887.48元/克；<br/>上海黄金交易所白银T+D 8月4日（周二）晚盘收盘上涨2.56%报14528.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260805023020490800",
-          "heat": false
-        },
-        {
-          "title": "据半岛电视台：美国官员表示，霍尔木兹海峡是国际水道，任何一方都无法控制其航线或通行能力。",
-          "url": "https://flash.jin10.com/detail/20260805023015762800",
-          "heat": false
-        },
-        {
-          "title": "据Axios：白宫不打算公开发布其用于评估先进人工智能模型的新框架。",
-          "url": "https://flash.jin10.com/detail/20260805022825767800",
           "heat": false
         }
       ]
