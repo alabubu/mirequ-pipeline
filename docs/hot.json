@@ -1,6 +1,6 @@
 {
-  "updated": "23:35:27",
-  "total": 274,
+  "updated": "23:40:30",
+  "total": 277,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,48 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 19,
+      "count": 22,
       "items": [
+        {
+          "title": "日本6月劳动现金收入年率 3.4%，预期3.50%，前值由3.20%修正为3.30%。",
+          "url": "https://flash.jin10.com/detail/20260805073002423800",
+          "heat": false
+        },
+        {
+          "title": "日本6月加班工资年率 2.8%，前值2.9%。",
+          "url": "https://flash.jin10.com/detail/20260805073002403800",
+          "heat": false
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260805072713506800",
+          "heat": "✰"
+        },
+        {
+          "title": "SpaceX将独家采用英伟达AI计算架构，拟部署太空数据中心",
+          "url": "https://flash.jin10.com/detail/20260805072402482800",
+          "heat": false
+        },
+        {
+          "title": "持武男子在特朗普即将出席活动的加州球场被捕",
+          "url": "https://flash.jin10.com/detail/20260805072343057800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（8月5日）",
+          "url": "https://flash.jin10.com/detail/20260805072055420800",
+          "heat": false
+        },
+        {
+          "title": "巴西政府发布声明，抗议美国更改巴西大使签证的决定。",
+          "url": "https://flash.jin10.com/detail/20260805071325736800",
+          "heat": false
+        },
+        {
+          "title": "金十数据全球财经早餐 | 2026年8月5日",
+          "url": "https://flash.jin10.com/detail/20260805070709911800",
+          "heat": "✰"
+        },
         {
           "title": "澳大利亚7月AIG/PWC制造业表现指数 -19.6，前值-16.8。",
           "url": "https://flash.jin10.com/detail/20260805070003293800",
@@ -1427,31 +1467,6 @@
         {
           "title": "新西兰第二季度失业率 5.6%，预期5.40%，前值5.30%。",
           "url": "https://flash.jin10.com/detail/20260805064502841800",
-          "heat": false
-        },
-        {
-          "title": "AMD绩后大跌 华尔街要的不只是“超预期”",
-          "url": "https://flash.jin10.com/detail/20260805064358798800",
-          "heat": false
-        },
-        {
-          "title": "俄称继续打击乌港口设施及船只 乌称击落俄无人机",
-          "url": "https://flash.jin10.com/detail/20260805064351542800",
-          "heat": false
-        },
-        {
-          "title": "金十数据整理：昨日今晨重要新闻汇总（2026-08-05）",
-          "url": "https://flash.jin10.com/detail/20260805063118137800",
-          "heat": "✰"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上一交易日增加3.423吨，当前持仓量为1009.297吨。",
-          "url": "https://flash.jin10.com/detail/20260805062453056800",
-          "heat": "✰"
-        },
-        {
-          "title": "美联储9月加息25个基点的概率为58.4%",
-          "url": "https://flash.jin10.com/detail/20260805061117110800",
           "heat": false
         }
       ]
