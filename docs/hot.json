@@ -1,6 +1,6 @@
 {
-  "updated": "19:05:31",
-  "total": 280,
+  "updated": "19:10:37",
+  "total": 281,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,38 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 25,
+      "count": 26,
       "items": [
+        {
+          "title": "SpaceX(SPCX.O)在公布Q2业绩前上涨9.8%，刷新日高。",
+          "url": "https://flash.jin10.com/detail/20260805030446769800",
+          "heat": false
+        },
+        {
+          "title": "英媒：伊朗考虑向欧洲国家收取霍尔木兹海峡维护费用",
+          "url": "https://flash.jin10.com/detail/20260805030300160800",
+          "heat": "✰"
+        },
+        {
+          "title": "恒指期货夜盘收涨0.31%，报25914点，高水61点。",
+          "url": "https://flash.jin10.com/detail/20260805030157507800",
+          "heat": false
+        },
+        {
+          "title": "利比亚西部发生激烈冲突已致5人死亡",
+          "url": "https://flash.jin10.com/detail/20260805025807203800",
+          "heat": false
+        },
+        {
+          "title": "据英国《每日电讯报》：欧洲可能在重新开放霍尔木兹海峡的新计划中承担费用。",
+          "url": "https://flash.jin10.com/detail/20260805025641350800",
+          "heat": "✰"
+        },
+        {
+          "title": "意大利政府延长柴油税减免至8月25日",
+          "url": "https://flash.jin10.com/detail/20260805025349393800",
+          "heat": false
+        },
         {
           "title": "巴西雷亚尔兑美元在即期交易中下跌1%。",
           "url": "https://flash.jin10.com/detail/20260805024202541800",
@@ -1457,31 +1487,6 @@
         {
           "title": "美民主党议员致信赫格塞思 质疑五角大楼对伊朗战争的伤亡统计",
           "url": "https://flash.jin10.com/detail/20260805014624929800",
-          "heat": false
-        },
-        {
-          "title": "土耳其警告俄乌冲突外溢威胁黑海民用航运",
-          "url": "https://flash.jin10.com/detail/20260805013829713800",
-          "heat": false
-        },
-        {
-          "title": "伊朗：与阿曼就霍尔木兹海峡谈判取得“积极进展”",
-          "url": "https://flash.jin10.com/detail/20260805012901694800",
-          "heat": false
-        },
-        {
-          "title": "惠誉评级：新的美国学生签证规则将对部分高校施加压力。",
-          "url": "https://flash.jin10.com/detail/20260805012724431800",
-          "heat": false
-        },
-        {
-          "title": "现货白银突破60美元/盎司，为7月27日以来首次，日内涨3.14%。",
-          "url": "https://flash.jin10.com/detail/20260805012237109800",
-          "heat": "✰"
-        },
-        {
-          "title": "美国石油协会（API）CEO：每天约有700万桶石油通过霍尔木兹海峡运输。",
-          "url": "https://flash.jin10.com/detail/20260805012105851800",
           "heat": false
         }
       ]
