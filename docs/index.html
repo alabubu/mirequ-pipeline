@@ -152,8 +152,8 @@ var hotData = null, wcData = null;
 var currentSection = 'hot', currentPlatform = null, currentWcAccount = null;
 function loadData(){
   Promise.all([
-    fetch('https://cdn.jsdelivr.net/gh/alabubu/mirequ-pipeline@main/data/hot.json?t='+Date.now()).then(function(r){return r.json();}),
-    fetch('https://cdn.jsdelivr.net/gh/alabubu/mirequ-pipeline@main/data/wechat.json?t='+Date.now()).then(function(r){return r.json();})
+    fetch('https://raw.githubusercontent.com/alabubu/mirequ-pipeline/main/data/hot.json?t='+Date.now()).then(function(r){return r.json();}),
+    fetch('https://raw.githubusercontent.com/alabubu/mirequ-pipeline/main/data/wechat.json?t='+Date.now()).then(function(r){return r.json();})
   ]).then(function(results){
     hotData = results[0]; wcData = results[1];
     navMain('hot');
