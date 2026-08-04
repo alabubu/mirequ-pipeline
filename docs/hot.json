@@ -1,6 +1,6 @@
 {
-  "updated": "22:35:34",
-  "total": 282,
+  "updated": "22:40:35",
+  "total": 283,
   "platforms": [
     {
       "id": "zhihu",
@@ -982,6 +982,11 @@
           "heat": ""
         },
         {
+          "title": "美股收盘：标普500再创历史新高 光通信、存储涨幅居前",
+          "url": "https://www.cls.cn/detail/2445760",
+          "heat": ""
+        },
+        {
           "title": "美股期指全线上涨 卡特彼勒大涨逾10%领涨道指期货 | 今夜看点",
           "url": "https://www.cls.cn/detail/2445568",
           "heat": ""
@@ -997,23 +1002,18 @@
           "heat": ""
         },
         {
-          "title": "美股收盘：标普500再创历史新高 光通信、存储涨幅居前",
-          "url": "https://www.cls.cn/detail/2445760",
-          "heat": ""
-        },
-        {
           "title": "培育钻石颠覆行业格局 全球矿业巨头承认低估威胁、应对迟缓",
           "url": "https://www.cls.cn/detail/2445229",
           "heat": ""
         },
         {
-          "title": "霍尔木兹复航现曙光？美伊官员称伊朗与阿曼接近达成协议",
-          "url": "https://www.cls.cn/detail/2445217",
+          "title": "从天价到普惠：这款“抗癌神药”何以数年狂揽百亿",
+          "url": "https://www.cls.cn/detail/2445573",
           "heat": ""
         },
         {
-          "title": "从天价到普惠：这款“抗癌神药”何以数年狂揽百亿",
-          "url": "https://www.cls.cn/detail/2445573",
+          "title": "霍尔木兹复航现曙光？美伊官员称伊朗与阿曼接近达成协议",
+          "url": "https://www.cls.cn/detail/2445217",
           "heat": ""
         },
         {
@@ -1357,8 +1357,23 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 27,
+      "count": 28,
       "items": [
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上一交易日增加3.423吨，当前持仓量为1009.297吨。",
+          "url": "https://flash.jin10.com/detail/20260805062453056800",
+          "heat": "✰"
+        },
+        {
+          "title": "美联储9月加息25个基点的概率为58.4%",
+          "url": "https://flash.jin10.com/detail/20260805061117110800",
+          "heat": false
+        },
+        {
+          "title": "美国财长贝森特：确信日本央行行长植田和男会为日本经济做出最佳决策。",
+          "url": "https://flash.jin10.com/detail/20260805060803817800",
+          "heat": false
+        },
         {
           "title": "美国财长贝森特：随着能源价格下降，我们不再面临日元过度贬值，这将有助于通胀回落，日元可以进入良性循环。",
           "url": "https://flash.jin10.com/detail/20260805060123356800",
@@ -1482,16 +1497,6 @@
         {
           "title": "韩国7月外汇储备 4279.5亿美元，前值4273.6亿美元。",
           "url": "https://flash.jin10.com/detail/20260805050002196800",
-          "heat": false
-        },
-        {
-          "title": "新一轮黎以谈判在罗马举行",
-          "url": "https://flash.jin10.com/detail/20260805045654399800",
-          "heat": false
-        },
-        {
-          "title": "美元指数4日下跌",
-          "url": "https://flash.jin10.com/detail/20260805045508425800",
           "heat": false
         }
       ]
