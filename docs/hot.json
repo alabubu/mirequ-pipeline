@@ -1,6 +1,6 @@
 {
-  "updated": "21:05:29",
-  "total": 283,
+  "updated": "21:10:46",
+  "total": 273,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,146 +1357,96 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 28,
+      "count": 18,
       "items": [
         {
-          "title": "马斯克：公司将在下一次星舰飞行中发射首批V3版星链卫星入轨。",
-          "url": "https://flash.jin10.com/detail/20260805043604154800",
-          "heat": false
-        },
-        {
-          "title": "马斯克：今年将尝试回收星舰V3的第一级和第二级，可能在下一次飞行中实现。",
-          "url": "https://flash.jin10.com/detail/20260805043535302800",
+          "title": "据阿拉比亚电视台：沙特官员称，沙特与胡塞武装之间未通过调解人进行任何谈判。",
+          "url": "https://flash.jin10.com/detail/20260805050202316800",
           "heat": "✰"
         },
         {
-          "title": "美国国务院高级官员：驻华盛顿的巴西高级外交官签证已被吊销。若情况得到解决，将恢复该签证。",
-          "url": "https://flash.jin10.com/detail/20260805043507737800",
+          "title": "金十图示：2026年08月04日（周二）华尔街恐惧与贪婪指数（美盘后）",
+          "url": "https://flash.jin10.com/detail/20260805050002970800",
           "heat": false
         },
         {
-          "title": "马斯克：今年对SpaceX来说又是一个里程碑年。",
-          "url": "https://flash.jin10.com/detail/20260805043440075800",
+          "title": "韩国7月外汇储备 4279.5亿美元，前值4273.6亿美元。",
+          "url": "https://flash.jin10.com/detail/20260805050002196800",
           "heat": false
         },
         {
-          "title": "美国能源部长赖特：《琼斯法案》豁免延期可能性较大，该举措已使加州及美国东海岸能源价格有所下降。",
-          "url": "https://flash.jin10.com/detail/20260805043418841800",
+          "title": "新一轮黎以谈判在罗马举行",
+          "url": "https://flash.jin10.com/detail/20260805045654399800",
           "heat": false
         },
         {
-          "title": "美国能源部长赖特：未来几周燃料价格应会下降。",
-          "url": "https://flash.jin10.com/detail/20260805043148429800",
+          "title": "美元指数4日下跌",
+          "url": "https://flash.jin10.com/detail/20260805045508425800",
           "heat": false
         },
         {
-          "title": "SpaceX营收超预期 千亿解禁潮本周将至",
-          "url": "https://flash.jin10.com/detail/20260805042700573800",
+          "title": "SpaceX(SPCX.O)首席财务官：首次公开募股和债券发行改善了财务状况。",
+          "url": "https://flash.jin10.com/detail/20260805045050584800",
           "heat": false
         },
         {
-          "title": "三星探索内存新技术：垂直堆叠于AI加速器之上 密度超传统HBM5十倍",
-          "url": "https://flash.jin10.com/detail/20260805042229616800",
+          "title": "SpaceX(SPCX.O)首席运营官：第二季度是迄今为止Starlink新增用户的最佳季度。",
+          "url": "https://flash.jin10.com/detail/20260805044735668800",
+          "heat": false
+        },
+        {
+          "title": "美国至7月31日当周API精炼油库存 -123.2万桶，预期-6.7万桶，前值35.5万桶。",
+          "url": "https://flash.jin10.com/detail/20260805044614019800",
+          "heat": false
+        },
+        {
+          "title": "美国至7月31日当周API投产原油量 -11.2万桶/日，前值9.3万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260805044604335800",
+          "heat": false
+        },
+        {
+          "title": "美国至7月31日当周API成品油进口 -20.6万桶/日，前值29.7万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260805044557243800",
+          "heat": false
+        },
+        {
+          "title": "美国至7月31日当周API原油进口 17.2万桶，前值-39.9万桶。",
+          "url": "https://flash.jin10.com/detail/20260805044552720800",
+          "heat": false
+        },
+        {
+          "title": "美国至7月31日当周API取暖油库存 -11.8万桶，前值-12.5万桶。",
+          "url": "https://flash.jin10.com/detail/20260805044547707800",
+          "heat": false
+        },
+        {
+          "title": "美国至7月31日当周API库欣原油库存 235.8万桶，前值-27.3万桶。",
+          "url": "https://flash.jin10.com/detail/20260805044541027800",
+          "heat": false
+        },
+        {
+          "title": "美国至7月31日当周API汽油库存 15.6万桶，预期-122.5万桶，前值91.8万桶。",
+          "url": "https://flash.jin10.com/detail/20260805044528928800",
+          "heat": false
+        },
+        {
+          "title": "美国至7月31日当周API原油库存 269万桶，预期-200万桶，前值-329.6万桶。",
+          "url": "https://flash.jin10.com/detail/20260805044519139800",
           "heat": "✰"
         },
         {
-          "title": "美国至7月31日当周API原油库存将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260805042000001800",
+          "title": "马斯克：预计首批Starmind AI卫星将于明年开始发射升空。",
+          "url": "https://flash.jin10.com/detail/20260805044446076800",
           "heat": "✰"
         },
         {
-          "title": "财报公布后，AMD(AMD.O)和SpaceX(SPCX.O)美股盘后均跌8%。",
-          "url": "https://flash.jin10.com/detail/20260805041818945800",
-          "heat": "✰"
-        },
-        {
-          "title": "AMD(AMD.O)预计2026年Q3营收为127亿美元至133亿美元，市场预期为125.1亿美元。",
-          "url": "https://flash.jin10.com/detail/20260805041756236800",
-          "heat": "✰"
-        },
-        {
-          "title": "AMD(AMD.O)2026年Q2营收115亿美元，市场预期为112.84亿美元，上年同期为76.85亿美元。",
-          "url": "https://flash.jin10.com/detail/20260805041619153800",
-          "heat": "✰"
-        },
-        {
-          "title": "SpaceX(SPCX.O)盘后跌超5%。",
-          "url": "https://flash.jin10.com/detail/20260805041555691800",
+          "title": "马斯克：Starmind AI卫星将针对Vera Rubin计算机进行优化。",
+          "url": "https://flash.jin10.com/detail/20260805044432830800",
           "heat": false
         },
         {
-          "title": "SpaceX(SPCX.O)2026年第二季度AI收入25.61亿美元。",
-          "url": "https://flash.jin10.com/detail/20260805041049500800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：2026年08月04日（周二）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260805040714300800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：2026年08月04日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260805040552682800",
-          "heat": false
-        },
-        {
-          "title": "道琼斯指数8月4日（周二）收盘上涨907.53点，涨幅1.71%，报54085.94点；<br/>标普500指数8月4日（周二）收盘上涨136.02点，涨幅1.79%，报7736.52点；<br/>纳斯达克综合指数8月4日（周二）收盘上涨671.10点，涨幅2.59%，报26584.99点。",
-          "url": "https://flash.jin10.com/detail/20260805040521494800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：2026年08月04日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260805040520889800",
-          "heat": false
-        },
-        {
-          "title": "SpaceX(SPCX.O)：第二季度末Starlink用户达到1200万。",
-          "url": "https://flash.jin10.com/detail/20260805040514383800",
-          "heat": false
-        },
-        {
-          "title": "国际油价4日大幅下跌",
-          "url": "https://flash.jin10.com/detail/20260805040512783800",
-          "heat": false
-        },
-        {
-          "title": "SpaceX(SPCX.O)Q2总资本支出为183.69亿美元，净亏损5.41亿美元。",
-          "url": "https://flash.jin10.com/detail/20260805040434852800",
-          "heat": false
-        },
-        {
-          "title": "SpaceX(SPCX.O)美股盘后涨超1%。",
-          "url": "https://flash.jin10.com/detail/20260805040357009800",
-          "heat": false
-        },
-        {
-          "title": "SpaceX(SPCX.O)2026年Q2营收78亿美元，市场预期为69.34亿美元。",
-          "url": "https://flash.jin10.com/detail/20260805040253087800",
-          "heat": "✰"
-        },
-        {
-          "title": "美股收盘：道指、标普500创新高 海力士涨8%",
-          "url": "https://flash.jin10.com/detail/20260805040059195800",
-          "heat": "✰"
-        },
-        {
-          "title": "内塔尼亚胡：哈马斯完全解除武装前不会从加沙撤军",
-          "url": "https://flash.jin10.com/detail/20260805034809976800",
-          "heat": false
-        },
-        {
-          "title": "据法院裁决，法官将于2027年3月就针对派拉蒙(PSKY.O)收购华纳兄弟探索公司(WBD.O)交易的挑战举行审判。",
-          "url": "https://flash.jin10.com/detail/20260805033532345800",
-          "heat": false
-        },
-        {
-          "title": "SpaceX(SPCX.O)：SpaceX正与英伟达(NVDA.O)合作设计Starmind AI1卫星计算载荷。每颗Starmind卫星将搭载英伟达Rubin GPU和Vera CPU，用于提供数据中心级别的太空计算能力。",
-          "url": "https://flash.jin10.com/detail/20260805033433216800",
-          "heat": false
-        },
-        {
-          "title": "首份财报与限售股解禁两大节点前 SpaceX空头仓位激增",
-          "url": "https://flash.jin10.com/detail/20260805033108469800",
+          "title": "马斯克：SpaceX(SPCX.O)决定只基于英伟达(NVDA.O)进行构建。",
+          "url": "https://flash.jin10.com/detail/20260805044355946800",
           "heat": false
         }
       ]
