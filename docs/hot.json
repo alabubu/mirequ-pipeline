@@ -1,6 +1,6 @@
 {
-  "updated": "11:55:28",
-  "total": 282,
+  "updated": "12:01:21",
+  "total": 250,
   "platforms": [
     {
       "id": "zhihu",
@@ -1007,8 +1007,8 @@
           "heat": ""
         },
         {
-          "title": "玩具公司改行当“算力房东”，高乐股份31亿算力大单砸出一字板",
-          "url": "https://www.cls.cn/detail/2445039",
+          "title": "L3、L4级自动驾驶“强标”明年7月实施 明确安全主体责任、接管机制",
+          "url": "https://www.cls.cn/detail/2445436",
           "heat": ""
         },
         {
@@ -1017,8 +1017,8 @@
           "heat": ""
         },
         {
-          "title": "虚拟电厂迈向真实交易 千亿电力硬件市场有望被激活 |虚拟电厂风口前夜③",
-          "url": "https://www.cls.cn/detail/2444870",
+          "title": "玩具公司改行当“算力房东”，高乐股份31亿算力大单砸出一字板",
+          "url": "https://www.cls.cn/detail/2445039",
           "heat": ""
         }
       ]
@@ -1200,298 +1200,137 @@
     {
       "id": "toutiao",
       "name": "今日头条",
-      "count": 30,
-      "items": [
-        {
-          "title": "白海豚再次加强为超强台风",
-          "url": "https://www.toutiao.com/trending/7669832347747156004/",
-          "heat": ""
-        },
-        {
-          "title": "“银发离婚潮”席卷全球",
-          "url": "https://www.toutiao.com/trending/7670080104153743366/",
-          "heat": ""
-        },
-        {
-          "title": "中国物流业景气指数继续保持扩张",
-          "url": "https://www.toutiao.com/trending/7669975285404909610/",
-          "heat": ""
-        },
-        {
-          "title": "路灯螺丝发红能点烟路人报警",
-          "url": "https://www.toutiao.com/trending/7670027628560760842/",
-          "heat": ""
-        },
-        {
-          "title": "申通快递被立案调查",
-          "url": "https://www.toutiao.com/trending/7670119765616689158/",
-          "heat": ""
-        },
-        {
-          "title": "歼-16南海上空“训转战”画面公开",
-          "url": "https://www.toutiao.com/trending/7669008700711157801/",
-          "heat": ""
-        },
-        {
-          "title": "马斯克又悄悄做出一个独角兽",
-          "url": "https://www.toutiao.com/trending/7670012720964239402/",
-          "heat": ""
-        },
-        {
-          "title": "河北网友来山西避暑：不玩水都冷",
-          "url": "https://www.toutiao.com/trending/7669400979402948644/",
-          "heat": ""
-        },
-        {
-          "title": "创业板暴涨5% A股市场真的企稳了吗",
-          "url": "https://www.toutiao.com/trending/7670109594571509291/",
-          "heat": ""
-        },
-        {
-          "title": "银行网点工时告别“一刀切”",
-          "url": "https://www.toutiao.com/trending/7670060165190975538/",
-          "heat": ""
-        },
-        {
-          "title": "大连湾海底隧道能看到鲨鱼不实",
-          "url": "https://www.toutiao.com/trending/7670128145563143690/",
-          "heat": ""
-        },
-        {
-          "title": "婚外胚胎案三个法律问题探讨",
-          "url": "https://www.toutiao.com/trending/7669778629788434483/",
-          "heat": ""
-        },
-        {
-          "title": "媒体评医生美颜照：妨碍谁看病了吗",
-          "url": "https://www.toutiao.com/trending/7669035527479377962/",
-          "heat": ""
-        },
-        {
-          "title": "A股股价前十红了9个",
-          "url": "https://www.toutiao.com/trending/7669281614337277979/",
-          "heat": ""
-        },
-        {
-          "title": "河南一地10年间野生蝉少了8成",
-          "url": "https://www.toutiao.com/trending/7669828884204372011/",
-          "heat": ""
-        },
-        {
-          "title": "“江西球王”杨志军单场轰101分",
-          "url": "https://www.toutiao.com/trending/7668995465958100499/",
-          "heat": ""
-        },
-        {
-          "title": "女孩独游南太行失联8天",
-          "url": "https://www.toutiao.com/trending/7669368338086248499/",
-          "heat": ""
-        },
-        {
-          "title": "成本几元的沙金首饰重金属风险不小",
-          "url": "https://www.toutiao.com/trending/7670065934127906835/",
-          "heat": ""
-        },
-        {
-          "title": "邹市明被曝连续数月零收入",
-          "url": "https://www.toutiao.com/trending/7670098981807984170/",
-          "heat": ""
-        },
-        {
-          "title": "广东江门市纪委书记李志被查",
-          "url": "https://www.toutiao.com/trending/7670100083316100658/",
-          "heat": ""
-        },
-        {
-          "title": "广东出现特大暴雨",
-          "url": "https://www.toutiao.com/trending/7669108047910027318/",
-          "heat": ""
-        },
-        {
-          "title": "女生在杭州宋城景区被“盆栽”捉弄",
-          "url": "https://www.toutiao.com/trending/7669202166397861938/",
-          "heat": ""
-        },
-        {
-          "title": "樊振东周杰伦乒乓球对打",
-          "url": "https://www.toutiao.com/trending/7669292564591267371/",
-          "heat": ""
-        },
-        {
-          "title": "俄乌双方公布最新战果",
-          "url": "https://www.toutiao.com/trending/7670059991244718134/",
-          "heat": ""
-        },
-        {
-          "title": "黑龙江一地打造2万平巨型玉米迷宫",
-          "url": "https://www.toutiao.com/trending/7670081623078371334/",
-          "heat": ""
-        },
-        {
-          "title": "111岁奶奶的长寿秘诀藏在4个习惯里",
-          "url": "https://www.toutiao.com/trending/7669656059872084004/",
-          "heat": ""
-        },
-        {
-          "title": "香港传奇影星葛兰去世",
-          "url": "https://www.toutiao.com/trending/7669806919556939814/",
-          "heat": ""
-        },
-        {
-          "title": "梁振英痛批香港个别楼盘只有英文名",
-          "url": "https://www.toutiao.com/trending/7669769151636750379/",
-          "heat": ""
-        },
-        {
-          "title": "蓝营前民代孙大千：大陆黄岩岛秀肌肉",
-          "url": "https://www.toutiao.com/trending/7669768313486458930/",
-          "heat": ""
-        },
-        {
-          "title": "新势力车企告别同质化混战",
-          "url": "https://www.toutiao.com/trending/7670117308051754515/",
-          "heat": ""
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 27,
+      "count": 25,
       "items": [
         {
-          "title": "美国财长贝森特：已向欧洲方面保证，（卖欧元买日元）这只是储备资产的重新配置。",
-          "url": "https://flash.jin10.com/detail/20260804194143173800",
+          "title": "美国财长贝森特：K型经济时代已结束。",
+          "url": "https://flash.jin10.com/detail/20260804195625102800",
           "heat": false
         },
         {
-          "title": "美国财长贝森特：对日本将采取政策跟进充满信心。",
-          "url": "https://flash.jin10.com/detail/20260804194113835800",
+          "title": "美国财长贝森特：我认为我们会继续看到这种情况。",
+          "url": "https://flash.jin10.com/detail/20260804195600510800",
           "heat": false
         },
         {
-          "title": "聚灿光电Mini-LED直显芯片量产交付",
-          "url": "https://flash.jin10.com/detail/20260804194056171800",
-          "heat": false
-        },
-        {
-          "title": "美国财长贝森特：与欧洲方面（包括欧洲央行）保持密切联系。",
-          "url": "https://flash.jin10.com/detail/20260804194055275800",
-          "heat": false
-        },
-        {
-          "title": "美国财长贝森特：美联储考虑扩大外国和国际货币当局回购工具是合理的。该工具与外汇互换额度没有区别。",
-          "url": "https://flash.jin10.com/detail/20260804194019126800",
+          "title": "美国财长贝森特：基础通胀数据非常温和。核心通胀正在放缓。",
+          "url": "https://flash.jin10.com/detail/20260804195544706800",
           "heat": "✰"
         },
         {
-          "title": "美国财长贝森特：美联储的流动性工具旨在控制离岸市场的波动。",
-          "url": "https://flash.jin10.com/detail/20260804193932920800",
+          "title": "美国财长贝森特：美联储必须着眼于未来9个月、12个月、18个月的情况。",
+          "url": "https://flash.jin10.com/detail/20260804195509448800",
           "heat": false
         },
         {
-          "title": "外资机构席位·期货品种持仓一览（8月4日）",
-          "url": "https://flash.jin10.com/detail/20260804193854042800",
+          "title": "WTI原油期货日内大跌3.00%，现报77.65美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260804195242243800",
+          "heat": false
+        },
+        {
+          "title": "布伦特原油跌破81美元/桶，日内跌2.49%；WTI原油日内下跌2.8%，报76.53美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260804195229581800",
           "heat": "✰"
         },
         {
-          "title": "美国财长贝森特：需要政策跟进以配合干预措施。",
-          "url": "https://flash.jin10.com/detail/20260804193853096800",
+          "title": "美国财长贝森特：我们看到利率在上升，人工智能资本支出并未放缓。",
+          "url": "https://flash.jin10.com/detail/20260804195216916800",
           "heat": false
         },
         {
-          "title": "美国财长贝森特：相信日本央行行长会采取必要行动。日本首相做得非常出色。",
-          "url": "https://flash.jin10.com/detail/20260804193838934800",
+          "title": "美国财长贝森特：剔除受能源影响的部分，核心通胀表现一直非常平稳。",
+          "url": "https://flash.jin10.com/detail/20260804195130144800",
           "heat": false
         },
         {
-          "title": "水利部松辽委升级发布黑龙江干流同江（黑龙江）段洪水黄色预警",
-          "url": "https://flash.jin10.com/detail/20260804193830076800",
+          "title": "金十交易学院直播中",
+          "url": "https://flash.jin10.com/detail/20260804195121012800",
           "heat": false
         },
         {
-          "title": "美国财长贝森特：不会预先判断日本央行应该做什么。",
-          "url": "https://flash.jin10.com/detail/20260804193805729800",
+          "title": "麦当劳(MCD.N)：计划到2028年全球门店数量达到50,000家。",
+          "url": "https://flash.jin10.com/detail/20260804195111791800",
           "heat": false
         },
         {
-          "title": "美国财长贝森特：干预可以向市场发出信号，但政策才是关键。",
-          "url": "https://flash.jin10.com/detail/20260804193750552800",
+          "title": "美国财长贝森特：有很多短期指标。",
+          "url": "https://flash.jin10.com/detail/20260804195022645800",
           "heat": false
         },
         {
-          "title": "美国财长贝森特：（关于日元干预）对日本政策路径持乐观态度。",
-          "url": "https://flash.jin10.com/detail/20260804193722942800",
+          "title": "美国财长贝森特：日本将迎来强劲增长，日本科技行业实力非常强劲。",
+          "url": "https://flash.jin10.com/detail/20260804195013990800",
           "heat": false
         },
         {
-          "title": "美国财长贝森特：看到了韩元的过度波动。",
-          "url": "https://flash.jin10.com/detail/20260804193705817800",
+          "title": "美国财长贝森特：沃什想要保留选项。",
+          "url": "https://flash.jin10.com/detail/20260804195001756800",
+          "heat": false
+        },
+        {
+          "title": "美国财长贝森特：美联储主席沃什将帮助美联储在增长目标与通胀目标之间取得平衡。",
+          "url": "https://flash.jin10.com/detail/20260804194939543800",
+          "heat": false
+        },
+        {
+          "title": "美国财长贝森特：美联储主席沃什希望保持灵活性以实现最佳结果。",
+          "url": "https://flash.jin10.com/detail/20260804194930086800",
+          "heat": false
+        },
+        {
+          "title": "美国财长贝森特：每次会议都应是实时的，与会者应自行做出判断。",
+          "url": "https://flash.jin10.com/detail/20260804194923743800",
+          "heat": false
+        },
+        {
+          "title": "*ST萃华：持股5%以上股东一致行动人郭英杰被证监会立案",
+          "url": "https://flash.jin10.com/detail/20260804194908813800",
           "heat": "✰"
         },
         {
-          "title": "美国财长贝森特：（关于在记事本中写“买入日元”）目的是确保记者能看到。",
-          "url": "https://flash.jin10.com/detail/20260804193638912800",
+          "title": "美国财长贝森特：我们正在看到美联储的“调整”过程。",
+          "url": "https://flash.jin10.com/detail/20260804194841119800",
+          "heat": false
+        },
+        {
+          "title": "现货白银日内涨幅扩大至2.00%，现报59.35美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260804194807985800",
           "heat": "✰"
         },
         {
-          "title": "美国财长贝森特：（谈及日元干预举措时）拥有一个政策框架很重要。",
-          "url": "https://flash.jin10.com/detail/20260804193605867800",
+          "title": "美国财长贝森特：随着能源价格下跌，我们可能会看到一波大规模的风险释放交易。",
+          "url": "https://flash.jin10.com/detail/20260804194722429800",
           "heat": false
         },
         {
-          "title": "美国财长贝森特：很荣幸能与日本站在一起，帮助稳定局势。",
-          "url": "https://flash.jin10.com/detail/20260804193543871800",
+          "title": "布伦特原油跌破82美元/桶，日内跌1.70%。",
+          "url": "https://flash.jin10.com/detail/20260804194714798800",
+          "heat": false
+        },
+        {
+          "title": "现货黄金短线走高10美元，现报4069美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260804194648876800",
+          "heat": false
+        },
+        {
+          "title": "美、布两油短线跌超1美元，现分别报77.53美元/桶和82.05美元/桶，此前，美国财长贝森特表示，可能明天就达成伊朗协议，以开放霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260804194549129800",
           "heat": "✰"
         },
         {
-          "title": "美国财长贝森特：稳定的日元对美国和整个亚洲地区至关重要。",
-          "url": "https://flash.jin10.com/detail/20260804193458245800",
+          "title": "美国财长贝森特：预计能源价格将回落。",
+          "url": "https://flash.jin10.com/detail/20260804194546553800",
           "heat": false
         },
         {
-          "title": "美国财长贝森特：（关于日元干预）如果日元贬值，其他货币也会跟随。",
-          "url": "https://flash.jin10.com/detail/20260804193441847800",
-          "heat": "✰"
-        },
-        {
-          "title": "联创光电：公司及实控人因涉嫌未按规定披露非经营性资金往来被立案",
-          "url": "https://flash.jin10.com/detail/20260804193433599800",
-          "heat": false
-        },
-        {
-          "title": "美国财长贝森特：日本是伟大的盟友。",
-          "url": "https://flash.jin10.com/detail/20260804193409953800",
-          "heat": false
-        },
-        {
-          "title": "美国财长贝森特：日本正在努力遏制日元低估问题。",
-          "url": "https://flash.jin10.com/detail/20260804193346816800",
-          "heat": false
-        },
-        {
-          "title": "据CNBC：美国财政部长贝森特就日元干预表示，我们相信他们会采取正确的政策。",
-          "url": "https://flash.jin10.com/detail/20260804193327280800",
-          "heat": "✰"
-        },
-        {
-          "title": "据CNBC：美国财政部长贝森特表示，我与对口官员保持着良好的工作关系。",
-          "url": "https://flash.jin10.com/detail/20260804193250632800",
-          "heat": "✰"
-        },
-        {
-          "title": "正在直播中",
-          "url": "https://flash.jin10.com/detail/20260804193117768800",
-          "heat": false
-        },
-        {
-          "title": "芝商所（CME）7月合约成交创下2700万份的新纪录，同比增长23%。",
-          "url": "https://flash.jin10.com/detail/20260804193052638800",
-          "heat": false
-        },
-        {
-          "title": "招商策略：A股反弹呈现\"先弹性、后景气\"特征",
-          "url": "https://flash.jin10.com/detail/20260804193029281800",
+          "title": "美国财长贝森特：仍有相当数量的船只从海湾地区驶出。",
+          "url": "https://flash.jin10.com/detail/20260804194529907800",
           "heat": false
         }
       ]
