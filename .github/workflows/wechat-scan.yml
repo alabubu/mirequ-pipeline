@@ -28,3 +28,5 @@ jobs:
             git pull --rebase origin main 2>/dev/null && git push && break
             sleep 5
           done
+      - run: |
+          curl -s -o /dev/null https://purge.jsdelivr.net/gh/alabubu/mirequ-pipeline@main/data/wechat.json || true
