@@ -19,6 +19,7 @@ jobs:
       - run: pip install requests chinese_calendar
       - run: cd scanner && python dajiala_scanner.py
       - run: cd scanner && python export_wechat.py
+      - run: cp data/wechat.json docs/
       - run: |
           git config user.name bot && git config user.email bot@m.bot
           git add scanner/ data/wechat.json
