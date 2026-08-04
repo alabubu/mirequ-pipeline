@@ -22,7 +22,7 @@ jobs:
       - run: cp data/wechat.json docs/
       - run: |
           git config user.name bot && git config user.email bot@m.bot
-          git add scanner/ data/wechat.json
+          git add scanner/ data/wechat.json docs/wechat.json
           git commit -m "wechat-scan" || true
           for i in 1 2 3; do
             git pull --rebase origin main 2>/dev/null && git push && break

@@ -21,7 +21,7 @@ jobs:
       - run: cp data/hot.json docs/ && cp data/wechat.json docs/
       - run: |
           git config user.name bot && git config user.email bot@m.bot
-          echo "$(date +%s)" > data/.ts && git add data/
+          echo "$(date +%s)" > data/.ts && git add data/ docs/
           git commit -m "data" || true
           for i in 1 2 3; do
             git pull --rebase origin main 2>/dev/null && git push && break
