@@ -1,6 +1,6 @@
 {
-  "updated": "22:05:31",
-  "total": 278,
+  "updated": "22:10:43",
+  "total": 282,
   "platforms": [
     {
       "id": "zhihu",
@@ -997,6 +997,11 @@
           "heat": ""
         },
         {
+          "title": "美股收盘：标普500再创历史新高 光通信、存储涨幅居前",
+          "url": "https://www.cls.cn/detail/2445760",
+          "heat": ""
+        },
+        {
           "title": "培育钻石颠覆行业格局 全球矿业巨头承认低估威胁、应对迟缓",
           "url": "https://www.cls.cn/detail/2445229",
           "heat": ""
@@ -1014,11 +1019,6 @@
         {
           "title": "这一波回撤，哪些基金经理成功逃顶了？",
           "url": "https://www.cls.cn/detail/2445434",
-          "heat": ""
-        },
-        {
-          "title": "美股收盘：标普500再创历史新高 光通信、存储涨幅居前",
-          "url": "https://www.cls.cn/detail/2445760",
           "heat": ""
         }
       ]
@@ -1357,8 +1357,53 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 23,
+      "count": 27,
       "items": [
+        {
+          "title": "美国财长贝森特：随着能源价格下降，我们不再面临日元过度贬值，这将有助于通胀回落，日元可以进入良性循环。",
+          "url": "https://flash.jin10.com/detail/20260805060123356800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月05日（周三）各大货币对表现",
+          "url": "https://flash.jin10.com/detail/20260805060049238800",
+          "heat": false
+        },
+        {
+          "title": "7月份大宗商品价格指数同比增长15.5%",
+          "url": "https://flash.jin10.com/detail/20260805060044369800",
+          "heat": false
+        },
+        {
+          "title": "美国财长贝森特：日本通胀上升是由于日元疲软和能源价格上涨所致。",
+          "url": "https://flash.jin10.com/detail/20260805060037838800",
+          "heat": false
+        },
+        {
+          "title": "美国撤销巴西驻美大使签证",
+          "url": "https://flash.jin10.com/detail/20260805055701659800",
+          "heat": false
+        },
+        {
+          "title": "乌克兰首都基辅等地传出强烈爆炸声",
+          "url": "https://flash.jin10.com/detail/20260805055042184800",
+          "heat": false
+        },
+        {
+          "title": "特朗普：我的真实民调正处于最好水平",
+          "url": "https://flash.jin10.com/detail/20260805054537400800",
+          "heat": false
+        },
+        {
+          "title": "文件显示：伯克希尔哈撒韦以每股均价199.55美元出售182,980股德维特股票，目前仍持有约2,870万股德维特股份。",
+          "url": "https://flash.jin10.com/detail/20260805054230578800",
+          "heat": false
+        },
+        {
+          "title": "美国国防部长赫格塞思驳斥CNN称美军在伊朗冲突期间消耗了近80%的萨德反导拦截弹。",
+          "url": "https://flash.jin10.com/detail/20260805054050371800",
+          "heat": false
+        },
         {
           "title": "特朗普政府关税退税达1000亿美元",
           "url": "https://flash.jin10.com/detail/20260805053320970800",
@@ -1447,31 +1492,6 @@
         {
           "title": "美元指数4日下跌",
           "url": "https://flash.jin10.com/detail/20260805045508425800",
-          "heat": false
-        },
-        {
-          "title": "SpaceX(SPCX.O)首席财务官：首次公开募股和债券发行改善了财务状况。",
-          "url": "https://flash.jin10.com/detail/20260805045050584800",
-          "heat": false
-        },
-        {
-          "title": "SpaceX(SPCX.O)首席运营官：第二季度是迄今为止Starlink新增用户的最佳季度。",
-          "url": "https://flash.jin10.com/detail/20260805044735668800",
-          "heat": false
-        },
-        {
-          "title": "美国至7月31日当周API精炼油库存 -123.2万桶，预期-6.7万桶，前值35.5万桶。",
-          "url": "https://flash.jin10.com/detail/20260805044614019800",
-          "heat": false
-        },
-        {
-          "title": "美国至7月31日当周API投产原油量 -11.2万桶/日，前值9.3万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260805044604335800",
-          "heat": false
-        },
-        {
-          "title": "美国至7月31日当周API成品油进口 -20.6万桶/日，前值29.7万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260805044557243800",
           "heat": false
         }
       ]
