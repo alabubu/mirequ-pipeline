@@ -1,6 +1,6 @@
 {
-  "updated": "08:50:37",
-  "total": 280,
+  "updated": "08:55:31",
+  "total": 281,
   "platforms": [
     {
       "id": "zhihu",
@@ -967,11 +967,6 @@
           "heat": ""
         },
         {
-          "title": "霍尔木兹马上开放？特朗普多次遭伊朗“打脸”，仍坚称美伊正谈判！",
-          "url": "https://www.cls.cn/detail/2444694",
-          "heat": ""
-        },
-        {
           "title": "北美“四朵云”联袂上涨！AI行情从“卖铲人”切换到“用铲人” 有哪些逻辑支撑？",
           "url": "https://www.cls.cn/detail/2444783",
           "heat": ""
@@ -984,6 +979,11 @@
         {
           "title": "日元又成了全世界的问题？当全球最关键套利交易遭“降维打击”……",
           "url": "https://www.cls.cn/detail/2445058",
+          "heat": ""
+        },
+        {
+          "title": "多家券商股东出手增持！是稳信心，更是直接开拿低价筹码",
+          "url": "https://www.cls.cn/detail/2445141",
           "heat": ""
         },
         {
@@ -1012,13 +1012,13 @@
           "heat": ""
         },
         {
-          "title": "人形机器人产业迈向订单兑现阶段 核心零部件厂商有望成为关注焦点",
-          "url": "https://www.cls.cn/detail/2444697",
+          "title": "“降温”措施见效？韩国半导体杠杆ETF的交易量明显萎缩",
+          "url": "https://www.cls.cn/detail/2445094",
           "heat": ""
         },
         {
-          "title": "美股盘后暴涨！Palantir、Snap业绩双双超预期 AI应用或迎商业化拐点",
-          "url": "https://www.cls.cn/detail/2444693",
+          "title": "一图看懂｜业绩炸场！CXO“盈利王”强势涨停带动板块修复",
+          "url": "https://www.cls.cn/detail/2445156",
           "heat": ""
         }
       ]
@@ -1357,8 +1357,73 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 25,
+      "count": 26,
       "items": [
+        {
+          "title": "阿里云容器服务Agent将开启商业化收费",
+          "url": "https://flash.jin10.com/detail/20260804165257658800",
+          "heat": false
+        },
+        {
+          "title": "今创集团：2026年上半年实现利润总额5.13亿元 同比增长20.95%",
+          "url": "https://flash.jin10.com/detail/20260804165207958800",
+          "heat": false
+        },
+        {
+          "title": "中国联合航空：明起调整国内航线旅客运输燃油附加费征收标准",
+          "url": "https://flash.jin10.com/detail/20260804165054141800",
+          "heat": false
+        },
+        {
+          "title": "中国联合航空：明起调整国内航线旅客运输燃油附加费征收标准",
+          "url": "https://flash.jin10.com/detail/20260804165052324800",
+          "heat": false
+        },
+        {
+          "title": "据阿曼国家通讯社：今日10月份交割的阿曼原油官方价格为83.51美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260804164820773800",
+          "heat": false
+        },
+        {
+          "title": "机构：二季度三星以39%的市场份额重回全球DRAM市场榜首 美光缩小差距",
+          "url": "https://flash.jin10.com/detail/20260804164752916800",
+          "heat": false
+        },
+        {
+          "title": "宇通客车：2026年7月产量为3191辆 同比减少17.1%",
+          "url": "https://flash.jin10.com/detail/20260804164720793800",
+          "heat": false
+        },
+        {
+          "title": "天山生物：7月活畜销售收入588.61万元，同比增加1021.17%",
+          "url": "https://flash.jin10.com/detail/20260804164505761800",
+          "heat": false
+        },
+        {
+          "title": "WTI原油日内涨幅达2.00%，现报80.30美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260804164330476800",
+          "heat": false
+        },
+        {
+          "title": "袭击风险升级，霍尔木兹海峡航运流量降至冰点",
+          "url": "https://flash.jin10.com/detail/20260804164207042800",
+          "heat": "✰"
+        },
+        {
+          "title": "据半岛电视台记者：黎巴嫩与以色列的谈判在罗马开始。",
+          "url": "https://flash.jin10.com/detail/20260804164144009800",
+          "heat": false
+        },
+        {
+          "title": "广汽集团：7月汽车销量11.29万辆 同比减少5.48%",
+          "url": "https://flash.jin10.com/detail/20260804164032945800",
+          "heat": false
+        },
+        {
+          "title": "广汽集团：7月汽车产量为103284辆，同比下降19.62%",
+          "url": "https://flash.jin10.com/detail/20260804164000239800",
+          "heat": false
+        },
         {
           "title": "中国香港特区政府发言人：将关注外部发展对本地消费市场的潜在影响。",
           "url": "https://flash.jin10.com/detail/20260804163636806800",
@@ -1422,66 +1487,6 @@
         {
           "title": "中国香港6月零售销售额年率 4.6%，预期8.5%，前值7.90%。",
           "url": "https://flash.jin10.com/detail/20260804163020486800",
-          "heat": false
-        },
-        {
-          "title": "《智能网联汽车 自动驾驶系统安全要求》强制性国家标准正式发布，拟于2027年7月1日起正式实施。",
-          "url": "https://flash.jin10.com/detail/20260804162948779800",
-          "heat": "✰"
-        },
-        {
-          "title": "软银：预计人工智能与云业务在2027财年前实现30%的年增长。",
-          "url": "https://flash.jin10.com/detail/20260804162933475800",
-          "heat": false
-        },
-        {
-          "title": "沙特阿美首席执行官：我们的出口依赖不仅限于海湾和红海。",
-          "url": "https://flash.jin10.com/detail/20260804162926824800",
-          "heat": false
-        },
-        {
-          "title": "据叙利亚国家通讯社：叙利亚与日本周二在大马士革举行了首轮双边政治磋商，讨论了扩大外交、经济和文化合作的途径，并就地区局势交换了意见。",
-          "url": "https://flash.jin10.com/detail/20260804162911223800",
-          "heat": false
-        },
-        {
-          "title": "瑞银：将阿迪达斯目标价由219.00欧元上调至173.00欧元，下调其买入评级至中性评级。",
-          "url": "https://flash.jin10.com/detail/20260804162835661800",
-          "heat": false
-        },
-        {
-          "title": "铜价突破1.4万美元大关，美国进口潮收紧全球供应",
-          "url": "https://flash.jin10.com/detail/20260804162645816800",
-          "heat": false
-        },
-        {
-          "title": "腾讯混元发布语音识别模型Hy ASR 3.0 preview",
-          "url": "https://flash.jin10.com/detail/20260804162613799800",
-          "heat": false
-        },
-        {
-          "title": "花旗称AI忧虑打击美股，欧洲市场风险偏好逆势回升",
-          "url": "https://flash.jin10.com/detail/20260804162047479800",
-          "heat": false
-        },
-        {
-          "title": "英国石油公司CEO：我们上市的地点真的不在议程上。",
-          "url": "https://flash.jin10.com/detail/20260804162023487800",
-          "heat": false
-        },
-        {
-          "title": "SpaceX周二美股盘后揭晓首份财报：星链、星舰、AI三大故事同时接受检验",
-          "url": "https://flash.jin10.com/detail/20260804161814308800",
-          "heat": "✰"
-        },
-        {
-          "title": "金十图示：2026年08月04日（周二）沪深港通南向资金流向",
-          "url": "https://flash.jin10.com/detail/20260804161532277800",
-          "heat": false
-        },
-        {
-          "title": "英国石油公司CEO：冲突开始时海上是有石油的，但我们正在目睹其走向枯竭。",
-          "url": "https://flash.jin10.com/detail/20260804161528478800",
           "heat": false
         }
       ]
