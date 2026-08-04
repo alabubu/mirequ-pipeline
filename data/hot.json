@@ -1,12 +1,113 @@
 {
-  "updated": "14:01:28",
-  "total": 222,
+  "updated": "14:05:40",
+  "total": 284,
   "platforms": [
     {
       "id": "zhihu",
       "name": "知乎",
-      "count": 0,
-      "items": []
+      "count": 20,
+      "items": [
+        {
+          "title": "「精神小伙」一篇《致我十年未见的妈妈》获赞 200 万，看完这篇文章你有哪些感触？",
+          "url": "https://www.zhihu.com/question/2067703500390097949",
+          "heat": "504 万热度"
+        },
+        {
+          "title": "如何评价赛力斯问界 2026 年 7 月销量严重下滑，月销量不足 21,000 辆？",
+          "url": "https://www.zhihu.com/question/2067882801500836048",
+          "heat": "485 万热度"
+        },
+        {
+          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
+          "url": "https://www.zhihu.com/question/2067873642554156045",
+          "heat": "351 万热度"
+        },
+        {
+          "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
+          "url": "https://www.zhihu.com/question/2066578072997049748",
+          "heat": "283 万热度"
+        },
+        {
+          "title": "哈啰电车突然落锁致大学生十级伤残，交警多次调取后台数据失败，数据调取为什么这么难？还能如何取证？",
+          "url": "https://www.zhihu.com/question/2065477563548546516",
+          "heat": "193 万热度"
+        },
+        {
+          "title": "电脑手机小电驴全线涨价，「打工人三件套」同步抬价，如何看待普通人被迫缴纳 AI 税？",
+          "url": "https://www.zhihu.com/question/2067576901791638083",
+          "heat": "140 万热度"
+        },
+        {
+          "title": "现在几千块钱音响的音质，是否能秒杀 90 年代初十几万的音响？",
+          "url": "https://www.zhihu.com/question/2064454034640074374",
+          "heat": "139 万热度"
+        },
+        {
+          "title": "玩了《英雄联盟》经典模式发现提莫从远古时代到现在技能组从未变化，他的技能有这么优秀吗？",
+          "url": "https://www.zhihu.com/question/2066106449541981322",
+          "heat": "130 万热度"
+        },
+        {
+          "title": "上海维也纳酒店客房遍布床虱，酒店反问为何不自行检查，卫生监督所称将立案处罚，谁的责任？床虱有哪些风险？",
+          "url": "https://www.zhihu.com/question/2067904199212232854",
+          "heat": "129 万热度"
+        },
+        {
+          "title": "「发现好多大学生不懂邮件礼仪」上热搜，你认为这有必要纳入大学课程吗？",
+          "url": "https://www.zhihu.com/question/2067004574997730697",
+          "heat": "127 万热度"
+        },
+        {
+          "title": "歼 -20 部队将「飞行二大队 20 分钟覆灭耻辱记」永久悬挂，这体现了怎样的军事管理和训练理念？",
+          "url": "https://www.zhihu.com/question/2067370559768367212",
+          "heat": "125 万热度"
+        },
+        {
+          "title": "为什么《潜伏》里面说佛龛价值连城，明明佛龛一直在潜伏寸功未立，而且换回来之后基本就是个普通特务了？",
+          "url": "https://www.zhihu.com/question/1979905139356747069",
+          "heat": "122 万热度"
+        },
+        {
+          "title": "如何看待单亲妈妈扛沙养家，孩子给同学买榴莲还训斥妈妈？面对孩子的超支消费家长该怎么沟通才能避免冲突？",
+          "url": "https://www.zhihu.com/question/2067653827646289644",
+          "heat": "119 万热度"
+        },
+        {
+          "title": "美日近 30 年来首次联手直接买入日元「围剿」空头，这是否能扭转日元长期贬值趋势？",
+          "url": "https://www.zhihu.com/question/2067234430759047586",
+          "heat": "111 万热度"
+        },
+        {
+          "title": "王楚钦男单世界排名断层第一，前五仅剩一位中国选手，国乒面临哪些挑战？",
+          "url": "https://www.zhihu.com/question/2067661424697123587",
+          "heat": "109 万热度"
+        },
+        {
+          "title": "女子举报法院执行局长骚扰索贿，官方通报通话录音确系本人，已停职，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2067920572915216640",
+          "heat": "107 万热度"
+        },
+        {
+          "title": "仅仅国科大一家在学的博士生数量已经突破了 3 万，身处一个硕博狂飙的大时代，我们的下一代该怎么办？",
+          "url": "https://www.zhihu.com/question/2065845417858819171",
+          "heat": "103 万热度"
+        },
+        {
+          "title": "如何看待《姐姐当家 2》中房主任给小女儿举办的生日宴？",
+          "url": "https://www.zhihu.com/question/2067619117528617589",
+          "heat": "102 万热度"
+        },
+        {
+          "title": "为什么很少见日本声优 cos 自己配音的角色？",
+          "url": "https://www.zhihu.com/question/267902047",
+          "heat": "96 万热度"
+        },
+        {
+          "title": "猫头鹰为什么算是猛禽？",
+          "url": "https://www.zhihu.com/question/20749909",
+          "heat": "96 万热度"
+        }
+      ]
     },
     {
       "id": "weibo",
@@ -1032,14 +1133,226 @@
     {
       "id": "ifeng",
       "name": "凤凰网",
-      "count": 0,
-      "items": []
+      "count": 12,
+      "items": [
+        {
+          "title": "日《防卫白皮书》炒作所谓“中国威胁”，中方驳斥",
+          "url": "https://news.ifeng.com/c/8vK2pL00raO",
+          "heat": ""
+        },
+        {
+          "title": "伊朗总统回应辞职传闻",
+          "url": "https://news.ifeng.com/c/8vJpAoU2QSK",
+          "heat": ""
+        },
+        {
+          "title": "以防长节目中宣布撤换高级将领，遭反对后迅速“撤回”",
+          "url": "https://news.ifeng.com/c/8vJmaX3hiCl",
+          "heat": ""
+        },
+        {
+          "title": "美财长透露与伊朗达成协议的时间",
+          "url": "https://news.ifeng.com/c/8vJy6Up6oyy",
+          "heat": ""
+        },
+        {
+          "title": "摩洛哥非法移民讲述：为何突然越境西班牙飞地？",
+          "url": "https://news.ifeng.com/c/8vJxsuOmN0m",
+          "heat": ""
+        },
+        {
+          "title": "“意大利、德国还好意思指责西班牙，太虚伪”",
+          "url": "https://news.ifeng.com/c/8vJd7d6v4Id",
+          "heat": ""
+        },
+        {
+          "title": "流亡前总理哈西娜将在印度发表视频讲话？孟加拉国回应",
+          "url": "https://news.ifeng.com/c/8vJs3MQSvYe",
+          "heat": ""
+        },
+        {
+          "title": "“和平委员会”改口，以军继续空袭加沙",
+          "url": "https://news.ifeng.com/c/8vJugFtCXbq",
+          "heat": ""
+        },
+        {
+          "title": "挑衅中国同天示好日本右翼，“菲政府反华绝非少数政客作为”",
+          "url": "https://news.ifeng.com/c/8vJTuJ7fHSL",
+          "heat": ""
+        },
+        {
+          "title": "日本多次交涉，美国不删",
+          "url": "https://news.ifeng.com/c/8vJuG3GuLfs",
+          "heat": ""
+        },
+        {
+          "title": "顶流女星拿文物当耳环，惹了众怒",
+          "url": "https://news.ifeng.com/c/8vJoP53cHYx",
+          "heat": ""
+        },
+        {
+          "title": "美兰宣告破产，旗下老牌国货上海雪花膏退场",
+          "url": "https://news.ifeng.com/c/8vJwEmL5TCl",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "toutiao",
       "name": "今日头条",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "申通快递被立案调查",
+          "url": "https://www.toutiao.com/trending/7670119765616689158/",
+          "heat": ""
+        },
+        {
+          "title": "哈尔滨中央大街已成中央大河",
+          "url": "https://www.toutiao.com/trending/7669190824923529242/",
+          "heat": ""
+        },
+        {
+          "title": "我国服务进出口总额37797.5亿元",
+          "url": "https://www.toutiao.com/trending/7669248908602687529/",
+          "heat": ""
+        },
+        {
+          "title": "歼-16南海上空“训转战”画面公开",
+          "url": "https://www.toutiao.com/trending/7669008700711157801/",
+          "heat": ""
+        },
+        {
+          "title": "四川一50岁女区委书记病逝",
+          "url": "https://www.toutiao.com/trending/7670076141069369390/",
+          "heat": ""
+        },
+        {
+          "title": "大冰直播时牙冠脱落淡定捡起装回",
+          "url": "https://www.toutiao.com/trending/7669799635478020132/",
+          "heat": ""
+        },
+        {
+          "title": "44岁爸爸被女儿激将考上985研究生",
+          "url": "https://www.toutiao.com/trending/7670086340830904362/",
+          "heat": ""
+        },
+        {
+          "title": "马斯克又悄悄做出一个独角兽",
+          "url": "https://www.toutiao.com/trending/7670012720964239402/",
+          "heat": ""
+        },
+        {
+          "title": "新疆一高速路段4车并行占道",
+          "url": "https://www.toutiao.com/trending/7670005270321430569/",
+          "heat": ""
+        },
+        {
+          "title": "“江西球王”单场轰101分",
+          "url": "https://www.toutiao.com/trending/7668995465958100499/",
+          "heat": ""
+        },
+        {
+          "title": "大连湾海底隧道能看到鲨鱼不实",
+          "url": "https://www.toutiao.com/trending/7670128145563143690/",
+          "heat": ""
+        },
+        {
+          "title": "俄太平洋舰队举行大规模军演",
+          "url": "https://www.toutiao.com/trending/7669734281677127722/",
+          "heat": ""
+        },
+        {
+          "title": "大V：李在明的选择不多了",
+          "url": "https://www.toutiao.com/trending/7670128209165291062/",
+          "heat": ""
+        },
+        {
+          "title": "印度新机场刚落成就变“游乐场”",
+          "url": "https://www.toutiao.com/trending/7669666043934277674/",
+          "heat": ""
+        },
+        {
+          "title": "白海豚再次加强为超强台风",
+          "url": "https://www.toutiao.com/trending/7669832347747156004/",
+          "heat": ""
+        },
+        {
+          "title": "中方批菲涉华声明：恶劣的政治挑衅",
+          "url": "https://www.toutiao.com/trending/7670129117417472036/",
+          "heat": ""
+        },
+        {
+          "title": "女孩被老师抚养8年后考上师范",
+          "url": "https://www.toutiao.com/trending/7670115827752501302/",
+          "heat": ""
+        },
+        {
+          "title": "河南非遗铸铁锅招学徒月薪1万5",
+          "url": "https://www.toutiao.com/trending/7669777504655163434/",
+          "heat": ""
+        },
+        {
+          "title": "专家：A股市场出现积极信号",
+          "url": "https://www.toutiao.com/trending/7670146907557891603/",
+          "heat": ""
+        },
+        {
+          "title": "婚外胚胎案三个法律问题探讨",
+          "url": "https://www.toutiao.com/trending/7669778629788434483/",
+          "heat": ""
+        },
+        {
+          "title": "俄罗斯黑海度假地被袭击有何影响",
+          "url": "https://www.toutiao.com/trending/7670135993822891526/",
+          "heat": ""
+        },
+        {
+          "title": "媒体：伪造结婚证开展辅助生殖非私事",
+          "url": "https://www.toutiao.com/trending/7668995968779878438/",
+          "heat": ""
+        },
+        {
+          "title": "青岛局地突破40℃",
+          "url": "https://www.toutiao.com/trending/7670083761568596011/",
+          "heat": ""
+        },
+        {
+          "title": "河北网友来山西避暑：不玩水都冷",
+          "url": "https://www.toutiao.com/trending/7669400979402948644/",
+          "heat": ""
+        },
+        {
+          "title": "邹市明被曝连续数月零收入",
+          "url": "https://www.toutiao.com/trending/7670098981807984170/",
+          "heat": ""
+        },
+        {
+          "title": "亲绿媒体人：民进党手段低劣",
+          "url": "https://www.toutiao.com/trending/7669840523208949796/",
+          "heat": ""
+        },
+        {
+          "title": "女生在杭州宋城景区被“盆栽”捉弄",
+          "url": "https://www.toutiao.com/trending/7669202166397861938/",
+          "heat": ""
+        },
+        {
+          "title": "梅德韦杰夫为何改口说胜利在望",
+          "url": "https://www.toutiao.com/trending/7670113584466103851/",
+          "heat": ""
+        },
+        {
+          "title": "甘肃嘉峪关酒泉机场加密往返北京航线",
+          "url": "https://www.toutiao.com/trending/7669996466574508070/",
+          "heat": ""
+        },
+        {
+          "title": "赖岳谦谈日本若介入两岸冲突如何应对",
+          "url": "https://www.toutiao.com/trending/7669439573659844635/",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "jin10",
