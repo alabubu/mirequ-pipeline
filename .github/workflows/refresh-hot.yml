@@ -18,7 +18,11 @@ jobs:
           python-version: "3.11"
       - run: pip install requests
       - run: python pipeline/fetch_hot.py
-      - run: cp data/hot.json docs/ && cp data/wechat.json docs/
+      - run: |
+          python pipeline/trend_analyze.py 2>&1
+        env:
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+      - run: cp data/hot.json docs/ && cp data/wechat.json docs/ && cp data/trend.json docs/
       - run: |
           git config user.name bot && git config user.email bot@m.bot
           echo "$(date +%s)" > data/.ts && git add data/ docs/
@@ -27,6 +31,3 @@ jobs:
             git pull --rebase origin main 2>/dev/null && git push && break
             sleep 3
           done
-      - run: |
-          curl -s -o /dev/null https://purge.jsdelivr.net/gh/alabubu/mirequ-pipeline@main/data/hot.json || true
-          curl -s -o /dev/null https://purge.jsdelivr.net/gh/alabubu/mirequ-pipeline@main/data/wechat.json || true
