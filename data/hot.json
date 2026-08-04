@@ -1,6 +1,6 @@
 {
-  "updated": "15:01:32",
-  "total": 246,
+  "updated": "15:05:29",
+  "total": 279,
   "platforms": [
     {
       "id": "zhihu",
@@ -954,14 +954,181 @@
     {
       "id": "cls-hot",
       "name": "财联社",
-      "count": 0,
-      "items": []
+      "count": 13,
+      "items": [
+        {
+          "title": "L3、L4级自动驾驶“强标”明年7月实施 明确安全主体责任、接管机制",
+          "url": "https://www.cls.cn/detail/2445436",
+          "heat": ""
+        },
+        {
+          "title": "日元又成了全世界的问题？当全球最关键套利交易遭“降维打击”……",
+          "url": "https://www.cls.cn/detail/2445058",
+          "heat": ""
+        },
+        {
+          "title": "“降温”措施见效？韩国半导体杠杆ETF的交易量明显萎缩",
+          "url": "https://www.cls.cn/detail/2445094",
+          "heat": ""
+        },
+        {
+          "title": "一图看懂｜业绩炸场！CXO“盈利王”强势涨停带动板块修复",
+          "url": "https://www.cls.cn/detail/2445156",
+          "heat": ""
+        },
+        {
+          "title": "多家券商股东出手增持！是稳信心，更是直接开拿低价筹码",
+          "url": "https://www.cls.cn/detail/2445141",
+          "heat": ""
+        },
+        {
+          "title": "股价重返2021年底！CRO龙头距历史巅峰仅差18%，这些白马也正在归队途中",
+          "url": "https://www.cls.cn/detail/2445314",
+          "heat": ""
+        },
+        {
+          "title": "美股期指全线上涨 卡特彼勒大涨逾10%领涨道指期货 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2445568",
+          "heat": ""
+        },
+        {
+          "title": "央行将开展5000亿元买断式逆回购 8月流动性面临两大扰动",
+          "url": "https://www.cls.cn/detail/2445625",
+          "heat": ""
+        },
+        {
+          "title": "【焦点复盘】科创50涨超4%终结五连阴，TMT产业链全线反攻，“易中天”三巨头均涨超13%",
+          "url": "https://www.cls.cn/detail/2445284",
+          "heat": ""
+        },
+        {
+          "title": "【每日收评】创业板指高开高走涨超5%，AI应用持续活跃，算力硬件卷土重来",
+          "url": "https://www.cls.cn/detail/2445244",
+          "heat": ""
+        },
+        {
+          "title": "霍尔木兹复航现曙光？美伊官员称伊朗与阿曼接近达成协议",
+          "url": "https://www.cls.cn/detail/2445217",
+          "heat": ""
+        },
+        {
+          "title": "培育钻石颠覆行业格局 全球矿业巨头承认低估威胁、应对迟缓",
+          "url": "https://www.cls.cn/detail/2445229",
+          "heat": ""
+        },
+        {
+          "title": "玩具公司改行当“算力房东”，高乐股份31亿算力大单砸出一字板",
+          "url": "https://www.cls.cn/detail/2445039",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "thepaper",
       "name": "澎湃新闻",
-      "count": 0,
-      "items": []
+      "count": 20,
+      "items": [
+        {
+          "title": "2026年上半年1535名纪检监察干部被处分",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33711605",
+          "heat": ""
+        },
+        {
+          "title": "邯郸中院通报“女子举报执行局长骚扰索贿”：不当言论录音属实，涉事局长停职",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33711711",
+          "heat": ""
+        },
+        {
+          "title": "“餐饮业一夜间再无大师”，中国烹饪协会回应",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33712250",
+          "heat": ""
+        },
+        {
+          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33710926",
+          "heat": ""
+        },
+        {
+          "title": "整治恶意炒作涉企信息，国家网信办公开一批典型案例",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33712034",
+          "heat": ""
+        },
+        {
+          "title": "人民日报关注：超时一分钟多收一小时？停车收费岂能“向上取整”！",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33711594",
+          "heat": ""
+        },
+        {
+          "title": "多个省份将召开省级党代会",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33711427",
+          "heat": ""
+        },
+        {
+          "title": "国家邮政局依法对申通快递有限公司立案调查",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33714700",
+          "heat": ""
+        },
+        {
+          "title": "7月楼市淡季不淡：多城成交同比保持增长，上海豪宅项目开盘日光",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33713617",
+          "heat": ""
+        },
+        {
+          "title": "工人日报社评：让骑手“等得起红灯”，构建数字时代和谐劳动关系",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33711596",
+          "heat": ""
+        },
+        {
+          "title": "抢劫杀人犯死刑改死缓被害人家属十年后才知晓，申诉已获云南省检受理",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33714213",
+          "heat": ""
+        },
+        {
+          "title": "150年来最强厄尔尼诺或将来袭，全球多地身陷“水深火热”",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33711975",
+          "heat": ""
+        },
+        {
+          "title": "高压线断裂致村民身亡村委会一审被判担责九成，死者家属和村委会提出上诉",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33712145",
+          "heat": ""
+        },
+        {
+          "title": "韦布望远镜看穿戴森球假象：所谓“外星文明巨型工程”实为天然天体物理源",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33711823",
+          "heat": ""
+        },
+        {
+          "title": "打卡中国｜原来茂名，藏着这样的山海生活",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33709994",
+          "heat": ""
+        },
+        {
+          "title": "有执法人员查获瞒报运输危险货物遭遇立案难？海口通报",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33711434",
+          "heat": ""
+        },
+        {
+          "title": "国际观察丨休达危机折射欧盟移民政策困境",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33711396",
+          "heat": ""
+        },
+        {
+          "title": "《智能网联汽车 自动驾驶系统安全要求》强制性国家标准正式发布",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33713556",
+          "heat": ""
+        },
+        {
+          "title": "活力中国调研行｜之江实验室王坚院士：人工智能应该像纸一样便宜",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33711893",
+          "heat": ""
+        },
+        {
+          "title": "存储芯片超级周期走到十字路口？",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33710840",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "ifeng",
