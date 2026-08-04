@@ -1,6 +1,6 @@
 {
-  "updated": "03:20:38",
-  "total": 282,
+  "updated": "03:25:30",
+  "total": 284,
   "platforms": [
     {
       "id": "zhihu",
@@ -606,11 +606,6 @@
           "heat": ""
         },
         {
-          "title": "性能与Anthropic Fable 5相当！阿里巴巴发布千问3.8-MAX，2.4万亿个参数，长程自动编程表现出色",
-          "url": "https://wallstreetcn.com/articles/3778546",
-          "heat": ""
-        },
-        {
           "title": "中微公司上半年净利预增282%-311%，股权投资贡献近20亿元收益，设备业务延续高增｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3778581",
           "heat": ""
@@ -626,13 +621,18 @@
           "heat": ""
         },
         {
-          "title": "韩国存储又涨价了！传统DRAM、NAND双双创多年新高",
-          "url": "https://wallstreetcn.com/articles/3778580",
+          "title": "亚马逊正式跻身3万亿美元俱乐部！AWS负责人：“与客户签五年期长期合同，需求远超供给”",
+          "url": "https://wallstreetcn.com/articles/3778603",
           "heat": ""
         },
         {
-          "title": "亚马逊正式跻身3万亿美元俱乐部！AWS负责人：“与客户签五年期长期合同，需求远超供给”",
-          "url": "https://wallstreetcn.com/articles/3778603",
+          "title": "美国7月ISM制造业PMI超预期升至四年最高，需求、生产与就业同步改善",
+          "url": "https://wallstreetcn.com/articles/3778595",
+          "heat": ""
+        },
+        {
+          "title": "韩国存储又涨价了！传统DRAM、NAND双双创多年新高",
+          "url": "https://wallstreetcn.com/articles/3778580",
           "heat": ""
         }
       ]
@@ -1352,8 +1352,93 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 28,
+      "count": 30,
       "items": [
+        {
+          "title": "日本财务大臣片山皋月：不对联合干预的有效性发表评论。",
+          "url": "https://flash.jin10.com/detail/20260804112125291800",
+          "heat": false
+        },
+        {
+          "title": "SK海力士与韩国工会就奖金问题举行谈判",
+          "url": "https://flash.jin10.com/detail/20260804111829048800",
+          "heat": false
+        },
+        {
+          "title": "特朗普声称美伊“正在”谈判，这是伊朗达成协议的“最后机会”，现货金银多头占比均接近90%，美国原油多头占优，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260804111728759800",
+          "heat": false
+        },
+        {
+          "title": "8月或有2到3个台风登陆或影响我国",
+          "url": "https://flash.jin10.com/detail/20260804111446905800",
+          "heat": false
+        },
+        {
+          "title": "瑞银：盈利韧性叠加霍尔木兹海峡逐步恢复，将为股市提供支撑",
+          "url": "https://flash.jin10.com/detail/20260804111027067800",
+          "heat": false
+        },
+        {
+          "title": "印尼财政部长：未来几周将推出针对电动车的新刺激措施，包括电动自行车。",
+          "url": "https://flash.jin10.com/detail/20260804111021841800",
+          "heat": false
+        },
+        {
+          "title": "A股免税店板块短线拉升，南宁百货涨停，东百集团、中百集团、步步高、友阿股份、岭南控股等纷纷走高。",
+          "url": "https://flash.jin10.com/detail/20260804110712565800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月04日（周二）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260804110548355800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：每日存储市场要闻速递（2026-08-04）",
+          "url": "https://flash.jin10.com/detail/20260804110317488800",
+          "heat": "✰"
+        },
+        {
+          "title": "“清朗·优化营商网络环境 整治恶意炒作涉企信息”专项行动公开曝光一批典型案例",
+          "url": "https://flash.jin10.com/detail/20260804110225349800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月04日（周二）全球富豪榜",
+          "url": "https://flash.jin10.com/detail/20260804110209215800",
+          "heat": false
+        },
+        {
+          "title": "隔夜shibor报1.3660%，下跌4.7个基点；7天shibor报1.3880%，下跌4.3个基点；3个月shibor报1.4300%，与上日持平。点击查看>>",
+          "url": "https://flash.jin10.com/detail/20260804110202027800",
+          "heat": false
+        },
+        {
+          "title": "巨力索具获5种高性能纤维缆绳DNV-MEG4基础设计证书",
+          "url": "https://flash.jin10.com/detail/20260804105828458800",
+          "heat": false
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260804105745846800",
+          "heat": "✰"
+        },
+        {
+          "title": "沃什沟通引发信任危机，小摩将美联储加息预期提前至今年12月",
+          "url": "https://flash.jin10.com/detail/20260804105723525800",
+          "heat": "✰"
+        },
+        {
+          "title": "日美联手干预后，155关口成为日元下一关键考验",
+          "url": "https://flash.jin10.com/detail/20260804105714582800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月04日（周二）全球主要科技与互联网公司市值变化",
+          "url": "https://flash.jin10.com/detail/20260804105634448800",
+          "heat": false
+        },
         {
           "title": "A股游戏板块拉升，中青宝20CM涨停，凯撒文化、大晟文化此前涨停，宝通科技、昆仑万维、冰川网络涨幅居前。",
           "url": "https://flash.jin10.com/detail/20260804105433472800",
@@ -1418,81 +1503,6 @@
           "title": "创业板指涨超4% 超3500只个股上涨",
           "url": "https://flash.jin10.com/detail/20260804104019263800",
           "heat": "✰"
-        },
-        {
-          "title": "美联储要被拉进日元战场？财长公开指挥美联储“改工具”，沃什回应暗藏玄机",
-          "url": "https://flash.jin10.com/detail/20260804103501273800",
-          "heat": "✰"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260804103219771800",
-          "heat": "✰"
-        },
-        {
-          "title": "金十期货8月4日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨500元/吨，中间价报139600元/吨。",
-          "url": "https://flash.jin10.com/detail/20260804103212812800",
-          "heat": false
-        },
-        {
-          "title": "各大银行/品牌金条价格排行一览",
-          "url": "https://flash.jin10.com/detail/20260804103104720800",
-          "heat": false
-        },
-        {
-          "title": "沪镍主力合约日内涨超2.00%，现报133250.00元/吨。",
-          "url": "https://flash.jin10.com/detail/20260804103026689800",
-          "heat": "✰"
-        },
-        {
-          "title": "KOSDAQ涨超5%触发买入侧车，机构净买入3540亿韩元",
-          "url": "https://flash.jin10.com/detail/20260804102934773800",
-          "heat": false
-        },
-        {
-          "title": "中国地震台网正式测定：08月04日10时25分在四川宜宾市高县（北纬28.53度，东经104.67度）发生3.4级地震，震源深度5千米。",
-          "url": "https://flash.jin10.com/detail/20260804102925354800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：2026年08月04日（周二）亚太市场股市指数（盘初）",
-          "url": "https://flash.jin10.com/detail/20260804102851053800",
-          "heat": false
-        },
-        {
-          "title": "日本内阁官房长官木原稔宣布，将动用242亿日元的储备资金支持熊本地震后的救援和恢复工作。",
-          "url": "https://flash.jin10.com/detail/20260804102709706800",
-          "heat": false
-        },
-        {
-          "title": "中国地震台网自动测定：08月04日10时25分在四川宜宾市高县附近（北纬28.53度，东经104.67度）发生3.3级左右地震，最终结果以正式速报为准。",
-          "url": "https://flash.jin10.com/detail/20260804102654679800",
-          "heat": false
-        },
-        {
-          "title": "日本经济财政大臣城内实：不会对具体的外汇水平发表评论，但会密切关注外汇波动对经济和价格的影响。",
-          "url": "https://flash.jin10.com/detail/20260804102500879800",
-          "heat": false
-        },
-        {
-          "title": "日本经济财政大臣城内实：希望日本央行与政府在政策指引上保持密切沟通。",
-          "url": "https://flash.jin10.com/detail/20260804102359276800",
-          "heat": false
-        },
-        {
-          "title": "中证协启动2026年券商投行业务三项质量评价，评价结果对应差异化监管安排",
-          "url": "https://flash.jin10.com/detail/20260804102343896800",
-          "heat": false
-        },
-        {
-          "title": "日本经济财政大臣城内实：希望日本央行适当实施货币政策，稳定、可持续地实现2%的通胀目标。",
-          "url": "https://flash.jin10.com/detail/20260804102215780800",
-          "heat": false
-        },
-        {
-          "title": "日本经济财政大臣城内实：政府与日本央行分享的预测显示，今年下半年消费者通胀将加速，随后将放缓。",
-          "url": "https://flash.jin10.com/detail/20260804102210564800",
-          "heat": false
         }
       ]
     }
