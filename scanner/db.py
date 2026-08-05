@@ -118,8 +118,12 @@ class ArticleDB:
             ).fetchall()
 
             if existing_all:
-                max_existing = max((r["read_count"] or 0) for r in existing_all)
-                final_read = max(max_existing, new_read)
+        max_existing = max((r["read_count"] or 0) for r in existing_all)
+        # 跳过 dajiala 部分 ghid 返回的虚假 100001
+        if new_read == 100001 and max_existing and max_existing != 100001:
+            final_read = max_existing
+        else:
+            final_read = max(max_existing, new_read)
                 conn.execute("DELETE FROM articles WHERE msg_key = ?", (msg_key,))
                 conn.execute(
                     """
