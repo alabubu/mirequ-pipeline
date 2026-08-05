@@ -146,6 +146,22 @@ class DajialaClient:
 
         return all_articles
 
+    # ---------- 精确阅读量 ----------
+
+    def get_read_count(self, url: str) -> dict:
+        """按文章 URL 获取精确阅读/点赞/在看数据"""
+        data = self._post("read_zan", {"url": url, "key": self.key})
+        if data.get("code") != 0:
+            return {"read": 0, "zan": 0, "looking": 0}
+        d = data.get("data", {})
+        self.total_cost += data.get("cost_money", 0.04)
+        self.last_balance = data.get("remain_money", self.last_balance)
+        return {
+            "read": d.get("read", 0),
+            "zan": d.get("zan", 0),
+            "looking": d.get("looking", 0),
+        }
+
     # ---------- 批量 ----------
 
     def scan_all(

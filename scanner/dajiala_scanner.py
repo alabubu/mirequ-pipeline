@@ -23,6 +23,7 @@
 import json
 import os
 import sys
+import time
 from datetime import datetime, timezone, timedelta, date
 
 from chinese_calendar import is_workday
@@ -75,7 +76,21 @@ def run_scan(target_date: str = None, force: bool = False):
     # 扫描
     client = DajialaClient(API_KEY)
     articles, summary = client.scan_all(accounts, target_date)
-    log(f"   获取: {summary['total_articles']} 篇, 消费 ¥{summary['total_cost']:.2f}")
+    log(f"   发现: {summary['total_articles']} 篇, 消费 ¥{summary['total_cost']:.2f}")
+
+    # 精确阅读量：逐篇调 read_zan
+    enrich_cost = 0.0
+    for a in articles:
+        try:
+            time.sleep(0.6)
+            info = client.get_read_count(a["url"])
+            a["read_count"] = info["read"]
+            a["zan_count"] = info["zan"]
+            enrich_cost += 0.04
+        except:
+            pass
+    if enrich_cost > 0:
+        log(f"   精确阅读量: {len(articles)} 篇, 追加 ¥{enrich_cost:.2f}")
 
     # 写入 SQLite
     db = ArticleDB()
