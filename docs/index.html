@@ -7,121 +7,107 @@
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#F5F5F7;color:#111}
-.gate{position:fixed;inset:0;background:#fff;display:flex;align-items:center;justify-content:center;z-index:9999;flex-direction:column}
-.gate-inner{text-align:center;padding:0 40px}
-.gate-inner h1{font-size:36px;font-weight:800;margin-bottom:8px;letter-spacing:-0.5px}
-.gate-inner .sub{font-size:14px;color:#999;margin-bottom:32px}
-.gate-inner input[type=password]{width:100%;max-width:260px;padding:16px 20px;border:1.5px solid #E5E5EA;border-radius:14px;font-size:18px;text-align:center;outline:none;background:#F9F9F9}
-.gate-inner input:focus{border-color:#111}
-.gate-inner .err{color:#FF3B30;font-size:13px;margin-top:8px;height:20px}
-.gate.hidden{display:none}
-.splash{position:fixed;inset:0;background:#fff;display:flex;align-items:center;justify-content:center;z-index:9998}
+.gate-screen{min-height:100vh;display:flex;align-items:center;justify-content:center;padding:24px;background:#F5F5F7}
+.gate-box{max-width:400px;width:100%;text-align:center}
+.gate-logo{width:88px;height:88px;margin:0 auto 12px;display:block;border-radius:20px}
+.gate-name{font-size:28px;font-weight:700;margin-bottom:4px}
+.gate-slogan{color:#999;font-size:13px;margin-bottom:40px}
+.gate-quote{background:#fff;border-radius:16px;padding:24px;margin-bottom:24px;box-shadow:0 1px 3px rgba(0,0,0,0.04)}
+.gate-quote-text{font-size:17px;color:#222;line-height:1.8}
+.gate-input-row{display:flex}
+.gate-input{flex:1;padding:14px 16px;border:1px solid #E5E5EA;border-radius:12px 0 0 12px;font-size:16px;outline:none;background:#fff}
+.gate-btn{padding:14px 24px;background:#111;color:#fff;border:none;border-radius:0 12px 12px 0;font-size:15px;cursor:pointer;font-weight:600}
+.gate-error{color:#FF3B30;font-size:12px;margin-top:6px;min-height:18px}
+.gate-footnote{color:#D1D1D6;font-size:11px;margin-top:40px}
+.gate-screen.hidden{display:none}
+.splash{position:fixed;inset:0;background:#fff;display:flex;align-items:center;justify-content:center;z-index:999}
 .splash-text{font-size:22px;color:#333;font-weight:500;letter-spacing:0.5px;text-align:center;padding:0 40px;animation:fadeIn .6s ease;max-width:320px}
 @keyframes fadeIn{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
-
 .app{min-height:100vh}
 .topbar{position:sticky;top:0;z-index:10;background:#fff;border-bottom:1px solid #E5E5EA}
-.topbar-row{display:flex;padding:0 24px}
-.tb-item{flex:1;text-align:center;padding:18px 0 14px;font-size:15px;color:#999;border-bottom:2px solid transparent;cursor:pointer;user-select:none;transition:color .2s}
+.topbar-row{display:flex;padding:0 16px}
+.tb-item{flex:1;text-align:center;padding:16px 0 12px;font-size:14px;color:#999;border-bottom:2px solid transparent;cursor:pointer;user-select:none}
 .tb-item.on{color:#111;font-weight:700;border-bottom-color:#111}
-.content{padding:20px 20px 40px;max-width:640px;margin:0 auto}
-
-/* section head */
-.sec-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:16px;margin-top:8px}
-.sec-title{font-size:18px;font-weight:700}
-.sec-badge{font-size:13px;color:#999}
-
-/* chips */
-.chip-grid{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:20px}
-.chip{padding:10px 20px;background:#fff;border-radius:20px;font-size:14px;font-weight:500;color:#444;cursor:pointer;user-select:none;transition:all .15s}
+.content{padding:16px 16px 40px;max-width:640px;margin:0 auto}
+.sec-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:14px;margin-top:6px}
+.sec-title{font-size:17px;font-weight:700}
+.sec-badge{font-size:12px;color:#999}
+.chip-grid{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px}
+.chip{padding:8px 16px;background:#fff;border-radius:20px;font-size:13px;font-weight:500;color:#444;cursor:pointer;user-select:none;box-shadow:0 1px 3px rgba(0,0,0,0.04);transition:all .12s}
 .chip:active{background:#111;color:#fff}
-
-/* cards */
-.card-feed{display:flex;flex-direction:column;gap:12px}
-.card{background:#fff;border-radius:16px;padding:18px 16px;display:flex;align-items:flex-start;gap:12px;cursor:pointer}
-.card-icon{width:44px;height:44px;border-radius:10px;flex-shrink:0;background:#F2F2F7;object-fit:cover}
+.card-feed{display:flex;flex-direction:column;gap:10px}
+.card{background:#fff;border-radius:14px;padding:14px 16px;display:flex;align-items:flex-start;gap:10px;cursor:pointer;box-shadow:0 1px 3px rgba(0,0,0,0.03)}
+.card-icon{width:40px;height:40px;border-radius:8px;flex-shrink:0;background:#F2F2F7;object-fit:cover}
 .card-body{flex:1;min-width:0}
-.card-title{font-size:15px;font-weight:600;line-height:1.35;overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;margin-bottom:4px}
-.card-meta{font-size:12px;color:#999}
-.card-score{font-size:11px;color:#007AFF;font-weight:600}
-.card-share{font-size:20px;color:#C7C7CC;padding:6px;flex-shrink:0;line-height:1;cursor:pointer}
-
-/* rank list */
-.rank-list{display:flex;flex-direction:column;gap:10px}
-.rank-item{background:#fff;border-radius:14px;padding:14px 16px;display:flex;align-items:flex-start;gap:12px;cursor:pointer}
-.rank-idx{font-size:16px;font-weight:700;color:#D1D1D6;min-width:28px;text-align:center;padding-top:2px}
+.card-title{font-size:14px;font-weight:600;line-height:1.35;overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;margin-bottom:2px}
+.card-meta{font-size:11px;color:#999}
+.card-score{font-size:12px;color:#007AFF;font-weight:700;min-width:28px;text-align:center;padding-top:2px}
+.card-share{font-size:18px;color:#C7C7CC;padding:4px;flex-shrink:0;line-height:1;cursor:pointer}
+.rank-list{display:flex;flex-direction:column;gap:6px}
+.rank-item{background:#fff;border-radius:12px;padding:12px 14px;display:flex;align-items:flex-start;gap:10px;cursor:pointer}
+.rank-idx{font-size:15px;font-weight:700;color:#D1D1D6;min-width:22px;text-align:center;padding-top:1px}
 .rank-idx.top3{color:#FF3B30}
 .rank-body{flex:1;min-width:0}
 .rank-title{font-size:14px;font-weight:500;line-height:1.35}
-.rank-heat{font-size:12px;color:#999;background:#F2F2F7;padding:2px 10px;border-radius:8px;display:inline-block;margin-top:6px}
-.rank-share{font-size:18px;color:#C7C7CC;padding:6px;flex-shrink:0;line-height:1;cursor:pointer}
-.rank-extras{font-size:12px;color:#999;margin-top:4px}
-
-/* insight */
-.insight-box{background:#fff;border-radius:16px;padding:20px;margin-bottom:16px;line-height:1.6;font-size:14px;color:#333}
-
-/* rising */
-.rising-chip{display:inline-flex;align-items:center;gap:4px;padding:6px 14px;background:#FF3B30;color:#fff;border-radius:14px;font-size:13px;font-weight:600;margin-right:8px;margin-bottom:8px}
-
-/* back btn */
-.back-btn{display:inline-block;padding:8px 20px;background:#fff;border-radius:16px;font-size:13px;color:#666;margin-bottom:16px;cursor:pointer}
-
+.rank-heat{font-size:11px;color:#999;background:#F2F2F7;padding:2px 8px;border-radius:8px;display:inline-block;margin-top:4px}
+.rank-extras{font-size:11px;color:#999;margin-top:2px}
+.rank-share{font-size:16px;color:#C7C7CC;padding:4px;flex-shrink:0;line-height:1;cursor:pointer}
+.insight-box{background:#fff;border-radius:14px;padding:18px;margin-bottom:14px;line-height:1.7;font-size:14px;color:#333;box-shadow:0 1px 3px rgba(0,0,0,0.03)}
+.rising-chip{display:inline-flex;align-items:center;padding:4px 10px;background:#FF3B30;color:#fff;border-radius:12px;font-size:12px;font-weight:600;margin-right:6px;margin-bottom:6px}
+.back-btn{display:inline-block;padding:6px 16px;background:#fff;border-radius:20px;font-size:12px;color:#666;margin-bottom:14px;cursor:pointer;box-shadow:0 1px 3px rgba(0,0,0,0.04)}
 .empty{text-align:center;color:#999;padding:40px 0;font-size:14px}
 .hidden{display:none!important}
 </style>
 </head>
 <body>
 
-<!-- 密码门 -->
-<div class="gate" id="gateScreen">
-  <div class="gate-inner">
-    <h1>🔍 觅热器</h1>
-    <div class="sub">全网热点实时采集</div>
-    <input type="password" id="passInput" placeholder="输入今日口令" onkeydown="if(event.key==='Enter')checkPass()" autofocus>
-    <div class="err" id="gateError"></div>
+<div id="gateScreen" class="gate-screen">
+  <div class="gate-box">
+    <img src="assets/logo.png" class="gate-logo" alt="">
+    <div class="gate-name">觅热器</div>
+    <div class="gate-slogan">全网热点实时采集</div>
+    <div class="gate-quote"><div class="gate-quote-text" id="quoteText"></div></div>
+    <div class="gate-input-row">
+      <input class="gate-input" id="passInput" placeholder="输入口令" autocomplete="off" onkeydown="if(event.key==='Enter')doLogin()">
+      <button class="gate-btn" onclick="doLogin()">进入</button>
+    </div>
+    <div class="gate-error" id="gateError"></div>
+    <div class="gate-footnote">让我们赞美马乔</div>
   </div>
 </div>
 
 <div class="app" id="appScreen" style="display:none">
-  <!-- 顶部导航 -->
   <div class="topbar"><div class="topbar-row">
     <div class="tb-item on" onclick="switchTab('daily')">每日热点</div>
     <div class="tb-item" onclick="switchTab('trend')">热点趋势</div>
     <div class="tb-item" onclick="switchTab('wc')">专项监控</div>
   </div></div>
-
   <div class="content">
 
-    <!-- ===== 每日热点 ===== -->
+    <!-- 每日热点 -->
     <div id="tabDaily">
-      <!-- 平台目录 -->
       <div class="sec-head"><span class="sec-title">📡 平台目录</span><span class="sec-badge">12 平台</span></div>
       <div class="chip-grid" id="dailyChips"></div>
-      <!-- 某平台详情 -->
       <div id="dailyPlatform" style="display:none">
         <div class="back-btn" onclick="showDailyList()">← 返回全部平台</div>
         <div class="sec-head"><span class="sec-title" id="dailyPlatName"></span></div>
         <div class="rank-list" id="dailyPlatItems"></div>
       </div>
-      <!-- 今日最热汇总 -->
       <div id="dailyList">
         <div class="sec-head"><span class="sec-title">🔥 今日最热</span><span class="sec-badge">各平台 TOP1</span></div>
         <div class="card-feed" id="dailyTopCards"></div>
       </div>
     </div>
 
-    <!-- ===== 热点趋势 ===== -->
+    <!-- 热点趋势 -->
     <div id="tabTrend" style="display:none">
-      <!-- AI 解读 -->
       <div class="insight-box" id="trendInsight"></div>
-      <!-- 升温话题 -->
-      <div style="margin-bottom:16px" id="trendRising"></div>
-      <!-- 综合榜单 -->
+      <div style="margin-bottom:14px" id="trendRising"></div>
       <div class="sec-head"><span class="sec-title">🏆 综合热度 TOP20</span><span class="sec-badge">跨平台加权</span></div>
       <div class="rank-list" id="trendTop20"></div>
     </div>
 
-    <!-- ===== 专项监控 ===== -->
+    <!-- 专项监控 -->
     <div id="tabWc" style="display:none">
       <div id="wcOverview">
         <div class="sec-head" style="margin-top:0"><span class="sec-title">📡 监控目标</span><span class="sec-badge">12 个公众号</span></div>
@@ -135,15 +121,16 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
         <div class="rank-list" id="wcDetailItems"></div>
       </div>
     </div>
-
   </div>
 </div>
 
 <script>
-var QUOTES = ['幸福的家庭都相似','人是一根会思考的芦苇','生而为人我很抱歉','所有真理都是简单的','冬天来了春天还会远吗','世界属于勇敢者','我思故我在','一切过往皆为序章','活着就是为了改变世界','时间终会给出答案','不疯魔不成活','我命由我不由天','长风破浪会有时','千里共婵娟','海内存知己','会当凌绝顶','天生我材必有用','此心安处是吾乡','面朝大海春暖花开','心有猛虎细嗅蔷薇','Stay hungry stay foolish','Done is better than perfect','Less is more','Think different','天下难事必作于易','知行合一','慢就是快','求真务实','Talk is cheap show me the code','世界是个草台班子','尊重祝福','人间清醒','格局打开','稳住别浪','听劝','有点东西','做减法','身体最重要'];
+var QUOTES = ['幸福的家庭都相似','人是一根会思考的芦苇','生而为人我很抱歉','所有真理都是简单的','冬天来了春天还会远吗','世界属于勇敢者','人不能两次踏进同一条河','我思故我在','一切过往皆为序章','活着就是为了改变世界','时间终会给出答案','每个人都是自己的岛','愿原力与你同在','不疯魔不成活','Tomorrow is another day','我命由我不由天','让子弹飞一会儿','世界上只有一种真正的英雄主义','长夜将尽真理永存','希望是件好东西','不自由毋宁死','长风破浪会有时','千里共婵娟','海内存知己','会当凌绝顶','大江东去','山高月小','春风又绿江南岸','行到水穷处坐看云起时','身如不系之舟','人生若只如初见','不畏浮云遮望眼','一蓑烟雨任平生','天生我材必有用','此心安处是吾乡','面朝大海春暖花开','心有猛虎细嗅蔷薇','Stay hungry stay foolish','Done is better than perfect','Less is more','Think different'];
 var todayQuote = QUOTES[Math.floor(Date.now()/3600000)%QUOTES.length];
+document.getElementById('quoteText').textContent = todayQuote;
+
 function norm(s){return s.replace(/\s/g,'').toLowerCase()}
-function checkPass(){
+function doLogin(){
   if(norm(document.getElementById('passInput').value.trim())===norm(todayQuote)){
     document.getElementById('gateError').textContent='';
     document.getElementById('gateScreen').innerHTML='<div class="splash"><div class="splash-text">'+todayQuote+'</div></div>';
@@ -176,29 +163,23 @@ function switchTab(tab){curTab=tab;curPlatform=null;curWcAccount=null;
   var tabs=document.querySelectorAll('.tb-item');tabs[0].className='tb-item'+(tab==='daily'?' on':'');tabs[1].className='tb-item'+(tab==='trend'?' on':'');tabs[2].className='tb-item'+(tab==='wc'?' on':'');
 }
 
-// ===== 每日热点 =====
+function getIconId(id){var m={'bilibili-hot-search':'bilibili','wallstreetcn-hot':'wallstreetcn','cls-hot':'cls'};return m[id]||id}
+
 function renderDaily(){
   if(!hotData||!hotData.platforms)return;
   var chips=document.getElementById('dailyChips'),top=document.getElementById('dailyTopCards');
   chips.innerHTML='';top.innerHTML='';
-
   hotData.platforms.forEach(function(p){
     var div=document.createElement('div');div.className='chip';div.textContent=p.name;
     div.onclick=function(){showDailyPlatform(p)};chips.appendChild(div);
-
     var item=p.items&&p.items[0];
     if(item){
-      var icon='<img src="https://raw.githubusercontent.com/alabubu/mirequ-pipeline/main/docs/'+getIconId(p.id)+'.png" class="card-icon" onerror="this.style.display=\'none\'">';
+      var icon='<img src="assets/'+getIconId(p.id)+'.png" class="card-icon" onerror="this.style.display=\'none\'">';
       var c=document.createElement('div');c.className='card';c.onclick=function(){copyUrl(item.url)};
       c.innerHTML=icon+'<div class="card-body"><div class="card-title">'+esc(item.title)+'</div><div class="card-meta">'+esc(p.name)+'</div></div><div class="card-share" onclick="event.stopPropagation();shareItem(\''+esc(item.title)+'\',\''+(item.url||'')+'\')">↗</div>';
       top.appendChild(c);
     }
   });
-}
-
-function getIconId(id){
-  var m={bilibili:'bilibili-hot-search',wallstreetcn:'wallstreetcn-hot',cls:'cls-hot'};
-  return m[id]||id;
 }
 
 function showDailyPlatform(p){
@@ -213,33 +194,24 @@ function showDailyPlatform(p){
   });
 }
 
-function showDailyList(){
-  document.getElementById('dailyPlatform').style.display='none';
-  document.getElementById('dailyList').style.display='block';
-}
+function showDailyList(){document.getElementById('dailyPlatform').style.display='none';document.getElementById('dailyList').style.display='block'}
 
-// ===== 热点趋势 =====
 function renderTrend(){
   if(!trendData)return;
   document.getElementById('trendInsight').innerHTML=trendData.insight?'💡 '+esc(trendData.insight).replace(/\n/g,'<br>'):'';
-  
   var rising=document.getElementById('trendRising');rising.innerHTML='';
   (trendData.rising||[]).forEach(function(r){
-    var chip=document.createElement('span');chip.className='rising-chip';
-    chip.textContent='🔥 '+r.platforms+'平台';
-    rising.appendChild(chip);
+    var chip=document.createElement('span');chip.className='rising-chip';chip.textContent='🔥 '+r.platforms+'平台';rising.appendChild(chip);
     rising.appendChild(document.createTextNode(' '+r.title+' '));
   });
-
   var top20=document.getElementById('trendTop20');top20.innerHTML='';
   (trendData.top20||[]).forEach(function(t,i){
     var r=document.createElement('div');r.className='rank-item';
-    r.innerHTML='<span class="rank-idx'+(i<3?' top3':'')+'">'+(i+1)+'</span><div class="rank-body"><div class="rank-title" onclick="copyUrl(\''+(t.url||'')+'\')">'+esc(t.title)+'</div><div class="rank-extras">'+esc(t.platform_list.join(' · '))+' | 第'+t.best_rank+'名</div></div><div class="card-score" style="font-size:14px">'+Math.round(t.score*100)+'</div>';
+    r.innerHTML='<span class="rank-idx'+(i<3?' top3':'')+'">'+(i+1)+'</span><div class="rank-body"><div class="rank-title" onclick="copyUrl(\''+(t.url||'')+'\')">'+esc(t.title)+'</div><div class="rank-extras">'+esc((t.platform_list||[]).join(' · '))+' | 第'+t.best_rank+'名</div></div><div class="card-score">'+Math.round(t.score*100)+'</div>';
     top20.appendChild(r);
   });
 }
 
-// ===== 专项监控 =====
 function renderWc(){
   if(!wcData||!wcData.articles)return;
   var chips=document.getElementById('wcChips');chips.innerHTML='';
@@ -250,7 +222,7 @@ function renderWc(){
   var top100k=wcData.top100k||[];
   document.getElementById('wc100kCount').textContent=top100k.length+' 篇';
   var list=document.getElementById('wc100kList');list.innerHTML='';
-  top100k.forEach(function(a,i){
+  top100k.forEach(function(a){
     var c=document.createElement('div');c.className='card';c.onclick=function(){copyUrl(a.url)};
     c.innerHTML='<div class="card-body"><div class="card-title">'+esc(a.title)+'</div><div class="card-meta">'+esc(a.account)+' · 100000+</div></div><div class="card-share" onclick="event.stopPropagation();shareItem(\''+esc(a.title)+'\',\''+(a.url||'')+'\')">↗</div>';
     list.appendChild(c);
@@ -264,20 +236,17 @@ function showWcDetail(a){
   var items=document.getElementById('wcDetailItems');items.innerHTML='';
   var arts=wcData.articles.filter(function(x){return x.account===a});
   arts.forEach(function(x,i){
-    var r=document.createElement('div');r.className='rank-item';
     var rc=x.read_count>=100000?'100000+':(x.read_count||0);
+    var r=document.createElement('div');r.className='rank-item';
     r.innerHTML='<span class="rank-idx">'+(i+1)+'</span><div class="rank-body"><div class="rank-title" onclick="copyUrl(\''+(x.url||'')+'\')">'+esc(x.title)+'</div><span class="rank-heat">阅读 '+rc+'</span></div><div class="rank-share" onclick="shareItem(\''+esc(x.title)+'\',\''+(x.url||'')+'\')">↗</div>';
     items.appendChild(r);
   });
   if(!arts.length)items.innerHTML='<div class="empty">暂无当日文章</div>';
 }
 
-function showWcOverview(){
-  document.getElementById('wcDetail').style.display='none';
-  document.getElementById('wcOverview').style.display='block';
-}
+function showWcOverview(){document.getElementById('wcDetail').style.display='none';document.getElementById('wcOverview').style.display='block'}
 
-function esc(s){return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;')}
+function esc(s){return(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;')}
 function copyUrl(url){
   if(!url){alert('暂无链接');return}
   navigator.clipboard.writeText(url).then(function(){alert('链接已复制，请在浏览器打开')}).catch(function(){prompt('复制链接:',url)})
