@@ -1,6 +1,6 @@
 {
-  "updated": "00:35:32",
-  "total": 283,
+  "updated": "00:38:58",
+  "total": 278,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,146 +1357,121 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 28,
+      "count": 23,
       "items": [
         {
-          "title": "MSCI亚太指数上涨1%至270.79点。",
-          "url": "https://flash.jin10.com/detail/20260805080713680800",
+          "title": "日本7月服务业PMI终值 51.2，前值51.9。",
+          "url": "https://flash.jin10.com/detail/20260805083002318800",
           "heat": false
         },
         {
-          "title": "日经225指数日内涨幅达2.00%。",
-          "url": "https://flash.jin10.com/detail/20260805080637173800",
+          "title": "日本7月综合PMI终值 52.7，前值53.1。",
+          "url": "https://flash.jin10.com/detail/20260805083002271800",
+          "heat": false
+        },
+        {
+          "title": "中国香港7月标普全球制造业PMI 51，前值52。",
+          "url": "https://flash.jin10.com/detail/20260805083002252800",
+          "heat": false
+        },
+        {
+          "title": "韩国交易所启动韩国KOSPI指数的侧车机制，程序化交易暂停。",
+          "url": "https://flash.jin10.com/detail/20260805082829985800",
+          "heat": false
+        },
+        {
+          "title": "美联储施密德：剔除能源通胀仍过高 供需失衡才是通胀根源",
+          "url": "https://flash.jin10.com/detail/20260805082712575800",
+          "heat": false
+        },
+        {
+          "title": "期货盯盘神器专属文章",
+          "url": "https://flash.jin10.com/detail/20260805082703485800",
           "heat": "✰"
         },
         {
-          "title": "日本央行会议纪要：一名委员表示，中长期通胀预期正开始变化，市场盈亏平衡通胀率已升至2%以上。",
-          "url": "https://flash.jin10.com/detail/20260805080602946800",
+          "title": "美联储施密德：勿因单月数据乐观过早放松警惕",
+          "url": "https://flash.jin10.com/detail/20260805082403717800",
           "heat": false
         },
         {
-          "title": "2028年FOMC票委、堪萨斯联储主席施密德将于十分钟后就美联储、货币政策与农业经济前景发表。",
-          "url": "https://flash.jin10.com/detail/20260805080500000800",
+          "title": "美联储施密德：需要更紧缩的货币政策以压低通胀",
+          "url": "https://flash.jin10.com/detail/20260805082346204800",
+          "heat": false
+        },
+        {
+          "title": "日经225指数日内上涨3.00%，现报65948.00点。",
+          "url": "https://flash.jin10.com/detail/20260805082325774800",
           "heat": "✰"
         },
         {
-          "title": "日本央行会议纪要：内阁办公室代表表示，希望日本央行在制定政策时能适当考虑政府在促进危机管理和增长领域投资方面的努力。",
-          "url": "https://flash.jin10.com/detail/20260805080336085800",
-          "heat": false
-        },
-        {
-          "title": "据韩国媒体：韩国2027年最低时薪定为10700韩元，较今年上涨3.7%。",
-          "url": "https://flash.jin10.com/detail/20260805080314775800",
-          "heat": false
-        },
-        {
-          "title": "日本央行会议纪要：数名委员表示，关于央行缩减购债规模的讨论目前聚焦于规模，但重要性很可能将转向所购国债的期限。",
-          "url": "https://flash.jin10.com/detail/20260805080208587800",
-          "heat": false
-        },
-        {
-          "title": "韩国股指高开3.8%",
-          "url": "https://flash.jin10.com/detail/20260805080124045800",
+          "title": "新闻交易员：霍尔木兹看似要通了，真正的雷还没清完",
+          "url": "https://flash.jin10.com/detail/20260805082033272800",
           "heat": "✰"
         },
         {
-          "title": "日本央行会议纪要：一名成员表示，日本央行必须在某个时点着眼经济与金融形势，寻求适当的准备金水平。",
-          "url": "https://flash.jin10.com/detail/20260805080009356800",
+          "title": "美联储施密德：对于假设通胀爆发将是暂时性的感到不安。我们的通胀问题不仅仅关乎能源。",
+          "url": "https://flash.jin10.com/detail/20260805081614121800",
           "heat": false
         },
         {
-          "title": "日本央行会议纪要：部分成员表示，日本央行暂停缩减债券购买的决定并非出于对财政政策的考虑，而是为了避免债券市场的不稳定。",
-          "url": "https://flash.jin10.com/detail/20260805075923068800",
+          "title": "美联储施密德：近期能源价格的缓解可能是暂时的。",
+          "url": "https://flash.jin10.com/detail/20260805081601983800",
           "heat": false
         },
         {
-          "title": "日本央行会议纪要：一名成员表示，日本央行必须以大约每几个月一次的速度加息。",
-          "url": "https://flash.jin10.com/detail/20260805075559013800",
+          "title": "美联储施密德：人工智能投资正在推高通胀，美联储不应忽视这一点。",
+          "url": "https://flash.jin10.com/detail/20260805081559060800",
           "heat": false
         },
         {
-          "title": "日本央行会议纪要：部分成员表示，日本央行必须维持指引，若经济和价格走势符合其预测，将继续加息。",
-          "url": "https://flash.jin10.com/detail/20260805075518884800",
+          "title": "美联储施密德：个人消费支出价格指数是衡量通胀的最佳方式。",
+          "url": "https://flash.jin10.com/detail/20260805081555706800",
           "heat": false
         },
         {
-          "title": "日本央行会议纪要：一名成员表示，将日本央行的政策利率调整至更接近中性水平，有助于实现长期的经济和价格稳定。",
-          "url": "https://flash.jin10.com/detail/20260805075517297800",
+          "title": "美联储施密德：美联储不应忽视通胀，即使是由供应冲击引起的。",
+          "url": "https://flash.jin10.com/detail/20260805081553734800",
           "heat": false
         },
         {
-          "title": "日本央行会议纪要：成员一致认为日本央行继续加息是合适的。",
-          "url": "https://flash.jin10.com/detail/20260805075512494800",
+          "title": "美联储施密德：就业市场似乎大致平衡。",
+          "url": "https://flash.jin10.com/detail/20260805081542128800",
           "heat": false
         },
         {
-          "title": "日本央行会议纪要：一名成员表示，日本的实际利率在全球标准中异常低，考虑到通胀上行风险，必须进行调整。",
-          "url": "https://flash.jin10.com/detail/20260805075447618800",
+          "title": "美联储施密德：欢迎近期的通胀数据，但现在说是否放缓还为时尚早。",
+          "url": "https://flash.jin10.com/detail/20260805081538363800",
           "heat": false
         },
         {
-          "title": "日本央行会议纪要：多数委员认为经济正按照基准情景运行，但基础通胀存在可能超过日本央行2%目标的风险",
-          "url": "https://flash.jin10.com/detail/20260805075441507800",
+          "title": "美联储施密德：整体经济表现良好，增长韧性强。",
+          "url": "https://flash.jin10.com/detail/20260805081536223800",
           "heat": false
         },
         {
-          "title": "日本央行6月会议纪要：一名成员表示，外汇因素正在推高进口价格，给小型企业带来困扰。",
-          "url": "https://flash.jin10.com/detail/20260805075434678800",
-          "heat": false
-        },
-        {
-          "title": "金十数据中心工具",
-          "url": "https://flash.jin10.com/detail/20260805075211432800",
-          "heat": false
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260805075012634800",
+          "title": "美联储施密德：美联储当前的政策立场并不具限制性。",
+          "url": "https://flash.jin10.com/detail/20260805081535330800",
           "heat": "✰"
         },
         {
-          "title": "市场消息：在阿根廷总统米莱再次攻击巴西总统卢拉后，巴西大使将不返回阿根廷。",
-          "url": "https://flash.jin10.com/detail/20260805074552778800",
+          "title": "美联储施密德：通胀过高，令人担忧。",
+          "url": "https://flash.jin10.com/detail/20260805081528421800",
           "heat": false
         },
         {
-          "title": "美媒：美防长游说共和党支持军费扩张",
-          "url": "https://flash.jin10.com/detail/20260805074539813800",
-          "heat": false
-        },
-        {
-          "title": "市场消息：巴西通知阿根廷大使，双方关系降级至代办级别。",
-          "url": "https://flash.jin10.com/detail/20260805074522293800",
+          "title": "美联储施密德：需要更紧缩的货币政策以将通胀恢复至2%的目标。",
+          "url": "https://flash.jin10.com/detail/20260805081513471800",
           "heat": "✰"
         },
         {
-          "title": "霍尔木兹解封出现新方案：伊朗考虑让欧洲排雷，欧洲或为重开海峡买单",
-          "url": "https://flash.jin10.com/detail/20260805074222095800",
-          "heat": "✰"
-        },
-        {
-          "title": "美国财长贝森特：对日本央行行长植田和男充满信心，他非常了解市场。",
-          "url": "https://flash.jin10.com/detail/20260805074154098800",
+          "title": "日本央行会议纪要：一名成员表示，日本通胀有可能向薪资传导。",
+          "url": "https://flash.jin10.com/detail/20260805081342194800",
           "heat": false
         },
         {
-          "title": "美国财长贝森特：许多亚洲货币目前跟随日元走势，例如韩元。",
-          "url": "https://flash.jin10.com/detail/20260805074133027800",
-          "heat": false
-        },
-        {
-          "title": "现货价格",
-          "url": "https://flash.jin10.com/detail/20260805073950013800",
-          "heat": false
-        },
-        {
-          "title": "现货价格",
-          "url": "https://flash.jin10.com/detail/20260805073928772800",
-          "heat": false
-        },
-        {
-          "title": "马斯克称下周发布Grok 4.6，SpaceX全量数据将用于模型训练",
-          "url": "https://flash.jin10.com/detail/20260805073748593800",
+          "title": "中信建投8月行业配置报告：定价回归基本面 把握成长修复窗口",
+          "url": "https://flash.jin10.com/detail/20260805081151198800",
           "heat": false
         }
       ]
