@@ -1,6 +1,6 @@
 {
-  "updated": "07:15:30",
-  "total": 277,
+  "updated": "07:20:37",
+  "total": 280,
   "platforms": [
     {
       "id": "zhihu",
@@ -962,11 +962,6 @@
           "heat": ""
         },
         {
-          "title": "美股收盘：标普500再创历史新高 光通信、存储涨幅居前",
-          "url": "https://www.cls.cn/detail/2445760",
-          "heat": ""
-        },
-        {
           "title": "错把“8416万元”写成“亿元”，上市券商回购公告闹乌龙",
           "url": "https://www.cls.cn/detail/2446105",
           "heat": ""
@@ -1019,6 +1014,11 @@
         {
           "title": "马斯克向科技界“投下炸弹”：SpaceX只用英伟达GPU，因为性能最佳！",
           "url": "https://www.cls.cn/detail/2445835",
+          "heat": ""
+        },
+        {
+          "title": "接力四大行，地方中小银行7月密集上新大额存单，最长3年期，最高年化1.9%",
+          "url": "https://www.cls.cn/detail/2445952",
           "heat": ""
         }
       ]
@@ -1357,8 +1357,93 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 22,
+      "count": 25,
       "items": [
+        {
+          "title": "金十图示：北京时间8月5日22:00将有欧美、美日、镑美、澳美等外汇期权大单到期，6个行权价10亿以上大单，敬请管理风险。",
+          "url": "https://flash.jin10.com/detail/20260805151702908800",
+          "heat": false
+        },
+        {
+          "title": "国债期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20260805151617548800",
+          "heat": false
+        },
+        {
+          "title": "西班牙7月综合PMI 56.5，前值53.3。",
+          "url": "https://flash.jin10.com/detail/20260805151610242800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：A股每日市场要闻回顾（2026-08-05）",
+          "url": "https://flash.jin10.com/detail/20260805151517214800",
+          "heat": "✰"
+        },
+        {
+          "title": "西班牙7月服务业PMI 58.3，预期54.9，前值54.2。",
+          "url": "https://flash.jin10.com/detail/20260805151502203800",
+          "heat": false
+        },
+        {
+          "title": "英国10年期国债收益率跌至4.889%，创逾3周新低。",
+          "url": "https://flash.jin10.com/detail/20260805151420832800",
+          "heat": false
+        },
+        {
+          "title": "黄金Registered库存减少246378.073盎司，去注册化趋势明显｜黄金库存日报上新",
+          "url": "https://flash.jin10.com/detail/20260805151416688800",
+          "heat": "✰"
+        },
+        {
+          "title": "乌称基辅地区遭袭致多人伤亡 俄称打击乌运输和物流中心",
+          "url": "https://flash.jin10.com/detail/20260805151355971800",
+          "heat": false
+        },
+        {
+          "title": "东山精密回应美国拟禁止进口中国光模块传闻：目前仅为市场消息",
+          "url": "https://flash.jin10.com/detail/20260805151233767800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月05日（周三）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260805151149768800",
+          "heat": false
+        },
+        {
+          "title": "现货钯金涨近3%，报1392.15美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260805151049274800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月05日（周三）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20260805151023338800",
+          "heat": false
+        },
+        {
+          "title": "胡塞武装称击中沙特油轮，红海航运风险升温",
+          "url": "https://flash.jin10.com/detail/20260805150809969800",
+          "heat": "✰"
+        },
+        {
+          "title": "A股收评：科创50指数涨4.78% 存储芯片、贵金属概念走强",
+          "url": "https://flash.jin10.com/detail/20260805150702130800",
+          "heat": "✰"
+        },
+        {
+          "title": "欧洲斯托克600矿业板块开盘上涨1.5%。",
+          "url": "https://flash.jin10.com/detail/20260805150656711800",
+          "heat": false
+        },
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流入504.70亿元，占比1.9%；大单资金净流入44.73亿元，占比0.17%；小单资金净流出187.40亿元，占比0.7%。",
+          "url": "https://flash.jin10.com/detail/20260805150643224800",
+          "heat": false
+        },
+        {
+          "title": "中微公司增资至9.58亿 增幅约53%",
+          "url": "https://flash.jin10.com/detail/20260805150508878800",
+          "heat": false
+        },
         {
           "title": "中国上证综指8月5日（周三）收盘上涨56.15点，涨幅：1.47%，报3878.43点；<br/>中国深证成指8月5日（周三）收盘上涨258.49点，涨幅：1.86%，报14144.2点；<br/>中国沪深300指数8月5日（周三）收盘上涨57.22点，涨幅：1.24%，报4658.15点；<br/>中国创业板指数8月5日（周三）收盘上涨46.18点，涨幅：1.32%，报3535.14点；<br/>中国科创50指数8月5日（周三）收盘上涨77.31点，涨幅：4.78%，报1693.67点。",
           "url": "https://flash.jin10.com/detail/20260805150249177800",
@@ -1398,76 +1483,6 @@
           "title": "股指期货午盘收盘",
           "url": "https://flash.jin10.com/detail/20260805150105579800",
           "heat": false
-        },
-        {
-          "title": "午盘收盘，国内期货主力合约涨多跌少，铂涨超9%，钯涨超8%，沪银涨超7%，尿素、焦煤、沪金涨超3%，沪铅、碳酸锂涨超2%。跌幅方面，集运欧线跌超9%，乙二醇（EG）跌超6%，SC原油跌近6%，纯苯跌超5%，苯乙烯（EB）跌近5%，瓶片、液化石油气（LPG）、丙烯跌超4%。",
-          "url": "https://flash.jin10.com/detail/20260805150025317800",
-          "heat": "✰"
-        },
-        {
-          "title": "泰国商业部：今年大米出口目标维持在700万吨。",
-          "url": "https://flash.jin10.com/detail/20260805145611431800",
-          "heat": false
-        },
-        {
-          "title": "A股磷肥及磷化工板块尾盘走高，澄星股份涨停，川金诺、六国化工、川发龙蟒、云天化、兴发集团跟涨。",
-          "url": "https://flash.jin10.com/detail/20260805145430343800",
-          "heat": false
-        },
-        {
-          "title": "金十数据整理：每日电动车行业动态汇总（2026-08-05）",
-          "url": "https://flash.jin10.com/detail/20260805145428802800",
-          "heat": "✰"
-        },
-        {
-          "title": "苹果压价策略失效，长鑫存储拒绝低价",
-          "url": "https://flash.jin10.com/detail/20260805144823656800",
-          "heat": false
-        },
-        {
-          "title": "铜价飙升叠加能源交易火爆，嘉能可利润大幅跃升",
-          "url": "https://flash.jin10.com/detail/20260805144822309800",
-          "heat": false
-        },
-        {
-          "title": "韩国统一部建议修改对朝称呼 李在明称仍有争议",
-          "url": "https://flash.jin10.com/detail/20260805144806270800",
-          "heat": false
-        },
-        {
-          "title": "东方空间：已启动IPO辅导准备工作",
-          "url": "https://flash.jin10.com/detail/20260805144755845800",
-          "heat": false
-        },
-        {
-          "title": "黄金突破4150创半月新高，空头的“包围圈”濒临失效——增强版同步发布！",
-          "url": "https://flash.jin10.com/detail/20260805144746101800",
-          "heat": "✰"
-        },
-        {
-          "title": "印度央行行长：拟议的贷款利率规则旨在整合各监管机构的规定。",
-          "url": "https://flash.jin10.com/detail/20260805144652983800",
-          "heat": false
-        },
-        {
-          "title": "法国6月制造业产出年率 -1.7%，前值2.50%。",
-          "url": "https://flash.jin10.com/detail/20260805144559953800",
-          "heat": false
-        },
-        {
-          "title": "法国6月制造业产出月率 -1.1%，前值-1.00%。",
-          "url": "https://flash.jin10.com/detail/20260805144553420800",
-          "heat": false
-        },
-        {
-          "title": "法国6月工业产出年率 -0.1%，前值3.20%。",
-          "url": "https://flash.jin10.com/detail/20260805144544470800",
-          "heat": false
-        },
-        {
-          "title": "法国6月工业产出月率 0.1%，预期0.3%，前值-0.10%。",
-          "url": "https://flash.jin10.com/detail/20260805144502251800",
-          "heat": "✰"
         }
       ]
     }
