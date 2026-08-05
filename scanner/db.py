@@ -118,21 +118,13 @@ class ArticleDB:
             ).fetchall()
 
             if existing_all:
-                # 收集所有值 + 新值，排除天花板值 100001
+                # 排除天花板值 100001，取真实值中的最高
                 all_vals = [(r["read_count"] or 0) for r in existing_all] + [new_read]
                 real_vals = [v for v in all_vals if v != 100001]
                 if real_vals:
-                    # 有真实值 → 取最高真值
                     final_read = max(real_vals)
                 else:
-                    # 全是 100001
-                    # 只有存在一个 >0 且非 100001 的历史值（说明之前见过真实增长），才认 10万+
-                    max_real_ever = max((r["read_count"] or 0) for r in existing_all if (r["read_count"] or 0) not in (0, 100001))
-                    if max_real_ever:
-                        final_read = 100001
-                    else:
-                        # 从头到尾都是 100001，不可信，清零等下次扫描纠正
-                        final_read = 0
+                    final_read = 100001  # 全员一致，认 10万+
                 conn.execute("DELETE FROM articles WHERE msg_key = ?", (msg_key,))
                 conn.execute(
                     """
@@ -156,6 +148,8 @@ class ArticleDB:
                 )
                 return False
             else:
+                # 新文章：100001 不可信，下次扫描纠正
+                safe_read = 0 if new_read == 100001 else new_read
                 conn.execute(
                     """
                     INSERT INTO articles (
@@ -168,7 +162,7 @@ class ArticleDB:
                     """,
                     (
                         account_name, msg_id, msg_key, url, title, publish_time,
-                        new_read,
+                        safe_read,
                         stats.get("like_count", 0), stats.get("wonderful_count", 0),
                         stats.get("share_count", 0), stats.get("collect_count", 0),
                         stats.get("comment_count", 0),
