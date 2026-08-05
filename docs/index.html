@@ -102,8 +102,9 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
     <!-- 热点趋势 -->
     <div id="tabTrend" style="display:none">
       <div class="insight-box" id="trendInsight"></div>
-      <div style="margin-bottom:14px" id="trendRising"></div>
-      <div class="sec-head"><span class="sec-title">🏆 综合热度 TOP20</span><span class="sec-badge">跨平台加权</span></div>
+      <div class="sec-head"><span class="sec-title">📈 升温话题</span><span class="sec-badge">跨平台出现</span></div>
+      <div class="trend-rising" id="trendRising"></div>
+      <div class="sec-head" style="margin-top:20px"><span class="sec-title">🏆 综合热度 TOP20</span><span class="sec-badge">排名×频率×热度</span></div>
       <div class="rank-list" id="trendTop20"></div>
     </div>
 
@@ -198,14 +199,18 @@ function showDailyList(){document.getElementById('dailyPlatform').style.display=
 
 function renderTrend(){
   if(!trendData)return;
-  document.getElementById('trendInsight').innerHTML=trendData.insight?'💡 '+esc(trendData.insight).replace(/\n/g,'<br>'):'';
+  document.getElementById('trendInsight').innerHTML=trendData.insight&&trendData.insight.length>20?'<div style="font-size:13px;color:#999;margin-bottom:8px">💡 AI 趋势洞察</div><div style="line-height:1.8;color:#333">'+esc(trendData.insight).replace(/\n/g,'<br>')+'</div>':'<div style="color:#999;text-align:center">AI 分析生成中...</div>';
   var rising=document.getElementById('trendRising');rising.innerHTML='';
-  (trendData.rising||[]).forEach(function(r){
-    var chip=document.createElement('span');chip.className='rising-chip';chip.textContent='🔥 '+r.platforms+'平台';rising.appendChild(chip);
-    rising.appendChild(document.createTextNode(' '+r.title+' '));
-  });
+  if(!trendData.rising||!trendData.rising.length){rising.innerHTML='<div class="empty">暂无跨平台话题</div>'}
+  else{(trendData.rising).forEach(function(r){
+    var item=document.createElement('div');
+    item.className='card';item.style.cursor='default';
+    item.innerHTML='<span class="card-score" style="background:#FFF1F0;color:#FF3B30;border-radius:8px;padding:4px 10px;font-size:12px;min-width:56px">'+r.platforms+'平台</span><div class="card-body"><div class="card-title">'+esc(r.title)+'</div><div class="card-meta">'+esc((r.platform_list||[]).join(' · '))+' | 原排名 #'+r.best_rank+'</div></div>';
+    rising.appendChild(item);
+  });}
   var top20=document.getElementById('trendTop20');top20.innerHTML='';
-  (trendData.top20||[]).forEach(function(t,i){
+  if(!trendData.top20||!trendData.top20.length){top20.innerHTML='<div class="empty">暂无数据</div>';return}
+  (trendData.top20).forEach(function(t,i){
     var r=document.createElement('div');r.className='rank-item';
     r.innerHTML='<span class="rank-idx'+(i<3?' top3':'')+'">'+(i+1)+'</span><div class="rank-body"><div class="rank-title" onclick="copyUrl(\''+(t.url||'')+'\')">'+esc(t.title)+'</div><div class="rank-extras">'+esc((t.platform_list||[]).join(' · '))+' | 第'+t.best_rank+'名</div></div><div class="card-score">'+Math.round(t.score*100)+'</div>';
     top20.appendChild(r);
