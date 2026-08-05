@@ -23,6 +23,10 @@ PLATFORMS = {
     "ifeng": "凤凰网",
     "toutiao": "今日头条",
     "jin10": "金十数据",
+    "xiaohongshu": "小红书",
+    "xueqiu": "雪球",
+    "stock-hot": "同花顺",
+    "eastmoney": "东方财富",
 }
 
 BASE = "https://newsnow.busiyi.world/api/s"
