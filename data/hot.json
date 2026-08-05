@@ -1,6 +1,6 @@
 {
-  "updated": "00:05:36",
-  "total": 277,
+  "updated": "00:10:40",
+  "total": 283,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,116 +1357,146 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 22,
+      "count": 28,
       "items": [
         {
-          "title": "日本6月劳动现金收入年率 3.4%，预期3.50%，前值由3.20%修正为3.30%。",
-          "url": "https://flash.jin10.com/detail/20260805073002423800",
+          "title": "MSCI亚太指数上涨1%至270.79点。",
+          "url": "https://flash.jin10.com/detail/20260805080713680800",
           "heat": false
         },
         {
-          "title": "日本6月加班工资年率 2.8%，前值2.9%。",
-          "url": "https://flash.jin10.com/detail/20260805073002403800",
+          "title": "日经225指数日内涨幅达2.00%。",
+          "url": "https://flash.jin10.com/detail/20260805080637173800",
+          "heat": "✰"
+        },
+        {
+          "title": "日本央行会议纪要：一名委员表示，中长期通胀预期正开始变化，市场盈亏平衡通胀率已升至2%以上。",
+          "url": "https://flash.jin10.com/detail/20260805080602946800",
+          "heat": false
+        },
+        {
+          "title": "2028年FOMC票委、堪萨斯联储主席施密德将于十分钟后就美联储、货币政策与农业经济前景发表。",
+          "url": "https://flash.jin10.com/detail/20260805080500000800",
+          "heat": "✰"
+        },
+        {
+          "title": "日本央行会议纪要：内阁办公室代表表示，希望日本央行在制定政策时能适当考虑政府在促进危机管理和增长领域投资方面的努力。",
+          "url": "https://flash.jin10.com/detail/20260805080336085800",
+          "heat": false
+        },
+        {
+          "title": "据韩国媒体：韩国2027年最低时薪定为10700韩元，较今年上涨3.7%。",
+          "url": "https://flash.jin10.com/detail/20260805080314775800",
+          "heat": false
+        },
+        {
+          "title": "日本央行会议纪要：数名委员表示，关于央行缩减购债规模的讨论目前聚焦于规模，但重要性很可能将转向所购国债的期限。",
+          "url": "https://flash.jin10.com/detail/20260805080208587800",
+          "heat": false
+        },
+        {
+          "title": "韩国股指高开3.8%",
+          "url": "https://flash.jin10.com/detail/20260805080124045800",
+          "heat": "✰"
+        },
+        {
+          "title": "日本央行会议纪要：一名成员表示，日本央行必须在某个时点着眼经济与金融形势，寻求适当的准备金水平。",
+          "url": "https://flash.jin10.com/detail/20260805080009356800",
+          "heat": false
+        },
+        {
+          "title": "日本央行会议纪要：部分成员表示，日本央行暂停缩减债券购买的决定并非出于对财政政策的考虑，而是为了避免债券市场的不稳定。",
+          "url": "https://flash.jin10.com/detail/20260805075923068800",
+          "heat": false
+        },
+        {
+          "title": "日本央行会议纪要：一名成员表示，日本央行必须以大约每几个月一次的速度加息。",
+          "url": "https://flash.jin10.com/detail/20260805075559013800",
+          "heat": false
+        },
+        {
+          "title": "日本央行会议纪要：部分成员表示，日本央行必须维持指引，若经济和价格走势符合其预测，将继续加息。",
+          "url": "https://flash.jin10.com/detail/20260805075518884800",
+          "heat": false
+        },
+        {
+          "title": "日本央行会议纪要：一名成员表示，将日本央行的政策利率调整至更接近中性水平，有助于实现长期的经济和价格稳定。",
+          "url": "https://flash.jin10.com/detail/20260805075517297800",
+          "heat": false
+        },
+        {
+          "title": "日本央行会议纪要：成员一致认为日本央行继续加息是合适的。",
+          "url": "https://flash.jin10.com/detail/20260805075512494800",
+          "heat": false
+        },
+        {
+          "title": "日本央行会议纪要：一名成员表示，日本的实际利率在全球标准中异常低，考虑到通胀上行风险，必须进行调整。",
+          "url": "https://flash.jin10.com/detail/20260805075447618800",
+          "heat": false
+        },
+        {
+          "title": "日本央行会议纪要：多数委员认为经济正按照基准情景运行，但基础通胀存在可能超过日本央行2%目标的风险",
+          "url": "https://flash.jin10.com/detail/20260805075441507800",
+          "heat": false
+        },
+        {
+          "title": "日本央行6月会议纪要：一名成员表示，外汇因素正在推高进口价格，给小型企业带来困扰。",
+          "url": "https://flash.jin10.com/detail/20260805075434678800",
+          "heat": false
+        },
+        {
+          "title": "金十数据中心工具",
+          "url": "https://flash.jin10.com/detail/20260805075211432800",
           "heat": false
         },
         {
           "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260805072713506800",
+          "url": "https://flash.jin10.com/detail/20260805075012634800",
           "heat": "✰"
         },
         {
-          "title": "SpaceX将独家采用英伟达AI计算架构，拟部署太空数据中心",
-          "url": "https://flash.jin10.com/detail/20260805072402482800",
+          "title": "市场消息：在阿根廷总统米莱再次攻击巴西总统卢拉后，巴西大使将不返回阿根廷。",
+          "url": "https://flash.jin10.com/detail/20260805074552778800",
           "heat": false
         },
         {
-          "title": "持武男子在特朗普即将出席活动的加州球场被捕",
-          "url": "https://flash.jin10.com/detail/20260805072343057800",
+          "title": "美媒：美防长游说共和党支持军费扩张",
+          "url": "https://flash.jin10.com/detail/20260805074539813800",
           "heat": false
         },
         {
-          "title": "金十数据整理：每日科技要闻速递（8月5日）",
-          "url": "https://flash.jin10.com/detail/20260805072055420800",
-          "heat": false
-        },
-        {
-          "title": "巴西政府发布声明，抗议美国更改巴西大使签证的决定。",
-          "url": "https://flash.jin10.com/detail/20260805071325736800",
-          "heat": false
-        },
-        {
-          "title": "金十数据全球财经早餐 | 2026年8月5日",
-          "url": "https://flash.jin10.com/detail/20260805070709911800",
+          "title": "市场消息：巴西通知阿根廷大使，双方关系降级至代办级别。",
+          "url": "https://flash.jin10.com/detail/20260805074522293800",
           "heat": "✰"
         },
         {
-          "title": "澳大利亚7月AIG/PWC制造业表现指数 -19.6，前值-16.8。",
-          "url": "https://flash.jin10.com/detail/20260805070003293800",
-          "heat": false
-        },
-        {
-          "title": "澳大利亚7月标普全球服务业PMI终值 53.6，前值53。",
-          "url": "https://flash.jin10.com/detail/20260805070003278800",
-          "heat": false
-        },
-        {
-          "title": "澳大利亚7月AIG建筑业表现指数 -40.6，前值-38.1。",
-          "url": "https://flash.jin10.com/detail/20260805070003280800",
-          "heat": false
-        },
-        {
-          "title": "澳大利亚7月标普全球综合PMI终值 53.2，前值52.6。",
-          "url": "https://flash.jin10.com/detail/20260805070003272800",
-          "heat": false
-        },
-        {
-          "title": "国内航线燃油附加费今起再次下调",
-          "url": "https://flash.jin10.com/detail/20260805065853580800",
+          "title": "霍尔木兹解封出现新方案：伊朗考虑让欧洲排雷，欧洲或为重开海峡买单",
+          "url": "https://flash.jin10.com/detail/20260805074222095800",
           "heat": "✰"
         },
         {
-          "title": "美财长称霍尔木兹“自由通行”有望今明达成，特朗普与卡塔尔埃米尔通话促降级",
-          "url": "https://flash.jin10.com/detail/20260805065441562800",
-          "heat": "✰"
-        },
-        {
-          "title": "今日重点关注的财经数据与事件：2026年8月5日 周三",
-          "url": "https://flash.jin10.com/detail/20260805065000001800",
-          "heat": "✰"
-        },
-        {
-          "title": "新西兰第二季度平均小时薪资季率 1.4%，前值0.20%。",
-          "url": "https://flash.jin10.com/detail/20260805064737629800",
+          "title": "美国财长贝森特：对日本央行行长植田和男充满信心，他非常了解市场。",
+          "url": "https://flash.jin10.com/detail/20260805074154098800",
           "heat": false
         },
         {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上一交易日减少6.41吨，当前持仓量为15130.82吨。欢迎点击查看数据中心...",
-          "url": "https://flash.jin10.com/detail/20260805064714696800",
-          "heat": "✰"
-        },
-        {
-          "title": "新西兰第二季度劳工成本指数年率 2.1%，预期2%，前值2%。",
-          "url": "https://flash.jin10.com/detail/20260805064503292800",
+          "title": "美国财长贝森特：许多亚洲货币目前跟随日元走势，例如韩元。",
+          "url": "https://flash.jin10.com/detail/20260805074133027800",
           "heat": false
         },
         {
-          "title": "新西兰第二季度就业参与率 70.7%，预期70.3%，前值70.40%。",
-          "url": "https://flash.jin10.com/detail/20260805064503128800",
+          "title": "现货价格",
+          "url": "https://flash.jin10.com/detail/20260805073950013800",
           "heat": false
         },
         {
-          "title": "新西兰第二季度劳工成本指数季率 0.7%，预期0.60%，前值0.50%。",
-          "url": "https://flash.jin10.com/detail/20260805064503089800",
+          "title": "现货价格",
+          "url": "https://flash.jin10.com/detail/20260805073928772800",
           "heat": false
         },
         {
-          "title": "新西兰第二季度就业人数季率 0.5%，预期0.2%，前值由0.20%修正为0.10%。",
-          "url": "https://flash.jin10.com/detail/20260805064502871800",
-          "heat": false
-        },
-        {
-          "title": "新西兰第二季度失业率 5.6%，预期5.40%，前值5.30%。",
-          "url": "https://flash.jin10.com/detail/20260805064502841800",
+          "title": "马斯克称下周发布Grok 4.6，SpaceX全量数据将用于模型训练",
+          "url": "https://flash.jin10.com/detail/20260805073748593800",
           "heat": false
         }
       ]
