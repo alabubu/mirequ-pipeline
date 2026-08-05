@@ -1,6 +1,6 @@
 {
-  "updated": "16:45:30",
-  "total": 280,
+  "updated": "16:50:41",
+  "total": 281,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,15 +1357,110 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 25,
+      "count": 26,
       "items": [
+        {
+          "title": "乌克兰总统泽连斯基：与北约秘书长吕特讨论了确保更多拦截器的事宜。",
+          "url": "https://flash.jin10.com/detail/20260806004757882800",
+          "heat": false
+        },
+        {
+          "title": "伊朗副外长：与阿曼达成协议并不意味着实施伊斯兰堡谅解备忘录第5条。",
+          "url": "https://flash.jin10.com/detail/20260806004654725800",
+          "heat": false
+        },
+        {
+          "title": "菲利普斯66(PSX.N)：预计2027年和2028年将进行大规模检修。",
+          "url": "https://flash.jin10.com/detail/20260806004631734800",
+          "heat": false
+        },
+        {
+          "title": "乌克兰总统泽连斯基：已就弹道问题与北约秘书长通电话。",
+          "url": "https://flash.jin10.com/detail/20260806004505050800",
+          "heat": false
+        },
+        {
+          "title": "菲利普斯66(PSX.N)：对中周期炼油收益的看法比之前预期更为乐观。",
+          "url": "https://flash.jin10.com/detail/20260806004440377800",
+          "heat": false
+        },
+        {
+          "title": "菲利普斯66(PSX.N)：预计伊朗冲突后，炼油基本面将进一步增强。",
+          "url": "https://flash.jin10.com/detail/20260806004350697800",
+          "heat": false
+        },
+        {
+          "title": "菲利普斯66(PSX.N)：炼油宏观环境依然强劲。",
+          "url": "https://flash.jin10.com/detail/20260806004340557800",
+          "heat": false
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：一名知情人士强调，如果伊朗与阿曼之间的协议最终敲定，重新开放霍尔木兹海峡将需要另行达成安排，其中也包括美国履行相关承诺。",
+          "url": "https://flash.jin10.com/detail/20260806004013908800",
+          "heat": "✰"
+        },
+        {
+          "title": "伊朗副外长：伊朗与阿曼就霍尔木兹海峡安排达成的协议已接近完成，双方已取得重大进展。",
+          "url": "https://flash.jin10.com/detail/20260806003816434800",
+          "heat": "✰"
+        },
+        {
+          "title": "菲利普斯66(PSX.N)：公司正在提高华盛顿州炼油厂的航空燃料产量。",
+          "url": "https://flash.jin10.com/detail/20260806003309304800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月05日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260806003157857800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月05日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260806003145365800",
+          "heat": false
+        },
+        {
+          "title": "以色列军方：已在黎巴嫩南部发动针对性打击，真主党违反了美国斡旋达成的一项安全安排。",
+          "url": "https://flash.jin10.com/detail/20260806003141410800",
+          "heat": false
+        },
+        {
+          "title": "菲利普斯66(PSX.N)：预计将在大约一个月左右就西部门户项目（Western Gateway Project）作出最终投资决定。",
+          "url": "https://flash.jin10.com/detail/20260806002857660800",
+          "heat": false
+        },
+        {
+          "title": "美国国务院：美国国务卿鲁比奥与英国外交大臣米利班德讨论了欧洲在自身安全中发挥更大作用的重要性。",
+          "url": "https://flash.jin10.com/detail/20260806002422997800",
+          "heat": false
+        },
+        {
+          "title": "菲利普斯66(PSX.N)：全球炼油产能的正常化将比2022年所需的时间更长。",
+          "url": "https://flash.jin10.com/detail/20260806002349110800",
+          "heat": false
+        },
+        {
+          "title": "据伊拉克国家通讯社：伊拉克安全代表团将访问沙特阿拉伯。",
+          "url": "https://flash.jin10.com/detail/20260806002327061800",
+          "heat": false
+        },
+        {
+          "title": "美国国家运输安全委员会主席：正在考虑是否对涉及特朗普总统直升机的失去间隔事件展开调查。",
+          "url": "https://flash.jin10.com/detail/20260806002237367800",
+          "heat": false
+        },
+        {
+          "title": "美媒：以色列-黎巴嫩罗马会谈因局势变化提前结束",
+          "url": "https://flash.jin10.com/detail/20260806001854458800",
+          "heat": false
+        },
         {
           "title": "菲利普斯66(PSX.N)：宏观环境依然向好。",
           "url": "https://flash.jin10.com/detail/20260806001600948800",
           "heat": false
         },
         {
-          "title": "谷歌对AI领导层进行重大调整 AI负责人卸任主要管理职务",
+          "title": "谷歌对AI领导层进行重大调整 AI负责人哈萨比斯卸任主要管理职务",
           "url": "https://flash.jin10.com/detail/20260806001438716800",
           "heat": false
         },
@@ -1393,96 +1488,6 @@
           "title": "谷歌AI核心人物Jeff Dean离职 创办AI初创公司",
           "url": "https://flash.jin10.com/detail/20260806000533011800",
           "heat": false
-        },
-        {
-          "title": "谷歌(GOOG.O)跌幅扩大至逾3%，公司宣布对DeepMind进行领导层重组，谷歌DeepMind负责人Demis Hassabis将卸任首席执行官职务，出任Alphabet首席科学家兼谷歌DeepMind董事长。谷歌DeepMind首席技术官Koray Kavukcuoglu将出任新部门负责人。",
-          "url": "https://flash.jin10.com/detail/20260806000420661800",
-          "heat": "✰"
-        },
-        {
-          "title": "谷歌(GOOG.O)短线下挫，现跌1.4%。",
-          "url": "https://flash.jin10.com/detail/20260806000120042800",
-          "heat": false
-        },
-        {
-          "title": "谷歌(GOOG.O)首席科学家在任27年后离职，将创办自己的人工智能公司。",
-          "url": "https://flash.jin10.com/detail/20260806000026602800",
-          "heat": false
-        },
-        {
-          "title": "今日重点关注的财经数据与事件：2026年8月6日 周四",
-          "url": "https://flash.jin10.com/detail/20260806000000001800",
-          "heat": "✰"
-        },
-        {
-          "title": "金十图示：2026年08月05日（周三）全球股市指数-欧洲市场",
-          "url": "https://flash.jin10.com/detail/20260805235435123800",
-          "heat": false
-        },
-        {
-          "title": "标普500指数抹去涨幅，此前一度上涨0.7%。道指现涨0.8%，纳指跌0.25%。",
-          "url": "https://flash.jin10.com/detail/20260805235422492800",
-          "heat": "✰"
-        },
-        {
-          "title": "巴林国王媒体顾问表示，巴林防空部队正在抵御伊朗空中攻击。据他称，最近数小时内已击退多次伊朗空中袭击。此前，巴林因空袭威胁拉响了防空警报。",
-          "url": "https://flash.jin10.com/detail/20260805234743581800",
-          "heat": "✰"
-        },
-        {
-          "title": "金十数据整理：欧盘美盘重要新闻汇总（2026-08-05）",
-          "url": "https://flash.jin10.com/detail/20260805234357679800",
-          "heat": "✰"
-        },
-        {
-          "title": "德国DAX30指数8月5日（周三）收盘下跌83.97点，跌幅0.32%，报26139.29点；<br/>英国富时100指数8月5日（周三）收盘上涨10.68点，涨幅0.10%，报10890.06点；<br/>法国CAC40指数8月5日（周三）收盘上涨2.67点，涨幅0.03%，报8669.30点；<br/>欧洲斯托克50指数8月5日（周三）收盘下跌7.45点，跌幅0.11%，报6479.25点；<br/>西班牙IBEX35指数8月5日（周三）收盘上涨31.20点，涨幅0.16%，报20054.80点；<br/>意大利富时MIB指数8月5日（周三）收盘下跌99.50点，跌幅0.19%，报53441.00点。",
-          "url": "https://flash.jin10.com/detail/20260805234014214800",
-          "heat": false
-        },
-        {
-          "title": "以色列消息人士称，对黎巴嫩真主党严重违反协议的回应尚未结束。",
-          "url": "https://flash.jin10.com/detail/20260805233511176800",
-          "heat": false
-        },
-        {
-          "title": "美国至8月5日4个月国债竞拍-得标利率配置百分比 94.66%，前值22.52%。",
-          "url": "https://flash.jin10.com/detail/20260805233406407800",
-          "heat": false
-        },
-        {
-          "title": "美国至8月5日4个月国债竞拍-投标倍数 3.19，前值3.04。",
-          "url": "https://flash.jin10.com/detail/20260805233359991800",
-          "heat": false
-        },
-        {
-          "title": "美国至8月5日4个月国债竞拍-得标利率 3.785%，前值3.88%。",
-          "url": "https://flash.jin10.com/detail/20260805233353429800",
-          "heat": false
-        },
-        {
-          "title": "霍尔木兹迎来第二次考验！油价会再次“踩坑”吗？",
-          "url": "https://flash.jin10.com/detail/20260805233350422800",
-          "heat": false
-        },
-        {
-          "title": "以色列国防部：刚刚进行了对远程箭式导弹防御系统的预定测试。",
-          "url": "https://flash.jin10.com/detail/20260805232346269800",
-          "heat": false
-        },
-        {
-          "title": "据塔斯社：俄罗斯因间谍案判处一名立陶宛公民13.5年监禁。",
-          "url": "https://flash.jin10.com/detail/20260805231933823800",
-          "heat": false
-        },
-        {
-          "title": "达拉斯联储和纽约联储将于2026年第三季度末启动私人信贷市场试点调查。",
-          "url": "https://flash.jin10.com/detail/20260805231604603800",
-          "heat": false
-        },
-        {
-          "title": "伊朗称与阿曼的联合声明正处于终审阶段 双方就航运路线达成一致",
-          "url": "https://flash.jin10.com/detail/20260805231327490800",
-          "heat": "✰"
         }
       ]
     }
