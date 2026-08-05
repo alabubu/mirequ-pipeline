@@ -1,6 +1,6 @@
 {
-  "updated": "21:35:37",
-  "total": 282,
+  "updated": "21:40:32",
+  "total": 280,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,58 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 27,
+      "count": 25,
       "items": [
+        {
+          "title": "巴西央行：决议为一致通过。",
+          "url": "https://flash.jin10.com/detail/20260806053455495800",
+          "heat": false
+        },
+        {
+          "title": "巴西央行降息25个基点，符合市场预期。",
+          "url": "https://flash.jin10.com/detail/20260806053440588800",
+          "heat": false
+        },
+        {
+          "title": "巴西至8月5日Selic利率 14%，预期14.00%，前值14.25%。",
+          "url": "https://flash.jin10.com/detail/20260806053411279800",
+          "heat": false
+        },
+        {
+          "title": "美国总统特朗普：关税让我们变得富有。",
+          "url": "https://flash.jin10.com/detail/20260806053019525800",
+          "heat": false
+        },
+        {
+          "title": "美国总统特朗普：（谈及关税）加拿大“很恶劣”，我们把局势扭转过来了。",
+          "url": "https://flash.jin10.com/detail/20260806052258964800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：中东局势跟踪（8月6日）",
+          "url": "https://flash.jin10.com/detail/20260806051952098800",
+          "heat": "✰"
+        },
+        {
+          "title": "闪迪业绩指引不佳 盘后一度跌8%",
+          "url": "https://flash.jin10.com/detail/20260806051759347800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（8月6日）",
+          "url": "https://flash.jin10.com/detail/20260806051052723800",
+          "heat": false
+        },
+        {
+          "title": "美银看好日元走强至149",
+          "url": "https://flash.jin10.com/detail/20260806051028814800",
+          "heat": false
+        },
+        {
+          "title": "明晟公司（MSCI）八月指数审核结果定于北京时间8月13日凌晨公布。",
+          "url": "https://flash.jin10.com/detail/20260806050707265800",
+          "heat": false
+        },
         {
           "title": "据半岛电视台：以色列军方称在黎巴嫩南部误向己方火力发射了一枚拦截弹。",
           "url": "https://flash.jin10.com/detail/20260806050142983800",
@@ -1432,66 +1482,6 @@
         {
           "title": "美联储理事库克：经济韧性强，扩张步伐稳健。",
           "url": "https://flash.jin10.com/detail/20260806040753433800",
-          "heat": false
-        },
-        {
-          "title": "美联储理事库克：有理由相信通胀水平可能会缓解。",
-          "url": "https://flash.jin10.com/detail/20260806040752674800",
-          "heat": false
-        },
-        {
-          "title": "美联储理事库克：通胀过高风险正不断上升，可能在经济中变得根深蒂固。",
-          "url": "https://flash.jin10.com/detail/20260806040749747800",
-          "heat": false
-        },
-        {
-          "title": "美联储理事库克：通胀威胁超过就业市场担忧。",
-          "url": "https://flash.jin10.com/detail/20260806040730892800",
-          "heat": false
-        },
-        {
-          "title": "美联储理事库克：坚定致力于恢复价格稳定。",
-          "url": "https://flash.jin10.com/detail/20260806040728249800",
-          "heat": false
-        },
-        {
-          "title": "美联储理事库克：如果通胀回落的趋势没有恢复，我们准备加息。",
-          "url": "https://flash.jin10.com/detail/20260806040717683800",
-          "heat": "✰"
-        },
-        {
-          "title": "金十图示：2026年08月05日（周三）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260806040617891800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：2026年08月05日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260806040614618800",
-          "heat": false
-        },
-        {
-          "title": "西部数据(WDC.O)预计2027财年第一季度营收同比增长42%至49%。",
-          "url": "https://flash.jin10.com/detail/20260806040610589800",
-          "heat": false
-        },
-        {
-          "title": "道琼斯指数8月5日（周三）收盘上涨263.06点，涨幅0.49%，报54348.94点；<br/>标普500指数8月5日（周三）收盘下跌13.00点，跌幅0.17%，报7723.52点；<br/>纳斯达克综合指数8月5日（周三）收盘下跌221.55点，跌幅0.83%，报26363.44点。",
-          "url": "https://flash.jin10.com/detail/20260806040523019800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：2026年08月05日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260806040522076800",
-          "heat": false
-        },
-        {
-          "title": "西部数据(WDC.O)2026财年Q4净利润31.95亿美元，上年同期为2.82亿美元。",
-          "url": "https://flash.jin10.com/detail/20260806040509918800",
-          "heat": false
-        },
-        {
-          "title": "西部数据(WDC.O)2026财年Q4营收37.5亿美元，市场预期为36.92亿美元，上年同期为26.05亿美元。",
-          "url": "https://flash.jin10.com/detail/20260806040322650800",
           "heat": false
         }
       ]
