@@ -196,9 +196,11 @@ def ai_analyze(topics):
 
 # =========== 4. 存储缓存 ===========
 
-def update_cache():
+def update_cache(insight=None):
     cache = load_json(CACHE_FILE) or {}
     cache["last_ai"] = NOW.isoformat()
+    if insight and "未配置" not in insight and "失败" not in insight:
+        cache["last_insight"] = insight
     save_json(CACHE_FILE, cache)
 
 # =========== 主流程 ===========
@@ -234,7 +236,7 @@ def main():
     if should_ai_analyze():
         print("执行AI分析...")
         insight = ai_analyze(ranked)
-        update_cache()
+        update_cache(insight)
         print(f"AI: {insight[:80]}...")
     else:
         # 用上次的分析结果
@@ -252,11 +254,6 @@ def main():
         "platform_stats": platform_stats,
     }
     save_json(TREND_FILE, trend)
-
-    # 缓存本次AI分析
-    cache = load_json(CACHE_FILE) or {}
-    cache["last_insight"] = insight
-    save_json(CACHE_FILE, cache)
 
     print(f"输出 trend.json: top20={len(top20)}, insight_len={len(insight)}")
 
