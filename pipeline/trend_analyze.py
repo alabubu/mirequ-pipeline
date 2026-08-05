@@ -20,6 +20,8 @@ CACHE_FILE = os.path.join(DATA_DIR, ".trend_cache.json")
 AI_INTERVAL_MIN = 30  # AI分析间隔（分钟）
 AI_MODEL = "deepseek-chat"
 AI_KEY = os.environ.get("AI_API_KEY", "")
+if not AI_KEY and os.path.exists("/tmp/aikey"):
+    with open("/tmp/aikey") as f: AI_KEY = f.read().strip()
 AI_BASE = os.environ.get("AI_API_BASE", "https://api.deepseek.com")
 
 TZ = timezone(timedelta(hours=8))

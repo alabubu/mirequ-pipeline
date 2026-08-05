@@ -20,7 +20,7 @@ jobs:
           python-version: "3.11"
       - run: pip install requests
       - run: python pipeline/fetch_hot.py
-      - run: echo "KEY_LEN=${#AI_API_KEY}" && python pipeline/trend_analyze.py
+      - run: echo "$AI_API_KEY" > /tmp/aikey && python pipeline/trend_analyze.py
       - run: cp data/hot.json docs/ && cp data/wechat.json docs/ && cp data/trend.json docs/
       - run: |
           git config user.name bot && git config user.email bot@m.bot
