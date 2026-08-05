@@ -118,12 +118,14 @@ class ArticleDB:
             ).fetchall()
 
             if existing_all:
-        max_existing = max((r["read_count"] or 0) for r in existing_all)
-        # 跳过 dajiala 部分 ghid 返回的虚假 100001
-        if new_read == 100001 and max_existing and max_existing != 100001:
-            final_read = max_existing
-        else:
-            final_read = max(max_existing, new_read)
+                # 收集所有历史值 + 新值，排除 dajiala 天花板值 100001
+                all_vals = [(r["read_count"] or 0) for r in existing_all] + [new_read]
+                real_vals = [v for v in all_vals if v != 100001]
+                if real_vals:
+                    final_read = max(real_vals)
+                else:
+                    # 全为 100001，保留（真 10万+）
+                    final_read = 100001
                 conn.execute("DELETE FROM articles WHERE msg_key = ?", (msg_key,))
                 conn.execute(
                     """
