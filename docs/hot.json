@@ -1,6 +1,6 @@
 {
-  "updated": "20:35:33",
-  "total": 280,
+  "updated": "20:40:34",
+  "total": 282,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,108 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 25,
+      "count": 27,
       "items": [
+        {
+          "title": "法拉第未来(FFIE.O)：计划在四个季度内将截至一季度末的2.3亿美元负债削减至1亿美元以下。",
+          "url": "https://flash.jin10.com/detail/20260806043328335800",
+          "heat": false
+        },
+        {
+          "title": "伊朗称与阿曼接近达成协议 海峡现有两条航道将关闭",
+          "url": "https://flash.jin10.com/detail/20260806042849231800",
+          "heat": false
+        },
+        {
+          "title": "美元指数5日下跌",
+          "url": "https://flash.jin10.com/detail/20260806042740895800",
+          "heat": false
+        },
+        {
+          "title": "美联储理事库克：若通胀不放缓 我将准备支持加息",
+          "url": "https://flash.jin10.com/detail/20260806041548995800",
+          "heat": false
+        },
+        {
+          "title": "闪迪(SNDK.O)美股盘后跌超3%。",
+          "url": "https://flash.jin10.com/detail/20260806041105813800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月05日（周三）华尔街恐惧与贪婪指数（美盘后）",
+          "url": "https://flash.jin10.com/detail/20260806041056073800",
+          "heat": false
+        },
+        {
+          "title": "闪迪(SNDK.O)2026财年Q4营收89.6亿美元，市场预期83.94亿美元，上年同期为19.01亿美元。",
+          "url": "https://flash.jin10.com/detail/20260806041044235800",
+          "heat": false
+        },
+        {
+          "title": "闪迪(SNDK.O)预计2027财年第一季度营收为103亿至108亿美元，市场预期为108亿美元。",
+          "url": "https://flash.jin10.com/detail/20260806041005330800",
+          "heat": "✰"
+        },
+        {
+          "title": "美联储理事库克：消费者信心低迷与多种因素有关，包括高通胀。",
+          "url": "https://flash.jin10.com/detail/20260806040814464800",
+          "heat": false
+        },
+        {
+          "title": "美联储理事库克：美联储最终或许仍无需加息。",
+          "url": "https://flash.jin10.com/detail/20260806040811050800",
+          "heat": "✰"
+        },
+        {
+          "title": "美联储理事库克：到目前为止，政策并未导致显著的失业。",
+          "url": "https://flash.jin10.com/detail/20260806040756692800",
+          "heat": false
+        },
+        {
+          "title": "美联储理事库克：经济韧性强，扩张步伐稳健。",
+          "url": "https://flash.jin10.com/detail/20260806040753433800",
+          "heat": false
+        },
+        {
+          "title": "美联储理事库克：有理由相信通胀水平可能会缓解。",
+          "url": "https://flash.jin10.com/detail/20260806040752674800",
+          "heat": false
+        },
+        {
+          "title": "美联储理事库克：通胀过高风险正不断上升，可能在经济中变得根深蒂固。",
+          "url": "https://flash.jin10.com/detail/20260806040749747800",
+          "heat": false
+        },
+        {
+          "title": "美联储理事库克：通胀威胁超过就业市场担忧。",
+          "url": "https://flash.jin10.com/detail/20260806040730892800",
+          "heat": false
+        },
+        {
+          "title": "美联储理事库克：坚定致力于恢复价格稳定。",
+          "url": "https://flash.jin10.com/detail/20260806040728249800",
+          "heat": false
+        },
+        {
+          "title": "美联储理事库克：如果通胀回落的趋势没有恢复，我们准备加息。",
+          "url": "https://flash.jin10.com/detail/20260806040717683800",
+          "heat": "✰"
+        },
+        {
+          "title": "金十图示：2026年08月05日（周三）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260806040617891800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月05日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260806040614618800",
+          "heat": false
+        },
+        {
+          "title": "西部数据(WDC.O)预计2027财年第一季度营收同比增长42%至49%。",
+          "url": "https://flash.jin10.com/detail/20260806040610589800",
+          "heat": false
+        },
         {
           "title": "道琼斯指数8月5日（周三）收盘上涨263.06点，涨幅0.49%，报54348.94点；<br/>标普500指数8月5日（周三）收盘下跌13.00点，跌幅0.17%，报7723.52点；<br/>纳斯达克综合指数8月5日（周三）收盘下跌221.55点，跌幅0.83%，报26363.44点。",
           "url": "https://flash.jin10.com/detail/20260806040523019800",
@@ -1392,96 +1492,6 @@
         {
           "title": "据伊朗法尔斯通讯社：伊朗谈判团队消息人士表示，与一些猜测和媒体宣传相反，美国财政部取消少数伊朗制裁措施一事，是与伊拉克政府和华盛顿之间的互动有关，与伊朗和美国之间的谅解备忘录无关。（注：美国财政部此前解除对巴格达航空相关制裁，巴格达航空因被指与伊朗伊斯兰革命卫队“圣城旅”有关联而受到制裁。）",
           "url": "https://flash.jin10.com/detail/20260806035340632800",
-          "heat": false
-        },
-        {
-          "title": "数日前伊朗威胁反击能源设施 海湾国家敦促特朗普放弃袭击计划",
-          "url": "https://flash.jin10.com/detail/20260806035154028800",
-          "heat": false
-        },
-        {
-          "title": "据路透社：五名消息人士称，伊朗已警告海湾国家，美国任何新的袭击伊朗领土的行动都将引发伊朗对该地区关键能源基础设施的报复。",
-          "url": "https://flash.jin10.com/detail/20260806034009632800",
-          "heat": false
-        },
-        {
-          "title": "Meta推出首款编程智能体Muse Code 可与Muse Spark 1.2协同工作",
-          "url": "https://flash.jin10.com/detail/20260806033147196800",
-          "heat": false
-        },
-        {
-          "title": "美国证券交易委员会（SEC）：正在执法部内设立一个新的专门机构，旨在提供专门的专业知识、专注度和能力，以调查处理会计和财务报告欺诈案件，以及会计和审计领域的一般不当行为。",
-          "url": "https://flash.jin10.com/detail/20260806033015556800",
-          "heat": false
-        },
-        {
-          "title": "谷歌首席科学家Jeff Dean：明天将是我在谷歌工作的最后一天。",
-          "url": "https://flash.jin10.com/detail/20260806032320074800",
-          "heat": false
-        },
-        {
-          "title": "Meta Platforms(META.O)首席人工智能官：Muse Code测试版已上线。这是来自Meta超级智能实验室（MSL）的首个编程智能体，基于Muse Spark 1.2构建。",
-          "url": "https://flash.jin10.com/detail/20260806031659563800",
-          "heat": false
-        },
-        {
-          "title": "外媒：伊朗寻求对海峡过境船只收取货物价值5%至7%的费用",
-          "url": "https://flash.jin10.com/detail/20260806031639723800",
-          "heat": "✰"
-        },
-        {
-          "title": "美国参议院确认埃里卡·施瓦茨担任美国疾控中心主任。",
-          "url": "https://flash.jin10.com/detail/20260806030849651800",
-          "heat": false
-        },
-        {
-          "title": "俄罗斯总统普京调整俄罗斯军方领导层，任命丹尼斯·利亚明（Denis Lyamin）领导新成立的无人系统部队，并任命新的前线作战和军事后勤指挥官。",
-          "url": "https://flash.jin10.com/detail/20260806030150850800",
-          "heat": false
-        },
-        {
-          "title": "恒指期货夜盘收跌0.91%，报25674点，低水242点。",
-          "url": "https://flash.jin10.com/detail/20260806030133907800",
-          "heat": false
-        },
-        {
-          "title": "蓝色起源CEO：蓝色起源发现，BE-4火箭发动机上的一个阀门是导致5月“新格伦”火箭爆炸的故障原因。",
-          "url": "https://flash.jin10.com/detail/20260806025442118800",
-          "heat": false
-        },
-        {
-          "title": "伊朗总统回应此前伊朗最高领袖关于停火谅解备忘录消息引发的争议。伊朗总统称：“他们发布了一条消息，称‘原则上，我并不赞成’，但最终，他们允许这一进程继续进行。一些试图制造分裂、利用现有分歧并实现自身派系目标的人夸大了这一问题。”",
-          "url": "https://flash.jin10.com/detail/20260806025420387800",
-          "heat": false
-        },
-        {
-          "title": "胡塞武装再称袭击沙特油轮",
-          "url": "https://flash.jin10.com/detail/20260806025200783800",
-          "heat": false
-        },
-        {
-          "title": "伊朗总统：敌人对任何象征我们能力的事物都感到不安。",
-          "url": "https://flash.jin10.com/detail/20260806024943969800",
-          "heat": false
-        },
-        {
-          "title": "伊朗总统：目前与伊朗最高领袖的沟通“非常困难”。",
-          "url": "https://flash.jin10.com/detail/20260806024752219800",
-          "heat": "✰"
-        },
-        {
-          "title": "加纳央行黄金采购计划2025年亏损19亿美元",
-          "url": "https://flash.jin10.com/detail/20260806024406643800",
-          "heat": false
-        },
-        {
-          "title": "伊朗总统：敌人试图通过战争和制裁，让伊朗重演叙利亚的命运。伊朗人民的韧性和决心挫败了敌人的阴谋。",
-          "url": "https://flash.jin10.com/detail/20260806024045255800",
-          "heat": false
-        },
-        {
-          "title": "美国北卡罗来纳州发生大规模枪击事件 多人伤亡",
-          "url": "https://flash.jin10.com/detail/20260806024002313800",
           "heat": false
         }
       ]
