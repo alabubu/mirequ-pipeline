@@ -113,8 +113,6 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
       <div id="wcOverview">
         <div class="sec-head" style="margin-top:0"><span class="sec-title">📡 监控目标</span><span class="sec-badge">12 个公众号</span></div>
         <div class="chip-grid" id="wcChips"></div>
-        <div class="sec-head"><span class="sec-title">🔥 今日10万+</span><span class="sec-badge" id="wc100kCount"></span></div>
-        <div class="card-feed" id="wc100kList"></div>
       </div>
       <div id="wcDetail" style="display:none">
         <div class="back-btn" onclick="showWcOverview()">← 返回列表</div>
@@ -223,14 +221,6 @@ function renderWc(){
   WECHAT_LIST.forEach(function(a){
     var div=document.createElement('div');div.className='chip';div.textContent=a;
     div.onclick=function(){showWcDetail(a)};chips.appendChild(div);
-  });
-  var top100k=wcData.top100k||[];
-  document.getElementById('wc100kCount').textContent=top100k.length+' 篇';
-  var list=document.getElementById('wc100kList');list.innerHTML='';
-  top100k.forEach(function(a){
-    var c=document.createElement('div');c.className='card';c.onclick=function(){openUrl(a.url)};
-    c.innerHTML='<div class="card-body"><div class="card-title">'+esc(a.title)+'</div><div class="card-meta">'+esc(a.account)+' · 100000+</div></div><div class="card-share" onclick="event.stopPropagation();shareItem(\''+esc(a.title)+'\',\''+(a.url||'')+'\')">↗</div>';
-    list.appendChild(c);
   });
 }
 
