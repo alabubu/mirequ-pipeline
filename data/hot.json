@@ -1,6 +1,6 @@
 {
-  "updated": "04:20:39",
-  "total": 284,
+  "updated": "04:22:24",
+  "total": 282,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,151 +1357,141 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 29,
+      "count": 27,
       "items": [
         {
-          "title": "美国总统特朗普：事情似乎进展顺利，如果霍尔木兹海峡开放，汽油价格将会下降。",
-          "url": "https://flash.jin10.com/detail/20260805115022056800",
+          "title": "印度尼西亚上半年GDP同比增长5.45%。",
+          "url": "https://flash.jin10.com/detail/20260805121625488800",
           "heat": false
         },
         {
-          "title": "美国总统特朗普：能源价格将下降，企业应开始降低价格。",
-          "url": "https://flash.jin10.com/detail/20260805115010853800",
-          "heat": false
-        },
-        {
-          "title": "阿布扎比国家石油公司：上半年海湾合作委员会地区零售燃料销量同比增长1.7%。",
-          "url": "https://flash.jin10.com/detail/20260805114948853800",
-          "heat": false
-        },
-        {
-          "title": "美国总统特朗普：我在经济方面应该得个A+，食品和杂货的“价格都在下降。”",
-          "url": "https://flash.jin10.com/detail/20260805114637062800",
-          "heat": false
-        },
-        {
-          "title": "特朗普称美伊谈判“进展很好”，伊朗却不愿承认",
-          "url": "https://flash.jin10.com/detail/20260805114331052800",
-          "heat": false
-        },
-        {
-          "title": "美国总统特朗普：如果没有摩擦，汽油价格将降至每加仑2.5美元。",
-          "url": "https://flash.jin10.com/detail/20260805114320665800",
-          "heat": false
-        },
-        {
-          "title": "美国总统特朗普：（关于伊朗）他们今天进行了全天的谈判。",
-          "url": "https://flash.jin10.com/detail/20260805114209005800",
-          "heat": false
-        },
-        {
-          "title": "市场监管总局无条件批准天汽模收购东实汽车股权案",
-          "url": "https://flash.jin10.com/detail/20260805114104720800",
-          "heat": false
-        },
-        {
-          "title": "灵心巧手在杭州成立科技公司 含多项机器人业务",
-          "url": "https://flash.jin10.com/detail/20260805113735118800",
-          "heat": false
-        },
-        {
-          "title": "A股午评：科创50指数半日涨超5% 存储芯片概念掀涨停潮",
-          "url": "https://flash.jin10.com/detail/20260805113713838800",
-          "heat": false
-        },
-        {
-          "title": "韩国检方突击调查石化企业，涉嫌操纵PVC等产品价格",
-          "url": "https://flash.jin10.com/detail/20260805113353052800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：2026年08月05日（周三）富时中国A50指数成分股午盘收盘行情一览：银行股走软，半导体股走强",
-          "url": "https://flash.jin10.com/detail/20260805113334874800",
-          "heat": false
-        },
-        {
-          "title": "武汉1宗宅地溢价20.98%成交",
-          "url": "https://flash.jin10.com/detail/20260805113334412800",
-          "heat": false
-        },
-        {
-          "title": "美国总统特朗普：伊朗不会拥有核武器。",
-          "url": "https://flash.jin10.com/detail/20260805113300073800",
-          "heat": false
-        },
-        {
-          "title": "印度10年期基准国债收益率降至自7月28日以来的最低水平。",
-          "url": "https://flash.jin10.com/detail/20260805113251832800",
-          "heat": false
-        },
-        {
-          "title": "国债期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260805113107972800",
-          "heat": false
-        },
-        {
-          "title": "股指期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260805113105161800",
-          "heat": false
-        },
-        {
-          "title": "离岸人民币香港银行同业拆息(CNH HIBOR)周三显示，主要期限利率多数反弹；其中一周期的HIBOR小升至1.42970%，创7月23日以来高位。隔夜HIBOR涨5个基点至1.30000%，两周期HIBOR升至1.43515%，一年期HIBOR小涨至1.70364%。点击链接查看历史数据>>",
-          "url": "https://flash.jin10.com/detail/20260805113052874800",
-          "heat": false
-        },
-        {
-          "title": "在行业变化之前，与洞察变化的人相遇。金十「卓识」计划，为品牌打开新视角。<font class=\"important-text\"></font>",
-          "url": "https://flash.jin10.com/detail/20260805113027183800",
-          "heat": false
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约涨多跌少，铂涨超7%，钯涨超6%，沪银涨超5%，尿素涨超4%，焦煤涨超3%，沪铅、焦炭涨超2%。跌幅方面，集运欧线跌超9%，SC原油跌超6%，乙二醇（EG）、纯苯、苯乙烯（EB）跌超5%，瓶片跌近5%，对二甲苯、液化石油气（LPG）跌超4%。",
-          "url": "https://flash.jin10.com/detail/20260805113016011800",
+          "title": "据伊朗国家媒体援引知情人士消息称，只要美国持续威胁伊朗，与阿曼的霍尔木兹海协议就将被推迟。",
+          "url": "https://flash.jin10.com/detail/20260805121308388800",
           "heat": "✰"
         },
         {
-          "title": "美联社预测，华盛顿州参议院共和党领袖约翰·布劳恩晋级华盛顿州第三选区联邦众议员普选；民主党联邦众议员玛丽·格鲁森坎普·佩雷斯晋级华盛顿州第三选区联邦众议员普选。",
-          "url": "https://flash.jin10.com/detail/20260805112935217800",
+          "title": "字节跳动宣布正式推出原生音视频全双工大模型SeedRealtime。",
+          "url": "https://flash.jin10.com/detail/20260805121305486800",
           "heat": false
         },
         {
-          "title": "A股三大指数均涨超1%",
-          "url": "https://flash.jin10.com/detail/20260805112801057800",
-          "heat": "✰"
-        },
-        {
-          "title": "日本自民党批准食品消费税大幅下调计划，财政压力引发担忧",
-          "url": "https://flash.jin10.com/detail/20260805112600263800",
+          "title": "在俄罗斯袭击后，基辅地区几处仓库发生火灾。",
+          "url": "https://flash.jin10.com/detail/20260805120951106800",
           "heat": false
         },
         {
-          "title": "今年新疆霍尔果斯公路口岸出入境人员突破100万人次",
-          "url": "https://flash.jin10.com/detail/20260805112558958800",
+          "title": "特朗普又放狠话：若伊朗再次退出谈判，将遭到“重创”",
+          "url": "https://flash.jin10.com/detail/20260805120857253800",
           "heat": false
         },
         {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260805112352079800",
-          "heat": "✰"
-        },
-        {
-          "title": "美国总统特朗普：伊朗不想承认正在进行谈判，伊朗想达成协议，我们拭目以待。",
-          "url": "https://flash.jin10.com/detail/20260805112211407800",
+          "title": "现货黄金突破4140美元/盎司，日内涨1.54%。",
+          "url": "https://flash.jin10.com/detail/20260805120844042800",
           "heat": false
         },
         {
-          "title": "科创50指数涨超5%，中微公司涨近14%领涨成分股。",
-          "url": "https://flash.jin10.com/detail/20260805111846370800",
+          "title": "俄罗斯对乌克兰基辅地区的夜间袭击造成14人死亡，27人受伤。",
+          "url": "https://flash.jin10.com/detail/20260805120832911800",
+          "heat": false
+        },
+        {
+          "title": "摩根大通：将AMD(AMD.O)目标价从385美元上调至550美元。",
+          "url": "https://flash.jin10.com/detail/20260805120801017800",
+          "heat": false
+        },
+        {
+          "title": "美国总统特朗普：霍尔木兹海峡可能在周三或周四开放。",
+          "url": "https://flash.jin10.com/detail/20260805120729761800",
           "heat": "✰"
         },
         {
-          "title": "欧央行的真实加息信号正改变欧元，日当局干预效力被疲软日债需求抵消——新版发布",
-          "url": "https://flash.jin10.com/detail/20260805111624735800",
+          "title": "港股午评：恒生指数涨0.11%，恒生科技指数涨1.09%",
+          "url": "https://flash.jin10.com/detail/20260805120533272800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-08-05）",
+          "url": "https://flash.jin10.com/detail/20260805120525218800",
           "heat": "✰"
         },
         {
-          "title": "美国总统特朗普：霍尔木兹海峡将很快开放，否则伊朗将遭受严重打击。",
-          "url": "https://flash.jin10.com/detail/20260805111555175800",
+          "title": "国内品牌金饰价格有所上升",
+          "url": "https://flash.jin10.com/detail/20260805120249786800",
+          "heat": false
+        },
+        {
+          "title": "COMEX囤铜65万吨，去年那场20%暴跌会重演吗？",
+          "url": "https://flash.jin10.com/detail/20260805120224002800",
+          "heat": false
+        },
+        {
+          "title": "全球芯片LOF：本基金将于2026年8月5日下午开市起停牌至当日收市，停牌期间本基金赎回业务照常办理。",
+          "url": "https://flash.jin10.com/detail/20260805120211762800",
+          "heat": false
+        },
+        {
+          "title": "俄罗斯汽车协会：俄罗斯7月份汽车销量小幅上升至122,092辆。",
+          "url": "https://flash.jin10.com/detail/20260805120111682800",
+          "heat": false
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗问题）48小时内会有结果。",
+          "url": "https://flash.jin10.com/detail/20260805120017662800",
+          "heat": "✰"
+        },
+        {
+          "title": "美国总统特朗普：尚未对美国检察官珍妮·皮罗做出决定。",
+          "url": "https://flash.jin10.com/detail/20260805115738446800",
+          "heat": false
+        },
+        {
+          "title": "阿布扎比国家石油公司：第二季度，海湾合作委员会零售燃料销量同比下降2.6%，降至20.3亿升，主要受高油价影响。",
+          "url": "https://flash.jin10.com/detail/20260805115647519800",
+          "heat": false
+        },
+        {
+          "title": "分析师预计SK海力士将“很快”公布回购计划",
+          "url": "https://flash.jin10.com/detail/20260805115620117800",
+          "heat": "✰"
+        },
+        {
+          "title": "美联储施密德关于农业、经济与堪萨斯联储的讲话（全文翻译）",
+          "url": "https://flash.jin10.com/detail/20260805115553155800",
+          "heat": "✰"
+        },
+        {
+          "title": "外商独资公募进军投顾？渠道人士：已有准备动作",
+          "url": "https://flash.jin10.com/detail/20260805115547663800",
+          "heat": "✰"
+        },
+        {
+          "title": "宝明科技：HVLP4/5铜箔主要技术指标已完成厂内验证，正布局向下游客户送样",
+          "url": "https://flash.jin10.com/detail/20260805115543021800",
+          "heat": false
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）进展非常顺利。",
+          "url": "https://flash.jin10.com/detail/20260805115537784800",
+          "heat": false
+        },
+        {
+          "title": "印度NIFTY中型股100指数上涨至历史新高。",
+          "url": "https://flash.jin10.com/detail/20260805115400364800",
+          "heat": false
+        },
+        {
+          "title": "派杰投资：将SpaceX(SPCX.O)目标价从156美元下调至140美元。",
+          "url": "https://flash.jin10.com/detail/20260805115347399800",
+          "heat": false
+        },
+        {
+          "title": "印度NIFTY小型股100指数上涨至历史新高，日内涨幅达0.78%。",
+          "url": "https://flash.jin10.com/detail/20260805115326005800",
+          "heat": false
+        },
+        {
+          "title": "阿布扎比国家石油公司重申2026年目标，包括新增60-70个加油站和50-60个电动车充电点。",
+          "url": "https://flash.jin10.com/detail/20260805115314852800",
           "heat": false
         }
       ]
