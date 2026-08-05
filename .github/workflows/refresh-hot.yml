@@ -18,8 +18,7 @@ jobs:
           python-version: "3.11"
       - run: pip install requests
       - run: python pipeline/fetch_hot.py
-      - run: |
-          python pipeline/trend_analyze.py 2>&1
+      - run: python pipeline/trend_analyze.py
         env:
           AI_API_KEY: ${{ secrets.AI_API_KEY }}
       - run: cp data/hot.json docs/ && cp data/wechat.json docs/ && cp data/trend.json docs/
