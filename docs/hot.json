@@ -1,6 +1,6 @@
 {
-  "updated": "08:30:54",
-  "total": 165,
+  "updated": "08:35:36",
+  "total": 280,
   "platforms": [
     {
       "id": "zhihu",
@@ -583,20 +583,373 @@
     {
       "id": "wallstreetcn-hot",
       "name": "华尔街见闻",
-      "count": 0,
-      "items": []
+      "count": 10,
+      "items": [
+        {
+          "title": "美国拟禁止进口中国新型数据中心设备，我使馆：敦促美停止抹黑中企并威胁制裁",
+          "url": "https://wallstreetcn.com/articles/3778674",
+          "heat": ""
+        },
+        {
+          "title": "美伊缓和叠加财报季提振，标普、道指齐创新高，芯片指数大涨6%，油价重挫",
+          "url": "https://wallstreetcn.com/articles/3778638",
+          "heat": ""
+        },
+        {
+          "title": "华尔街见闻早餐FM-Radio | 2026年8月5日",
+          "url": "https://wallstreetcn.com/articles/3778698",
+          "heat": ""
+        },
+        {
+          "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778691",
+          "heat": ""
+        },
+        {
+          "title": "油价跌幅扩大至4%！贝森特：明日美伊或达成协议以开放霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3778667",
+          "heat": ""
+        },
+        {
+          "title": "AMD大跌！Q2营收、利润均超预期，Q3指引未满足激进投资者预期｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778692",
+          "heat": ""
+        },
+        {
+          "title": "沪指涨超1%，科创50暴涨逾5%，半导体大爆发，“易中天”集体回应美国光模块禁令，港股科网股盘中反弹",
+          "url": "https://wallstreetcn.com/articles/3778711",
+          "heat": ""
+        },
+        {
+          "title": "创业板暴涨超5.6%，算力硬件全线反攻、光通信\"满屏涨停\"，医药股爆发、药明康德涨停，半导体强劲反弹",
+          "url": "https://wallstreetcn.com/articles/3778628",
+          "heat": ""
+        },
+        {
+          "title": "SpaceX电话会：剑指美国“第四大运营商”，或提前实现万亿收入目标，芯片锁定英伟达",
+          "url": "https://wallstreetcn.com/articles/3778694",
+          "heat": ""
+        },
+        {
+          "title": "国际油价走低！卡塔尔、美方接连释放外交信号，霍尔木兹海峡重开预期升温",
+          "url": "https://wallstreetcn.com/articles/3778661",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "tieba",
       "name": "贴吧",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "西安赛格老板坠亡非刑事案件",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356798&amp;topic_name=%E8%A5%BF%E5%AE%89%E8%B5%9B%E6%A0%BC%E8%80%81%E6%9D%BF%E5%9D%A0%E4%BA%A1%E9%9D%9E%E5%88%91%E4%BA%8B%E6%A1%88%E4%BB%B6",
+          "heat": ""
+        },
+        {
+          "title": "士兵怕嗑牙,美国制裁洽洽瓜子",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356797&amp;topic_name=%E5%A3%AB%E5%85%B5%E6%80%95%E5%97%91%E7%89%99%2C%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E6%B4%BD%E6%B4%BD%E7%93%9C%E5%AD%90",
+          "heat": ""
+        },
+        {
+          "title": "盖楼召唤梓渝,解锁新专独家惊喜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356788&amp;topic_name=%E7%9B%96%E6%A5%BC%E5%8F%AC%E5%94%A4%E6%A2%93%E6%B8%9D%2C%E8%A7%A3%E9%94%81%E6%96%B0%E4%B8%93%E7%8B%AC%E5%AE%B6%E6%83%8A%E5%96%9C",
+          "heat": ""
+        },
+        {
+          "title": "印度侨民集体向大使馆诉苦",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356790&amp;topic_name=%E5%8D%B0%E5%BA%A6%E4%BE%A8%E6%B0%91%E9%9B%86%E4%BD%93%E5%90%91%E5%A4%A7%E4%BD%BF%E9%A6%86%E8%AF%89%E8%8B%A6",
+          "heat": ""
+        },
+        {
+          "title": "狗仔爆某天王歌手有私生子",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356794&amp;topic_name=%E7%8B%97%E4%BB%94%E7%88%86%E6%9F%90%E5%A4%A9%E7%8E%8B%E6%AD%8C%E6%89%8B%E6%9C%89%E7%A7%81%E7%94%9F%E5%AD%90",
+          "heat": ""
+        },
+        {
+          "title": "逃犯克星+1,时代少年团神助攻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356792&amp;topic_name=%E9%80%83%E7%8A%AF%E5%85%8B%E6%98%9F%2B1%2C%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E7%A5%9E%E5%8A%A9%E6%94%BB",
+          "heat": ""
+        },
+        {
+          "title": "换角失误,年会2票房大扑街",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356796&amp;topic_name=%E6%8D%A2%E8%A7%92%E5%A4%B1%E8%AF%AF%2C%E5%B9%B4%E4%BC%9A2%E7%A5%A8%E6%88%BF%E5%A4%A7%E6%89%91%E8%A1%97",
+          "heat": ""
+        },
+        {
+          "title": "211硕士干普工,制造业太真实",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356781&amp;topic_name=211%E7%A1%95%E5%A3%AB%E5%B9%B2%E6%99%AE%E5%B7%A5%2C%E5%88%B6%E9%80%A0%E4%B8%9A%E5%A4%AA%E7%9C%9F%E5%AE%9E",
+          "heat": ""
+        },
+        {
+          "title": "泰航安保眯眯眼歧视中国乘客",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356786&amp;topic_name=%E6%B3%B0%E8%88%AA%E5%AE%89%E4%BF%9D%E7%9C%AF%E7%9C%AF%E7%9C%BC%E6%AD%A7%E8%A7%86%E4%B8%AD%E5%9B%BD%E4%B9%98%E5%AE%A2",
+          "heat": ""
+        },
+        {
+          "title": "异物砸底盘,智界R7高速起火",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356784&amp;topic_name=%E5%BC%82%E7%89%A9%E7%A0%B8%E5%BA%95%E7%9B%98%2C%E6%99%BA%E7%95%8CR7%E9%AB%98%E9%80%9F%E8%B5%B7%E7%81%AB",
+          "heat": ""
+        },
+        {
+          "title": "鸿蒙智行否认封杀竹知了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356778&amp;topic_name=%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%90%A6%E8%AE%A4%E5%B0%81%E6%9D%80%E7%AB%B9%E7%9F%A5%E4%BA%86",
+          "heat": ""
+        },
+        {
+          "title": "摩洛哥移民扬言入侵中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356777&amp;topic_name=%E6%91%A9%E6%B4%9B%E5%93%A5%E7%A7%BB%E6%B0%91%E6%89%AC%E8%A8%80%E5%85%A5%E4%BE%B5%E4%B8%AD%E5%9B%BD",
+          "heat": ""
+        },
+        {
+          "title": "教招笔试第一遭重金劝退",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356785&amp;topic_name=%E6%95%99%E6%8B%9B%E7%AC%94%E8%AF%95%E7%AC%AC%E4%B8%80%E9%81%AD%E9%87%8D%E9%87%91%E5%8A%9D%E9%80%80",
+          "heat": ""
+        },
+        {
+          "title": "摊主高速路设档口卖啤酒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356774&amp;topic_name=%E6%91%8A%E4%B8%BB%E9%AB%98%E9%80%9F%E8%B7%AF%E8%AE%BE%E6%A1%A3%E5%8F%A3%E5%8D%96%E5%95%A4%E9%85%92",
+          "heat": ""
+        },
+        {
+          "title": "立功!蓝月亮成海警执法神器",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356771&amp;topic_name=%E7%AB%8B%E5%8A%9F%21%E8%93%9D%E6%9C%88%E4%BA%AE%E6%88%90%E6%B5%B7%E8%AD%A6%E6%89%A7%E6%B3%95%E7%A5%9E%E5%99%A8",
+          "heat": ""
+        },
+        {
+          "title": "染色体缺失,英女孩变三无超人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356773&amp;topic_name=%E6%9F%93%E8%89%B2%E4%BD%93%E7%BC%BA%E5%A4%B1%2C%E8%8B%B1%E5%A5%B3%E5%AD%A9%E5%8F%98%E4%B8%89%E6%97%A0%E8%B6%85%E4%BA%BA",
+          "heat": ""
+        },
+        {
+          "title": "烂苹果立功,果菌王第八代来了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356780&amp;topic_name=%E7%83%82%E8%8B%B9%E6%9E%9C%E7%AB%8B%E5%8A%9F%2C%E6%9E%9C%E8%8F%8C%E7%8E%8B%E7%AC%AC%E5%85%AB%E4%BB%A3%E6%9D%A5%E4%BA%86",
+          "heat": ""
+        },
+        {
+          "title": "申通快递因安全缺位被立案",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356782&amp;topic_name=%E7%94%B3%E9%80%9A%E5%BF%AB%E9%80%92%E5%9B%A0%E5%AE%89%E5%85%A8%E7%BC%BA%E4%BD%8D%E8%A2%AB%E7%AB%8B%E6%A1%88",
+          "heat": ""
+        },
+        {
+          "title": "雌雄大盗合伙偷手机被抓",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356775&amp;topic_name=%E9%9B%8C%E9%9B%84%E5%A4%A7%E7%9B%97%E5%90%88%E4%BC%99%E5%81%B7%E6%89%8B%E6%9C%BA%E8%A2%AB%E6%8A%93",
+          "heat": ""
+        },
+        {
+          "title": "不许说方言,蜜雪冰城道歉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356767&amp;topic_name=%E4%B8%8D%E8%AE%B8%E8%AF%B4%E6%96%B9%E8%A8%80%2C%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E9%81%93%E6%AD%89",
+          "heat": ""
+        },
+        {
+          "title": "韩警巡逻汉江,防止股民跳桥",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356768&amp;topic_name=%E9%9F%A9%E8%AD%A6%E5%B7%A1%E9%80%BB%E6%B1%89%E6%B1%9F%2C%E9%98%B2%E6%AD%A2%E8%82%A1%E6%B0%91%E8%B7%B3%E6%A1%A5",
+          "heat": ""
+        },
+        {
+          "title": "AI做题吊打日本名校状元",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356770&amp;topic_name=AI%E5%81%9A%E9%A2%98%E5%90%8A%E6%89%93%E6%97%A5%E6%9C%AC%E5%90%8D%E6%A0%A1%E7%8A%B6%E5%85%83",
+          "heat": ""
+        },
+        {
+          "title": "资本逼复出,孙亚龙扛百万债",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356760&amp;topic_name=%E8%B5%84%E6%9C%AC%E9%80%BC%E5%A4%8D%E5%87%BA%2C%E5%AD%99%E4%BA%9A%E9%BE%99%E6%89%9B%E7%99%BE%E4%B8%87%E5%80%BA",
+          "heat": ""
+        },
+        {
+          "title": "编不动了,新网球王子仓促完结",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356783&amp;topic_name=%E7%BC%96%E4%B8%8D%E5%8A%A8%E4%BA%86%2C%E6%96%B0%E7%BD%91%E7%90%83%E7%8E%8B%E5%AD%90%E4%BB%93%E4%BF%83%E5%AE%8C%E7%BB%93",
+          "heat": ""
+        },
+        {
+          "title": "维修团队培训费被指割韭菜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356772&amp;topic_name=%E7%BB%B4%E4%BF%AE%E5%9B%A2%E9%98%9F%E5%9F%B9%E8%AE%AD%E8%B4%B9%E8%A2%AB%E6%8C%87%E5%89%B2%E9%9F%AD%E8%8F%9C",
+          "heat": ""
+        },
+        {
+          "title": "读者加剧情,万订大佬秒退款",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356764&amp;topic_name=%E8%AF%BB%E8%80%85%E5%8A%A0%E5%89%A7%E6%83%85%2C%E4%B8%87%E8%AE%A2%E5%A4%A7%E4%BD%AC%E7%A7%92%E9%80%80%E6%AC%BE",
+          "heat": ""
+        },
+        {
+          "title": "产能低bug多,七日世界遭吐槽",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356776&amp;topic_name=%E4%BA%A7%E8%83%BD%E4%BD%8Ebug%E5%A4%9A%2C%E4%B8%83%E6%97%A5%E4%B8%96%E7%95%8C%E9%81%AD%E5%90%90%E6%A7%BD",
+          "heat": ""
+        },
+        {
+          "title": "韩国股灾开始抓人了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356763&amp;topic_name=%E9%9F%A9%E5%9B%BD%E8%82%A1%E7%81%BE%E5%BC%80%E5%A7%8B%E6%8A%93%E4%BA%BA%E4%BA%86",
+          "heat": ""
+        },
+        {
+          "title": "入职先孕检,公司吃罚单",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356761&amp;topic_name=%E5%85%A5%E8%81%8C%E5%85%88%E5%AD%95%E6%A3%80%2C%E5%85%AC%E5%8F%B8%E5%90%83%E7%BD%9A%E5%8D%95",
+          "heat": ""
+        },
+        {
+          "title": "粥友吃饭自称蟑螂,店家吓坏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356756&amp;topic_name=%E7%B2%A5%E5%8F%8B%E5%90%83%E9%A5%AD%E8%87%AA%E7%A7%B0%E8%9F%91%E8%9E%82%2C%E5%BA%97%E5%AE%B6%E5%90%93%E5%9D%8F",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "baidu",
       "name": "百度",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "西安通报赛格商场与坠楼者纠纷情况",
+          "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E9%80%9A%E6%8A%A5%E8%B5%9B%E6%A0%BC%E5%95%86%E5%9C%BA%E4%B8%8E%E5%9D%A0%E6%A5%BC%E8%80%85%E7%BA%A0%E7%BA%B7%E6%83%85%E5%86%B5",
+          "heat": ""
+        },
+        {
+          "title": "河南：领导干部要带头休假",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%EF%BC%9A%E9%A2%86%E5%AF%BC%E5%B9%B2%E9%83%A8%E8%A6%81%E5%B8%A6%E5%A4%B4%E4%BC%91%E5%81%87",
+          "heat": ""
+        },
+        {
+          "title": "中国“预制房”是怎样爆单的",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E2%80%9C%E9%A2%84%E5%88%B6%E6%88%BF%E2%80%9D%E6%98%AF%E6%80%8E%E6%A0%B7%E7%88%86%E5%8D%95%E7%9A%84",
+          "heat": ""
+        },
+        {
+          "title": "女童基因编辑悲剧中伦理为何失守",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E5%9F%BA%E5%9B%A0%E7%BC%96%E8%BE%91%E6%82%B2%E5%89%A7%E4%B8%AD%E4%BC%A6%E7%90%86%E4%B8%BA%E4%BD%95%E5%A4%B1%E5%AE%88",
+          "heat": ""
+        },
+        {
+          "title": "单位该不该介入公职人员社会纠纷",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%95%E4%BD%8D%E8%AF%A5%E4%B8%8D%E8%AF%A5%E4%BB%8B%E5%85%A5%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E7%A4%BE%E4%BC%9A%E7%BA%A0%E7%BA%B7",
+          "heat": ""
+        },
+        {
+          "title": "中方反制6家美国实体",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%8F%8D%E5%88%B66%E5%AE%B6%E7%BE%8E%E5%9B%BD%E5%AE%9E%E4%BD%93",
+          "heat": ""
+        },
+        {
+          "title": "尊界MPV及华为新品发布会",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8A%E7%95%8CMPV%E5%8F%8A%E5%8D%8E%E4%B8%BA%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A",
+          "heat": ""
+        },
+        {
+          "title": "男子出狱前8天被改判死缓",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%87%BA%E7%8B%B1%E5%89%8D8%E5%A4%A9%E8%A2%AB%E6%94%B9%E5%88%A4%E6%AD%BB%E7%BC%93",
+          "heat": ""
+        },
+        {
+          "title": "女排国手李盈莹因心脏问题接受手术",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%8E%92%E5%9B%BD%E6%89%8B%E6%9D%8E%E7%9B%88%E8%8E%B9%E5%9B%A0%E5%BF%83%E8%84%8F%E9%97%AE%E9%A2%98%E6%8E%A5%E5%8F%97%E6%89%8B%E6%9C%AF",
+          "heat": ""
+        },
+        {
+          "title": "深圳男子随手拍死飞虫 被迫摘除眼球",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E7%94%B7%E5%AD%90%E9%9A%8F%E6%89%8B%E6%8B%8D%E6%AD%BB%E9%A3%9E%E8%99%AB+%E8%A2%AB%E8%BF%AB%E6%91%98%E9%99%A4%E7%9C%BC%E7%90%83",
+          "heat": ""
+        },
+        {
+          "title": "8月12日地球将失去引力7秒？谣言",
+          "url": "https://www.baidu.com/s?wd=8%E6%9C%8812%E6%97%A5%E5%9C%B0%E7%90%83%E5%B0%86%E5%A4%B1%E5%8E%BB%E5%BC%95%E5%8A%9B7%E7%A7%92%EF%BC%9F%E8%B0%A3%E8%A8%80",
+          "heat": ""
+        },
+        {
+          "title": "男子健身2年从90斤涨到120斤",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%A5%E8%BA%AB2%E5%B9%B4%E4%BB%8E90%E6%96%A4%E6%B6%A8%E5%88%B0120%E6%96%A4",
+          "heat": ""
+        },
+        {
+          "title": "中传多个艺术类专业取消艺考",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BC%A0%E5%A4%9A%E4%B8%AA%E8%89%BA%E6%9C%AF%E7%B1%BB%E4%B8%93%E4%B8%9A%E5%8F%96%E6%B6%88%E8%89%BA%E8%80%83",
+          "heat": ""
+        },
+        {
+          "title": "护士戴首饰做美甲为婴儿打针引质疑",
+          "url": "https://www.baidu.com/s?wd=%E6%8A%A4%E5%A3%AB%E6%88%B4%E9%A6%96%E9%A5%B0%E5%81%9A%E7%BE%8E%E7%94%B2%E4%B8%BA%E5%A9%B4%E5%84%BF%E6%89%93%E9%92%88%E5%BC%95%E8%B4%A8%E7%96%91",
+          "heat": ""
+        },
+        {
+          "title": "A股收盘：科创50指数大涨4.78%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%A7%91%E5%88%9B50%E6%8C%87%E6%95%B0%E5%A4%A7%E6%B6%A84.78%25",
+          "heat": ""
+        },
+        {
+          "title": "金饰大跌金股大涨",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E9%A5%B0%E5%A4%A7%E8%B7%8C%E9%87%91%E8%82%A1%E5%A4%A7%E6%B6%A8",
+          "heat": ""
+        },
+        {
+          "title": "短剧演员降薪到日薪4万？红果回应",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E9%99%8D%E8%96%AA%E5%88%B0%E6%97%A5%E8%96%AA4%E4%B8%87%EF%BC%9F%E7%BA%A2%E6%9E%9C%E5%9B%9E%E5%BA%94",
+          "heat": ""
+        },
+        {
+          "title": "指责周星驰无儿女没朋友 李修贤致歉",
+          "url": "https://www.baidu.com/s?wd=%E6%8C%87%E8%B4%A3%E5%91%A8%E6%98%9F%E9%A9%B0%E6%97%A0%E5%84%BF%E5%A5%B3%E6%B2%A1%E6%9C%8B%E5%8F%8B+%E6%9D%8E%E4%BF%AE%E8%B4%A4%E8%87%B4%E6%AD%89",
+          "heat": ""
+        },
+        {
+          "title": "韩国高温 李在明：进入国家灾难状态",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E9%AB%98%E6%B8%A9+%E6%9D%8E%E5%9C%A8%E6%98%8E%EF%BC%9A%E8%BF%9B%E5%85%A5%E5%9B%BD%E5%AE%B6%E7%81%BE%E9%9A%BE%E7%8A%B6%E6%80%81",
+          "heat": ""
+        },
+        {
+          "title": "博士后出轨后又入职新高校 校方回应",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E5%A3%AB%E5%90%8E%E5%87%BA%E8%BD%A8%E5%90%8E%E5%8F%88%E5%85%A5%E8%81%8C%E6%96%B0%E9%AB%98%E6%A0%A1+%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94",
+          "heat": ""
+        },
+        {
+          "title": "女生预约参观北大没成功后考上北大",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%A2%84%E7%BA%A6%E5%8F%82%E8%A7%82%E5%8C%97%E5%A4%A7%E6%B2%A1%E6%88%90%E5%8A%9F%E5%90%8E%E8%80%83%E4%B8%8A%E5%8C%97%E5%A4%A7",
+          "heat": ""
+        },
+        {
+          "title": "俄罗斯空降兵日 老兵跳伞高空坠亡",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E7%A9%BA%E9%99%8D%E5%85%B5%E6%97%A5+%E8%80%81%E5%85%B5%E8%B7%B3%E4%BC%9E%E9%AB%98%E7%A9%BA%E5%9D%A0%E4%BA%A1",
+          "heat": ""
+        },
+        {
+          "title": "8月多地或发生极端高温事件",
+          "url": "https://www.baidu.com/s?wd=8%E6%9C%88%E5%A4%9A%E5%9C%B0%E6%88%96%E5%8F%91%E7%94%9F%E6%9E%81%E7%AB%AF%E9%AB%98%E6%B8%A9%E4%BA%8B%E4%BB%B6",
+          "heat": ""
+        },
+        {
+          "title": "正宗大盘鸡到底有没有土豆",
+          "url": "https://www.baidu.com/s?wd=%E6%AD%A3%E5%AE%97%E5%A4%A7%E7%9B%98%E9%B8%A1%E5%88%B0%E5%BA%95%E6%9C%89%E6%B2%A1%E6%9C%89%E5%9C%9F%E8%B1%86",
+          "heat": ""
+        },
+        {
+          "title": "《哪吒》之后为何又是《八仙！》",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%93%AA%E5%90%92%E3%80%8B%E4%B9%8B%E5%90%8E%E4%B8%BA%E4%BD%95%E5%8F%88%E6%98%AF%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B",
+          "heat": ""
+        },
+        {
+          "title": "物业费4次涨价 九成业主赞成",
+          "url": "https://www.baidu.com/s?wd=%E7%89%A9%E4%B8%9A%E8%B4%B94%E6%AC%A1%E6%B6%A8%E4%BB%B7+%E4%B9%9D%E6%88%90%E4%B8%9A%E4%B8%BB%E8%B5%9E%E6%88%90",
+          "heat": ""
+        },
+        {
+          "title": "今年第15号台风灿鸿生成",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E7%AC%AC15%E5%8F%B7%E5%8F%B0%E9%A3%8E%E7%81%BF%E9%B8%BF%E7%94%9F%E6%88%90",
+          "heat": ""
+        },
+        {
+          "title": "我们为何越来越少打电话",
+          "url": "https://www.baidu.com/s?wd=%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BD%95%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%91%E6%89%93%E7%94%B5%E8%AF%9D",
+          "heat": ""
+        },
+        {
+          "title": "雪花膏之王退场 老牌国货怎么样了",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%AA%E8%8A%B1%E8%86%8F%E4%B9%8B%E7%8E%8B%E9%80%80%E5%9C%BA+%E8%80%81%E7%89%8C%E5%9B%BD%E8%B4%A7%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86",
+          "heat": ""
+        },
+        {
+          "title": "西安东站卫生间指示牌火了",
+          "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%B8%9C%E7%AB%99%E5%8D%AB%E7%94%9F%E9%97%B4%E6%8C%87%E7%A4%BA%E7%89%8C%E7%81%AB%E4%BA%86",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "cls-hot",
@@ -673,8 +1026,109 @@
     {
       "id": "thepaper",
       "name": "澎湃新闻",
-      "count": 0,
-      "items": []
+      "count": 20,
+      "items": [
+        {
+          "title": "抢劫杀人犯死刑改死缓被害人家属十年后才知晓，申诉已获云南省检受理",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33714213",
+          "heat": ""
+        },
+        {
+          "title": "7月楼市淡季不淡：多城成交同比保持增长，上海豪宅项目开盘日光",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33713617",
+          "heat": ""
+        },
+        {
+          "title": "国防部回应日本新版《防卫白皮书》：炒作所谓“中国威胁”，完全是贼喊捉贼",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33715601",
+          "heat": ""
+        },
+        {
+          "title": "地方餐饮协会加速清理“名厨”“名店”：线下门店须摘除销毁荣誉牌匾",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33716153",
+          "heat": ""
+        },
+        {
+          "title": "鸿蒙智行：“竹知了”相关投诉均有明确侵权事实，不存在仅为正常制作展示内容",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33713612",
+          "heat": ""
+        },
+        {
+          "title": "鸿蒙智行回应“竹知了”事件",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33715905",
+          "heat": ""
+        },
+        {
+          "title": "《智能网联汽车 自动驾驶系统安全要求》强制性国家标准正式发布",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33713556",
+          "heat": ""
+        },
+        {
+          "title": "国家邮政局依法对申通快递有限公司立案调查",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33714700",
+          "heat": ""
+        },
+        {
+          "title": "马上测｜“毒”美睫胶暗访调查：成分含致癌物，监管存盲区",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33709683",
+          "heat": ""
+        },
+        {
+          "title": "官方通报西安赛格商场坠亡事件",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33719947",
+          "heat": ""
+        },
+        {
+          "title": "马上评｜郭局长被停职，一些疑问仍待解",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33718292",
+          "heat": ""
+        },
+        {
+          "title": "杂志社长举报网红张萌所著书籍292处文字雷同，张萌回应系“合理使用”",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33718554",
+          "heat": ""
+        },
+        {
+          "title": "河南出台带薪休假新政：领导干部要带头休假，推动全员应休尽休",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33719470",
+          "heat": ""
+        },
+        {
+          "title": "乘客投诉绕路遭出租车司机持铁棍殴打，太原警方通报",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33716678",
+          "heat": ""
+        },
+        {
+          "title": "多地停车计费试行取消“向上取整”，“按分钟计费”试点加速落地",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33715593",
+          "heat": ""
+        },
+        {
+          "title": "多所高校为学生公寓配冰箱：有的仅限储药，有的允许食品存放",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33715175",
+          "heat": ""
+        },
+        {
+          "title": "丑到卖不出去的双马尾狗，走红后卖了2400元",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33713963",
+          "heat": ""
+        },
+        {
+          "title": "清理“攀比内卷不愿休”的职场环境，天津发文推进带薪休假落地",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33714415",
+          "heat": ""
+        },
+        {
+          "title": "“祁连明、吴强坚决不插手干预工程建设”，西藏一医院公开书记院长申明",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33712543",
+          "heat": ""
+        },
+        {
+          "title": "济南卫健委回应两位休班护士抢救溺水初中生：后续将予以表彰",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33713570",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "ifeng",
@@ -903,8 +1357,134 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 0,
-      "items": []
+      "count": 25,
+      "items": [
+        {
+          "title": "茅台租赁公司换帅，王剑波出任董事长",
+          "url": "https://flash.jin10.com/detail/20260805162620204800",
+          "heat": false
+        },
+        {
+          "title": "日本财务大臣片山皋月：美国财长贝森特对我们的政策立场充满信心。",
+          "url": "https://flash.jin10.com/detail/20260805162534039800",
+          "heat": false
+        },
+        {
+          "title": "日本财务大臣片山皋月：美国财长贝森特承认日本在财政纪律方面的努力。",
+          "url": "https://flash.jin10.com/detail/20260805162357049800",
+          "heat": false
+        },
+        {
+          "title": "温氏股份：7月肉鸡销量1.13亿只 同比增长1.49%",
+          "url": "https://flash.jin10.com/detail/20260805162353423800",
+          "heat": false
+        },
+        {
+          "title": "日本财务大臣片山皋月：特别外汇账户的盈余已被使用。",
+          "url": "https://flash.jin10.com/detail/20260805162307506800",
+          "heat": false
+        },
+        {
+          "title": "日本财务大臣片山皋月：将向市场全面解释我们的财政政策。",
+          "url": "https://flash.jin10.com/detail/20260805162254014800",
+          "heat": false
+        },
+        {
+          "title": "摩根大通：将SpaceX(SPCX.O)目标价从225美元上调至240美元。",
+          "url": "https://flash.jin10.com/detail/20260805162248298800",
+          "heat": false
+        },
+        {
+          "title": "日本财务大臣片山皋月：将审查预算支出和收入，以确保资金填补税收短缺。",
+          "url": "https://flash.jin10.com/detail/20260805162125343800",
+          "heat": false
+        },
+        {
+          "title": "SpaceX(SPCX.O)盘前跌超10%，其AI支出激增引发担忧。",
+          "url": "https://flash.jin10.com/detail/20260805162028507800",
+          "heat": "✰"
+        },
+        {
+          "title": "中国台湾7月外汇存底 5942.71亿美元，前值5971.5亿美元。",
+          "url": "https://flash.jin10.com/detail/20260805162002567800",
+          "heat": false
+        },
+        {
+          "title": "日本财务大臣片山皋月：不会依赖新债务发行来填补税收收入短缺。",
+          "url": "https://flash.jin10.com/detail/20260805162001882800",
+          "heat": false
+        },
+        {
+          "title": "英国7月服务业PMI终值将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260805162000001800",
+          "heat": "✰"
+        },
+        {
+          "title": "救日元为何抛欧元？这场反常的干预，撕开了美债的“遮羞布”",
+          "url": "https://flash.jin10.com/detail/20260805161917324800",
+          "heat": "✰"
+        },
+        {
+          "title": "金十图示：2026年08月05日（周三）沪深港通南向资金流向",
+          "url": "https://flash.jin10.com/detail/20260805161618120800",
+          "heat": false
+        },
+        {
+          "title": "港股收评：恒生指数涨0.24%，恒生科技指数涨0.97%",
+          "url": "https://flash.jin10.com/detail/20260805161552734800",
+          "heat": false
+        },
+        {
+          "title": "伊朗议员细数特朗普言辞 批其谈判立场“矛盾且不可靠”",
+          "url": "https://flash.jin10.com/detail/20260805161449690800",
+          "heat": false
+        },
+        {
+          "title": "瑞穗银行：重申对SpaceX(SPCX.O)的跑赢大盘评级及200美元的目标价。",
+          "url": "https://flash.jin10.com/detail/20260805161311248800",
+          "heat": false
+        },
+        {
+          "title": "美国电信股在盘前交易中下跌，因SpaceX(SPCX.O)透露其计划建立全面的移动服务。",
+          "url": "https://flash.jin10.com/detail/20260805161208686800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：每日投行/机构观点梳理（2026-08-05）",
+          "url": "https://flash.jin10.com/detail/20260805161145177800",
+          "heat": "✰"
+        },
+        {
+          "title": "香港恒生指数8月5日（周三）收盘上涨62.9点，涨幅0.24%，报25915.82点；<br/>香港恒生科技指数8月5日（周三）收盘上涨47.46点，涨幅0.97%，报4933.07点；<br/>国企指数8月5日（周三）收盘上涨29.47点，涨幅0.34%，报8603.73点；<br/>红筹指数8月5日（周三）收盘上涨12.74点，涨幅0.31%，报4158.15点。",
+          "url": "https://flash.jin10.com/detail/20260805161129080800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月05日（周三）上海黄金交易所市场行情",
+          "url": "https://flash.jin10.com/detail/20260805161126255800",
+          "heat": false
+        },
+        {
+          "title": "港股收盘，恒指收涨0.24%，科指收涨0.97%。黄金股、半导体股表现亮眼，MINIMAX-W(00100.HK)涨约10%，洛阳钼业(03993.HK)涨约9%，华虹宏力(01347.HK)涨约5%。",
+          "url": "https://flash.jin10.com/detail/20260805160939799800",
+          "heat": "✰"
+        },
+        {
+          "title": "惠誉：俄罗斯经济增长缓慢、高通胀和高实际利率的情况可能会持续。",
+          "url": "https://flash.jin10.com/detail/20260805160919228800",
+          "heat": false
+        },
+        {
+          "title": "Lucid Group(LCID.O)盘前下跌8.2%，因公司推迟电动车发布，且第二季度调整后亏损超出预期。",
+          "url": "https://flash.jin10.com/detail/20260805160850625800",
+          "heat": false
+        },
+        {
+          "title": "商务部新闻发言人就对美国联邦通信委员会、美国土安全部系列涉华消极措施实施反制答记者问",
+          "url": "https://flash.jin10.com/detail/20260805160747673800",
+          "heat": "✰"
+        }
+      ]
     }
   ]
 }
