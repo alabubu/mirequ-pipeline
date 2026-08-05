@@ -118,14 +118,21 @@ class ArticleDB:
             ).fetchall()
 
             if existing_all:
-                # 收集所有历史值 + 新值，排除 dajiala 天花板值 100001
+                # 收集所有值 + 新值，排除天花板值 100001
                 all_vals = [(r["read_count"] or 0) for r in existing_all] + [new_read]
                 real_vals = [v for v in all_vals if v != 100001]
                 if real_vals:
+                    # 有真实值 → 取最高真值
                     final_read = max(real_vals)
                 else:
-                    # 全为 100001，保留（真 10万+）
-                    final_read = 100001
+                    # 全是 100001
+                    # 只有存在一个 >0 且非 100001 的历史值（说明之前见过真实增长），才认 10万+
+                    max_real_ever = max((r["read_count"] or 0) for r in existing_all if (r["read_count"] or 0) not in (0, 100001))
+                    if max_real_ever:
+                        final_read = 100001
+                    else:
+                        # 从头到尾都是 100001，不可信，清零等下次扫描纠正
+                        final_read = 0
                 conn.execute("DELETE FROM articles WHERE msg_key = ?", (msg_key,))
                 conn.execute(
                     """
