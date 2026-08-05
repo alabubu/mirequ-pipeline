@@ -1,6 +1,6 @@
 {
-  "updated": "00:55:26",
-  "total": 280,
+  "updated": "01:00:09",
+  "total": 310,
   "platforms": [
     {
       "id": "zhihu",
@@ -1485,6 +1485,181 @@
           "heat": false
         }
       ]
+    },
+    {
+      "id": "xiaohongshu",
+      "name": "小红书",
+      "count": 0,
+      "items": []
+    },
+    {
+      "id": "xueqiu",
+      "name": "雪球",
+      "count": 30,
+      "items": [
+        {
+          "title": "SpaceX",
+          "url": "https://xueqiu.com/s/SPCX",
+          "heat": "9.4298% NASDAQ"
+        },
+        {
+          "title": "中际旭创",
+          "url": "https://xueqiu.com/s/SZ300308",
+          "heat": "13.24% SZ"
+        },
+        {
+          "title": "AMD",
+          "url": "https://xueqiu.com/s/AMD",
+          "heat": "7.0031% NASDAQ"
+        },
+        {
+          "title": "英伟达",
+          "url": "https://xueqiu.com/s/NVDA",
+          "heat": "2.5648% NASDAQ"
+        },
+        {
+          "title": "Palantir",
+          "url": "https://xueqiu.com/s/PLTR",
+          "heat": "29.4548% NASDAQ"
+        },
+        {
+          "title": "闪迪",
+          "url": "https://xueqiu.com/s/SNDK",
+          "heat": "10.84% NASDAQ"
+        },
+        {
+          "title": "Lumentum控股",
+          "url": "https://xueqiu.com/s/LITE",
+          "heat": "8.92% NASDAQ"
+        },
+        {
+          "title": "SK海力士",
+          "url": "https://xueqiu.com/s/SKHY",
+          "heat": "8.1698% NASDAQ"
+        },
+        {
+          "title": "Coherent",
+          "url": "https://xueqiu.com/s/COHR",
+          "heat": "12.3516% NYSE"
+        },
+        {
+          "title": "药明康德",
+          "url": "https://xueqiu.com/s/SH603259",
+          "heat": "10% SH"
+        },
+        {
+          "title": "美光科技",
+          "url": "https://xueqiu.com/s/MU",
+          "heat": "7.62% NASDAQ"
+        },
+        {
+          "title": "英特尔",
+          "url": "https://xueqiu.com/s/INTC",
+          "heat": "10.8352% NASDAQ"
+        },
+        {
+          "title": "阳光电源",
+          "url": "https://xueqiu.com/s/SZ300274",
+          "heat": "2.51% SZ"
+        },
+        {
+          "title": "东山精密",
+          "url": "https://xueqiu.com/s/SZ002384",
+          "heat": "10% SZ"
+        },
+        {
+          "title": "AXT",
+          "url": "https://xueqiu.com/s/AXTI",
+          "heat": "-4.9512% NASDAQ"
+        },
+        {
+          "title": "云南锗业",
+          "url": "https://xueqiu.com/s/SZ002428",
+          "heat": "10.01% SZ"
+        },
+        {
+          "title": "新易盛",
+          "url": "https://xueqiu.com/s/SZ300502",
+          "heat": "13.68% SZ"
+        },
+        {
+          "title": "长鑫科技",
+          "url": "https://xueqiu.com/s/SH688825",
+          "heat": "0.02% SH"
+        },
+        {
+          "title": "兆易创新",
+          "url": "https://xueqiu.com/s/SH603986",
+          "heat": "4.48% SH"
+        },
+        {
+          "title": "阿里巴巴",
+          "url": "https://xueqiu.com/s/BABA",
+          "heat": "1.33% NYSE"
+        },
+        {
+          "title": "迈威尔科技",
+          "url": "https://xueqiu.com/s/MRVL",
+          "heat": "12.8061% NASDAQ"
+        },
+        {
+          "title": "拓尔思",
+          "url": "https://xueqiu.com/s/SZ300229",
+          "heat": "11.26% SZ"
+        },
+        {
+          "title": "中船特气",
+          "url": "https://xueqiu.com/s/SH688146",
+          "heat": "2.06% SH"
+        },
+        {
+          "title": "天孚通信",
+          "url": "https://xueqiu.com/s/SZ300394",
+          "heat": "17.45% SZ"
+        },
+        {
+          "title": "行云科技",
+          "url": "https://xueqiu.com/s/SZ300209",
+          "heat": "20.01% SZ"
+        },
+        {
+          "title": "中际旭创",
+          "url": "https://xueqiu.com/s/03308",
+          "heat": "17% HK"
+        },
+        {
+          "title": "应用光电",
+          "url": "https://xueqiu.com/s/AAOI",
+          "heat": "19.4356% NASDAQ"
+        },
+        {
+          "title": "紫光股份",
+          "url": "https://xueqiu.com/s/SZ000938",
+          "heat": "3.69% SZ"
+        },
+        {
+          "title": "协创数据",
+          "url": "https://xueqiu.com/s/SZ300857",
+          "heat": "17.68% SZ"
+        },
+        {
+          "title": "微软",
+          "url": "https://xueqiu.com/s/MSFT",
+          "heat": "1.0581% NASDAQ"
+        }
+      ]
+    },
+    {
+      "id": "stock-hot",
+      "name": "同花顺",
+      "count": 0,
+      "items": []
+    },
+    {
+      "id": "eastmoney",
+      "name": "东方财富",
+      "count": 0,
+      "items": []
     }
   ]
 }
