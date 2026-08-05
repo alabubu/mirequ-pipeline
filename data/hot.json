@@ -1,6 +1,6 @@
 {
-  "updated": "00:45:32",
-  "total": 278,
+  "updated": "00:50:36",
+  "total": 280,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,33 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 23,
+      "count": 25,
       "items": [
+        {
+          "title": "两市融资余额增加119.71亿元",
+          "url": "https://flash.jin10.com/detail/20260805084731311800",
+          "heat": false
+        },
+        {
+          "title": "白宫再出手压油价：拟延长《琼斯法案》豁免！特朗普怒斥“虚假民调”",
+          "url": "https://flash.jin10.com/detail/20260805084506889800",
+          "heat": "✰"
+        },
+        {
+          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日公布中国7月RatingDog服务业PMI、美国7月ADP就业人数、美国当周EIA库存数据。",
+          "url": "https://flash.jin10.com/detail/20260805084452541800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：隔日全球股市走势回顾（2026-08-05）",
+          "url": "https://flash.jin10.com/detail/20260805084450924800",
+          "heat": false
+        },
+        {
+          "title": "“大空头”再发警告：美股市场正接近“大顶”，1987式崩盘或重演",
+          "url": "https://flash.jin10.com/detail/20260805083108933800",
+          "heat": "✰"
+        },
         {
           "title": "日本7月服务业PMI终值 51.2，前值51.9。",
           "url": "https://flash.jin10.com/detail/20260805083002318800",
@@ -1457,21 +1482,6 @@
         {
           "title": "美联储施密德：通胀过高，令人担忧。",
           "url": "https://flash.jin10.com/detail/20260805081528421800",
-          "heat": false
-        },
-        {
-          "title": "美联储施密德：需要更紧缩的货币政策以将通胀恢复至2%的目标。",
-          "url": "https://flash.jin10.com/detail/20260805081513471800",
-          "heat": "✰"
-        },
-        {
-          "title": "日本央行会议纪要：一名成员表示，日本通胀有可能向薪资传导。",
-          "url": "https://flash.jin10.com/detail/20260805081342194800",
-          "heat": false
-        },
-        {
-          "title": "中信建投8月行业配置报告：定价回归基本面 把握成长修复窗口",
-          "url": "https://flash.jin10.com/detail/20260805081151198800",
           "heat": false
         }
       ]
