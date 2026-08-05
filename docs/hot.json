@@ -1,6 +1,6 @@
 {
-  "updated": "14:15:34",
-  "total": 274,
+  "updated": "14:20:42",
+  "total": 275,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,38 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 19,
+      "count": 20,
       "items": [
+        {
+          "title": "铁矿石主力合约日内涨幅达2.00%，现报715.50元/吨。",
+          "url": "https://flash.jin10.com/detail/20260805221756310800",
+          "heat": false
+        },
+        {
+          "title": "美国能源部批准向Pattern Energy旗下子公司Amanecer Puerto Rico提供4.894亿美元贷款。",
+          "url": "https://flash.jin10.com/detail/20260805221022949800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月05日（周三）华尔街恐惧与贪婪指数（美盘初）",
+          "url": "https://flash.jin10.com/detail/20260805220919794800",
+          "heat": false
+        },
+        {
+          "title": "贵金属期货主力合约涨幅扩大，沪金2610涨幅扩大至2.56%，现报918.98元/克。沪银2610涨幅扩大至4.05%，现报15313元/千克。",
+          "url": "https://flash.jin10.com/detail/20260805220822896800",
+          "heat": "✰"
+        },
+        {
+          "title": "美国将Fly Baghdad（巴格达航空）从制裁名单中移除。",
+          "url": "https://flash.jin10.com/detail/20260805220730075800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月05日（周三）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260805220642803800",
+          "heat": false
+        },
         {
           "title": "现货白银日内涨幅扩大至5%，现报62.51美元/盎司。现货黄金涨约3.5%。",
           "url": "https://flash.jin10.com/detail/20260805220544217800",
@@ -1427,31 +1457,6 @@
         {
           "title": "市场消息：韩国将对巴西进行牛肉贸易初步谈判的审计。",
           "url": "https://flash.jin10.com/detail/20260805215523620800",
-          "heat": false
-        },
-        {
-          "title": "印度外交部：印度外长访问斯里兰卡。",
-          "url": "https://flash.jin10.com/detail/20260805215521212800",
-          "heat": false
-        },
-        {
-          "title": "当地警方表示，伦敦市中心发生持刀伤人事件，“据信与心理健康问题有关”。",
-          "url": "https://flash.jin10.com/detail/20260805215433355800",
-          "heat": false
-        },
-        {
-          "title": "据半岛电视台：黎巴嫩与以色列在罗马举行的第二轮谈判今日结束。",
-          "url": "https://flash.jin10.com/detail/20260805215404261800",
-          "heat": false
-        },
-        {
-          "title": "德意志银行：将SpaceX(SPCX.O)目标价从255美元下调至235美元。",
-          "url": "https://flash.jin10.com/detail/20260805215311161800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：2026年08月05日（周三）美盘市场行情一览",
-          "url": "https://flash.jin10.com/detail/20260805215124039800",
           "heat": false
         }
       ]
