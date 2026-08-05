@@ -1,6 +1,6 @@
 {
-  "updated": "22:35:37",
-  "total": 280,
+  "updated": "22:40:32",
+  "total": 282,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,38 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 25,
+      "count": 27,
       "items": [
+        {
+          "title": "委内瑞拉首都附近国际机场恢复商业货运航班。",
+          "url": "https://flash.jin10.com/detail/20260806063250034800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：昨日今晨重要新闻汇总（2026-08-06）",
+          "url": "https://flash.jin10.com/detail/20260806063203122800",
+          "heat": "✰"
+        },
+        {
+          "title": "Meta旗下AI入侵一公司系统",
+          "url": "https://flash.jin10.com/detail/20260806062228967800",
+          "heat": false
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上一交易日增加4.851吨，当前持仓量为1014.148吨。",
+          "url": "https://flash.jin10.com/detail/20260806061842759800",
+          "heat": "✰"
+        },
+        {
+          "title": "巴西央行下调基准利率至14%",
+          "url": "https://flash.jin10.com/detail/20260806061645472800",
+          "heat": false
+        },
+        {
+          "title": "美联储9月加息25个基点的概率为54.4%",
+          "url": "https://flash.jin10.com/detail/20260806060152970800",
+          "heat": false
+        },
         {
           "title": "金十图示：2026年08月06日（周四）各大货币对表现",
           "url": "https://flash.jin10.com/detail/20260806060029069800",
@@ -1462,26 +1492,6 @@
         {
           "title": "红杉资本完成100亿美元新一轮融资。",
           "url": "https://flash.jin10.com/detail/20260806044523891800",
-          "heat": false
-        },
-        {
-          "title": "法拉第未来(FFIE.O)：计划在四个季度内将截至一季度末的2.3亿美元负债削减至1亿美元以下。",
-          "url": "https://flash.jin10.com/detail/20260806043328335800",
-          "heat": false
-        },
-        {
-          "title": "伊朗称与阿曼接近达成协议 海峡现有两条航道将关闭",
-          "url": "https://flash.jin10.com/detail/20260806042849231800",
-          "heat": false
-        },
-        {
-          "title": "美元指数5日下跌",
-          "url": "https://flash.jin10.com/detail/20260806042740895800",
-          "heat": false
-        },
-        {
-          "title": "美联储理事库克：若通胀不放缓 我将准备支持加息",
-          "url": "https://flash.jin10.com/detail/20260806041548995800",
           "heat": false
         }
       ]
