@@ -1,6 +1,6 @@
 {
-  "updated": "06:01:18",
-  "total": 239,
+  "updated": "06:05:29",
+  "total": 282,
   "platforms": [
     {
       "id": "zhihu",
@@ -954,8 +954,74 @@
     {
       "id": "cls-hot",
       "name": "财联社",
-      "count": 0,
-      "items": []
+      "count": 13,
+      "items": [
+        {
+          "title": "【早报】美股半导体、存储、光通信，集体爆发；油价大跌、黄金走强；SpaceX、AMD财报出炉；大基金三期出手！入股正芯半导体",
+          "url": "https://www.cls.cn/detail/2445802",
+          "heat": ""
+        },
+        {
+          "title": "美股收盘：标普500再创历史新高 光通信、存储涨幅居前",
+          "url": "https://www.cls.cn/detail/2445760",
+          "heat": ""
+        },
+        {
+          "title": "错把“8416万元”写成“亿元”，上市券商回购公告闹乌龙",
+          "url": "https://www.cls.cn/detail/2446105",
+          "heat": ""
+        },
+        {
+          "title": "美股存储板块爆发！SK海力士ADR大涨逾8% 投行集体看涨",
+          "url": "https://www.cls.cn/detail/2445853",
+          "heat": ""
+        },
+        {
+          "title": "7月A股新开266万户增长35%，为何说数据大有“含金量”？",
+          "url": "https://www.cls.cn/detail/2446019",
+          "heat": ""
+        },
+        {
+          "title": "AI短剧市场有多火？虚拟演员商单报价超真人网红 但爆款率不足0.5%困局待解",
+          "url": "https://www.cls.cn/detail/2445817",
+          "heat": ""
+        },
+        {
+          "title": "【数读IPO】今日1只新股申购，1只新股上市",
+          "url": "https://www.cls.cn/detail/2445804",
+          "heat": ""
+        },
+        {
+          "title": "SpaceX首份财报出炉：二季度营收同比增长92% 资本开支飙升至184亿美元",
+          "url": "https://www.cls.cn/detail/2445777",
+          "heat": ""
+        },
+        {
+          "title": "AMD公布炸裂财报：业绩全面均超预期 数据中心营收明年或翻倍",
+          "url": "https://www.cls.cn/detail/2445870",
+          "heat": ""
+        },
+        {
+          "title": "人民日报钟声：中美经贸需要“合作清单”，而非“覆盖清单”",
+          "url": "https://www.cls.cn/detail/2445806",
+          "heat": ""
+        },
+        {
+          "title": "Meta盯上卫星通信！商业航天概念股趁势起飞",
+          "url": "https://www.cls.cn/detail/2445721",
+          "heat": ""
+        },
+        {
+          "title": "存储“三国杀”变局：三星扩大领先 美光追近海力士",
+          "url": "https://www.cls.cn/detail/2445731",
+          "heat": ""
+        },
+        {
+          "title": "独家｜月之暗面500亿美元Pre-IPO轮开闸 K3模型发布后额度骤然紧俏",
+          "url": "https://www.cls.cn/detail/2445951",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "thepaper",
@@ -1134,14 +1200,195 @@
     {
       "id": "toutiao",
       "name": "今日头条",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "“白海豚”体型堪比东三省",
+          "url": "https://www.toutiao.com/trending/7670356667871235594/",
+          "heat": ""
+        },
+        {
+          "title": "女生预约参观北大没成功后考上北大",
+          "url": "https://www.toutiao.com/trending/7669433893754110006/",
+          "heat": ""
+        },
+        {
+          "title": "“十五五”开局之年各省份经济半年报",
+          "url": "https://www.toutiao.com/trending/7670363646614146606/",
+          "heat": ""
+        },
+        {
+          "title": "护士戴手链做美甲为婴儿打针被停职",
+          "url": "https://www.toutiao.com/trending/7670355068243214363/",
+          "heat": ""
+        },
+        {
+          "title": "游客睡自己车里被酒店收150元住宿费",
+          "url": "https://www.toutiao.com/trending/7670360225141014571/",
+          "heat": ""
+        },
+        {
+          "title": "新台风鲸鱼生成 路径公布",
+          "url": "https://www.toutiao.com/trending/7669963502744223795/",
+          "heat": ""
+        },
+        {
+          "title": "李在明：韩国进入国家灾难状态",
+          "url": "https://www.toutiao.com/trending/7669975409655808036/",
+          "heat": ""
+        },
+        {
+          "title": "男子健身2年从90斤涨到120斤",
+          "url": "https://www.toutiao.com/trending/7670076323029057599/",
+          "heat": ""
+        },
+        {
+          "title": "3.23亿老人成各地政府的香饽饽了吗",
+          "url": "https://www.toutiao.com/trending/7670200369644834367/",
+          "heat": ""
+        },
+        {
+          "title": "俄老兵600米高空跳伞降落伞未打开坠亡",
+          "url": "https://www.toutiao.com/trending/7670284978848120859/",
+          "heat": ""
+        },
+        {
+          "title": "8月12日地球将失去引力7秒？谣言",
+          "url": "https://www.toutiao.com/trending/7669265651924074537/",
+          "heat": ""
+        },
+        {
+          "title": "员工用代码17小时删光公司89TB数据",
+          "url": "https://www.toutiao.com/trending/7670413114399067699/",
+          "heat": ""
+        },
+        {
+          "title": "乌军阵亡高达125万是真的吗",
+          "url": "https://www.toutiao.com/trending/7670382754944519734/",
+          "heat": ""
+        },
+        {
+          "title": "男子长红斑掉皮屑5年查出皮肤癌",
+          "url": "https://www.toutiao.com/trending/7670330528751304723/",
+          "heat": ""
+        },
+        {
+          "title": "医生喊停“无效养生”晒背",
+          "url": "https://www.toutiao.com/trending/7670322129581260842/",
+          "heat": ""
+        },
+        {
+          "title": "鸿蒙智行回应“竹知了”争议",
+          "url": "https://www.toutiao.com/trending/7669737948003794994/",
+          "heat": ""
+        },
+        {
+          "title": "22名中国乘客遭拒载 泰国机场致歉",
+          "url": "https://www.toutiao.com/trending/7669828239829254170/",
+          "heat": ""
+        },
+        {
+          "title": "美国启动史上最大规模撤籍行动",
+          "url": "https://www.toutiao.com/trending/7670016604410904586/",
+          "heat": ""
+        },
+        {
+          "title": "女子在少林寺一比一还原武术动作",
+          "url": "https://www.toutiao.com/trending/7670122426831126564/",
+          "heat": ""
+        },
+        {
+          "title": "“易中天”集体回应光模块禁令传闻",
+          "url": "https://www.toutiao.com/trending/7669292564591365675/",
+          "heat": ""
+        },
+        {
+          "title": "我们已经进入“奇点时代”了吗",
+          "url": "https://www.toutiao.com/trending/7670379823469956650/",
+          "heat": ""
+        },
+        {
+          "title": "老人举手机拍照被广告连环弹窗",
+          "url": "https://www.toutiao.com/trending/7669660083051970602/",
+          "heat": ""
+        },
+        {
+          "title": "为什么糖尿病老人四肢越来越细",
+          "url": "https://www.toutiao.com/trending/7670338008504057897/",
+          "heat": ""
+        },
+        {
+          "title": "母子从成都坐火车去意大利",
+          "url": "https://www.toutiao.com/trending/7670057068838944806/",
+          "heat": ""
+        },
+        {
+          "title": "朝鲜：将根据日本动态制定军事选项",
+          "url": "https://www.toutiao.com/trending/7669566344827928630/",
+          "heat": ""
+        },
+        {
+          "title": "著名肝病学家冯百芳逝世",
+          "url": "https://www.toutiao.com/trending/7670366416083615798/",
+          "heat": ""
+        },
+        {
+          "title": "我国成功发射东方慧眼高光谱01、02星",
+          "url": "https://www.toutiao.com/trending/7670316095206883382/",
+          "heat": ""
+        },
+        {
+          "title": "女子在7-11关东煮里吃出死蟑螂",
+          "url": "https://www.toutiao.com/trending/7670338918677495846/",
+          "heat": ""
+        },
+        {
+          "title": "全国首台甲醇增程无人驾驶农机亮相",
+          "url": "https://www.toutiao.com/trending/7670383679507546155/",
+          "heat": ""
+        },
+        {
+          "title": "撒贝宁张凯丽感受青海19°C夏天",
+          "url": "https://www.toutiao.com/trending/7670192760204886070/",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "jin10",
       "name": "金十数据",
       "count": 27,
       "items": [
+        {
+          "title": "中际旭创成交额超600亿元，再创历史天量",
+          "url": "https://flash.jin10.com/detail/20260805135420009800",
+          "heat": "✰"
+        },
+        {
+          "title": "油价下跌美元走弱提振黄金 中东局势降温或推动涨势延续",
+          "url": "https://flash.jin10.com/detail/20260805135340153800",
+          "heat": false
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260805135248892800",
+          "heat": "✰"
+        },
+        {
+          "title": "现货黄金站上4170美元/盎司，刷新7月22日以来新高，日内涨2.29%。",
+          "url": "https://flash.jin10.com/detail/20260805135154015800",
+          "heat": false
+        },
+        {
+          "title": "央行上海总部：扎实落实适度宽松的货币政策 积极推动金融机构深挖有效信贷需求",
+          "url": "https://flash.jin10.com/detail/20260805135042136800",
+          "heat": false
+        },
+        {
+          "title": "A股半导体材料板块震荡走强，有研硅20cm涨停，此前雅克科技、康强电子、有研新材等股涨停，神工股份、西安奕材跟涨。",
+          "url": "https://flash.jin10.com/detail/20260805134922772800",
+          "heat": "✰"
+        },
         {
           "title": "科创50指数午后涨超6%，成分股中，中微公司涨超14%，拓荆科技涨超13%，华润微涨近9%。",
           "url": "https://flash.jin10.com/detail/20260805134726640800",
@@ -1245,36 +1492,6 @@
         {
           "title": "受关税与风险偏好双重支撑，纽约铜期货维持高位运行",
           "url": "https://flash.jin10.com/detail/20260805131658780800",
-          "heat": false
-        },
-        {
-          "title": "A股三大股指午后持续拉升，深证成指涨2%，创业板指涨1.85%，沪指涨1.4%，全市场超3600只个股上涨。",
-          "url": "https://flash.jin10.com/detail/20260805131252735800",
-          "heat": "✰"
-        },
-        {
-          "title": "富时中国A50指数期货涨超1%。",
-          "url": "https://flash.jin10.com/detail/20260805131242641800",
-          "heat": false
-        },
-        {
-          "title": "泰国联合商业集团将2026年GDP增长预测维持在1.6%至2.0%。",
-          "url": "https://flash.jin10.com/detail/20260805131007225800",
-          "heat": false
-        },
-        {
-          "title": "工业富联涨停，成交额超127亿元。",
-          "url": "https://flash.jin10.com/detail/20260805130212576800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：2026年08月05日（周三）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260805130133729800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：2026年08月05日（周三）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260805130130911800",
           "heat": false
         }
       ]
