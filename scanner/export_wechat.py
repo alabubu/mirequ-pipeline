@@ -38,22 +38,23 @@ for r in rows:
         'title': r['title'],
         'account': r['account_name'],
         'url': r['url'],
-        'read_count': r['read_count'] or 0,
+        'read_count': min(r['read_count'] or 0, 100000),
         'publish_time': str(r['publish_time']),
     })
-# 按阅读量倒序
 filtered.sort(key=lambda r: r['publish_time'], reverse=True)
+top100k = [r for r in filtered if r['read_count'] >= 100000]
 
 from collections import Counter
 rank_counter = Counter(r['account'] for r in filtered)
-ranking = [{'name': a, 'cnt': rank_counter[a], 'k100': 0} for a in rank_counter]
+hot_counter = Counter(r['account'] for r in top100k)
+ranking = [{'name': a, 'cnt': rank_counter[a], 'k100': hot_counter.get(a, 0)} for a in rank_counter]
 ranking.sort(key=lambda x: x['cnt'], reverse=True)
 
 data = {
     'date': target_date,
-    'stats': {'total': len(filtered)},
+    'stats': {'total': len(filtered), 'hot100k': len(top100k)},
     'ranking': ranking,
-    'top100k': [],
+    'top100k': top100k,
     'articles': filtered,
 }
 
@@ -62,6 +63,6 @@ out = os.path.join(DATA_DIR, 'wechat.json')
 with open(out, 'w', encoding='utf-8') as f:
     json.dump(data, f, ensure_ascii=False, default=str)
 
-print(f'{target_date}: {len(filtered)}篇')
+print(f'{target_date}: {len(filtered)}篇 ({len(top100k)}篇10万+)')
 for r in ranking:
-    print(f'  {r["name"]}: {r["cnt"]}篇')
+    print(f'  {r["name"]}: {r["cnt"]}篇 {r["k100"]}个10万+')
