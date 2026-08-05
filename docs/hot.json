@@ -1,6 +1,6 @@
 {
-  "updated": "15:15:44",
-  "total": 276,
+  "updated": "15:20:41",
+  "total": 281,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,118 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 21,
+      "count": 26,
       "items": [
+        {
+          "title": "达拉斯联储和纽约联储将于2026年第三季度末启动私人信贷市场试点调查。",
+          "url": "https://flash.jin10.com/detail/20260805231604603800",
+          "heat": false
+        },
+        {
+          "title": "伊朗称与阿曼的联合声明正处于终审阶段 双方就航运路线达成一致",
+          "url": "https://flash.jin10.com/detail/20260805231327490800",
+          "heat": "✰"
+        },
+        {
+          "title": "上交所行动之后深交所也将切换交易线路，周边机房已“供应紧张”",
+          "url": "https://flash.jin10.com/detail/20260805231245109800",
+          "heat": "✰"
+        },
+        {
+          "title": "现货黄金突破4260美元/盎司，日内涨4.48%。",
+          "url": "https://flash.jin10.com/detail/20260805231148994800",
+          "heat": false
+        },
+        {
+          "title": "伊朗称和阿曼就霍尔木兹海峡拟定航道坐标达成一致",
+          "url": "https://flash.jin10.com/detail/20260805231117427800",
+          "heat": false
+        },
+        {
+          "title": "伊朗外交部发言人：我们研究了与阿曼就霍尔木兹海峡问题进行会谈的各种技术、法律、安全和环境层面。",
+          "url": "https://flash.jin10.com/detail/20260805230926333800",
+          "heat": false
+        },
+        {
+          "title": "美国服务业活动保持稳定扩张 需求韧性支撑增长",
+          "url": "https://flash.jin10.com/detail/20260805230718657800",
+          "heat": false
+        },
+        {
+          "title": "巴西总统卢拉：我们无法接受对巴西选举的干预。",
+          "url": "https://flash.jin10.com/detail/20260805230701830800",
+          "heat": false
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：美国总统特朗普是我们最好的朋友，但我已明确表示，以色列的存在不容谈判。",
+          "url": "https://flash.jin10.com/detail/20260805230618737800",
+          "heat": false
+        },
+        {
+          "title": "伊朗外交部发言人：与阿曼的谈判专业且进展顺利。",
+          "url": "https://flash.jin10.com/detail/20260805230516483800",
+          "heat": false
+        },
+        {
+          "title": "伊朗外交部发言人：外交部长或议长暂无出访巴基斯坦或卡塔尔的计划。",
+          "url": "https://flash.jin10.com/detail/20260805230441113800",
+          "heat": "✰"
+        },
+        {
+          "title": "伊朗外交部发言人：伊朗-阿曼协议本身并不意味着霍尔木兹海峡（通行）是安全的。联合声明正处于最终起草阶段。",
+          "url": "https://flash.jin10.com/detail/20260805230343292800",
+          "heat": "✰"
+        },
+        {
+          "title": "美、布两油继续下挫，最新报73.85美元/桶和77.98美元/桶。现货黄金向上触及4250美元/盎司，日内涨4.24%。",
+          "url": "https://flash.jin10.com/detail/20260805230236709800",
+          "heat": "✰"
+        },
+        {
+          "title": "SC原油主力合约日内跌幅达2.00%，现报502.70元/桶。",
+          "url": "https://flash.jin10.com/detail/20260805230141328800",
+          "heat": false
+        },
+        {
+          "title": "伊朗外交部发言人：伊朗与阿曼已就霍尔木兹海峡航线的地理走向达成一致。",
+          "url": "https://flash.jin10.com/detail/20260805230130256800",
+          "heat": "✰"
+        },
+        {
+          "title": "截至23:00收盘，国内期货主力合约涨跌不一，丙烯、乙二醇（EG）、纯苯、甲醇、苯乙烯（EB）跌超3%，聚丙烯、PTA、液化石油气（LPG）跌近3%，涨幅方面，铁矿石涨近2%，棉花涨超1%，焦煤涨近1%。",
+          "url": "https://flash.jin10.com/detail/20260805230042912800",
+          "heat": "✰"
+        },
+        {
+          "title": "美国财长贝森特：沃什执掌美联储期间的一大看点，就是看着那些伪装成记者的速记员，比如《华尔街日报》的 Nick Timiraos（此前被称为“美联储传声筒”），沦落到只能报道美联储的幕后八卦，因为他们若没人喂料，就做不出真正的经济或货币政策分析。",
+          "url": "https://flash.jin10.com/detail/20260805225630728800",
+          "heat": "✰"
+        },
+        {
+          "title": "伊朗协议草案已达成一致，韩国与彭博爆发口水战 | Plus日报",
+          "url": "https://flash.jin10.com/detail/20260805225531238800",
+          "heat": false
+        },
+        {
+          "title": "美联储卡什卡利：美联储在九月会议前将看到大量数据。",
+          "url": "https://flash.jin10.com/detail/20260805225309739800",
+          "heat": false
+        },
+        {
+          "title": "美联储卡什卡利：美联储主席沃什告诉我，要做我认为对经济正确的事情。",
+          "url": "https://flash.jin10.com/detail/20260805225257252800",
+          "heat": false
+        },
+        {
+          "title": "俄罗斯国防部表示，俄罗斯在黑海地区击沉了三艘货船。",
+          "url": "https://flash.jin10.com/detail/20260805225245737800",
+          "heat": false
+        },
+        {
+          "title": "“破冰”信号！伊朗与阿曼达成草案，美方解除相关航司制裁",
+          "url": "https://flash.jin10.com/detail/20260805225035775800",
+          "heat": "✰"
+        },
         {
           "title": "乌克兰总统泽连斯基：乌克兰将摧毁俄罗斯的弹道导弹发射装置。",
           "url": "https://flash.jin10.com/detail/20260805224406043800",
@@ -1378,91 +1488,6 @@
           "title": "福克斯新闻：官员称美财政部移除伊朗相关制裁措施并不代表政策转变",
           "url": "https://flash.jin10.com/detail/20260805223254370800",
           "heat": "✰"
-        },
-        {
-          "title": "金十数据整理：美国当周EIA库存数据六大看点一览",
-          "url": "https://flash.jin10.com/detail/20260805223228759800",
-          "heat": "✰"
-        },
-        {
-          "title": "美国至7月31日当周EIA蒸馏燃油产量引伸需求数据 582.51万桶/日，前值531.03万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260805223047646800",
-          "heat": false
-        },
-        {
-          "title": "美国至7月31日当周EIA车用汽油总产量引伸需求数据 983.83万桶/日，前值993.11万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260805223034620800",
-          "heat": false
-        },
-        {
-          "title": "美国至7月31日当周EIA原油产量引伸需求数据 1964.8万桶/日，前值2050.3万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260805223027087800",
-          "heat": false
-        },
-        {
-          "title": "美国至7月31日当周EIA战略石油储备库存 -284.1万桶，前值-379.7万桶。",
-          "url": "https://flash.jin10.com/detail/20260805223010697800",
-          "heat": "✰"
-        },
-        {
-          "title": "美国至7月31日当周EIA精炼厂设备利用率 96.5%，预期96.9%，前值97.2%。",
-          "url": "https://flash.jin10.com/detail/20260805223007078800",
-          "heat": false
-        },
-        {
-          "title": "美国至7月31日当周EIA取暖油库存 -14.4万桶，前值30.8万桶。",
-          "url": "https://flash.jin10.com/detail/20260805223005140800",
-          "heat": false
-        },
-        {
-          "title": "美国至7月31日当周EIA成品油进口 -31.7万桶/日，前值18.6万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260805223004377800",
-          "heat": false
-        },
-        {
-          "title": "美国至7月31日当周EIA原油进口 29.7万桶，前值-23.7万桶。",
-          "url": "https://flash.jin10.com/detail/20260805223004374800",
-          "heat": false
-        },
-        {
-          "title": "美国至7月31日当周EIA新配方汽油库存 0万桶，前值0万桶。",
-          "url": "https://flash.jin10.com/detail/20260805223004376800",
-          "heat": false
-        },
-        {
-          "title": "美国至7月31日当周EIA精炼油产量 -13.4万桶/日，前值1.5万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260805223004273800",
-          "heat": false
-        },
-        {
-          "title": "美国至7月31日当周EIA精炼油库存 -347.3万桶，预期20.6万桶，前值106.2万桶。",
-          "url": "https://flash.jin10.com/detail/20260805223004271800",
-          "heat": false
-        },
-        {
-          "title": "美国至7月31日当周EIA汽油库存 -164.3万桶，预期-126.4万桶，前值0.7万桶。",
-          "url": "https://flash.jin10.com/detail/20260805223004148800",
-          "heat": false
-        },
-        {
-          "title": "美国至7月31日当周EIA汽油产量 -30.9万桶/日，前值17.8万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260805223004190800",
-          "heat": false
-        },
-        {
-          "title": "美国至7月31日当周EIA原油库存 247.9万桶，预期-150.6万桶，前值-716.7万桶。",
-          "url": "https://flash.jin10.com/detail/20260805223004147800",
-          "heat": "✰"
-        },
-        {
-          "title": "美国至7月31日当周EIA俄克拉荷马州库欣原油库存 235.6万桶，前值-77.1万桶。",
-          "url": "https://flash.jin10.com/detail/20260805223003608800",
-          "heat": "✰"
-        },
-        {
-          "title": "美国至7月31日当周EIA投产原油量 -18.3万桶/日，前值27.1万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260805223003578800",
-          "heat": false
         }
       ]
     }
