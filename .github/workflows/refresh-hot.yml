@@ -11,6 +11,8 @@ permissions:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    env:
+      AI_API_KEY: ${{ secrets.AI_API_KEY }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -19,8 +21,6 @@ jobs:
       - run: pip install requests
       - run: python pipeline/fetch_hot.py
       - run: python pipeline/trend_analyze.py
-        env:
-          AI_API_KEY: ${{ secrets.AI_API_KEY }}
       - run: cp data/hot.json docs/ && cp data/wechat.json docs/ && cp data/trend.json docs/
       - run: |
           git config user.name bot && git config user.email bot@m.bot
