@@ -1,6 +1,6 @@
 {
-  "updated": "00:20:30",
-  "total": 282,
+  "updated": "00:25:34",
+  "total": 281,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,103 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 27,
+      "count": 26,
       "items": [
+        {
+          "title": "2027年FOMC票委、旧金山联储主席戴利将于十分钟后发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260806082500001800",
+          "heat": "✰"
+        },
+        {
+          "title": "英国海上贸易行动办公室：在阿曼库姆扎尔东南9海里处发生一起事件，一名油轮船长报告称，在霍尔木兹海峡航行时听到两声爆炸。",
+          "url": "https://flash.jin10.com/detail/20260806082451785800",
+          "heat": false
+        },
+        {
+          "title": "软银跌幅扩大至4.5%。",
+          "url": "https://flash.jin10.com/detail/20260806082344200800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月06日（周四）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260806081847699800",
+          "heat": false
+        },
+        {
+          "title": "华泰证券：A股趋势性反弹的关键窗口在8月下旬",
+          "url": "https://flash.jin10.com/detail/20260806081654490800",
+          "heat": false
+        },
+        {
+          "title": "澳大利亚S&P/ASX200指数8月6日（周四）开盘上涨51.70点，涨幅0.56%，报9279.50点。",
+          "url": "https://flash.jin10.com/detail/20260806081052347800",
+          "heat": false
+        },
+        {
+          "title": "科研人员确证新型粒子“胶球”的存在",
+          "url": "https://flash.jin10.com/detail/20260806081050705800",
+          "heat": false
+        },
+        {
+          "title": "东京电子盘初下跌5%。",
+          "url": "https://flash.jin10.com/detail/20260806080706599800",
+          "heat": false
+        },
+        {
+          "title": "韩国KOSPI指数跌幅收窄至0.8%，此前跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260806080617533800",
+          "heat": false
+        },
+        {
+          "title": "日经225指数日内跌幅达1.00%。",
+          "url": "https://flash.jin10.com/detail/20260806080520261800",
+          "heat": false
+        },
+        {
+          "title": "韩国财政部长：经济增长回升至3%水平的可能性大幅增加，这将是5年来首次。",
+          "url": "https://flash.jin10.com/detail/20260806080217266800",
+          "heat": false
+        },
+        {
+          "title": "日韩股市低开",
+          "url": "https://flash.jin10.com/detail/20260806080133132800",
+          "heat": "✰"
+        },
+        {
+          "title": "中信证券：看好高端光模块测试设备国产替代趋势",
+          "url": "https://flash.jin10.com/detail/20260806080007567800",
+          "heat": false
+        },
+        {
+          "title": "中信证券：韩股杠杆去化尚未完成",
+          "url": "https://flash.jin10.com/detail/20260806075905194800",
+          "heat": false
+        },
+        {
+          "title": "中金：全球聚变产业共振，产业链机遇逐步显现",
+          "url": "https://flash.jin10.com/detail/20260806075811422800",
+          "heat": false
+        },
+        {
+          "title": "美国副总统万斯：在伊朗问题上与特朗普总统并无分歧，我们正努力执行他的决策。",
+          "url": "https://flash.jin10.com/detail/20260806075722145800",
+          "heat": false
+        },
+        {
+          "title": "美国副总统万斯：能源价格将下降，伊朗不会拥有核武器，我们将处于更有利的地位。",
+          "url": "https://flash.jin10.com/detail/20260806075712421800",
+          "heat": false
+        },
+        {
+          "title": "美国副总统万斯：伊朗人难以对付，不过他们的政权已出现裂痕，我们的任务是为美国人民争取最佳结果。",
+          "url": "https://flash.jin10.com/detail/20260806075710492800",
+          "heat": false
+        },
+        {
+          "title": "新闻交易员：海峡没真开，市场已经急着降风险溢价",
+          "url": "https://flash.jin10.com/detail/20260806075633082800",
+          "heat": "✰"
+        },
         {
           "title": "美国副总统万斯：伊朗政权内部有人希望结束战争，也有极端分子希望战争持续下去。",
           "url": "https://flash.jin10.com/detail/20260806075445316800",
@@ -1393,106 +1488,6 @@
           "title": "日本至7月31日当周外资买进日债 5589亿日元，前值-15139亿日元。",
           "url": "https://flash.jin10.com/detail/20260806075027597800",
           "heat": false
-        },
-        {
-          "title": "日本至7月31日当周买进外国股票 -2764亿日元，前值3202亿日元。",
-          "url": "https://flash.jin10.com/detail/20260806075022578800",
-          "heat": false
-        },
-        {
-          "title": "日本至7月31日当周外资买进日股 -3925亿日元，前值由9121亿日元修正为9124亿日元。",
-          "url": "https://flash.jin10.com/detail/20260806075002958800",
-          "heat": false
-        },
-        {
-          "title": "日本至7月31日当周买进外国债券 4779亿日元，前值由-8114亿日元修正为-8101亿日元。",
-          "url": "https://flash.jin10.com/detail/20260806075002872800",
-          "heat": false
-        },
-        {
-          "title": "现货价格",
-          "url": "https://flash.jin10.com/detail/20260806074246811800",
-          "heat": false
-        },
-        {
-          "title": "现货价格",
-          "url": "https://flash.jin10.com/detail/20260806074232760800",
-          "heat": false
-        },
-        {
-          "title": "金十数据整理：每日期货市场要闻速递（2026-08-06）",
-          "url": "https://flash.jin10.com/detail/20260806073747578800",
-          "heat": "✰"
-        },
-        {
-          "title": "现货黄金突破4270美元/盎司，日内涨0.55%。",
-          "url": "https://flash.jin10.com/detail/20260806073743229800",
-          "heat": false
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260806072906033800",
-          "heat": "✰"
-        },
-        {
-          "title": "美联储理事库克放鹰：通胀不退即加息，等待的“奢侈”不存在",
-          "url": "https://flash.jin10.com/detail/20260806072600292800",
-          "heat": "✰"
-        },
-        {
-          "title": "金十数据整理：每日科技要闻速递（8月6日）",
-          "url": "https://flash.jin10.com/detail/20260806072511432800",
-          "heat": false
-        },
-        {
-          "title": "巴西降级与阿根廷关系 阿称驻巴大使将“回国休假”",
-          "url": "https://flash.jin10.com/detail/20260806071653036800",
-          "heat": false
-        },
-        {
-          "title": "金十数据全球财经早餐 | 2026年8月6日",
-          "url": "https://flash.jin10.com/detail/20260806071003154800",
-          "heat": "✰"
-        },
-        {
-          "title": "霍尔木兹迎关键突破：伊朗称与阿曼接近达成航运协议，但全面开放仍有变数",
-          "url": "https://flash.jin10.com/detail/20260806070213899800",
-          "heat": "✰"
-        },
-        {
-          "title": "全球首座16兆瓦张力腿浮式风电平台正式投运",
-          "url": "https://flash.jin10.com/detail/20260806070138834800",
-          "heat": false
-        },
-        {
-          "title": "韩国6月未季调经常帐 497.3亿美元，前值386.074亿美元。",
-          "url": "https://flash.jin10.com/detail/20260806070002172800",
-          "heat": false
-        },
-        {
-          "title": "今日重点关注的财经数据与事件：2026年8月6日 周四",
-          "url": "https://flash.jin10.com/detail/20260806065000001800",
-          "heat": "✰"
-        },
-        {
-          "title": "委内瑞拉首都附近国际机场恢复商业货运航班。",
-          "url": "https://flash.jin10.com/detail/20260806063250034800",
-          "heat": false
-        },
-        {
-          "title": "金十数据整理：昨日今晨重要新闻汇总（2026-08-06）",
-          "url": "https://flash.jin10.com/detail/20260806063203122800",
-          "heat": "✰"
-        },
-        {
-          "title": "Meta旗下AI入侵一公司系统",
-          "url": "https://flash.jin10.com/detail/20260806062228967800",
-          "heat": false
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上一交易日增加4.851吨，当前持仓量为1014.148吨。",
-          "url": "https://flash.jin10.com/detail/20260806061842759800",
-          "heat": "✰"
         }
       ]
     }
