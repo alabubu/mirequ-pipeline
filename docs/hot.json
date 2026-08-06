@@ -1,6 +1,6 @@
 {
-  "updated": "23:50:33",
-  "total": 284,
+  "updated": "23:55:28",
+  "total": 282,
   "platforms": [
     {
       "id": "zhihu",
@@ -962,6 +962,11 @@
           "heat": ""
         },
         {
+          "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
+          "url": "https://www.cls.cn/detail/2447939",
+          "heat": ""
+        },
+        {
           "title": "刚果（金）据传禁止铜、钴精矿出口 这是怎么一回事？",
           "url": "https://www.cls.cn/detail/2447690",
           "heat": ""
@@ -984,11 +989,6 @@
         {
           "title": "DeepSeek、腾讯等获宇树科技战略配售",
           "url": "https://www.cls.cn/detail/2447658",
-          "heat": ""
-        },
-        {
-          "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
-          "url": "https://www.cls.cn/detail/2447939",
           "heat": ""
         },
         {
@@ -1017,8 +1017,8 @@
           "heat": ""
         },
         {
-          "title": "韩国另类交易所风波再起：SK海力士连续两周出现“30%闪崩”",
-          "url": "https://www.cls.cn/detail/2447370",
+          "title": "SpaceX火箭残骸，撞上月球",
+          "url": "https://www.cls.cn/detail/2447604",
           "heat": ""
         }
       ]
@@ -1357,8 +1357,98 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 29,
+      "count": 27,
       "items": [
+        {
+          "title": "日本7月外汇储备 12871亿美元，前值12875亿美元。",
+          "url": "https://flash.jin10.com/detail/20260807075430253800",
+          "heat": false
+        },
+        {
+          "title": "日本财务省：在4月和5月共进行了三次买入日元的汇率干预行动。",
+          "url": "https://flash.jin10.com/detail/20260807075332303800",
+          "heat": false
+        },
+        {
+          "title": "日本财务省：在4月至6月当季，日本最大规模的单日汇市干预行动发生在4月30日，干预金额达到6.2787万亿日元。",
+          "url": "https://flash.jin10.com/detail/20260807075331537800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：每日期货市场要闻速递（2026-08-07）",
+          "url": "https://flash.jin10.com/detail/20260807075131289800",
+          "heat": "✰"
+        },
+        {
+          "title": "金十数据中心工具",
+          "url": "https://flash.jin10.com/detail/20260807075130348800",
+          "heat": false
+        },
+        {
+          "title": "日本家庭支出连降七月 通胀持续压制消费信心",
+          "url": "https://flash.jin10.com/detail/20260807074454064800",
+          "heat": false
+        },
+        {
+          "title": "沙特拉响警报：伊朗支持武装或发动多线攻击，能源设施成潜在目标",
+          "url": "https://flash.jin10.com/detail/20260807074227443800",
+          "heat": "✰"
+        },
+        {
+          "title": "现货价格",
+          "url": "https://flash.jin10.com/detail/20260807074149447800",
+          "heat": false
+        },
+        {
+          "title": "现货价格",
+          "url": "https://flash.jin10.com/detail/20260807074122081800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（8月7日）",
+          "url": "https://flash.jin10.com/detail/20260807073838399800",
+          "heat": false
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260807073719152800",
+          "heat": "✰"
+        },
+        {
+          "title": "据华尔街日报：特朗普已下令对五角大楼弹药储备泄露事件展开新的调查，政府官员表示，这是他为应对有关伊朗战争的破坏性信息披露而采取的最新升级举措。",
+          "url": "https://flash.jin10.com/detail/20260807073607063800",
+          "heat": false
+        },
+        {
+          "title": "东证指数大换血：超600家公司面临剔除 小盘股加速自救",
+          "url": "https://flash.jin10.com/detail/20260807073221922800",
+          "heat": false
+        },
+        {
+          "title": "美国总统特朗普：（谈及霍尔木兹海峡）进展顺利。",
+          "url": "https://flash.jin10.com/detail/20260807073117453800",
+          "heat": false
+        },
+        {
+          "title": "日本6月所有家庭支出月率 -6.4%，预期-3.1%，前值3.7%。",
+          "url": "https://flash.jin10.com/detail/20260807073009320800",
+          "heat": false
+        },
+        {
+          "title": "日本6月所有家庭支出年率 -3.3%，预期1.00%，前值-0.40%。",
+          "url": "https://flash.jin10.com/detail/20260807073005586800",
+          "heat": false
+        },
+        {
+          "title": "地缘风险再起打压亚股 油价跳涨重燃通胀忧虑",
+          "url": "https://flash.jin10.com/detail/20260807072829783800",
+          "heat": false
+        },
+        {
+          "title": "金十数据全球财经早餐 | 2026年8月7日",
+          "url": "https://flash.jin10.com/detail/20260807071452282800",
+          "heat": "✰"
+        },
         {
           "title": "据叙利亚国家电视台6日援引叙过渡政府卫生部消息报道，大马士革农村省当天一辆小型巴士发生爆炸，造成至少2人死亡、13人受伤，地方政府将此次袭击定性为恐袭。",
           "url": "https://flash.jin10.com/detail/20260807071439025800",
@@ -1402,106 +1492,6 @@
         {
           "title": "特朗普承认某些弹药供应紧张",
           "url": "https://flash.jin10.com/detail/20260807061416820800",
-          "heat": false
-        },
-        {
-          "title": "美联储穆萨莱姆：未见能够动摇美元主要储备货币地位的相关条件。",
-          "url": "https://flash.jin10.com/detail/20260807061349050800",
-          "heat": false
-        },
-        {
-          "title": "美联储穆萨莱姆：金融环境依然高度宽松，美联储正在监测情况。",
-          "url": "https://flash.jin10.com/detail/20260807061347575800",
-          "heat": false
-        },
-        {
-          "title": "美联储穆萨莱姆：许多资产价格仍然较高。",
-          "url": "https://flash.jin10.com/detail/20260807061346811800",
-          "heat": false
-        },
-        {
-          "title": "美联储穆萨莱姆：美国仍是增长最快、最具创新力的经济体，且拥有有效的法治。",
-          "url": "https://flash.jin10.com/detail/20260807061345231800",
-          "heat": false
-        },
-        {
-          "title": "美联储穆萨莱姆：我们密切关注金融市场。",
-          "url": "https://flash.jin10.com/detail/20260807060806597800",
-          "heat": false
-        },
-        {
-          "title": "美联储穆萨莱姆：央行有时会给市场带来意外。",
-          "url": "https://flash.jin10.com/detail/20260807060741248800",
-          "heat": false
-        },
-        {
-          "title": "美联储穆萨莱姆： 美联储需做出最优决策，但不应被市场裹挟。",
-          "url": "https://flash.jin10.com/detail/20260807060740218800",
-          "heat": false
-        },
-        {
-          "title": "中东咽喉要道航运依然低迷",
-          "url": "https://flash.jin10.com/detail/20260807060512971800",
-          "heat": false
-        },
-        {
-          "title": "美联储9月加息25个基点的概率为55%",
-          "url": "https://flash.jin10.com/detail/20260807060353535800",
-          "heat": false
-        },
-        {
-          "title": "7月份中国仓储指数保持扩张 行业运行韧性较强",
-          "url": "https://flash.jin10.com/detail/20260807060344358800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：2026年08月07日（周五）各大货币对表现",
-          "url": "https://flash.jin10.com/detail/20260807060310212800",
-          "heat": false
-        },
-        {
-          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
-          "url": "https://flash.jin10.com/detail/20260807060056237800",
-          "heat": "✰"
-        },
-        {
-          "title": "美联储穆萨莱姆：忽略政治噪音，专注于央行使命。",
-          "url": "https://flash.jin10.com/detail/20260807055916053800",
-          "heat": false
-        },
-        {
-          "title": "美联储穆萨莱姆：劳动力市场似乎表现强劲。",
-          "url": "https://flash.jin10.com/detail/20260807055907164800",
-          "heat": false
-        },
-        {
-          "title": "美联储穆萨莱姆：厄尔尼诺天气事件可能带来新的供应冲击。",
-          "url": "https://flash.jin10.com/detail/20260807055335965800",
-          "heat": false
-        },
-        {
-          "title": "消息人士：土耳其、沙特和巴基斯坦将于周五在沙特签署联合防务协议。",
-          "url": "https://flash.jin10.com/detail/20260807055306364800",
-          "heat": "✰"
-        },
-        {
-          "title": "美联储穆萨莱姆：对美联储工作组非常欢迎。",
-          "url": "https://flash.jin10.com/detail/20260807055128493800",
-          "heat": false
-        },
-        {
-          "title": "美联储穆萨莱姆：劳动力市场并不是通胀的推动力。",
-          "url": "https://flash.jin10.com/detail/20260807055039932800",
-          "heat": false
-        },
-        {
-          "title": "美联储穆萨莱姆：希望每月的通胀月率低于0.2%。",
-          "url": "https://flash.jin10.com/detail/20260807055028622800",
-          "heat": false
-        },
-        {
-          "title": "美联储穆萨莱姆：核心通胀可能在2.5%到3%之间。",
-          "url": "https://flash.jin10.com/detail/20260807054932687800",
           "heat": false
         }
       ]
