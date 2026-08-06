@@ -1,6 +1,6 @@
 {
-  "updated": "10:35:31",
-  "total": 284,
+  "updated": "10:40:31",
+  "total": 285,
   "platforms": [
     {
       "id": "zhihu",
@@ -1049,11 +1049,6 @@
           "heat": ""
         },
         {
-          "title": "澎湃回声｜多平台回应“假睫毛胶水检出多种致癌、致敏物”：正排查处置",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33720820",
-          "heat": ""
-        },
-        {
           "title": "联合国教科文组织确认北京为2029年“世界建筑之都”",
           "url": "https://www.thepaper.cn/newsDetail_forward_33723954",
           "heat": ""
@@ -1071,11 +1066,6 @@
         {
           "title": "存储芯片成本压力开始释放！余承东称所有手机都要大规模涨价，否则就是亏损销售",
           "url": "https://www.thepaper.cn/newsDetail_forward_33728067",
-          "heat": ""
-        },
-        {
-          "title": "马上评｜笔试第一却被劝出局，这些疑点要全面核查",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33719868",
           "heat": ""
         },
         {
@@ -1124,8 +1114,18 @@
           "heat": ""
         },
         {
+          "title": "难以落地的动迁款：深圳罗湖区两村民追讨两千万元动迁款八年未果",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33573360",
+          "heat": ""
+        },
+        {
           "title": "冒充保安混入演唱会场内，2名扰序违法人员被行政处罚",
           "url": "https://www.thepaper.cn/newsDetail_forward_33724627",
+          "heat": ""
+        },
+        {
+          "title": "重庆一粮食系统职工举报被单位提前退休，涉事公司否认：系自愿申请",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33728081",
           "heat": ""
         }
       ]
@@ -1357,15 +1357,120 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 29,
+      "count": 30,
       "items": [
+        {
+          "title": "内地居民港险收益纳入征收范围？香港保监局回应",
+          "url": "https://flash.jin10.com/detail/20260806183724719800",
+          "heat": false
+        },
+        {
+          "title": "好当家：2026年半年度净利润2997.88万元，同比增长21.74%",
+          "url": "https://flash.jin10.com/detail/20260806183656308800",
+          "heat": false
+        },
+        {
+          "title": "欧盟委员会发言人：电力供应情况稳定，没有供应安全隐患。",
+          "url": "https://flash.jin10.com/detail/20260806183536782800",
+          "heat": false
+        },
+        {
+          "title": "印度信息部长：内阁批准2373.1亿卢比用于压缩沼气生产计划。",
+          "url": "https://flash.jin10.com/detail/20260806183523602800",
+          "heat": false
+        },
+        {
+          "title": "中国地震台网自动测定：08月06日18时32分在甘肃张掖市肃南县附近（北纬38.41度，东经99.93度）发生3.6级左右地震，最终结果以正式速报为准。",
+          "url": "https://flash.jin10.com/detail/20260806183454438800",
+          "heat": false
+        },
+        {
+          "title": "澳门金融管理局行政管理委员会委员、MCSD董事会主席刘杏娟一行到访上海清算所",
+          "url": "https://flash.jin10.com/detail/20260806182945825800",
+          "heat": false
+        },
+        {
+          "title": "昇腾0 Day支持百灵Ling-3.0-flash CANN PyPTO重磅登场",
+          "url": "https://flash.jin10.com/detail/20260806182639315800",
+          "heat": false
+        },
+        {
+          "title": "兴发集团：拟定增募资不超30亿元 控股股东参与认购",
+          "url": "https://flash.jin10.com/detail/20260806182244775800",
+          "heat": false
+        },
+        {
+          "title": "和远气体：500 吨/年的电子级六氟化钨产品尚处于试生产阶段",
+          "url": "https://flash.jin10.com/detail/20260806181851840800",
+          "heat": false
+        },
+        {
+          "title": "欧盟委员会发言人：电网运营商协会正在为日食影响做准备。",
+          "url": "https://flash.jin10.com/detail/20260806181830258800",
+          "heat": false
+        },
+        {
+          "title": "花旗：将思科(CSCO.O)目标价从112美元上调至139美元。",
+          "url": "https://flash.jin10.com/detail/20260806181706644800",
+          "heat": false
+        },
+        {
+          "title": "Plus精选图表",
+          "url": "https://flash.jin10.com/detail/20260806181639095800",
+          "heat": false
+        },
+        {
+          "title": "金银回升与霍尔木兹临时缓和并行 | 每日市场观察08.06",
+          "url": "https://flash.jin10.com/detail/20260806181636575800",
+          "heat": "✰"
+        },
+        {
+          "title": "花旗：将Shopify(SHOP.N)目标价从150美元上调至196美元。",
+          "url": "https://flash.jin10.com/detail/20260806181621565800",
+          "heat": false
+        },
+        {
+          "title": "泡泡玛特(09992.HK)：本公司将于2026年8月20日（星期四）举行董事会会议，借以（其中包括）考虑及批准本集团截至2026年6月30日止六个月之中期业绩及其发布，以及考虑派付中期股息（如有）。",
+          "url": "https://flash.jin10.com/detail/20260806181615908800",
+          "heat": false
+        },
+        {
+          "title": "花旗：将闪迪(SNDK.O)目标价从2500美元下调至2100美元。",
+          "url": "https://flash.jin10.com/detail/20260806181549067800",
+          "heat": "✰"
+        },
+        {
+          "title": "路透调查：美元兑加元汇率预计在12个月内下跌2.6%至1.366（7月调查预期为1.36）。",
+          "url": "https://flash.jin10.com/detail/20260806181437687800",
+          "heat": false
+        },
+        {
+          "title": "路透调查：美元兑加元汇率预计在3个月内基本持平于1.40（与7月调查一致）。",
+          "url": "https://flash.jin10.com/detail/20260806181408842800",
+          "heat": false
+        },
+        {
+          "title": "SK海力士(SKHY.O)：Solidigm子公司正在审议增强竞争力的措施，目前尚未做出任何决定。",
+          "url": "https://flash.jin10.com/detail/20260806181321572800",
+          "heat": false
+        },
+        {
+          "title": "兴业科技：股票交易异常波动，全资子公司收购磷化铟业务总资产1702.46万元",
+          "url": "https://flash.jin10.com/detail/20260806181249300800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-06）",
+          "url": "https://flash.jin10.com/detail/20260806181207639800",
+          "heat": "✰"
+        },
         {
           "title": "美议员拟推出“数据中心权利法案”遏制AI基建扩张",
           "url": "https://flash.jin10.com/detail/20260806180930334800",
           "heat": false
         },
         {
-          "title": "SK海力士(SKHY.O)：Solidigm子公司正在审查约5万亿韩元的IPO前融资。",
+          "title": "SK海力士(SKHY.O)：注意到关于Solidigm子公司正在审查约5万亿韩元的IPO前融资的报道。（外媒更正：补充“注意到关于……的报道”）",
           "url": "https://flash.jin10.com/detail/20260806180807897800",
           "heat": "✰"
         },
@@ -1402,106 +1507,6 @@
         {
           "title": "理想汽车马东辉启动内部改革 直面被模仿困境",
           "url": "https://flash.jin10.com/detail/20260806175803585800",
-          "heat": false
-        },
-        {
-          "title": "江钨装备：公司无注入矿山资产的安排或活动",
-          "url": "https://flash.jin10.com/detail/20260806175457332800",
-          "heat": false
-        },
-        {
-          "title": "马士基：自8月12日起，从远东亚洲至地中海的货运将不再适用重货附加费。",
-          "url": "https://flash.jin10.com/detail/20260806175406563800",
-          "heat": false
-        },
-        {
-          "title": "ST帕瓦：2026年上半年净利润4505.97万元，同比扭亏为盈",
-          "url": "https://flash.jin10.com/detail/20260806175335197800",
-          "heat": false
-        },
-        {
-          "title": "美国国家公路交通安全管理局：结束对137,329辆本田美国车辆因四轮驱动失效问题的缺陷调查申请。",
-          "url": "https://flash.jin10.com/detail/20260806175320724800",
-          "heat": false
-        },
-        {
-          "title": "深圳华强北AI眼镜销量激增100%",
-          "url": "https://flash.jin10.com/detail/20260806175217616800",
-          "heat": false
-        },
-        {
-          "title": "正虹科技：7月生猪销量1.11万头，同比降31.83%",
-          "url": "https://flash.jin10.com/detail/20260806174931972800",
-          "heat": false
-        },
-        {
-          "title": "云南锗业：股价连续三日异动 市盈率显著高于同行",
-          "url": "https://flash.jin10.com/detail/20260806174925348800",
-          "heat": false
-        },
-        {
-          "title": "立华股份：7月肉鸡销量5141.31万只，同比增4.60%",
-          "url": "https://flash.jin10.com/detail/20260806174719391800",
-          "heat": false
-        },
-        {
-          "title": "机构：全球功率器件市场预计2031年将突破413亿美元",
-          "url": "https://flash.jin10.com/detail/20260806174701474800",
-          "heat": false
-        },
-        {
-          "title": "永和股份：已回购304.4万股，使用资金总额9920.01万元",
-          "url": "https://flash.jin10.com/detail/20260806174659457800",
-          "heat": false
-        },
-        {
-          "title": "锴威特：拟收购晶艺半导体100%股权",
-          "url": "https://flash.jin10.com/detail/20260806174653734800",
-          "heat": false
-        },
-        {
-          "title": "据报道，以色列对黎巴嫩南部的新一轮攻击造成至少四人受伤。",
-          "url": "https://flash.jin10.com/detail/20260806174509168800",
-          "heat": false
-        },
-        {
-          "title": "非洲黄金霸主强势“倒卖”黄金！一年赔19亿美元也要干",
-          "url": "https://flash.jin10.com/detail/20260806174433201800",
-          "heat": "✰"
-        },
-        {
-          "title": "美国7月裁员人数减少 招聘活动有所回升",
-          "url": "https://flash.jin10.com/detail/20260806173816726800",
-          "heat": false
-        },
-        {
-          "title": "IPO审核新动态，受理量环比大增，现场督导加码",
-          "url": "https://flash.jin10.com/detail/20260806173626878800",
-          "heat": false
-        },
-        {
-          "title": "国家防总、应急管理部针对浙江福建启动防汛防台风四级应急响应",
-          "url": "https://flash.jin10.com/detail/20260806173416085800",
-          "heat": false
-        },
-        {
-          "title": "美国挑战者公司首席营收官Andy Challenger：招聘人数也比去年增加了25%，因此，尽管人工智能正在改变劳动力市场，但它并没有瓦解就业。",
-          "url": "https://flash.jin10.com/detail/20260806173413764800",
-          "heat": false
-        },
-        {
-          "title": "专家辟谣“车市半年发了五六百款新车”",
-          "url": "https://flash.jin10.com/detail/20260806173340787800",
-          "heat": false
-        },
-        {
-          "title": "美国挑战者企业裁员报告：7月的裁员总数是自2024年7月（当时宣布裁员25,885人）以来最低的月度水平。截至7月，雇主已宣布裁员477,033人，较2025年前七个月的806,383人下降41%。这是今年第五次裁员人数低于去年同期水平。",
-          "url": "https://flash.jin10.com/detail/20260806173328541800",
-          "heat": "✰"
-        },
-        {
-          "title": "美国挑战者企业裁员报告：今年夏天裁员速度显著放缓。裁员计划仍然主要集中在科技行业，人工智能仍然是关注的焦点，因为对这项技术的投资正在重塑企业。",
-          "url": "https://flash.jin10.com/detail/20260806173303564800",
           "heat": false
         }
       ]
