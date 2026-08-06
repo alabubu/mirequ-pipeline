@@ -1,6 +1,6 @@
 {
-  "updated": "00:50:34",
-  "total": 281,
+  "updated": "00:55:35",
+  "total": 283,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,123 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 26,
+      "count": 28,
       "items": [
+        {
+          "title": "韩国KOSPI指数持续走低，跌幅扩大至4%，现报6328.94点。",
+          "url": "https://flash.jin10.com/detail/20260806085419508800",
+          "heat": "✰"
+        },
+        {
+          "title": "刚果（金）部分中资企业矿山的钴产品铀含量超标？当地中资矿企协会回应：报道不实。",
+          "url": "https://flash.jin10.com/detail/20260806085315745800",
+          "heat": false
+        },
+        {
+          "title": "美联储戴利：许多人认为供应冲击将导致通胀暂时上升。",
+          "url": "https://flash.jin10.com/detail/20260806085243550800",
+          "heat": false
+        },
+        {
+          "title": "美联储戴利：有充分理由认为供应冲击不会对通胀产生持久影响。",
+          "url": "https://flash.jin10.com/detail/20260806085241624800",
+          "heat": false
+        },
+        {
+          "title": "规避红海封锁 中国超大油轮停靠埃及绕行非洲",
+          "url": "https://flash.jin10.com/detail/20260806085009864800",
+          "heat": false
+        },
+        {
+          "title": "特朗普：或许不得不再让油价上涨",
+          "url": "https://flash.jin10.com/detail/20260806084835117800",
+          "heat": false
+        },
+        {
+          "title": "两市融资余额增加121.15亿元",
+          "url": "https://flash.jin10.com/detail/20260806084802878800",
+          "heat": false
+        },
+        {
+          "title": "A股温度计",
+          "url": "https://flash.jin10.com/detail/20260806084731723800",
+          "heat": false
+        },
+        {
+          "title": "美联储戴利：科技投资正在协助推高通胀。",
+          "url": "https://flash.jin10.com/detail/20260806084544963800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：隔日全球股市走势回顾（2026-08-06）",
+          "url": "https://flash.jin10.com/detail/20260806084417860800",
+          "heat": false
+        },
+        {
+          "title": "美联储戴利：如果中东战争结束，将有助于降低通胀。",
+          "url": "https://flash.jin10.com/detail/20260806084402456800",
+          "heat": false
+        },
+        {
+          "title": "暴跌逾13%！SpaceX上市首份财报遇冷，9亿股解禁带来套现窗口？",
+          "url": "https://flash.jin10.com/detail/20260806084250336800",
+          "heat": "✰"
+        },
+        {
+          "title": "美联储戴利：看到一些证据表明关税对通胀的影响开始减弱。",
+          "url": "https://flash.jin10.com/detail/20260806084249004800",
+          "heat": false
+        },
+        {
+          "title": "深交所：港股通标的调入MINIMAX-W、立讯精密、三环集团，8月6日起生效。",
+          "url": "https://flash.jin10.com/detail/20260806084237640800",
+          "heat": false
+        },
+        {
+          "title": "美联储戴利：关税对通胀产生了明显影响。",
+          "url": "https://flash.jin10.com/detail/20260806084213508800",
+          "heat": false
+        },
+        {
+          "title": "现货黄金突破4290美元/盎司，日内涨1.02%。",
+          "url": "https://flash.jin10.com/detail/20260806083525142800",
+          "heat": false
+        },
+        {
+          "title": "惠誉：日元疲软似乎并非主要由美日货币政策的相对立场差异所致。",
+          "url": "https://flash.jin10.com/detail/20260806083516745800",
+          "heat": false
+        },
+        {
+          "title": "惠誉：日元进一步升值可能需要日本央行加息。",
+          "url": "https://flash.jin10.com/detail/20260806083139138800",
+          "heat": false
+        },
+        {
+          "title": "日本30年期国债收益率下降3个基点至3.93%。",
+          "url": "https://flash.jin10.com/detail/20260806083132622800",
+          "heat": false
+        },
+        {
+          "title": "韩国KOSPI指数跌幅扩大至3%，SK海力士跌7%，三星电子跌近3%。",
+          "url": "https://flash.jin10.com/detail/20260806082907101800",
+          "heat": "✰"
+        },
+        {
+          "title": "期货盯盘神器专属文章",
+          "url": "https://flash.jin10.com/detail/20260806082842357800",
+          "heat": "✰"
+        },
+        {
+          "title": "美银高喊日元年底升至149，岸田文雄却说：干预不是“游戏改变者”",
+          "url": "https://flash.jin10.com/detail/20260806082827063800",
+          "heat": "✰"
+        },
+        {
+          "title": "英国海上贸易行动办公室：船员与船舶均安全，未报告任何环境损害。",
+          "url": "https://flash.jin10.com/detail/20260806082519173800",
+          "heat": false
+        },
         {
           "title": "2027年FOMC票委、旧金山联储主席戴利将于十分钟后发表讲话。",
           "url": "https://flash.jin10.com/detail/20260806082500001800",
@@ -1382,111 +1497,6 @@
         {
           "title": "华泰证券：A股趋势性反弹的关键窗口在8月下旬",
           "url": "https://flash.jin10.com/detail/20260806081654490800",
-          "heat": false
-        },
-        {
-          "title": "澳大利亚S&P/ASX200指数8月6日（周四）开盘上涨51.70点，涨幅0.56%，报9279.50点。",
-          "url": "https://flash.jin10.com/detail/20260806081052347800",
-          "heat": false
-        },
-        {
-          "title": "科研人员确证新型粒子“胶球”的存在",
-          "url": "https://flash.jin10.com/detail/20260806081050705800",
-          "heat": false
-        },
-        {
-          "title": "东京电子盘初下跌5%。",
-          "url": "https://flash.jin10.com/detail/20260806080706599800",
-          "heat": false
-        },
-        {
-          "title": "韩国KOSPI指数跌幅收窄至0.8%，此前跌超2%。",
-          "url": "https://flash.jin10.com/detail/20260806080617533800",
-          "heat": false
-        },
-        {
-          "title": "日经225指数日内跌幅达1.00%。",
-          "url": "https://flash.jin10.com/detail/20260806080520261800",
-          "heat": false
-        },
-        {
-          "title": "韩国财政部长：经济增长回升至3%水平的可能性大幅增加，这将是5年来首次。",
-          "url": "https://flash.jin10.com/detail/20260806080217266800",
-          "heat": false
-        },
-        {
-          "title": "日韩股市低开",
-          "url": "https://flash.jin10.com/detail/20260806080133132800",
-          "heat": "✰"
-        },
-        {
-          "title": "中信证券：看好高端光模块测试设备国产替代趋势",
-          "url": "https://flash.jin10.com/detail/20260806080007567800",
-          "heat": false
-        },
-        {
-          "title": "中信证券：韩股杠杆去化尚未完成",
-          "url": "https://flash.jin10.com/detail/20260806075905194800",
-          "heat": false
-        },
-        {
-          "title": "中金：全球聚变产业共振，产业链机遇逐步显现",
-          "url": "https://flash.jin10.com/detail/20260806075811422800",
-          "heat": false
-        },
-        {
-          "title": "美国副总统万斯：在伊朗问题上与特朗普总统并无分歧，我们正努力执行他的决策。",
-          "url": "https://flash.jin10.com/detail/20260806075722145800",
-          "heat": false
-        },
-        {
-          "title": "美国副总统万斯：能源价格将下降，伊朗不会拥有核武器，我们将处于更有利的地位。",
-          "url": "https://flash.jin10.com/detail/20260806075712421800",
-          "heat": false
-        },
-        {
-          "title": "美国副总统万斯：伊朗人难以对付，不过他们的政权已出现裂痕，我们的任务是为美国人民争取最佳结果。",
-          "url": "https://flash.jin10.com/detail/20260806075710492800",
-          "heat": false
-        },
-        {
-          "title": "新闻交易员：海峡没真开，市场已经急着降风险溢价",
-          "url": "https://flash.jin10.com/detail/20260806075633082800",
-          "heat": "✰"
-        },
-        {
-          "title": "美国副总统万斯：伊朗政权内部有人希望结束战争，也有极端分子希望战争持续下去。",
-          "url": "https://flash.jin10.com/detail/20260806075445316800",
-          "heat": false
-        },
-        {
-          "title": "美国副总统万斯：以色列是伟大的伙伴，和其他盟友一样，我们有时会有不同立场。我的职责是追求美国的利益，我们与以色列沟通以实现共同目标。",
-          "url": "https://flash.jin10.com/detail/20260806075442765800",
-          "heat": false
-        },
-        {
-          "title": "美国副总统万斯：上次会晤期间并未与内塔尼亚胡发生冲突，而是进行了良好而坦诚的讨论。",
-          "url": "https://flash.jin10.com/detail/20260806075438405800",
-          "heat": false
-        },
-        {
-          "title": "美媒曝特朗普在弹药储备问题上被误导 向防长倾泻不满",
-          "url": "https://flash.jin10.com/detail/20260806075402361800",
-          "heat": "✰"
-        },
-        {
-          "title": "金十数据中心工具",
-          "url": "https://flash.jin10.com/detail/20260806075331768800",
-          "heat": false
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260806075052140800",
-          "heat": "✰"
-        },
-        {
-          "title": "日本至7月31日当周外资买进日债 5589亿日元，前值-15139亿日元。",
-          "url": "https://flash.jin10.com/detail/20260806075027597800",
           "heat": false
         }
       ]
