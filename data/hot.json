@@ -1,6 +1,6 @@
 {
-  "updated": "19:30:54",
-  "total": 207,
+  "updated": "19:34:32",
+  "total": 279,
   "platforms": [
     {
       "id": "zhihu",
@@ -583,8 +583,59 @@
     {
       "id": "wallstreetcn-hot",
       "name": "华尔街见闻",
-      "count": 0,
-      "items": []
+      "count": 10,
+      "items": [
+        {
+          "title": "爆冷！美国7月非农就业人数意外减少2.3万，前两月就业下修10.3万人",
+          "url": "https://wallstreetcn.com/articles/3778959",
+          "heat": ""
+        },
+        {
+          "title": "华尔街见闻早餐FM-Radio | 2026年8月7日",
+          "url": "https://wallstreetcn.com/articles/3778893",
+          "heat": ""
+        },
+        {
+          "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
+          "url": "https://wallstreetcn.com/articles/3778821",
+          "heat": ""
+        },
+        {
+          "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
+          "url": "https://wallstreetcn.com/articles/3778924",
+          "heat": ""
+        },
+        {
+          "title": "今晚美国非农大考，“弱7月”魔咒会重演吗？此前三年均不及预期  ",
+          "url": "https://wallstreetcn.com/articles/3778928",
+          "heat": ""
+        },
+        {
+          "title": "报道：英伟达拟下调Rubin Ultra的HBM配置，应对高端HBM短缺",
+          "url": "https://wallstreetcn.com/articles/3778895",
+          "heat": ""
+        },
+        {
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://wallstreetcn.com/articles/3778896",
+          "heat": ""
+        },
+        {
+          "title": "中国7月出口同比增23.9%，半导体出口按价值计算同比近乎翻番，进口同比增27.5%",
+          "url": "https://wallstreetcn.com/articles/3778914",
+          "heat": ""
+        },
+        {
+          "title": "中国央行连续21个月增持黄金，7月购金力度提速",
+          "url": "https://wallstreetcn.com/articles/3778942",
+          "heat": ""
+        },
+        {
+          "title": "高盛韩国交易员谈“存储多空之辩”：市场对基本面预期“过于悲观”",
+          "url": "https://wallstreetcn.com/articles/3778905",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "tieba",
@@ -975,20 +1026,333 @@
     {
       "id": "thepaper",
       "name": "澎湃新闻",
-      "count": 0,
-      "items": []
+      "count": 20,
+      "items": [
+        {
+          "title": "泸溪河发布“桃酥现金属牙冠”调查结论，称消费者已澄清所发视频不属实",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33736078",
+          "heat": ""
+        },
+        {
+          "title": "河南省2026年“三支一扶”笔试成绩作废，将重新组织笔试",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33738930",
+          "heat": ""
+        },
+        {
+          "title": "东航国内客票提前14天可免费退改，其他航司如何规定？",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33738317",
+          "heat": ""
+        },
+        {
+          "title": "扫描“主播”｜主播利用未成年人喊网友“爸爸”博流量，“母女合拍”多账号被封禁",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33735577",
+          "heat": ""
+        },
+        {
+          "title": "U17国足三连胜晋级明日之星半决赛，定位球成最大亮点",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33733761",
+          "heat": ""
+        },
+        {
+          "title": "北京：非京籍家庭购房社保个税缴纳年限下调为一年",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33740158",
+          "heat": ""
+        },
+        {
+          "title": "佛山一中学教师招聘笔试前13名被淘汰、后5名进体检名单？市教育局通报",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33736773",
+          "heat": ""
+        },
+        {
+          "title": "官方再通报“特教老师招聘违规”：多人受到党纪政务处分和组织处理",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33739023",
+          "heat": ""
+        },
+        {
+          "title": "300万元行贿、“定制”标书、现场厕所协商，河南某医院2.33亿元工程串标案细节披露",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33685397",
+          "heat": ""
+        },
+        {
+          "title": "利用未成年人喊网友“爸爸”博流量，多个主播账号被封禁",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33737072",
+          "heat": ""
+        },
+        {
+          "title": "河南公安机关查实“三支一扶”招募笔试存在组织作弊犯罪行为",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33738405",
+          "heat": ""
+        },
+        {
+          "title": "欧洲燃烧之夏：33万人大撤离，一个升温世界的“哨兵事件”",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33736855",
+          "heat": ""
+        },
+        {
+          "title": "内地居民买香港保险收益要缴税？税务总局回应：并非新政，更不是专门针对香港保险市场，无需过度解读",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33737946",
+          "heat": ""
+        },
+        {
+          "title": "大外交｜美方“边谈边施压”侵蚀中美战略稳定基础，中方反制“一日三连”",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33738559",
+          "heat": ""
+        },
+        {
+          "title": "观复博物馆佛像送检引关注，海口方面：调查有进展，预计几天后发布 ",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33736524",
+          "heat": ""
+        },
+        {
+          "title": "释疑｜建多少数据中心才够？美国AI基建热潮撞上“社区保卫战”",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33729568",
+          "heat": ""
+        },
+        {
+          "title": "人民日报刊文：党员干部需在“拎”与“捂”间作出清醒而坚定的抉择",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33734674",
+          "heat": ""
+        },
+        {
+          "title": "诗画节气｜立秋：梧桐报秋，紫薇留夏",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33730217",
+          "heat": ""
+        },
+        {
+          "title": "下架、删除、致歉，文德斯为半世纪前的争议镜头与金斯基和解",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33728803",
+          "heat": ""
+        },
+        {
+          "title": "一粒米的“多米诺”：150年来最强厄尔尼诺如何撬动全球粮食安全",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33712390",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "ifeng",
       "name": "凤凰网",
-      "count": 0,
-      "items": []
+      "count": 12,
+      "items": [
+        {
+          "title": "伊朗最高领袖给总统下了“最后警告”？",
+          "url": "https://news.ifeng.com/c/8vOzr19CfFi",
+          "heat": ""
+        },
+        {
+          "title": "全球能源，为何越来越“脆”？",
+          "url": "https://news.ifeng.com/c/8vOzqlUQWOd",
+          "heat": ""
+        },
+        {
+          "title": "以情报高官疑因伊朗行动失败被解职",
+          "url": "https://news.ifeng.com/c/8vOg4e2X7cf",
+          "heat": ""
+        },
+        {
+          "title": "中方：日本当局应倾听民众呼声，停止在核问题上玩火",
+          "url": "https://news.ifeng.com/c/8vOpFNciqLA",
+          "heat": ""
+        },
+        {
+          "title": "高市早苗站在防弹玻璃后发表讲话，日本网友：防止别人吐口水？",
+          "url": "https://v.ifeng.com/c/8vOZWLqUjIW",
+          "heat": ""
+        },
+        {
+          "title": "自民党内现分歧，不少对华友好议员疏远高市内阁",
+          "url": "https://news.ifeng.com/c/8vOoLk88D9C",
+          "heat": ""
+        },
+        {
+          "title": "日本原子弹爆炸亲历者反对高市修改无核三原则，“她应该下台”",
+          "url": "https://news.ifeng.com/c/8vOh3wOkWNP",
+          "heat": ""
+        },
+        {
+          "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
+          "url": "https://news.ifeng.com/c/8vOieX1f4iR",
+          "heat": ""
+        },
+        {
+          "title": "马科斯遭学生起哄辱骂，菲总统府呼吁“重拾体面”",
+          "url": "https://news.ifeng.com/c/8vOjjxBjfsL",
+          "heat": ""
+        },
+        {
+          "title": "韩国男团成员西村力发“谢罪文”，回应日籍女网红直播自杀",
+          "url": "https://news.ifeng.com/c/8vOvAq61BE5",
+          "heat": ""
+        },
+        {
+          "title": "国民党推出AI发言人“郑小文”迎战民进党",
+          "url": "https://news.ifeng.com/c/8vP4WV73BTc",
+          "heat": ""
+        },
+        {
+          "title": "网友称南航一航班发西梅汁，机上100多人排队如厕，客服回应",
+          "url": "https://news.ifeng.com/c/8vOrz3Dm8nz",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "toutiao",
       "name": "今日头条",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "一些民办高校招不到学生了",
+          "url": "https://www.toutiao.com/trending/7670846466219622426/",
+          "heat": ""
+        },
+        {
+          "title": "台风白海豚实时路径",
+          "url": "https://www.toutiao.com/trending/7670858062097481770/",
+          "heat": ""
+        },
+        {
+          "title": "我国外贸延续良好增长态势",
+          "url": "https://www.toutiao.com/trending/7671257847044427314/",
+          "heat": ""
+        },
+        {
+          "title": "2名小孩玩手机低头幅度近乎折叠",
+          "url": "https://www.toutiao.com/trending/7670846175725322294/",
+          "heat": ""
+        },
+        {
+          "title": "国乒男单横滨冠军赛全军覆没",
+          "url": "https://www.toutiao.com/trending/7671172645473566783/",
+          "heat": ""
+        },
+        {
+          "title": "女儿卖房定价9000被母亲7500签约",
+          "url": "https://www.toutiao.com/trending/7671197679598501942/",
+          "heat": ""
+        },
+        {
+          "title": "上海：台风白海豚或将带来龙卷风",
+          "url": "https://www.toutiao.com/trending/7671287157218086419/",
+          "heat": ""
+        },
+        {
+          "title": "伊朗发视频隐喻美国国运衰落原因",
+          "url": "https://www.toutiao.com/trending/7671188288800899082/",
+          "heat": ""
+        },
+        {
+          "title": "越来越多高分考生放弃985选警校",
+          "url": "https://www.toutiao.com/trending/7670392664409899058/",
+          "heat": ""
+        },
+        {
+          "title": "云南发现眼镜王蛇一家38口",
+          "url": "https://www.toutiao.com/trending/7670698699731337270/",
+          "heat": ""
+        },
+        {
+          "title": "“新疆阿勒泰八月能滑雪”不实",
+          "url": "https://www.toutiao.com/trending/7670555247555035178/",
+          "heat": ""
+        },
+        {
+          "title": "46岁的殷桃看着像20岁",
+          "url": "https://www.toutiao.com/trending/7670098494267342890/",
+          "heat": ""
+        },
+        {
+          "title": "网友饲养2000条食人鱼",
+          "url": "https://www.toutiao.com/trending/7670515880301183002/",
+          "heat": ""
+        },
+        {
+          "title": "男子将外卖员砍成植物人获刑8年",
+          "url": "https://www.toutiao.com/trending/7671260253291855910/",
+          "heat": ""
+        },
+        {
+          "title": "38岁演员求职万岁山NPC成功",
+          "url": "https://www.toutiao.com/trending/7670899503050555438/",
+          "heat": ""
+        },
+        {
+          "title": "79岁老人被城管撞倒后离世案一审开庭",
+          "url": "https://www.toutiao.com/trending/7671257713917149190/",
+          "heat": ""
+        },
+        {
+          "title": "泉州市委书记张毅恭被查",
+          "url": "https://www.toutiao.com/trending/7671237921617219108/",
+          "heat": ""
+        },
+        {
+          "title": "媒体：星巴克被打到瑞幸价",
+          "url": "https://www.toutiao.com/trending/7671246037725482539/",
+          "heat": ""
+        },
+        {
+          "title": "男子涉强奸获刑被质疑“挂案”近5年",
+          "url": "https://www.toutiao.com/trending/7671117281670234153/",
+          "heat": ""
+        },
+        {
+          "title": "台风白海豚或吞并鲸鱼 登陆地点更新",
+          "url": "https://www.toutiao.com/trending/7670771193105743923/",
+          "heat": ""
+        },
+        {
+          "title": "沙特土耳其巴基斯坦签署共同防务协议",
+          "url": "https://www.toutiao.com/trending/7670699331342630975/",
+          "heat": ""
+        },
+        {
+          "title": "河南将重点打击十类新型黑恶犯罪",
+          "url": "https://www.toutiao.com/trending/7671226760030437418/",
+          "heat": ""
+        },
+        {
+          "title": "23岁博士确诊胃癌晚期",
+          "url": "https://www.toutiao.com/trending/7671006022714081334/",
+          "heat": ""
+        },
+        {
+          "title": "长城H10改名能否拉升销量",
+          "url": "https://www.toutiao.com/trending/7670772501646999595/",
+          "heat": ""
+        },
+        {
+          "title": "四川宜宾地震网友称睡觉被摇醒",
+          "url": "https://www.toutiao.com/trending/7671132302990262291/",
+          "heat": ""
+        },
+        {
+          "title": "媒体：中方对美反制“一日三连”",
+          "url": "https://www.toutiao.com/trending/7670846218226352138/",
+          "heat": ""
+        },
+        {
+          "title": "女子称面试大概率失败但很开心",
+          "url": "https://www.toutiao.com/trending/7671129967350186020/",
+          "heat": ""
+        },
+        {
+          "title": "中国女篮70-67险胜尼日利亚女篮",
+          "url": "https://www.toutiao.com/trending/7670790051076309030/",
+          "heat": ""
+        },
+        {
+          "title": "老中医：立秋后养心是关键",
+          "url": "https://www.toutiao.com/trending/7670514956636078134/",
+          "heat": ""
+        },
+        {
+          "title": "对话捐赠日军侵华铁证遭威胁少年",
+          "url": "https://www.toutiao.com/trending/7670083390251057162/",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "jin10",
