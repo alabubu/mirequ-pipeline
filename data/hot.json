@@ -1,6 +1,6 @@
 {
-  "updated": "00:30:49",
-  "total": 225,
+  "updated": "00:35:39",
+  "total": 283,
   "platforms": [
     {
       "id": "zhihu",
@@ -269,8 +269,159 @@
     {
       "id": "douyin",
       "name": "抖音",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "今日立秋",
+          "url": "https://www.douyin.com/hot/2600340",
+          "heat": ""
+        },
+        {
+          "title": "宇树科技8月10日开启网上申购",
+          "url": "https://www.douyin.com/hot/2600095",
+          "heat": ""
+        },
+        {
+          "title": "产业创新活力持续提升",
+          "url": "https://www.douyin.com/hot/2600178",
+          "heat": ""
+        },
+        {
+          "title": "国际足联致歉",
+          "url": "https://www.douyin.com/hot/2599229",
+          "heat": ""
+        },
+        {
+          "title": "秋天的第一套奶茶风穿搭",
+          "url": "https://www.douyin.com/hot/2599621",
+          "heat": ""
+        },
+        {
+          "title": "请收下这份火把节攻略",
+          "url": "https://www.douyin.com/hot/2599819",
+          "heat": ""
+        },
+        {
+          "title": "藏在火把节里的非遗美学",
+          "url": "https://www.douyin.com/hot/2599453",
+          "heat": ""
+        },
+        {
+          "title": "挑战100个小时举办一场婚礼",
+          "url": "https://www.douyin.com/hot/2599352",
+          "heat": ""
+        },
+        {
+          "title": "给老外安排上ChinaCool攻略",
+          "url": "https://www.douyin.com/hot/2599149",
+          "heat": ""
+        },
+        {
+          "title": "火里作画的博山琉璃灯工",
+          "url": "https://www.douyin.com/hot/2599777",
+          "heat": ""
+        },
+        {
+          "title": "2026年的夏天要结束了",
+          "url": "https://www.douyin.com/hot/2598184",
+          "heat": ""
+        },
+        {
+          "title": "蜘蛛侠4暗藏火影彩蛋",
+          "url": "https://www.douyin.com/hot/2599107",
+          "heat": ""
+        },
+        {
+          "title": "龙餐馆沈腾蒋奇明空降直播",
+          "url": "https://www.douyin.com/hot/2599951",
+          "heat": ""
+        },
+        {
+          "title": "浙江队助力纯纯圆梦绿茵场",
+          "url": "https://www.douyin.com/hot/2600253",
+          "heat": ""
+        },
+        {
+          "title": "蛋仔电竞节奖励获取攻略",
+          "url": "https://www.douyin.com/hot/2600076",
+          "heat": ""
+        },
+        {
+          "title": "来兰州必吃二细牛肉面",
+          "url": "https://www.douyin.com/hot/2599843",
+          "heat": ""
+        },
+        {
+          "title": "幸福来得猝不及防到头是空欢喜",
+          "url": "https://www.douyin.com/hot/2599596",
+          "heat": ""
+        },
+        {
+          "title": "难忘童年经典场景",
+          "url": "https://www.douyin.com/hot/2598740",
+          "heat": ""
+        },
+        {
+          "title": "掉入奶油风治愈世界",
+          "url": "https://www.douyin.com/hot/2599520",
+          "heat": ""
+        },
+        {
+          "title": "避暑大军已抵达山西",
+          "url": "https://www.douyin.com/hot/2599422",
+          "heat": ""
+        },
+        {
+          "title": "我们总是无限次怀念大学时光",
+          "url": "https://www.douyin.com/hot/2600342",
+          "heat": ""
+        },
+        {
+          "title": "首届哈尔滨太阳岛电影周启幕",
+          "url": "https://www.douyin.com/hot/2599707",
+          "heat": ""
+        },
+        {
+          "title": "张启山好友是百岁土司",
+          "url": "https://www.douyin.com/hot/2600168",
+          "heat": ""
+        },
+        {
+          "title": "蜘蛛侠版迷核小曲",
+          "url": "https://www.douyin.com/hot/2599731",
+          "heat": ""
+        },
+        {
+          "title": "王橹杰滤镜操控舞",
+          "url": "https://www.douyin.com/hot/2600254",
+          "heat": ""
+        },
+        {
+          "title": "SpaceX火箭残骸撞上月球了",
+          "url": "https://www.douyin.com/hot/2599525",
+          "heat": ""
+        },
+        {
+          "title": "电影欢迎来龙餐馆开启预售",
+          "url": "https://www.douyin.com/hot/2599427",
+          "heat": ""
+        },
+        {
+          "title": "项目经理写暑假作业去了",
+          "url": "https://www.douyin.com/hot/2599327",
+          "heat": ""
+        },
+        {
+          "title": "小云雀seedance2.5故事大赛",
+          "url": "https://www.douyin.com/hot/2598925",
+          "heat": ""
+        },
+        {
+          "title": "蔡徐坤提醒你续火花",
+          "url": "https://www.douyin.com/hot/2600092",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "bilibili-hot-search",
@@ -1206,8 +1357,149 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 0,
-      "items": []
+      "count": 28,
+      "items": [
+        {
+          "title": "日本20年期国债收益率上涨2.0个基点，至3.660%。",
+          "url": "https://flash.jin10.com/detail/20260807082311063800",
+          "heat": false
+        },
+        {
+          "title": "非农公布日，竞猜赢大奖",
+          "url": "https://flash.jin10.com/detail/20260807082037168800",
+          "heat": false
+        },
+        {
+          "title": "上半年规模以上工业中小企业增加值同比增长5.8%",
+          "url": "https://flash.jin10.com/detail/20260807081442336800",
+          "heat": false
+        },
+        {
+          "title": "澳大利亚S&P/ASX200指数8月7日（周五）开盘下跌33.30点，跌幅0.36%，报9238.30点。",
+          "url": "https://flash.jin10.com/detail/20260807081059756800",
+          "heat": false
+        },
+        {
+          "title": "新闻交易员：非农数据还没出，市场已经先错了一半",
+          "url": "https://flash.jin10.com/detail/20260807080525395800",
+          "heat": "✰"
+        },
+        {
+          "title": "中信证券：港险短期存在负面影响，但不改长期需求增长趋势",
+          "url": "https://flash.jin10.com/detail/20260807080432660800",
+          "heat": false
+        },
+        {
+          "title": "中信证券：刚果（金）出口禁令或推动铜价加速冲击15000美元/吨以上",
+          "url": "https://flash.jin10.com/detail/20260807080356799800",
+          "heat": false
+        },
+        {
+          "title": "日韩股市高开",
+          "url": "https://flash.jin10.com/detail/20260807080221003800",
+          "heat": false
+        },
+        {
+          "title": "日本7月外汇储备 12871亿美元，前值12875亿美元。",
+          "url": "https://flash.jin10.com/detail/20260807075430253800",
+          "heat": false
+        },
+        {
+          "title": "日本财务省：在4月和5月共进行了三次买入日元的汇率干预行动。",
+          "url": "https://flash.jin10.com/detail/20260807075332303800",
+          "heat": false
+        },
+        {
+          "title": "日本财务省：在4月至6月当季，日本最大规模的单日汇市干预行动发生在4月30日，干预金额达到6.2787万亿日元。",
+          "url": "https://flash.jin10.com/detail/20260807075331537800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：每日期货市场要闻速递（2026-08-07）",
+          "url": "https://flash.jin10.com/detail/20260807075131289800",
+          "heat": "✰"
+        },
+        {
+          "title": "金十数据中心工具",
+          "url": "https://flash.jin10.com/detail/20260807075130348800",
+          "heat": false
+        },
+        {
+          "title": "日本家庭支出连降七月 通胀持续压制消费信心",
+          "url": "https://flash.jin10.com/detail/20260807074454064800",
+          "heat": false
+        },
+        {
+          "title": "沙特拉响警报：伊朗支持武装或发动多线攻击，能源设施成潜在目标",
+          "url": "https://flash.jin10.com/detail/20260807074227443800",
+          "heat": "✰"
+        },
+        {
+          "title": "现货价格",
+          "url": "https://flash.jin10.com/detail/20260807074149447800",
+          "heat": false
+        },
+        {
+          "title": "现货价格",
+          "url": "https://flash.jin10.com/detail/20260807074122081800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（8月7日）",
+          "url": "https://flash.jin10.com/detail/20260807073838399800",
+          "heat": false
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260807073719152800",
+          "heat": "✰"
+        },
+        {
+          "title": "据华尔街日报：特朗普已下令对五角大楼弹药储备泄露事件展开新的调查，政府官员表示，这是他为应对有关伊朗战争的破坏性信息披露而采取的最新升级举措。",
+          "url": "https://flash.jin10.com/detail/20260807073607063800",
+          "heat": false
+        },
+        {
+          "title": "东证指数大换血：超600家公司面临剔除 小盘股加速自救",
+          "url": "https://flash.jin10.com/detail/20260807073221922800",
+          "heat": false
+        },
+        {
+          "title": "美国总统特朗普：（谈及霍尔木兹海峡）进展顺利。",
+          "url": "https://flash.jin10.com/detail/20260807073117453800",
+          "heat": false
+        },
+        {
+          "title": "日本6月所有家庭支出月率 -6.4%，预期-3.1%，前值3.7%。",
+          "url": "https://flash.jin10.com/detail/20260807073009320800",
+          "heat": false
+        },
+        {
+          "title": "日本6月所有家庭支出年率 -3.3%，预期1.00%，前值-0.40%。",
+          "url": "https://flash.jin10.com/detail/20260807073005586800",
+          "heat": false
+        },
+        {
+          "title": "地缘风险再起打压亚股 油价跳涨重燃通胀忧虑",
+          "url": "https://flash.jin10.com/detail/20260807072829783800",
+          "heat": false
+        },
+        {
+          "title": "金十数据全球财经早餐 | 2026年8月7日",
+          "url": "https://flash.jin10.com/detail/20260807071452282800",
+          "heat": "✰"
+        },
+        {
+          "title": "据叙利亚国家电视台6日援引叙过渡政府卫生部消息报道，大马士革农村省当天一辆小型巴士发生爆炸，造成至少2人死亡、13人受伤，地方政府将此次袭击定性为恐袭。",
+          "url": "https://flash.jin10.com/detail/20260807071439025800",
+          "heat": false
+        },
+        {
+          "title": "伊朗霍尔木兹法案拟禁止美以船只通行，美国拒绝任何“阻碍”",
+          "url": "https://flash.jin10.com/detail/20260807070032047800",
+          "heat": "✰"
+        }
+      ]
     }
   ]
 }
