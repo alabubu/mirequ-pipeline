@@ -1,6 +1,6 @@
 {
-  "updated": "17:30:28",
-  "total": 213,
+  "updated": "17:35:26",
+  "total": 277,
   "platforms": [
     {
       "id": "zhihu",
@@ -1133,20 +1133,343 @@
     {
       "id": "ifeng",
       "name": "凤凰网",
-      "count": 0,
-      "items": []
+      "count": 12,
+      "items": [
+        {
+          "title": "伊朗最高领袖给总统下了“最后警告”？",
+          "url": "https://news.ifeng.com/c/8vOzr19CfFi",
+          "heat": ""
+        },
+        {
+          "title": "全球能源，为何越来越“脆”？",
+          "url": "https://news.ifeng.com/c/8vOzqlUQWOd",
+          "heat": ""
+        },
+        {
+          "title": "以情报高官疑因伊朗行动失败被解职",
+          "url": "https://news.ifeng.com/c/8vOg4e2X7cf",
+          "heat": ""
+        },
+        {
+          "title": "中方：日本当局应倾听民众呼声，停止在核问题上玩火",
+          "url": "https://news.ifeng.com/c/8vOpFNciqLA",
+          "heat": ""
+        },
+        {
+          "title": "高市早苗站在防弹玻璃后发表讲话，日本网友：防止别人吐口水？",
+          "url": "https://v.ifeng.com/c/8vOZWLqUjIW",
+          "heat": ""
+        },
+        {
+          "title": "自民党内现分歧，不少对华友好议员疏远高市内阁",
+          "url": "https://news.ifeng.com/c/8vOoLk88D9C",
+          "heat": ""
+        },
+        {
+          "title": "日本原子弹爆炸亲历者反对高市修改无核三原则，“她应该下台”",
+          "url": "https://news.ifeng.com/c/8vOh3wOkWNP",
+          "heat": ""
+        },
+        {
+          "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
+          "url": "https://news.ifeng.com/c/8vOieX1f4iR",
+          "heat": ""
+        },
+        {
+          "title": "马科斯遭学生起哄辱骂，菲总统府呼吁“重拾体面”",
+          "url": "https://news.ifeng.com/c/8vOjjxBjfsL",
+          "heat": ""
+        },
+        {
+          "title": "韩国男团成员西村力发“谢罪文”，回应日籍女网红直播自杀",
+          "url": "https://news.ifeng.com/c/8vOvAq61BE5",
+          "heat": ""
+        },
+        {
+          "title": "国民党推出AI发言人“郑小文”迎战民进党",
+          "url": "https://news.ifeng.com/c/8vP4WV73BTc",
+          "heat": ""
+        },
+        {
+          "title": "网友称南航一航班发西梅汁，机上100多人排队如厕，客服回应",
+          "url": "https://news.ifeng.com/c/8vOrz3Dm8nz",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "toutiao",
       "name": "今日头条",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "一些民办高校招不到学生了",
+          "url": "https://www.toutiao.com/trending/7670846466219622426/",
+          "heat": ""
+        },
+        {
+          "title": "2名小孩玩手机低头幅度近乎折叠",
+          "url": "https://www.toutiao.com/trending/7670846175725322294/",
+          "heat": ""
+        },
+        {
+          "title": "我国外贸延续良好增长态势",
+          "url": "https://www.toutiao.com/trending/7671257847044427314/",
+          "heat": ""
+        },
+        {
+          "title": "台风白海豚实时路径",
+          "url": "https://www.toutiao.com/trending/7670858062097481770/",
+          "heat": ""
+        },
+        {
+          "title": "国乒男单横滨冠军赛全军覆没",
+          "url": "https://www.toutiao.com/trending/7671172645473566783/",
+          "heat": ""
+        },
+        {
+          "title": "女儿卖房定价9000被母亲7500签约",
+          "url": "https://www.toutiao.com/trending/7671197679598501942/",
+          "heat": ""
+        },
+        {
+          "title": "沙特土耳其巴基斯坦签署共同防务协议",
+          "url": "https://www.toutiao.com/trending/7670699331342630975/",
+          "heat": ""
+        },
+        {
+          "title": "女子称面试大概率失败但很开心",
+          "url": "https://www.toutiao.com/trending/7671129967350186020/",
+          "heat": ""
+        },
+        {
+          "title": "上海：台风白海豚或将带来龙卷风",
+          "url": "https://www.toutiao.com/trending/7671287157218086419/",
+          "heat": ""
+        },
+        {
+          "title": "联合国谴责俄乌互相发动大规模袭击",
+          "url": "https://www.toutiao.com/trending/7671209912411652150/",
+          "heat": ""
+        },
+        {
+          "title": "“新疆阿勒泰八月能滑雪”不实",
+          "url": "https://www.toutiao.com/trending/7670555247555035178/",
+          "heat": ""
+        },
+        {
+          "title": "男子将外卖员砍成植物人获刑8年",
+          "url": "https://www.toutiao.com/trending/7671260253291855910/",
+          "heat": ""
+        },
+        {
+          "title": "46岁的殷桃看着像20岁",
+          "url": "https://www.toutiao.com/trending/7670098494267342890/",
+          "heat": ""
+        },
+        {
+          "title": "79岁老人被城管撞倒后离世案一审开庭",
+          "url": "https://www.toutiao.com/trending/7671257713917149190/",
+          "heat": ""
+        },
+        {
+          "title": "38岁演员求职万岁山NPC成功",
+          "url": "https://www.toutiao.com/trending/7670899503050555438/",
+          "heat": ""
+        },
+        {
+          "title": "越来越多高分考生放弃985选警校",
+          "url": "https://www.toutiao.com/trending/7670392664409899058/",
+          "heat": ""
+        },
+        {
+          "title": "泉州市委书记张毅恭被查",
+          "url": "https://www.toutiao.com/trending/7671237921617219108/",
+          "heat": ""
+        },
+        {
+          "title": "美联储9月还敢加息吗",
+          "url": "https://www.toutiao.com/trending/7671302184394296882/",
+          "heat": ""
+        },
+        {
+          "title": "四川宜宾地震网友称睡觉被摇醒",
+          "url": "https://www.toutiao.com/trending/7671132302990262291/",
+          "heat": ""
+        },
+        {
+          "title": "河南将重点打击十类新型黑恶犯罪",
+          "url": "https://www.toutiao.com/trending/7671226760030437418/",
+          "heat": ""
+        },
+        {
+          "title": "车内突然钻出条蛇 男子徒手掐住",
+          "url": "https://www.toutiao.com/trending/7670481667010658346/",
+          "heat": ""
+        },
+        {
+          "title": "《九门》证明了真人演员的不可替代吗",
+          "url": "https://www.toutiao.com/trending/7670912531212517382/",
+          "heat": ""
+        },
+        {
+          "title": "中国女篮70-67险胜尼日利亚女篮",
+          "url": "https://www.toutiao.com/trending/7670790051076309030/",
+          "heat": ""
+        },
+        {
+          "title": "秋天的第一杯奶茶到底有多火",
+          "url": "https://www.toutiao.com/trending/7671073818974617654/",
+          "heat": ""
+        },
+        {
+          "title": "台风白海豚或吞并鲸鱼 登陆地点更新",
+          "url": "https://www.toutiao.com/trending/7670771193105743923/",
+          "heat": ""
+        },
+        {
+          "title": "名创优品回应女子吐槽内裤质量差",
+          "url": "https://www.toutiao.com/trending/7671241351901331502/",
+          "heat": ""
+        },
+        {
+          "title": "U17国足三连胜晋级明日之星半决赛",
+          "url": "https://www.toutiao.com/trending/7670791476876820486/",
+          "heat": ""
+        },
+        {
+          "title": "女子丧偶后卷入赔偿金争夺战",
+          "url": "https://www.toutiao.com/trending/7671254166086189075/",
+          "heat": ""
+        },
+        {
+          "title": "女子趁店内无人偷走手机",
+          "url": "https://www.toutiao.com/trending/7670836574881316902/",
+          "heat": ""
+        },
+        {
+          "title": "对话捐赠日军侵华铁证遭威胁少年",
+          "url": "https://www.toutiao.com/trending/7670083390251057162/",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 0,
-      "items": []
+      "count": 22,
+      "items": [
+        {
+          "title": "美国参议院以86票赞成、11票反对通过全面俄罗斯能源制裁法案，并提交众议院审议。",
+          "url": "https://flash.jin10.com/detail/20260808012329921800",
+          "heat": "✰"
+        },
+        {
+          "title": "美联邦航空局发布适航指令 要求检查部分波音客机",
+          "url": "https://flash.jin10.com/detail/20260808011837482800",
+          "heat": false
+        },
+        {
+          "title": "特朗普称将就上诉法院涉白宫宴会厅项目裁决提起上诉",
+          "url": "https://flash.jin10.com/detail/20260808011808390800",
+          "heat": false
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了2个对手方的14.5亿美元。",
+          "url": "https://flash.jin10.com/detail/20260808011703233800",
+          "heat": false
+        },
+        {
+          "title": "哈塞特称特朗普与沃什经常讨论经济问题",
+          "url": "https://flash.jin10.com/detail/20260808011630958800",
+          "heat": false
+        },
+        {
+          "title": "惠誉确认乌干达评级为“B”，展望稳定。",
+          "url": "https://flash.jin10.com/detail/20260808011227955800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：贝克休斯油服钻井数据亮点一览",
+          "url": "https://flash.jin10.com/detail/20260808011047416800",
+          "heat": false
+        },
+        {
+          "title": "美联储理事库克的律师：我们将对最新的借口提出挑战，并维护库克在美联储的职位和职责。",
+          "url": "https://flash.jin10.com/detail/20260808011006249800",
+          "heat": false
+        },
+        {
+          "title": "美联储理事库克的律师：没有任何有效理由可以罢免库克理事。",
+          "url": "https://flash.jin10.com/detail/20260808010952922800",
+          "heat": false
+        },
+        {
+          "title": "胡塞武装声明：武装部队坚定地以升级回应升级，并确认将对沙特为继续实施封锁而调集的任何兵力或力量发动猛烈打击。",
+          "url": "https://flash.jin10.com/detail/20260808010340239800",
+          "heat": false
+        },
+        {
+          "title": "胡塞武装声明：也门武装部队对沙特集结力量，以及其位于萨赫恩·金恩（Saḥn al-Jinn）营地内的相关弹药库、车辆和军事装备发动了打击。",
+          "url": "https://flash.jin10.com/detail/20260808010310234800",
+          "heat": false
+        },
+        {
+          "title": "美国至8月7日当周天然气钻井总数 124口，前值127口。",
+          "url": "https://flash.jin10.com/detail/20260808010140078800",
+          "heat": false
+        },
+        {
+          "title": "美国至8月7日当周总钻井总数 588口，前值588口。",
+          "url": "https://flash.jin10.com/detail/20260808010133425800",
+          "heat": false
+        },
+        {
+          "title": "美国至8月7日当周石油钻井总数 454口，前值451口。",
+          "url": "https://flash.jin10.com/detail/20260808010128123800",
+          "heat": "✰"
+        },
+        {
+          "title": "美媒：特朗普推进罢免美联储理事库克 以“严重失职”为由正式启动罢免程序",
+          "url": "https://flash.jin10.com/detail/20260808010047168800",
+          "heat": "✰"
+        },
+        {
+          "title": "据The Information：法律AI初创公司Harvey正洽谈融资，估值达155亿美元。",
+          "url": "https://flash.jin10.com/detail/20260808005548495800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：黎巴嫩和以色列就可派遣部队监督真主党解除武装的国家候选名单达成一致。",
+          "url": "https://flash.jin10.com/detail/20260808005526933800",
+          "heat": false
+        },
+        {
+          "title": "美国总统特朗普：两名奥巴马和拜登任命的联邦上诉法院法官刚刚投票反对这个迫切需要的军事中心。该中心对于华盛顿特区以及美国国家安全本身都是必需的。这显然是对裁量权的严重滥用。",
+          "url": "https://flash.jin10.com/detail/20260808005505559800",
+          "heat": false
+        },
+        {
+          "title": "美国总统特朗普：我们将立即向美国最高法院提出上诉。",
+          "url": "https://flash.jin10.com/detail/20260808005050504800",
+          "heat": false
+        },
+        {
+          "title": "美国总统特朗普：法院有关舞厅项目的裁决必须由最高法院全面推翻。",
+          "url": "https://flash.jin10.com/detail/20260808005043099800",
+          "heat": false
+        },
+        {
+          "title": "美国至8月7日当周石油钻井总数将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260808005000000800",
+          "heat": "✰"
+        },
+        {
+          "title": "据ABC新闻：特朗普在最高法院遭遇挫折后，仍继续推进解雇美联储理事丽莎·库克的尝试。",
+          "url": "https://flash.jin10.com/detail/20260808004923983800",
+          "heat": "✰"
+        }
+      ]
     }
   ]
 }
