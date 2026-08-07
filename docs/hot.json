@@ -1,6 +1,6 @@
 {
-  "updated": "04:05:29",
-  "total": 281,
+  "updated": "04:10:39",
+  "total": 285,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,113 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 26,
+      "count": 30,
       "items": [
+        {
+          "title": "泰国警方：校园枪手已自杀。",
+          "url": "https://flash.jin10.com/detail/20260807120623210800",
+          "heat": false
+        },
+        {
+          "title": "中印边境事务磋商和协调工作机制召开第36次会议",
+          "url": "https://flash.jin10.com/detail/20260807120551187800",
+          "heat": false
+        },
+        {
+          "title": "美国“卖欧元救日元”震惊欧洲：交易完才通知拉加德，金融同盟裂痕隐现",
+          "url": "https://flash.jin10.com/detail/20260807120502075800",
+          "heat": "✰"
+        },
+        {
+          "title": "据泰国媒体报道，泰国暖武里府7日上午发生的校园枪击案已造成2人死亡、约20人受伤，枪手仍藏在学校附近。（新华社）",
+          "url": "https://flash.jin10.com/detail/20260807120324442800",
+          "heat": false
+        },
+        {
+          "title": "Plus精选图示",
+          "url": "https://flash.jin10.com/detail/20260807120222850800",
+          "heat": false
+        },
+        {
+          "title": "非农公布日，竞猜赢大奖",
+          "url": "https://flash.jin10.com/detail/20260807120211876800",
+          "heat": false
+        },
+        {
+          "title": "港股午评：恒生指数涨0.15%，恒生科技指数涨0.34%",
+          "url": "https://flash.jin10.com/detail/20260807120158110800",
+          "heat": false
+        },
+        {
+          "title": "供应紧张与需求预期升温，伦铜收盘价有望创新高",
+          "url": "https://flash.jin10.com/detail/20260807115558701800",
+          "heat": false
+        },
+        {
+          "title": "决战非农！美元暂时摆脱了最坏的情况，但还没有证明自己足够强",
+          "url": "https://flash.jin10.com/detail/20260807115552947800",
+          "heat": "✰"
+        },
+        {
+          "title": "财通福鑫定开混合：本基金将于2026年8月7日下午开盘起至当日收盘停牌。",
+          "url": "https://flash.jin10.com/detail/20260807115516399800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-08-07）",
+          "url": "https://flash.jin10.com/detail/20260807115504518800",
+          "heat": "✰"
+        },
+        {
+          "title": "全球芯片LOF：本基金将于2026年8月7日下午开市起停牌至当日收市，停牌期间本基金赎回业务照常办理。",
+          "url": "https://flash.jin10.com/detail/20260807115450083800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月07日（周五）富时中国A50指数成分股午盘收盘行情一览：银行股普跌，通信设备股走强",
+          "url": "https://flash.jin10.com/detail/20260807115403364800",
+          "heat": false
+        },
+        {
+          "title": "黄金回调结束信号出现？BCA称最大逆风已消退，黄金不用等降息也能涨",
+          "url": "https://flash.jin10.com/detail/20260807115240948800",
+          "heat": "✰"
+        },
+        {
+          "title": "海辰储能王鹏程：推动全球锂电长时储能进入大规模交付时代",
+          "url": "https://flash.jin10.com/detail/20260807114959161800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月07日（周五）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260807114821607800",
+          "heat": false
+        },
+        {
+          "title": "香港保险业联会回应“内地对境外保单收益征收20%个人所得税”传闻",
+          "url": "https://flash.jin10.com/detail/20260807114715223800",
+          "heat": false
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260807114617953800",
+          "heat": "✰"
+        },
+        {
+          "title": "美国非农今晚出炉，华尔街预期分歧巨大，现货黄金目前多空占比为54%-46%，现货白银多头占比近90%。后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260807114548091800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月07日（周五）全球富豪榜",
+          "url": "https://flash.jin10.com/detail/20260807114051582800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月07日（周五）全球主要科技与互联网公司市值变化",
+          "url": "https://flash.jin10.com/detail/20260807113920092800",
+          "heat": false
+        },
         {
           "title": "A股午评：创业板指涨1.75% 稀土永磁、PCB板块走强",
           "url": "https://flash.jin10.com/detail/20260807113538270800",
@@ -1403,91 +1508,6 @@
           "title": "多晶硅主力合约日内涨超5.00%，现报37810元/吨。",
           "url": "https://flash.jin10.com/detail/20260807112335986800",
           "heat": "✰"
-        },
-        {
-          "title": "SC原油2609盘中明显走强，涨幅扩大至5.16%，价格上探536元/桶，成交额已超510亿元；日内增仓近1500手，量仓活跃度同步抬升。丁二烯橡胶主力合约日内涨幅达4.00%，现报13300元/吨。",
-          "url": "https://flash.jin10.com/detail/20260807112144619800",
-          "heat": "✰"
-        },
-        {
-          "title": "多家光伏龙头回应美国加征关税",
-          "url": "https://flash.jin10.com/detail/20260807111151777800",
-          "heat": false
-        },
-        {
-          "title": "隔夜shibor报1.3610%，上涨0.8个基点；7天shibor报1.3910%，上涨0.8个基点；3个月shibor报1.4300%，与上日持平。点击查看>>",
-          "url": "https://flash.jin10.com/detail/20260807111133961800",
-          "heat": false
-        },
-        {
-          "title": "金十数据整理：每日存储市场要闻速递（2026-08-07）",
-          "url": "https://flash.jin10.com/detail/20260807110508586800",
-          "heat": "✰"
-        },
-        {
-          "title": "原实控人艾路明被刑事拘留？三特索道：无从知晓 经营一切正常",
-          "url": "https://flash.jin10.com/detail/20260807110500483800",
-          "heat": false
-        },
-        {
-          "title": "印尼外汇储备在7月底降至1453.4亿美元（外媒更正：非1亿美元）。",
-          "url": "https://flash.jin10.com/detail/20260807110040745800",
-          "heat": false
-        },
-        {
-          "title": "美伊战争弹药消耗真相藏不住了？特朗普紧急追查泄密",
-          "url": "https://flash.jin10.com/detail/20260807105403364800",
-          "heat": "✰"
-        },
-        {
-          "title": "海关总署：1至7月集成电路累计出口同比增长99.5%",
-          "url": "https://flash.jin10.com/detail/20260807105317733800",
-          "heat": "✰"
-        },
-        {
-          "title": "据菲律宾火山地震研究所消息，8月7日上午10时38分左右，菲律宾西民都洛省附近发生5.8级地震，震源深度10公里。",
-          "url": "https://flash.jin10.com/detail/20260807105135534800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：2026年08月07日（周五）港A科技互联网公司市值排名TOP 50一览",
-          "url": "https://flash.jin10.com/detail/20260807105117936800",
-          "heat": false
-        },
-        {
-          "title": "非农公布日，竞猜赢大奖",
-          "url": "https://flash.jin10.com/detail/20260807105110543800",
-          "heat": false
-        },
-        {
-          "title": "台积电等研发出单层MoS2顶栅晶体管",
-          "url": "https://flash.jin10.com/detail/20260807104926125800",
-          "heat": false
-        },
-        {
-          "title": "我国科研团队破解超导量子计算“速度与保真度”矛盾",
-          "url": "https://flash.jin10.com/detail/20260807104914539800",
-          "heat": false
-        },
-        {
-          "title": "原油7月的出口恢复已经停滞，欧佩克+增产配额目前还只是“纸面供应”——新版发布",
-          "url": "https://flash.jin10.com/detail/20260807104846617800",
-          "heat": "✰"
-        },
-        {
-          "title": "港股大模型概念股持续走高，MINIMAX-W(00100.HK)涨近25%，智谱(02513.HK)涨超17%。",
-          "url": "https://flash.jin10.com/detail/20260807104654889800",
-          "heat": "✰"
-        },
-        {
-          "title": "中国7月进口总额 19454.4亿元，前值19616.2亿元。",
-          "url": "https://flash.jin10.com/detail/20260807104432171800",
-          "heat": false
-        },
-        {
-          "title": "中国7月出口总额 27125.1亿元，前值28206.7亿元。",
-          "url": "https://flash.jin10.com/detail/20260807104413425800",
-          "heat": false
         }
       ]
     }
