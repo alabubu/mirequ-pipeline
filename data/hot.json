@@ -1,6 +1,6 @@
 {
-  "updated": "15:55:31",
-  "total": 280,
+  "updated": "16:01:17",
+  "total": 271,
   "platforms": [
     {
       "id": "zhihu",
@@ -583,59 +583,8 @@
     {
       "id": "wallstreetcn-hot",
       "name": "华尔街见闻",
-      "count": 10,
-      "items": [
-        {
-          "title": "爆冷！美国7月非农就业人数意外减少2.3万，前两月就业下修10.3万人",
-          "url": "https://wallstreetcn.com/articles/3778959",
-          "heat": ""
-        },
-        {
-          "title": "华尔街见闻早餐FM-Radio | 2026年8月7日",
-          "url": "https://wallstreetcn.com/articles/3778893",
-          "heat": ""
-        },
-        {
-          "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
-          "url": "https://wallstreetcn.com/articles/3778821",
-          "heat": ""
-        },
-        {
-          "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
-          "url": "https://wallstreetcn.com/articles/3778924",
-          "heat": ""
-        },
-        {
-          "title": "今晚美国非农大考，“弱7月”魔咒会重演吗？此前三年均不及预期  ",
-          "url": "https://wallstreetcn.com/articles/3778928",
-          "heat": ""
-        },
-        {
-          "title": "报道：英伟达拟下调Rubin Ultra的HBM配置，应对高端HBM短缺",
-          "url": "https://wallstreetcn.com/articles/3778895",
-          "heat": ""
-        },
-        {
-          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
-          "url": "https://wallstreetcn.com/articles/3778896",
-          "heat": ""
-        },
-        {
-          "title": "中国7月出口同比增23.9%，半导体出口按价值计算同比近乎翻番，进口同比增27.5%",
-          "url": "https://wallstreetcn.com/articles/3778914",
-          "heat": ""
-        },
-        {
-          "title": "中国央行连续21个月增持黄金，7月购金力度提速",
-          "url": "https://wallstreetcn.com/articles/3778942",
-          "heat": ""
-        },
-        {
-          "title": "高盛韩国交易员谈“存储多空之辩”：市场对基本面预期“过于悲观”",
-          "url": "https://wallstreetcn.com/articles/3778905",
-          "heat": ""
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "id": "tieba",
@@ -1352,8 +1301,73 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 26,
+      "count": 27,
       "items": [
+        {
+          "title": "巴西石油公司CEO：石油产量很有可能超过当前的预期。",
+          "url": "https://flash.jin10.com/detail/20260807235210877800",
+          "heat": false
+        },
+        {
+          "title": "巴西石油公司CEO：公司已将其成熟油田的年产量递减率从12%降至4%。",
+          "url": "https://flash.jin10.com/detail/20260807235132560800",
+          "heat": false
+        },
+        {
+          "title": "伊朗德黑兰市长扎卡尼：伊朗不会放弃追求正义，直到对罪犯实施最终惩罚。",
+          "url": "https://flash.jin10.com/detail/20260807234812979800",
+          "heat": false
+        },
+        {
+          "title": "伊朗德黑兰市长扎卡尼：想通过霍尔木兹海峡，必须取消制裁并支付赔偿。",
+          "url": "https://flash.jin10.com/detail/20260807234805603800",
+          "heat": false
+        },
+        {
+          "title": "巴西国家石油公司CFO：2026年下半年有27万桶/日的产能可提升空间。",
+          "url": "https://flash.jin10.com/detail/20260807234353563800",
+          "heat": false
+        },
+        {
+          "title": "特朗普提名律师丹妮尔·图曼·塞弗斯出任美国联邦通信委员会（FCC）委员。",
+          "url": "https://flash.jin10.com/detail/20260807234317790800",
+          "heat": false
+        },
+        {
+          "title": "据伊通社（IRNA）：伊朗副外长表示，海湾安全必须由地区国家确保，无需外部干涉。",
+          "url": "https://flash.jin10.com/detail/20260807234249085800",
+          "heat": false
+        },
+        {
+          "title": "花旗：美伊谈判反复无常，将第三季度布伦特原油均价预期调整为80美元，第四季度维持在70美元，2027年为65美元。",
+          "url": "https://flash.jin10.com/detail/20260807234207696800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月07日（周五）全球股市指数-欧洲市场",
+          "url": "https://flash.jin10.com/detail/20260807234120000800",
+          "heat": false
+        },
+        {
+          "title": "阿根廷总统办公室：阿根廷总统米莱与以色列外长举行会议，米莱重申阿根廷坚定支持以色列根据国际法行使合法自卫的权利，并谴责伊朗及其附属组织对以色列领土的攻击，认为这对该地区的安全与稳定构成严重威胁。",
+          "url": "https://flash.jin10.com/detail/20260807233951248800",
+          "heat": false
+        },
+        {
+          "title": "德国DAX30指数8月7日（周五）收盘上涨163.94点，涨幅0.63%，报26329.17点；<br/>英国富时100指数8月7日（周五）收盘上涨35.52点，涨幅0.33%，报10903.41点；<br/>法国CAC40指数8月7日（周五）收盘上涨15.22点，涨幅0.17%，报8714.93点；<br/>欧洲斯托克50指数8月7日（周五）收盘上涨22.09点，涨幅0.34%，报6524.65点；<br/>西班牙IBEX35指数8月7日（周五）收盘下跌16.42点，跌幅0.08%，报20163.98点；<br/>意大利富时MIB指数8月7日（周五）收盘上涨59.28点，涨幅0.11%，报53742.00点。",
+          "url": "https://flash.jin10.com/detail/20260807233750797800",
+          "heat": false
+        },
+        {
+          "title": "美国陆军开放五大测试场，加速防务企业武器研发",
+          "url": "https://flash.jin10.com/detail/20260807233523027800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：欧盘美盘重要新闻汇总（2026-08-07）",
+          "url": "https://flash.jin10.com/detail/20260807232815855800",
+          "heat": "✰"
+        },
         {
           "title": "巴西石油公司CEO：第二季度石油产量超出目标20万桶/日。",
           "url": "https://flash.jin10.com/detail/20260807232340629800",
@@ -1422,66 +1436,6 @@
         {
           "title": "受台风“白海豚”影响，长三角铁路部分线路列车临时停运",
           "url": "https://flash.jin10.com/detail/20260807225533827800",
-          "heat": false
-        },
-        {
-          "title": "美国共和党参议员卡西迪：将投票支持托德·布兰奇出任司法部长的提名。",
-          "url": "https://flash.jin10.com/detail/20260807225128697800",
-          "heat": false
-        },
-        {
-          "title": "美国7月纽约联储1年通胀预期将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260807225000000800",
-          "heat": "✰"
-        },
-        {
-          "title": "美联储巴尔金：目前尚不清楚人工智能对整体生产力水平的影响有多大。",
-          "url": "https://flash.jin10.com/detail/20260807224749896800",
-          "heat": false
-        },
-        {
-          "title": "美联储巴尔金：仍然从接触者那里听到很多关于通胀和成本压力的信息。",
-          "url": "https://flash.jin10.com/detail/20260807224450651800",
-          "heat": false
-        },
-        {
-          "title": "预测平台Kalshi数据显示，美联储下个月维持利率不变的概率升至65%。",
-          "url": "https://flash.jin10.com/detail/20260807224435611800",
-          "heat": false
-        },
-        {
-          "title": "华尔街锐评非农：这份报告“极其可怕”！",
-          "url": "https://flash.jin10.com/detail/20260807224226931800",
-          "heat": "✰"
-        },
-        {
-          "title": "美国陆军：将向私营企业开放五个军事试验场。",
-          "url": "https://flash.jin10.com/detail/20260807223824732800",
-          "heat": false
-        },
-        {
-          "title": "美联储巴尔金：衡量就业市场健康的最佳指标是失业率。",
-          "url": "https://flash.jin10.com/detail/20260807223651063800",
-          "heat": false
-        },
-        {
-          "title": "美国陆军部长：美国陆军将为企业打开“新大门”。",
-          "url": "https://flash.jin10.com/detail/20260807223535330800",
-          "heat": false
-        },
-        {
-          "title": "美国陆军部长：将向私营企业开放五个军事试验场。",
-          "url": "https://flash.jin10.com/detail/20260807223512168800",
-          "heat": false
-        },
-        {
-          "title": "美联储巴尔金：目前不认为存在工资通胀。",
-          "url": "https://flash.jin10.com/detail/20260807223343458800",
-          "heat": false
-        },
-        {
-          "title": "美联储巴尔金：看到企业间有定价权，但企业对消费者定价能力有限。",
-          "url": "https://flash.jin10.com/detail/20260807223147782800",
           "heat": false
         }
       ]
