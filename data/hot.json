@@ -1,6 +1,6 @@
 {
-  "updated": "10:55:33",
-  "total": 285,
+  "updated": "11:01:03",
+  "total": 225,
   "platforms": [
     {
       "id": "zhihu",
@@ -616,16 +616,6 @@
           "heat": ""
         },
         {
-          "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
-          "url": "https://wallstreetcn.com/articles/3778849",
-          "heat": ""
-        },
-        {
-          "title": "葛卫东，增持兆易创新",
-          "url": "https://wallstreetcn.com/articles/3778855",
-          "heat": ""
-        },
-        {
           "title": "中国7月出口同比增23.9%，半导体出口按价值计算同比近乎翻番，进口同比增27.5%",
           "url": "https://wallstreetcn.com/articles/3778914",
           "heat": ""
@@ -634,165 +624,24 @@
           "title": "高盛韩国交易员谈“存储多空之辩”：市场对基本面预期“过于悲观”",
           "url": "https://wallstreetcn.com/articles/3778905",
           "heat": ""
+        },
+        {
+          "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
+          "url": "https://wallstreetcn.com/articles/3778904",
+          "heat": ""
+        },
+        {
+          "title": "OpenAI智能音箱定价逾300美元，iPhone设计之父操刀设计“甜甜圈”外形",
+          "url": "https://wallstreetcn.com/articles/3778889",
+          "heat": ""
         }
       ]
     },
     {
       "id": "tieba",
       "name": "贴吧",
-      "count": 30,
-      "items": [
-        {
-          "title": "韩企捐水日本被骂只配冲马桶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356935&amp;topic_name=%E9%9F%A9%E4%BC%81%E6%8D%90%E6%B0%B4%E6%97%A5%E6%9C%AC%E8%A2%AB%E9%AA%82%E5%8F%AA%E9%85%8D%E5%86%B2%E9%A9%AC%E6%A1%B6",
-          "heat": ""
-        },
-        {
-          "title": "三支一扶考务勾结嫌疑人泄题",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356942&amp;topic_name=%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E8%80%83%E5%8A%A1%E5%8B%BE%E7%BB%93%E5%AB%8C%E7%96%91%E4%BA%BA%E6%B3%84%E9%A2%98",
-          "heat": ""
-        },
-        {
-          "title": "男子撤销捐献仍被摘器官",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356944&amp;topic_name=%E7%94%B7%E5%AD%90%E6%92%A4%E9%94%80%E6%8D%90%E7%8C%AE%E4%BB%8D%E8%A2%AB%E6%91%98%E5%99%A8%E5%AE%98",
-          "heat": ""
-        },
-        {
-          "title": "大反转!桃酥吃出牙冠系造谣",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356863&amp;topic_name=%E5%A4%A7%E5%8F%8D%E8%BD%AC%21%E6%A1%83%E9%85%A5%E5%90%83%E5%87%BA%E7%89%99%E5%86%A0%E7%B3%BB%E9%80%A0%E8%B0%A3",
-          "heat": ""
-        },
-        {
-          "title": "无视说教,农村小孩哥耿直回复",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356850&amp;topic_name=%E6%97%A0%E8%A7%86%E8%AF%B4%E6%95%99%2C%E5%86%9C%E6%9D%91%E5%B0%8F%E5%AD%A9%E5%93%A5%E8%80%BF%E7%9B%B4%E5%9B%9E%E5%A4%8D",
-          "heat": ""
-        },
-        {
-          "title": "韩足协性贿赂20名外籍裁判",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356933&amp;topic_name=%E9%9F%A9%E8%B6%B3%E5%8D%8F%E6%80%A7%E8%B4%BF%E8%B5%8220%E5%90%8D%E5%A4%96%E7%B1%8D%E8%A3%81%E5%88%A4",
-          "heat": ""
-        },
-        {
-          "title": "猫娘抽烟番被日本家长投诉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356861&amp;topic_name=%E7%8C%AB%E5%A8%98%E6%8A%BD%E7%83%9F%E7%95%AA%E8%A2%AB%E6%97%A5%E6%9C%AC%E5%AE%B6%E9%95%BF%E6%8A%95%E8%AF%89",
-          "heat": ""
-        },
-        {
-          "title": "白躲,逃犯荒野求生21年落网",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356941&amp;topic_name=%E7%99%BD%E8%BA%B2%2C%E9%80%83%E7%8A%AF%E8%8D%92%E9%87%8E%E6%B1%82%E7%94%9F21%E5%B9%B4%E8%90%BD%E7%BD%91",
-          "heat": ""
-        },
-        {
-          "title": "Coser兔娘互动太顶,网友酸了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356858&amp;topic_name=Coser%E5%85%94%E5%A8%98%E4%BA%92%E5%8A%A8%E5%A4%AA%E9%A1%B6%2C%E7%BD%91%E5%8F%8B%E9%85%B8%E4%BA%86",
-          "heat": ""
-        },
-        {
-          "title": "漫威凹人设,蜘蛛侠变房奴",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356852&amp;topic_name=%E6%BC%AB%E5%A8%81%E5%87%B9%E4%BA%BA%E8%AE%BE%2C%E8%9C%98%E8%9B%9B%E4%BE%A0%E5%8F%98%E6%88%BF%E5%A5%B4",
-          "heat": ""
-        },
-        {
-          "title": "不干了!南大院长辞职信出圈",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356857&amp;topic_name=%E4%B8%8D%E5%B9%B2%E4%BA%86%21%E5%8D%97%E5%A4%A7%E9%99%A2%E9%95%BF%E8%BE%9E%E8%81%8C%E4%BF%A1%E5%87%BA%E5%9C%88",
-          "heat": ""
-        },
-        {
-          "title": "物价飞涨,日本青年戒饭成潮流",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356864&amp;topic_name=%E7%89%A9%E4%BB%B7%E9%A3%9E%E6%B6%A8%2C%E6%97%A5%E6%9C%AC%E9%9D%92%E5%B9%B4%E6%88%92%E9%A5%AD%E6%88%90%E6%BD%AE%E6%B5%81",
-          "heat": ""
-        },
-        {
-          "title": "越南新娘买车房遭网友举报",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356859&amp;topic_name=%E8%B6%8A%E5%8D%97%E6%96%B0%E5%A8%98%E4%B9%B0%E8%BD%A6%E6%88%BF%E9%81%AD%E7%BD%91%E5%8F%8B%E4%B8%BE%E6%8A%A5",
-          "heat": ""
-        },
-        {
-          "title": "老板自创奶茶店血亏200万",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356856&amp;topic_name=%E8%80%81%E6%9D%BF%E8%87%AA%E5%88%9B%E5%A5%B6%E8%8C%B6%E5%BA%97%E8%A1%80%E4%BA%8F200%E4%B8%87",
-          "heat": ""
-        },
-        {
-          "title": "NIP逮捕IG,TheShy零作用",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356841&amp;topic_name=NIP%E9%80%AE%E6%8D%95IG%2CTheShy%E9%9B%B6%E4%BD%9C%E7%94%A8",
-          "heat": ""
-        },
-        {
-          "title": "粉丝爆米反被嫌,皮套主播赶客",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356844&amp;topic_name=%E7%B2%89%E4%B8%9D%E7%88%86%E7%B1%B3%E5%8F%8D%E8%A2%AB%E5%AB%8C%2C%E7%9A%AE%E5%A5%97%E4%B8%BB%E6%92%AD%E8%B5%B6%E5%AE%A2",
-          "heat": ""
-        },
-        {
-          "title": "AL遭WE零封,窒息且绝望",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356845&amp;topic_name=AL%E9%81%ADWE%E9%9B%B6%E5%B0%81%2C%E7%AA%92%E6%81%AF%E4%B8%94%E7%BB%9D%E6%9C%9B",
-          "heat": ""
-        },
-        {
-          "title": "吓哭!英男子扮死神吓病人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356851&amp;topic_name=%E5%90%93%E5%93%AD%21%E8%8B%B1%E7%94%B7%E5%AD%90%E6%89%AE%E6%AD%BB%E7%A5%9E%E5%90%93%E7%97%85%E4%BA%BA",
-          "heat": ""
-        },
-        {
-          "title": "人贩子梅姨不适用死刑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356831&amp;topic_name=%E4%BA%BA%E8%B4%A9%E5%AD%90%E6%A2%85%E5%A7%A8%E4%B8%8D%E9%80%82%E7%94%A8%E6%AD%BB%E5%88%91",
-          "heat": ""
-        },
-        {
-          "title": "银行反内卷,员工午休1.5小时",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356812&amp;topic_name=%E9%93%B6%E8%A1%8C%E5%8F%8D%E5%86%85%E5%8D%B7%2C%E5%91%98%E5%B7%A5%E5%8D%88%E4%BC%911.5%E5%B0%8F%E6%97%B6",
-          "heat": ""
-        },
-        {
-          "title": "惹不起!复盘区遇TheShy哑火",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356860&amp;topic_name=%E6%83%B9%E4%B8%8D%E8%B5%B7%21%E5%A4%8D%E7%9B%98%E5%8C%BA%E9%81%87TheShy%E5%93%91%E7%81%AB",
-          "heat": ""
-        },
-        {
-          "title": "大结局!文波爆料Bin哥已归队",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356827&amp;topic_name=%E5%A4%A7%E7%BB%93%E5%B1%80%21%E6%96%87%E6%B3%A2%E7%88%86%E6%96%99Bin%E5%93%A5%E5%B7%B2%E5%BD%92%E9%98%9F",
-          "heat": ""
-        },
-        {
-          "title": "宇树150.8一股,股民许愿中签",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356843&amp;topic_name=%E5%AE%87%E6%A0%91150.8%E4%B8%80%E8%82%A1%2C%E8%82%A1%E6%B0%91%E8%AE%B8%E6%84%BF%E4%B8%AD%E7%AD%BE",
-          "heat": ""
-        },
-        {
-          "title": "德云色开串BLG,喵C独挺",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356839&amp;topic_name=%E5%BE%B7%E4%BA%91%E8%89%B2%E5%BC%80%E4%B8%B2BLG%2C%E5%96%B5C%E7%8B%AC%E6%8C%BA",
-          "heat": ""
-        },
-        {
-          "title": "河南带薪休假,老板先休为敬",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356826&amp;topic_name=%E6%B2%B3%E5%8D%97%E5%B8%A6%E8%96%AA%E4%BC%91%E5%81%87%2C%E8%80%81%E6%9D%BF%E5%85%88%E4%BC%91%E4%B8%BA%E6%95%AC",
-          "heat": ""
-        },
-        {
-          "title": "霓虹女网红遭粉丝网暴自缢",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356828&amp;topic_name=%E9%9C%93%E8%99%B9%E5%A5%B3%E7%BD%91%E7%BA%A2%E9%81%AD%E7%B2%89%E4%B8%9D%E7%BD%91%E6%9A%B4%E8%87%AA%E7%BC%A2",
-          "heat": ""
-        },
-        {
-          "title": "DeepSeek拟上调API服务价格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
-          "heat": ""
-        },
-        {
-          "title": "追星成功!Xiaohao进WBG名单",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356830&amp;topic_name=%E8%BF%BD%E6%98%9F%E6%88%90%E5%8A%9F%21Xiaohao%E8%BF%9BWBG%E5%90%8D%E5%8D%95",
-          "heat": ""
-        },
-        {
-          "title": "Donk疑似获豁免,无需服兵役",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356823&amp;topic_name=Donk%E7%96%91%E4%BC%BC%E8%8E%B7%E8%B1%81%E5%85%8D%2C%E6%97%A0%E9%9C%80%E6%9C%8D%E5%85%B5%E5%BD%B9",
-          "heat": ""
-        },
-        {
-          "title": "好评如潮!男高凑钱自制抽象神游",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356811&amp;topic_name=%E5%A5%BD%E8%AF%84%E5%A6%82%E6%BD%AE%21%E7%94%B7%E9%AB%98%E5%87%91%E9%92%B1%E8%87%AA%E5%88%B6%E6%8A%BD%E8%B1%A1%E7%A5%9E%E6%B8%B8",
-          "heat": ""
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "id": "baidu",
@@ -1357,159 +1206,8 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 30,
-      "items": [
-        {
-          "title": "匈牙利总理毛焦尔：帕克斯核电站的情况仍然困难。",
-          "url": "https://flash.jin10.com/detail/20260807182608796800",
-          "heat": false
-        },
-        {
-          "title": "据阿拉比亚电视台：消息人士称，华盛顿已通过密集沟通告知以色列，有必要缓和黎巴嫩局势。",
-          "url": "https://flash.jin10.com/detail/20260807182544049800",
-          "heat": false
-        },
-        {
-          "title": "宇树科技回应机器人销售禁令：不会影响现有主要产品销售",
-          "url": "https://flash.jin10.com/detail/20260807182450064800",
-          "heat": "✰"
-        },
-        {
-          "title": "国泰君安国际拟私有化退市 国泰海通国际化战略步伐加快",
-          "url": "https://flash.jin10.com/detail/20260807182302549800",
-          "heat": "✰"
-        },
-        {
-          "title": "中国稀土：2026年上半年净利润同比增长46.53%",
-          "url": "https://flash.jin10.com/detail/20260807182130955800",
-          "heat": false
-        },
-        {
-          "title": "匈牙利总理毛焦尔：电力消费无需自愿削减，能源供应稳定。",
-          "url": "https://flash.jin10.com/detail/20260807182015294800",
-          "heat": false
-        },
-        {
-          "title": "据克里姆林宫消息，俄罗斯总统普京与安全委员会常任成员举行会议，讨论了加强基础设施反恐安全的额外措施。",
-          "url": "https://flash.jin10.com/detail/20260807181957573800",
-          "heat": false
-        },
-        {
-          "title": "匈牙利总理毛焦尔：由于奥地利降雨，预计多瑙河水位将暂时上升。",
-          "url": "https://flash.jin10.com/detail/20260807181931051800",
-          "heat": false
-        },
-        {
-          "title": "7月份私募证券基金备案量创年内单月新高",
-          "url": "https://flash.jin10.com/detail/20260807181914793800",
-          "heat": false
-        },
-        {
-          "title": "华尔街前瞻今晚非农：最高与最低预期相差12万人",
-          "url": "https://flash.jin10.com/detail/20260807181807259800",
-          "heat": "✰"
-        },
-        {
-          "title": "京东方A：控股股东吸收合并全资子公司 8.22亿股已过户",
-          "url": "https://flash.jin10.com/detail/20260807181653923800",
-          "heat": "✰"
-        },
-        {
-          "title": "共和党中期选举或转向“他们更差”策略，再次打响政治标签化大战",
-          "url": "https://flash.jin10.com/detail/20260807181633543800",
-          "heat": false
-        },
-        {
-          "title": "中央气象台8月7日18时继续发布台风黄色预警",
-          "url": "https://flash.jin10.com/detail/20260807181626036800",
-          "heat": false
-        },
-        {
-          "title": "苏奥传感：上半年归母净利润3272.7万元，同比下降42.83%",
-          "url": "https://flash.jin10.com/detail/20260807181411321800",
-          "heat": false
-        },
-        {
-          "title": "滨海能源：2026年上半年净利润亏损2824.68万元",
-          "url": "https://flash.jin10.com/detail/20260807181333613800",
-          "heat": false
-        },
-        {
-          "title": "水利部发布洪水蓝色预警",
-          "url": "https://flash.jin10.com/detail/20260807181304960800",
-          "heat": false
-        },
-        {
-          "title": "中国铝业：2025年度A股每股派发现金红利0.147元",
-          "url": "https://flash.jin10.com/detail/20260807181007961800",
-          "heat": false
-        },
-        {
-          "title": "国城矿业：控股子公司签署十年期碳酸锂长期合作协议",
-          "url": "https://flash.jin10.com/detail/20260807180942582800",
-          "heat": false
-        },
-        {
-          "title": "信通电子：拟设三家全资子公司，分别出资2000万元、100万美元及5000万元",
-          "url": "https://flash.jin10.com/detail/20260807180929160800",
-          "heat": false
-        },
-        {
-          "title": "*ST八钢：2026年上半年净利润亏损3.42亿元",
-          "url": "https://flash.jin10.com/detail/20260807180859898800",
-          "heat": false
-        },
-        {
-          "title": "德国商业银行：预计到年底锌价将达到每吨3500美元。",
-          "url": "https://flash.jin10.com/detail/20260807180805682800",
-          "heat": false
-        },
-        {
-          "title": "反向指标拉响警报！美银牛熊信号触及2021年以来最高纪录",
-          "url": "https://flash.jin10.com/detail/20260807180800394800",
-          "heat": "✰"
-        },
-        {
-          "title": "德国商业银行：将年底镍价预测下调至每吨17,000美元。",
-          "url": "https://flash.jin10.com/detail/20260807180626129800",
-          "heat": false
-        },
-        {
-          "title": "摩根大通：将Cloudflare(NET.N)目标价从145美元上调至350美元。",
-          "url": "https://flash.jin10.com/detail/20260807180557725800",
-          "heat": false
-        },
-        {
-          "title": "金新农：7月生猪销售收入7368.06万元",
-          "url": "https://flash.jin10.com/detail/20260807180520653800",
-          "heat": false
-        },
-        {
-          "title": "金龙汽车：7月客车销量3860辆，同比增13.46%",
-          "url": "https://flash.jin10.com/detail/20260807180446608800",
-          "heat": false
-        },
-        {
-          "title": "东睦股份：拟设立孙公司并投资7亿元建设新科技项目",
-          "url": "https://flash.jin10.com/detail/20260807180423121800",
-          "heat": false
-        },
-        {
-          "title": "美国证交会（SEC）文件显示，Alphabet(GOOG.O)报告持有SpaceX(SPCX.O)5.512亿股A类股票。",
-          "url": "https://flash.jin10.com/detail/20260807180333856800",
-          "heat": false
-        },
-        {
-          "title": "韩国首尔8年来首遇40摄氏度高温",
-          "url": "https://flash.jin10.com/detail/20260807180251063800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：2026年08月07日（周五）亚太市场股市指数",
-          "url": "https://flash.jin10.com/detail/20260807180247168800",
-          "heat": false
-        }
-      ]
+      "count": 0,
+      "items": []
     }
   ]
 }
