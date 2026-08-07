@@ -1,6 +1,6 @@
 {
-  "updated": "13:25:31",
-  "total": 279,
+  "updated": "13:31:03",
+  "total": 251,
   "platforms": [
     {
       "id": "zhihu",
@@ -426,159 +426,8 @@
     {
       "id": "bilibili-hot-search",
       "name": "B站",
-      "count": 30,
-      "items": [
-        {
-          "title": "中国U17vs河床U17",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDU17vs%E6%B2%B3%E5%BA%8AU17",
-          "heat": ""
-        },
-        {
-          "title": "鸣潮3.6版本PV",
-          "url": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE3.6%E7%89%88%E6%9C%ACPV",
-          "heat": ""
-        },
-        {
-          "title": "苏炜杰获统计学界诺贝尔奖",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%8F%E7%82%9C%E6%9D%B0%E8%8E%B7%E7%BB%9F%E8%AE%A1%E5%AD%A6%E7%95%8C%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96",
-          "heat": ""
-        },
-        {
-          "title": "BLG vs TES LPL第三赛段",
-          "url": "https://search.bilibili.com/all?keyword=BLG%20TES",
-          "heat": ""
-        },
-        {
-          "title": "歌手总决赛陪看",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E6%89%8B%E6%80%BB%E5%86%B3%E8%B5%9B%E9%99%AA%E7%9C%8B",
-          "heat": ""
-        },
-        {
-          "title": "NCT WISH唱中文版彼得潘",
-          "url": "https://search.bilibili.com/all?keyword=NCT%20WISH%E5%94%B1%E4%B8%AD%E6%96%87%E7%89%88%E5%BD%BC%E5%BE%97%E6%BD%98",
-          "heat": ""
-        },
-        {
-          "title": "绝区零制作人珍贵凹分视频",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BB%9D%E5%8C%BA%E9%9B%B6%E5%88%B6%E4%BD%9C%E4%BA%BA%E7%8F%8D%E8%B4%B5%E5%87%B9%E5%88%86%E8%A7%86%E9%A2%91",
-          "heat": ""
-        },
-        {
-          "title": "中国人能飞AI版vs实拍版",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
-          "heat": ""
-        },
-        {
-          "title": "向鹏0-3张本智和",
-          "url": "https://search.bilibili.com/all?keyword=%E5%90%91%E9%B9%8F0-3%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C",
-          "heat": ""
-        },
-        {
-          "title": "TT战胜WE LPL第三赛段",
-          "url": "https://search.bilibili.com/all?keyword=WE%20TT",
-          "heat": ""
-        },
-        {
-          "title": "CODM突然联动崩坏3",
-          "url": "https://search.bilibili.com/all?keyword=CODM%E7%AA%81%E7%84%B6%E8%81%94%E5%8A%A8%E5%B4%A9%E5%9D%8F3",
-          "heat": ""
-        },
-        {
-          "title": "柴西洛杉矶自驾体验落日飞车",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9F%B4%E8%A5%BF%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%87%AA%E9%A9%BE%E4%BD%93%E9%AA%8C%E8%90%BD%E6%97%A5%E9%A3%9E%E8%BD%A6",
-          "heat": ""
-        },
-        {
-          "title": "EDG vs TEC VCT第二赛段",
-          "url": "https://search.bilibili.com/all?keyword=EDG%20TEC",
-          "heat": ""
-        },
-        {
-          "title": "JDG战胜EDG LPL第三赛段",
-          "url": "https://search.bilibili.com/all?keyword=JDG%20EDG",
-          "heat": ""
-        },
-        {
-          "title": "鬼叔黍洛神杯2首胜",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AC%BC%E5%8F%94%E9%BB%8D%E6%B4%9B%E7%A5%9E%E6%9D%AF2%E9%A6%96%E8%83%9C",
-          "heat": ""
-        },
-        {
-          "title": "河南三支一扶将重新组织笔试",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B2%B3%E5%8D%97%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E5%B0%86%E9%87%8D%E6%96%B0%E7%BB%84%E7%BB%87%E7%AC%94%E8%AF%95",
-          "heat": ""
-        },
-        {
-          "title": "王者萌新之夜表演赛直播",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E8%90%8C%E6%96%B0%E4%B9%8B%E5%A4%9C%E8%A1%A8%E6%BC%94%E8%B5%9B%E7%9B%B4%E6%92%AD",
-          "heat": ""
-        },
-        {
-          "title": "TI2026 Falcons战队巡礼",
-          "url": "https://search.bilibili.com/all?keyword=TI2026%20Falcons%E6%88%98%E9%98%9F%E5%B7%A1%E7%A4%BC",
-          "heat": ""
-        },
-        {
-          "title": "烽火职业联赛夏季赛",
-          "url": "https://search.bilibili.com/all?keyword=%E7%83%BD%E7%81%AB%E8%81%8C%E4%B8%9A%E8%81%94%E8%B5%9B%E5%A4%8F%E5%AD%A3%E8%B5%9B",
-          "heat": ""
-        },
-        {
-          "title": "周深贵州方言新歌每个人",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%B7%B1%E8%B4%B5%E5%B7%9E%E6%96%B9%E8%A8%80%E6%96%B0%E6%AD%8C%E6%AF%8F%E4%B8%AA%E4%BA%BA",
-          "heat": ""
-        },
-        {
-          "title": "被焦虑毁掉的多角恋叙事",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A2%AB%E7%84%A6%E8%99%91%E6%AF%81%E6%8E%89%E7%9A%84%E5%A4%9A%E8%A7%92%E6%81%8B%E5%8F%99%E4%BA%8B",
-          "heat": ""
-        },
-        {
-          "title": "台风白海豚实时路径",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%AE%9E%E6%97%B6%E8%B7%AF%E5%BE%84",
-          "heat": ""
-        },
-        {
-          "title": "东北冷涡带来大幅降温",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%9C%E5%8C%97%E5%86%B7%E6%B6%A1%E5%B8%A6%E6%9D%A5%E5%A4%A7%E5%B9%85%E9%99%8D%E6%B8%A9",
-          "heat": ""
-        },
-        {
-          "title": "中国消防官方整活",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%B6%88%E9%98%B2%E5%AE%98%E6%96%B9%E6%95%B4%E6%B4%BB",
-          "heat": ""
-        },
-        {
-          "title": "用老一辈的审美看八仙",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E8%80%81%E4%B8%80%E8%BE%88%E7%9A%84%E5%AE%A1%E7%BE%8E%E7%9C%8B%E5%85%AB%E4%BB%99",
-          "heat": ""
-        },
-        {
-          "title": "雀巢工作室vs小潮team",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9B%80%E5%B7%A2%E5%B7%A5%E4%BD%9C%E5%AE%A4VS%E5%B0%8F%E6%BD%AEteam",
-          "heat": ""
-        },
-        {
-          "title": "铁豆钢蛋锐评单依纯舞台",
-          "url": "https://search.bilibili.com/all?keyword=%E9%93%81%E8%B1%86%E9%92%A2%E8%9B%8B%E9%94%90%E8%AF%84%E5%8D%95%E4%BE%9D%E7%BA%AF%E8%88%9E%E5%8F%B0",
-          "heat": ""
-        },
-        {
-          "title": "AG战胜TE VCT第二赛段",
-          "url": "https://search.bilibili.com/all?keyword=AG%20TE",
-          "heat": ""
-        },
-        {
-          "title": "猎鹰火箭残骸撞月球对比图",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8C%8E%E9%B9%B0%E7%81%AB%E7%AE%AD%E6%AE%8B%E9%AA%B8%E6%92%9E%E6%9C%88%E7%90%83%E5%AF%B9%E6%AF%94%E5%9B%BE",
-          "heat": ""
-        },
-        {
-          "title": "GTA6将发布新预告片",
-          "url": "https://search.bilibili.com/all?keyword=GTA6%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0%E9%A2%84%E5%91%8A%E7%89%87",
-          "heat": ""
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "id": "wallstreetcn-hot",
@@ -713,6 +562,11 @@
           "heat": ""
         },
         {
+          "title": "名人效应衰减,龙餐馆预售不佳",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356948&amp;topic_name=%E5%90%8D%E4%BA%BA%E6%95%88%E5%BA%94%E8%A1%B0%E5%87%8F%2C%E9%BE%99%E9%A4%90%E9%A6%86%E9%A2%84%E5%94%AE%E4%B8%8D%E4%BD%B3",
+          "heat": ""
+        },
+        {
           "title": "物价飞涨,日本青年戒饭成潮流",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356864&amp;topic_name=%E7%89%A9%E4%BB%B7%E9%A3%9E%E6%B6%A8%2C%E6%97%A5%E6%9C%AC%E9%9D%92%E5%B9%B4%E6%88%92%E9%A5%AD%E6%88%90%E6%BD%AE%E6%B5%81",
           "heat": ""
@@ -785,11 +639,6 @@
         {
           "title": "霓虹女网红遭粉丝网暴自缢",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356828&amp;topic_name=%E9%9C%93%E8%99%B9%E5%A5%B3%E7%BD%91%E7%BA%A2%E9%81%AD%E7%B2%89%E4%B8%9D%E7%BD%91%E6%9A%B4%E8%87%AA%E7%BC%A2",
-          "heat": ""
-        },
-        {
-          "title": "Donk疑似获豁免,无需服兵役",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356823&amp;topic_name=Donk%E7%96%91%E4%BC%BC%E8%8E%B7%E8%B1%81%E5%85%8D%2C%E6%97%A0%E9%9C%80%E6%9C%8D%E5%85%B5%E5%BD%B9",
           "heat": ""
         }
       ]
@@ -1357,126 +1206,136 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 24,
+      "count": 26,
       "items": [
         {
-          "title": "减少2.3万人！美国7月非农意外爆冷，黄金大涨超50美元",
-          "url": "https://flash.jin10.com/detail/20260807205644051800",
+          "title": "波罗的海干散货运价指数升至逾两个月高点",
+          "url": "https://flash.jin10.com/detail/20260807212647429800",
+          "heat": false
+        },
+        {
+          "title": "财料",
+          "url": "https://flash.jin10.com/detail/20260807212615648800",
           "heat": "✰"
         },
         {
-          "title": "匈牙利总理毛焦尔：政府将在8月31日前就700兆瓦风电装机容量发布招标。",
-          "url": "https://flash.jin10.com/detail/20260807205313031800",
-          "heat": false
-        },
-        {
-          "title": "正在直播",
-          "url": "https://flash.jin10.com/detail/20260807205015552800",
-          "heat": false
-        },
-        {
-          "title": "经济学家斯妮哈·普里：“世界杯招聘潮”落空",
-          "url": "https://flash.jin10.com/detail/20260807204837032800",
-          "heat": false
-        },
-        {
-          "title": "美国非农数据意外录得负值 失业率进一步下降",
-          "url": "https://flash.jin10.com/detail/20260807204822387800",
-          "heat": false
-        },
-        {
-          "title": "美国7月就业人数与劳动参与率双双下滑",
-          "url": "https://flash.jin10.com/detail/20260807204724609800",
-          "heat": false
-        },
-        {
-          "title": "VIP・95折库存日报首发上线",
-          "url": "https://flash.jin10.com/detail/20260807204615216800",
+          "title": "北京：非京籍家庭购房社保个税缴纳年限下调为一年",
+          "url": "https://flash.jin10.com/detail/20260807212323904800",
           "heat": "✰"
         },
         {
-          "title": "<a href=\"https://www.jin10.com/activities/2026/8/vip_article/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/08/pgIQkDKL1HvA5cSwZ0Y8I.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260807204611456800",
+          "title": "白宫国家经济委员会主任哈塞特：政府雇员和世界杯相关就业是就业疲软的部分原因。",
+          "url": "https://flash.jin10.com/detail/20260807212248188800",
           "heat": false
         },
         {
-          "title": "根据数据以及消息源显示，受无人机袭击影响，里海管道联盟7月石油装载量较计划落后20%，降至每日120万至130万桶。",
-          "url": "https://flash.jin10.com/detail/20260807204442480800",
+          "title": "白宫国家经济委员会主任哈塞特：婴儿潮一代正在退休。",
+          "url": "https://flash.jin10.com/detail/20260807212203308800",
           "heat": false
         },
         {
-          "title": "英镑兑美元GBP/USD站上1.35，日内涨0.35%。",
-          "url": "https://flash.jin10.com/detail/20260807204353456800",
+          "title": "白宫国家经济委员会主任哈塞特：（谈就业数据）看到参与率略有疲软。",
+          "url": "https://flash.jin10.com/detail/20260807212127545800",
+          "heat": "✰"
+        },
+        {
+          "title": "美国7月失业率下降，25岁及以上人群失业率维持在3.4%",
+          "url": "https://flash.jin10.com/detail/20260807212107467800",
           "heat": false
         },
         {
-          "title": "美国非农数据意外“大降温” 失业率降至4.1%",
-          "url": "https://flash.jin10.com/detail/20260807204315081800",
-          "heat": "✰"
-        },
-        {
-          "title": "现货黄金日内大涨3.00%，现报4367.90美元/盎司。现货白银现涨5.5%。",
-          "url": "https://flash.jin10.com/detail/20260807204314204800",
-          "heat": "✰"
-        },
-        {
-          "title": "美国非农就业数据疲软，10年期英国国债收益率降至4.898%。",
-          "url": "https://flash.jin10.com/detail/20260807204205961800",
+          "title": "日本财务大臣片山皋月：美日双方一直密切沟通 将在必要时再次采取行动",
+          "url": "https://flash.jin10.com/detail/20260807212003577800",
           "heat": false
         },
         {
-          "title": "美国劳工统计局：7月份非农就业人数意外减少2.3万人，使得过去12个月的平均月度增幅调整为3.4万人。",
-          "url": "https://flash.jin10.com/detail/20260807204118548800",
+          "title": "金十数据整理：每日美股市场要闻速递（2026-08-07）",
+          "url": "https://flash.jin10.com/detail/20260807211858880800",
           "heat": "✰"
         },
         {
-          "title": "美国7月非农意外下滑，就业市场显露疲态",
-          "url": "https://flash.jin10.com/detail/20260807204109387800",
+          "title": "美国非农就业人数意外减少 美国股指期货延续涨势",
+          "url": "https://flash.jin10.com/detail/20260807211506298800",
           "heat": false
         },
         {
-          "title": "非农就业数据公布后，加拿大与美国2年期国债收益率利差收窄9.3个基点，至约122个基点。",
-          "url": "https://flash.jin10.com/detail/20260807203908065800",
+          "title": "根据乌克兰国家石油天然气公司，俄罗斯在夜间袭击了7个天然气生产地点。",
+          "url": "https://flash.jin10.com/detail/20260807211433911800",
           "heat": false
         },
         {
-          "title": "美国7月就业意外萎缩 美联储迎政策难题",
-          "url": "https://flash.jin10.com/detail/20260807203735611800",
-          "heat": "✰"
-        },
-        {
-          "title": "金十速递：美国7月非农报告全文",
-          "url": "https://flash.jin10.com/detail/20260807203709842800",
-          "heat": "✰"
-        },
-        {
-          "title": "金十交易学院正在直播中",
-          "url": "https://flash.jin10.com/detail/20260807203600106800",
+          "title": "非农竞猜中奖名单公布",
+          "url": "https://flash.jin10.com/detail/20260807211047358800",
           "heat": false
         },
         {
-          "title": "“美联储传声筒”Nick Timiraos：7月份，美国失业率降至4.09%，因为求职人数和被统计为失业的人数均有所下降；这一数据使失业率降至两年来的最低水平。2月份为4.44%，去年11月份为4.54%。",
-          "url": "https://flash.jin10.com/detail/20260807203536651800",
+          "title": "瑞银看涨金价至5000美元：沃什“新政”如何重塑避险逻辑？",
+          "url": "https://flash.jin10.com/detail/20260807211024091800",
           "heat": "✰"
         },
         {
-          "title": "医疗保健是连续保持正贡献的分项，但也在走弱",
-          "url": "https://flash.jin10.com/detail/20260807203531040800",
+          "title": "非农数据公布后，美联储9月加息25个基点的概率下降",
+          "url": "https://flash.jin10.com/detail/20260807210935544800",
           "heat": false
         },
         {
-          "title": "美元兑日元USD/JPY失守157，日内跌超1.00%。",
-          "url": "https://flash.jin10.com/detail/20260807203510639800",
+          "title": "美国7月非农就业减少2.3万 政府部门大幅减少5.3万人",
+          "url": "https://flash.jin10.com/detail/20260807210804037800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月07日（周五）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20260807210718270800",
+          "heat": false
+        },
+        {
+          "title": "匈牙利总理毛焦尔：执政党将在周六作出决定，总统将于8月11日由议会选举产生。",
+          "url": "https://flash.jin10.com/detail/20260807210702215800",
+          "heat": false
+        },
+        {
+          "title": "匈牙利总理毛焦尔：蒂萨党领导层将提名三位总统候选人。",
+          "url": "https://flash.jin10.com/detail/20260807210651855800",
+          "heat": false
+        },
+        {
+          "title": "上半年利润翻倍！ “寒王”交出亮眼答卷 | 盘后公告精选",
+          "url": "https://flash.jin10.com/detail/20260807210619128800",
           "heat": "✰"
         },
         {
-          "title": "日本财务大臣片山皋月：日美双方一直在密切沟通，都将在必要时毫不犹豫地采取干预措施。",
-          "url": "https://flash.jin10.com/detail/20260807203455567800",
+          "title": "据The Information：亚马逊云服务(AWS)在5月告知工程师们减少CPU浪费。AWS已给各团队设定了今年晚些时候的最后期限，要求他们减少计算资源的使用量。工程师们正在停用闲置的EC2虚拟服务器，以便将容量重新分配给客户。",
+          "url": "https://flash.jin10.com/detail/20260807210613997800",
+          "heat": false
+        },
+        {
+          "title": "“爆冷”非农数据令日元大涨 但交易员仍对干预风险保持谨慎",
+          "url": "https://flash.jin10.com/detail/20260807210456698800",
+          "heat": false
+        },
+        {
+          "title": "世界银行批准1亿美元赠款，用于叙利亚金融部门现代化。",
+          "url": "https://flash.jin10.com/detail/20260807210244222800",
+          "heat": false
+        },
+        {
+          "title": "匈牙利总理毛焦尔：帕克斯二号核电站的扩建成本现在是最初预计的两倍。",
+          "url": "https://flash.jin10.com/detail/20260807210003918800",
+          "heat": false
+        },
+        {
+          "title": "夜盘开盘，国内期货主力合约涨多跌少。沪银涨超4%，沪金涨超2%，乙二醇（EG）、不锈钢（SS）涨超1%，沪镍、沪锡涨近1%。跌幅方面，沪锌、SC原油跌近1%。",
+          "url": "https://flash.jin10.com/detail/20260807210002200800",
           "heat": "✰"
         },
         {
-          "title": "7月非农就业数据疲软，美债价格飙升。",
-          "url": "https://flash.jin10.com/detail/20260807203421543800",
+          "title": "7月全球食品价格指数创三年多来新高",
+          "url": "https://flash.jin10.com/detail/20260807205952122800",
+          "heat": false
+        },
+        {
+          "title": "“爆冷”非农来了！美国7月就业报告有何看点？",
+          "url": "https://flash.jin10.com/detail/20260807205951686800",
           "heat": "✰"
         }
       ]
