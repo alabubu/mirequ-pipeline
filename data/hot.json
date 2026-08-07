@@ -1,6 +1,6 @@
 {
-  "updated": "06:25:28",
-  "total": 273,
+  "updated": "06:31:06",
+  "total": 263,
   "platforms": [
     {
       "id": "zhihu",
@@ -583,59 +583,8 @@
     {
       "id": "wallstreetcn-hot",
       "name": "华尔街见闻",
-      "count": 10,
-      "items": [
-        {
-          "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
-          "url": "https://wallstreetcn.com/articles/3778821",
-          "heat": ""
-        },
-        {
-          "title": "华尔街见闻早餐FM-Radio | 2026年8月7日",
-          "url": "https://wallstreetcn.com/articles/3778893",
-          "heat": ""
-        },
-        {
-          "title": "报道：若未来几周通胀数据强劲，沃什将准备在9月加息",
-          "url": "https://wallstreetcn.com/articles/3778865",
-          "heat": ""
-        },
-        {
-          "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
-          "url": "https://wallstreetcn.com/articles/3778857",
-          "heat": ""
-        },
-        {
-          "title": "报道：苹果紧急抢购DRAM内存，距iPhone 18发布仅剩几周",
-          "url": "https://wallstreetcn.com/articles/3778845",
-          "heat": ""
-        },
-        {
-          "title": "报道：英伟达拟下调Rubin Ultra的HBM配置，应对高端HBM短缺",
-          "url": "https://wallstreetcn.com/articles/3778895",
-          "heat": ""
-        },
-        {
-          "title": "沪指冲高回落涨0.6%，煤炭掀涨停潮，贵金属集体大涨，半导体材料再拉升，恒科指跌超2%，AI大模型双雄逆势拉升",
-          "url": "https://wallstreetcn.com/articles/3778805",
-          "heat": ""
-        },
-        {
-          "title": "美银CEO：美联储年内或连加三次息，但AI投资不会因高利率踩刹车",
-          "url": "https://wallstreetcn.com/articles/3778828",
-          "heat": ""
-        },
-        {
-          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
-          "url": "https://wallstreetcn.com/articles/3778896",
-          "heat": ""
-        },
-        {
-          "title": "葛卫东，增持兆易创新",
-          "url": "https://wallstreetcn.com/articles/3778855",
-          "heat": ""
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "id": "tieba",
