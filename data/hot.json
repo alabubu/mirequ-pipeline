@@ -1,6 +1,6 @@
 {
-  "updated": "00:20:47",
-  "total": 282,
+  "updated": "00:25:44",
+  "total": 283,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,48 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 27,
+      "count": 28,
       "items": [
+        {
+          "title": "日本20年期国债收益率上涨2.0个基点，至3.660%。",
+          "url": "https://flash.jin10.com/detail/20260807082311063800",
+          "heat": false
+        },
+        {
+          "title": "非农公布日，竞猜赢大奖",
+          "url": "https://flash.jin10.com/detail/20260807082037168800",
+          "heat": false
+        },
+        {
+          "title": "上半年规模以上工业中小企业增加值同比增长5.8%",
+          "url": "https://flash.jin10.com/detail/20260807081442336800",
+          "heat": false
+        },
+        {
+          "title": "澳大利亚S&P/ASX200指数8月7日（周五）开盘下跌33.30点，跌幅0.36%，报9238.30点。",
+          "url": "https://flash.jin10.com/detail/20260807081059756800",
+          "heat": false
+        },
+        {
+          "title": "新闻交易员：非农数据还没出，市场已经先错了一半",
+          "url": "https://flash.jin10.com/detail/20260807080525395800",
+          "heat": "✰"
+        },
+        {
+          "title": "中信证券：港险短期存在负面影响，但不改长期需求增长趋势",
+          "url": "https://flash.jin10.com/detail/20260807080432660800",
+          "heat": false
+        },
+        {
+          "title": "中信证券：刚果（金）出口禁令或推动铜价加速冲击15000美元/吨以上",
+          "url": "https://flash.jin10.com/detail/20260807080356799800",
+          "heat": false
+        },
+        {
+          "title": "日韩股市高开",
+          "url": "https://flash.jin10.com/detail/20260807080221003800",
+          "heat": false
+        },
         {
           "title": "日本7月外汇储备 12871亿美元，前值12875亿美元。",
           "url": "https://flash.jin10.com/detail/20260807075430253800",
@@ -1458,41 +1498,6 @@
           "title": "伊朗霍尔木兹法案拟禁止美以船只通行，美国拒绝任何“阻碍”",
           "url": "https://flash.jin10.com/detail/20260807070032047800",
           "heat": "✰"
-        },
-        {
-          "title": "今日重点关注的财经数据与事件：2026年8月7日 周五",
-          "url": "https://flash.jin10.com/detail/20260807065000001800",
-          "heat": "✰"
-        },
-        {
-          "title": "金十数据整理：昨日今晨重要新闻汇总（2026-08-07）",
-          "url": "https://flash.jin10.com/detail/20260807062916333800",
-          "heat": "✰"
-        },
-        {
-          "title": "智利与委内瑞拉正式恢复领事关系",
-          "url": "https://flash.jin10.com/detail/20260807062654179800",
-          "heat": false
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上一交易日增加42.17吨，当前持仓量为15172.99吨。欢迎点击查看数据中心…",
-          "url": "https://flash.jin10.com/detail/20260807062010110800",
-          "heat": "✰"
-        },
-        {
-          "title": "美联储穆萨莱姆：在能源市场波动中我关注核心通胀。",
-          "url": "https://flash.jin10.com/detail/20260807061929186800",
-          "heat": false
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上一交易日增加0.571吨，当前持仓量为1014.719吨。",
-          "url": "https://flash.jin10.com/detail/20260807061806770800",
-          "heat": "✰"
-        },
-        {
-          "title": "特朗普承认某些弹药供应紧张",
-          "url": "https://flash.jin10.com/detail/20260807061416820800",
-          "heat": false
         }
       ]
     }
