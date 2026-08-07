@@ -1,6 +1,6 @@
 {
-  "updated": "20:01:14",
-  "total": 270,
+  "updated": "20:05:32",
+  "total": 280,
   "platforms": [
     {
       "id": "zhihu",
@@ -583,8 +583,59 @@
     {
       "id": "wallstreetcn-hot",
       "name": "华尔街见闻",
-      "count": 0,
-      "items": []
+      "count": 10,
+      "items": [
+        {
+          "title": "爆冷！美国7月非农就业人数意外减少2.3万，前两月就业下修10.3万人",
+          "url": "https://wallstreetcn.com/articles/3778959",
+          "heat": ""
+        },
+        {
+          "title": "华尔街见闻早餐FM-Radio | 2026年8月7日",
+          "url": "https://wallstreetcn.com/articles/3778893",
+          "heat": ""
+        },
+        {
+          "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
+          "url": "https://wallstreetcn.com/articles/3778821",
+          "heat": ""
+        },
+        {
+          "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
+          "url": "https://wallstreetcn.com/articles/3778924",
+          "heat": ""
+        },
+        {
+          "title": "今晚美国非农大考，“弱7月”魔咒会重演吗？此前三年均不及预期  ",
+          "url": "https://wallstreetcn.com/articles/3778928",
+          "heat": ""
+        },
+        {
+          "title": "报道：英伟达拟下调Rubin Ultra的HBM配置，应对高端HBM短缺",
+          "url": "https://wallstreetcn.com/articles/3778895",
+          "heat": ""
+        },
+        {
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://wallstreetcn.com/articles/3778896",
+          "heat": ""
+        },
+        {
+          "title": "中国7月出口同比增23.9%，半导体出口按价值计算同比近乎翻番，进口同比增27.5%",
+          "url": "https://wallstreetcn.com/articles/3778914",
+          "heat": ""
+        },
+        {
+          "title": "中国央行连续21个月增持黄金，7月购金力度提速",
+          "url": "https://wallstreetcn.com/articles/3778942",
+          "heat": ""
+        },
+        {
+          "title": "高盛韩国交易员谈“存储多空之辩”：市场对基本面预期“过于悲观”",
+          "url": "https://wallstreetcn.com/articles/3778905",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "tieba",
