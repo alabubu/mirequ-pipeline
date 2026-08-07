@@ -1,6 +1,6 @@
 {
-  "updated": "15:30:56",
-  "total": 268,
+  "updated": "15:35:31",
+  "total": 280,
   "platforms": [
     {
       "id": "zhihu",
@@ -1128,8 +1128,69 @@
     {
       "id": "ifeng",
       "name": "凤凰网",
-      "count": 0,
-      "items": []
+      "count": 12,
+      "items": [
+        {
+          "title": "伊朗最高领袖给总统下了“最后警告”？",
+          "url": "https://news.ifeng.com/c/8vOzr19CfFi",
+          "heat": ""
+        },
+        {
+          "title": "全球能源，为何越来越“脆”？",
+          "url": "https://news.ifeng.com/c/8vOzqlUQWOd",
+          "heat": ""
+        },
+        {
+          "title": "以情报高官疑因伊朗行动失败被解职",
+          "url": "https://news.ifeng.com/c/8vOg4e2X7cf",
+          "heat": ""
+        },
+        {
+          "title": "中方：日本当局应倾听民众呼声，停止在核问题上玩火",
+          "url": "https://news.ifeng.com/c/8vOpFNciqLA",
+          "heat": ""
+        },
+        {
+          "title": "高市早苗站在防弹玻璃后发表讲话，日本网友：防止别人吐口水？",
+          "url": "https://v.ifeng.com/c/8vOZWLqUjIW",
+          "heat": ""
+        },
+        {
+          "title": "自民党内现分歧，不少对华友好议员疏远高市内阁",
+          "url": "https://news.ifeng.com/c/8vOoLk88D9C",
+          "heat": ""
+        },
+        {
+          "title": "日本原子弹爆炸亲历者反对高市修改无核三原则，“她应该下台”",
+          "url": "https://news.ifeng.com/c/8vOh3wOkWNP",
+          "heat": ""
+        },
+        {
+          "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
+          "url": "https://news.ifeng.com/c/8vOieX1f4iR",
+          "heat": ""
+        },
+        {
+          "title": "马科斯遭学生起哄辱骂，菲总统府呼吁“重拾体面”",
+          "url": "https://news.ifeng.com/c/8vOjjxBjfsL",
+          "heat": ""
+        },
+        {
+          "title": "韩国男团成员西村力发“谢罪文”，回应日籍女网红直播自杀",
+          "url": "https://news.ifeng.com/c/8vOvAq61BE5",
+          "heat": ""
+        },
+        {
+          "title": "国民党推出AI发言人“郑小文”迎战民进党",
+          "url": "https://news.ifeng.com/c/8vP4WV73BTc",
+          "heat": ""
+        },
+        {
+          "title": "网友称南航一航班发西梅汁，机上100多人排队如厕，客服回应",
+          "url": "https://news.ifeng.com/c/8vOrz3Dm8nz",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "toutiao",
