@@ -92,6 +92,12 @@ class ArticleDB:
         m = re.search(r'mid=(\d+)', url or '')
         return m.group(1) if m else (url or '')
 
+    def _query_existing(self, msg_key: str) -> int:
+        """查已有文章的阅读量，不存在返回0"""
+        with self._get_conn() as conn:
+            r = conn.execute("SELECT read_count FROM articles WHERE msg_key = ?", (msg_key,)).fetchone()
+            return (r["read_count"] or 0) if r else 0
+
     def upsert_article(
         self,
         account_name: str,

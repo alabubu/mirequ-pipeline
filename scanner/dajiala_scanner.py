@@ -78,22 +78,29 @@ def run_scan(target_date: str = None, force: bool = False):
     articles, summary = client.scan_all(accounts, target_date)
     log(f"   发现: {summary['total_articles']} 篇, 消费 ¥{summary['total_cost']:.2f}")
 
-    # 精确阅读量：逐篇调 read_zan
+    # 精确阅读量：仅对新文章调 read_zan
+    db = ArticleDB()
+    enrich_count = 0
     enrich_cost = 0.0
     for a in articles:
         try:
-            time.sleep(0.6)
-            info = client.get_read_count(a["url"])
-            a["read_count"] = info["read"]
-            a["zan_count"] = info["zan"]
-            enrich_cost += 0.04
+            msg_key = db._extract_msg_key(a["url"])
+            existing = db._query_existing(msg_key)
+            if existing:
+                a["read_count"] = max(a["read_count"], existing)
+            else:
+                time.sleep(0.6)
+                info = client.get_read_count(a["url"])
+                a["read_count"] = info["read"]
+                a["zan_count"] = info["zan"]
+                enrich_count += 1
+                enrich_cost += 0.04
         except:
             pass
-    if enrich_cost > 0:
-        log(f"   精确阅读量: {len(articles)} 篇, 追加 ¥{enrich_cost:.2f}")
+    if enrich_count > 0:
+        log(f"   精确阅读量: {enrich_count} 篇新文章, 追加 ¥{enrich_cost:.2f}")
 
     # 写入 SQLite
-    db = ArticleDB()
     new_count = 0
     for a in articles:
         is_new = db.upsert_article(
