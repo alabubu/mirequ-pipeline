@@ -1,6 +1,6 @@
 {
-  "updated": "18:27:25",
-  "total": 279,
+  "updated": "18:30:50",
+  "total": 250,
   "platforms": [
     {
       "id": "zhihu",
@@ -112,159 +112,8 @@
     {
       "id": "weibo",
       "name": "微博",
-      "count": 30,
-      "items": [
-        {
-          "title": "胡彦斌歌王",
-          "url": "https://s.weibo.com/weibo?q=%E8%83%A1%E5%BD%A6%E6%96%8C%E6%AD%8C%E7%8E%8B&t=31&band_rank=1&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "一个没有空调外挂机的城市",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AA%E6%B2%A1%E6%9C%89%E7%A9%BA%E8%B0%83%E5%A4%96%E6%8C%82%E6%9C%BA%E7%9A%84%E5%9F%8E%E5%B8%82&t=31&band_rank=2&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "民用航空发展十五五规划",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B0%91%E7%94%A8%E8%88%AA%E7%A9%BA%E5%8F%91%E5%B1%95%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92%23&t=31&band_rank=3&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "歌手总决赛 孙燕姿吴青峰太伟大了",
-          "url": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%80%BB%E5%86%B3%E8%B5%9B%20%E5%AD%99%E7%87%95%E5%A7%BF%E5%90%B4%E9%9D%92%E5%B3%B0%E5%A4%AA%E4%BC%9F%E5%A4%A7%E4%BA%86&t=31&band_rank=4&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "原来戴泳帽真的会影响颜值",
-          "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%88%B4%E6%B3%B3%E5%B8%BD%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%BD%B1%E5%93%8D%E9%A2%9C%E5%80%BC&t=31&band_rank=5&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "中餐厅",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E9%A4%90%E5%8E%85&t=31&band_rank=6&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "歌手排名",
-          "url": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D&t=31&band_rank=7&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "Bin哥我们错了",
-          "url": "https://s.weibo.com/weibo?q=%23Bin%E5%93%A5%E6%88%91%E4%BB%AC%E9%94%99%E4%BA%86%23&t=31&band_rank=8&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "湖人 詹姆斯",
-          "url": "https://s.weibo.com/weibo?q=%E6%B9%96%E4%BA%BA%20%E8%A9%B9%E5%A7%86%E6%96%AF&t=31&band_rank=9&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "小米高管玩梗被指越界",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E7%8E%A9%E6%A2%97%E8%A2%AB%E6%8C%87%E8%B6%8A%E7%95%8C&t=31&band_rank=10&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "23岁博士回应确诊胃癌晚期",
-          "url": "https://s.weibo.com/weibo?q=%2323%E5%B2%81%E5%8D%9A%E5%A3%AB%E5%9B%9E%E5%BA%94%E7%A1%AE%E8%AF%8A%E8%83%83%E7%99%8C%E6%99%9A%E6%9C%9F%23&t=31&band_rank=11&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "齐豫 躲歌王",
-          "url": "https://s.weibo.com/weibo?q=%E9%BD%90%E8%B1%AB%20%E8%BA%B2%E6%AD%8C%E7%8E%8B&t=31&band_rank=12&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "黄金",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=13&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "耳帝",
-          "url": "https://s.weibo.com/weibo?q=%E8%80%B3%E5%B8%9D&t=31&band_rank=14&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "国乒男单 梯队建设",
-          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8D%95%20%E6%A2%AF%E9%98%9F%E5%BB%BA%E8%AE%BE&t=31&band_rank=15&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "陈情令外鹅版VS内鹅版",
-          "url": "https://s.weibo.com/weibo?q=%E9%99%88%E6%83%85%E4%BB%A4%E5%A4%96%E9%B9%85%E7%89%88VS%E5%86%85%E9%B9%85%E7%89%88&t=31&band_rank=16&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "王安宇晒一念江南片场照",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E6%99%92%E4%B8%80%E5%BF%B5%E6%B1%9F%E5%8D%97%E7%89%87%E5%9C%BA%E7%85%A7%23&t=31&band_rank=17&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "披荆斩棘",
-          "url": "https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98&t=31&band_rank=18&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "歌手收视率",
-          "url": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%94%B6%E8%A7%86%E7%8E%87&t=31&band_rank=19&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "中山大学23岁直博生确诊胃癌晚期",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A623%E5%B2%81%E7%9B%B4%E5%8D%9A%E7%94%9F%E7%A1%AE%E8%AF%8A%E8%83%83%E7%99%8C%E6%99%9A%E6%9C%9F%23&t=31&band_rank=20&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "女子生下4胞胎被全家宠上天称嫁对人了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%9F%E4%B8%8B4%E8%83%9E%E8%83%8E%E8%A2%AB%E5%85%A8%E5%AE%B6%E5%AE%A0%E4%B8%8A%E5%A4%A9%E7%A7%B0%E5%AB%81%E5%AF%B9%E4%BA%BA%E4%BA%86%23&t=31&band_rank=21&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "山水不会再相逢人也不会再见",
-          "url": "https://s.weibo.com/weibo?q=%E5%B1%B1%E6%B0%B4%E4%B8%8D%E4%BC%9A%E5%86%8D%E7%9B%B8%E9%80%A2%E4%BA%BA%E4%B9%9F%E4%B8%8D%E4%BC%9A%E5%86%8D%E8%A7%81&t=31&band_rank=22&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "湖人官方宣传被指除名詹眉",
-          "url": "https://s.weibo.com/weibo?q=%E6%B9%96%E4%BA%BA%E5%AE%98%E6%96%B9%E5%AE%A3%E4%BC%A0%E8%A2%AB%E6%8C%87%E9%99%A4%E5%90%8D%E8%A9%B9%E7%9C%89&t=31&band_rank=23&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "离树不到10秒的活荔枝",
-          "url": "https://s.weibo.com/weibo?q=%E7%A6%BB%E6%A0%91%E4%B8%8D%E5%88%B010%E7%A7%92%E7%9A%84%E6%B4%BB%E8%8D%94%E6%9E%9D&t=31&band_rank=24&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "aespa最伟大的Drama回来了",
-          "url": "https://s.weibo.com/weibo?q=aespa%E6%9C%80%E4%BC%9F%E5%A4%A7%E7%9A%84Drama%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=25&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "张凌赫苍兰诀婚服里面破洞裤",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%8B%8D%E5%85%B0%E8%AF%80%E5%A9%9A%E6%9C%8D%E9%87%8C%E9%9D%A2%E7%A0%B4%E6%B4%9E%E8%A3%A4%23&t=31&band_rank=26&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "TF三代常驻综艺",
-          "url": "https://s.weibo.com/weibo?q=%23TF%E4%B8%89%E4%BB%A3%E5%B8%B8%E9%A9%BB%E7%BB%BC%E8%89%BA%23&t=31&band_rank=27&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "万妮达第三",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%87%E5%A6%AE%E8%BE%BE%E7%AC%AC%E4%B8%89&t=31&band_rank=28&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "外国网友也认了中式天庭",
-          "url": "https://s.weibo.com/weibo?q=%E5%A4%96%E5%9B%BD%E7%BD%91%E5%8F%8B%E4%B9%9F%E8%AE%A4%E4%BA%86%E4%B8%AD%E5%BC%8F%E5%A4%A9%E5%BA%AD&t=31&band_rank=29&Refer=top",
-          "heat": ""
-        },
-        {
-          "title": "中国要用5万亿织一张网",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%A6%81%E7%94%A85%E4%B8%87%E4%BA%BF%E7%BB%87%E4%B8%80%E5%BC%A0%E7%BD%91%23&t=31&band_rank=30&Refer=top",
-          "heat": ""
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "id": "douyin",
@@ -1357,8 +1206,98 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 24,
+      "count": 25,
       "items": [
+        {
+          "title": "美参议院通过一项对俄能源领域制裁法案",
+          "url": "https://flash.jin10.com/detail/20260808022603909800",
+          "heat": false
+        },
+        {
+          "title": "美国参议院批准布雷特·松本出任劳工统计局局长",
+          "url": "https://flash.jin10.com/detail/20260808022445064800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：AeroVironment预计将赢得美国陆军一份价值4亿美元的反无人机系统合同。",
+          "url": "https://flash.jin10.com/detail/20260808022109456800",
+          "heat": false
+        },
+        {
+          "title": "美国参议院周五以51票赞成、47票反对的投票比例批准Brett Matsumoto出任美国劳工统计局局长。",
+          "url": "https://flash.jin10.com/detail/20260808022049488800",
+          "heat": false
+        },
+        {
+          "title": "美国财长贝森特：伊朗的影子银行体系正在“经济狂怒”行动下陷入困境，该政权可用于转移资金的渠道正在耗尽。美国财政部将继续曝光这些网络，并切断它们与美国金融体系的联系。",
+          "url": "https://flash.jin10.com/detail/20260808021957528800",
+          "heat": false
+        },
+        {
+          "title": "五角大楼拟年底测试太空导弹拦截系统 “金穹”计划迈出关键一步",
+          "url": "https://flash.jin10.com/detail/20260808021834844800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：五角大楼计划在今年年底前对其未来主义太空导弹防御计划进行首次测试。",
+          "url": "https://flash.jin10.com/detail/20260808021542026800",
+          "heat": false
+        },
+        {
+          "title": "美国参议院投票确认戴维·卡明斯（David Cummins）出任美国运输安全管理局局长，确认菲兰（Phelan）担任经济顾问委员会主席。",
+          "url": "https://flash.jin10.com/detail/20260808021447066800",
+          "heat": false
+        },
+        {
+          "title": "伊朗外长阿拉格齐：面对世界上最昂贵的军事力量，伊朗强大的武装部队已经展示了自身的战备状态、能力和实力。",
+          "url": "https://flash.jin10.com/detail/20260808021411874800",
+          "heat": false
+        },
+        {
+          "title": "马拉松石油(MRO.N)位于得克萨斯州加尔维斯顿湾的炼油厂报告称，在设备巡检期间发现一台压缩机发生泄漏，RHU-FUGIT F-480设备出现排放。正在实施维修计划，以隔离相关设备并停止泄漏。",
+          "url": "https://flash.jin10.com/detail/20260808021144026800",
+          "heat": false
+        },
+        {
+          "title": "据路透社：消息人士透露，加拿大知道其将不得不接受美国对钢铁和铝征收部分关税。加拿大希望任何有关关税减免的协议都能通过附加函形式达成，而不是写入更新后的《美墨加协定》正文。",
+          "url": "https://flash.jin10.com/detail/20260808020809855800",
+          "heat": false
+        },
+        {
+          "title": "据路透社：消息人士透露，加拿大方面表示，美方已同意在8月19日前每天举行谈判。加拿大准备回应美国对酒类销售以及乳制品和汽车行业的关切，但作为交换，加拿大需要获得美国《贸易扩展法》第232条关税豁免。",
+          "url": "https://flash.jin10.com/detail/20260808020751301800",
+          "heat": "✰"
+        },
+        {
+          "title": "据路透社：消息人士透露，加拿大正与美国进行密切磋商，以避免美国于8月19日实施额外关税。加拿大已告知美国谈判代表，如果双方无法在8月19日前达成推迟实施关税的协议，加拿大未来继续谈判的能力将受到限制。",
+          "url": "https://flash.jin10.com/detail/20260808020721765800",
+          "heat": false
+        },
+        {
+          "title": "据沙特阿拉比亚电视台：以色列媒体报道称，美国正在施压，要求启动加沙为期两周的停火，以解除哈马斯的武装。",
+          "url": "https://flash.jin10.com/detail/20260808020515478800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：五角大楼为机密“黄金穹顶”太空计划分配预算并制定时间表。",
+          "url": "https://flash.jin10.com/detail/20260808020258630800",
+          "heat": false
+        },
+        {
+          "title": "据华尔街日报：福特汽车(F.N)四门版野马车型本周在经销商活动上亮相。该车有望在本十年结束前上市。",
+          "url": "https://flash.jin10.com/detail/20260808020219612800",
+          "heat": false
+        },
+        {
+          "title": "据华尔街日报：福特汽车(F.N)计划推出全新四门版野马车型。",
+          "url": "https://flash.jin10.com/detail/20260808020053613800",
+          "heat": false
+        },
+        {
+          "title": "据沙特媒体哈达斯（Alhadath）援引以色列广播局报道，以色列尚未签署关于国际稳定部队进入加沙地带的协议。",
+          "url": "https://flash.jin10.com/detail/20260808020012067800",
+          "heat": false
+        },
         {
           "title": "SpaceX(SPCX.O)：SpaceX回收团队仍在印度洋进行第13次飞行任务的星舰回收工作。",
           "url": "https://flash.jin10.com/detail/20260808015624400800",
@@ -1392,91 +1331,6 @@
         {
           "title": "据路透社：白宫致美联储理事库克的信件日期为8月5日，要求她在21天内就相关陈述提供书面回应。",
           "url": "https://flash.jin10.com/detail/20260808014409531800",
-          "heat": false
-        },
-        {
-          "title": "据Axios：一名调解国的外交官称，伊朗谈判人员正在等待伊朗最高国家安全委员会就与阿曼和美国达成的协议作出最终批准。该外交官表示，“我们预计很快会获得这一批准。”",
-          "url": "https://flash.jin10.com/detail/20260808013555092800",
-          "heat": "✰"
-        },
-        {
-          "title": "英特尔(INTC.O)：格雷格·恩斯特（Greg Ernst）将在任职27年后离开英特尔。",
-          "url": "https://flash.jin10.com/detail/20260808013108916800",
-          "heat": false
-        },
-        {
-          "title": "英特尔(INTC.O)：任命迪恩·贾纳克（Dean Jarnac）为执行副总裁兼首席销售官。",
-          "url": "https://flash.jin10.com/detail/20260808013048591800",
-          "heat": false
-        },
-        {
-          "title": "黎巴嫩官员：法国已被排除在将派遣部队监督真主党解除武装的国家名单之外。",
-          "url": "https://flash.jin10.com/detail/20260808012858930800",
-          "heat": false
-        },
-        {
-          "title": "美国参议院以86票赞成、11票反对通过全面俄罗斯能源制裁法案，并提交众议院审议。",
-          "url": "https://flash.jin10.com/detail/20260808012329921800",
-          "heat": "✰"
-        },
-        {
-          "title": "美联邦航空局发布适航指令 要求检查部分波音客机",
-          "url": "https://flash.jin10.com/detail/20260808011837482800",
-          "heat": false
-        },
-        {
-          "title": "特朗普称将就上诉法院涉白宫宴会厅项目裁决提起上诉",
-          "url": "https://flash.jin10.com/detail/20260808011808390800",
-          "heat": false
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了2个对手方的14.5亿美元。",
-          "url": "https://flash.jin10.com/detail/20260808011703233800",
-          "heat": false
-        },
-        {
-          "title": "哈塞特称特朗普与沃什经常讨论经济问题",
-          "url": "https://flash.jin10.com/detail/20260808011630958800",
-          "heat": false
-        },
-        {
-          "title": "惠誉确认乌干达评级为“B”，展望稳定。",
-          "url": "https://flash.jin10.com/detail/20260808011227955800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：贝克休斯油服钻井数据亮点一览",
-          "url": "https://flash.jin10.com/detail/20260808011047416800",
-          "heat": false
-        },
-        {
-          "title": "美联储理事库克的律师：我们将对最新的借口提出挑战，并维护库克在美联储的职位和职责。",
-          "url": "https://flash.jin10.com/detail/20260808011006249800",
-          "heat": false
-        },
-        {
-          "title": "美联储理事库克的律师：没有任何有效理由可以罢免库克理事。",
-          "url": "https://flash.jin10.com/detail/20260808010952922800",
-          "heat": false
-        },
-        {
-          "title": "胡塞武装声明：武装部队坚定地以升级回应升级，并确认将对沙特为继续实施封锁而调集的任何兵力或力量发动猛烈打击。",
-          "url": "https://flash.jin10.com/detail/20260808010340239800",
-          "heat": false
-        },
-        {
-          "title": "胡塞武装声明：也门武装部队对沙特集结力量，以及其位于萨赫恩·金恩（Saḥn al-Jinn）营地内的相关弹药库、车辆和军事装备发动了打击。",
-          "url": "https://flash.jin10.com/detail/20260808010310234800",
-          "heat": false
-        },
-        {
-          "title": "美国至8月7日当周天然气钻井总数 124口，前值127口。",
-          "url": "https://flash.jin10.com/detail/20260808010140078800",
-          "heat": false
-        },
-        {
-          "title": "美国至8月7日当周总钻井总数 588口，前值588口。",
-          "url": "https://flash.jin10.com/detail/20260808010133425800",
           "heat": false
         }
       ]
