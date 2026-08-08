@@ -1,6 +1,6 @@
 {
-  "updated": "14:20:33",
-  "total": 281,
+  "updated": "14:25:27",
+  "total": 280,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,23 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 26,
+      "count": 25,
       "items": [
+        {
+          "title": "利比亚瓦哈石油：扎库特-西德拉管道发生泄漏，维修后已恢复运营。",
+          "url": "https://flash.jin10.com/detail/20260808221510833800",
+          "heat": false
+        },
+        {
+          "title": "据阿曼国家通讯社：阿曼方面表示，关于霍尔木兹海峡安排的持续谈判是积极的和具有建设性的。",
+          "url": "https://flash.jin10.com/detail/20260808215912192800",
+          "heat": false
+        },
+        {
+          "title": "据阿曼国家通讯社：阿曼方面谴责（伊朗）在霍尔木兹海峡过境时对船只的反复攻击。",
+          "url": "https://flash.jin10.com/detail/20260808215846341800",
+          "heat": false
+        },
         {
           "title": "一船只在阿曼以东海域遭袭起火",
           "url": "https://flash.jin10.com/detail/20260808214938581800",
@@ -1467,26 +1482,6 @@
         {
           "title": "伯克希尔哈撒韦A(BRK.A.N)：截至2026年6月30日，流通在外的A类等值股份为1,431,693股。",
           "url": "https://flash.jin10.com/detail/20260808200545207800",
-          "heat": false
-        },
-        {
-          "title": "伯克希尔哈撒韦B(BRK.B.N)2026年Q2 EPS为11.91美元。",
-          "url": "https://flash.jin10.com/detail/20260808200528846800",
-          "heat": false
-        },
-        {
-          "title": "伯克希尔哈撒韦A(BRK.A.N)2026年Q2 EPS为17868美元。",
-          "url": "https://flash.jin10.com/detail/20260808200508475800",
-          "heat": false
-        },
-        {
-          "title": "伯克希尔哈撒韦A(BRK.A.N)：2026年投资收益包括第二季度收益109亿美元。",
-          "url": "https://flash.jin10.com/detail/20260808200445518800",
-          "heat": false
-        },
-        {
-          "title": "伯克希尔哈撒韦A(BRK.A.N)2026年Q2净利润为256.67亿美元，较上年同期的123.7亿美元大幅增长。",
-          "url": "https://flash.jin10.com/detail/20260808200239743800",
           "heat": false
         }
       ]
