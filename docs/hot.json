@@ -1,6 +1,6 @@
 {
-  "updated": "16:50:40",
-  "total": 281,
+  "updated": "16:55:32",
+  "total": 280,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,43 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 26,
+      "count": 25,
       "items": [
+        {
+          "title": "专家：霍尔木兹海峡“绝无可能”回到战前状态",
+          "url": "https://flash.jin10.com/detail/20260809005022963800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：保加利亚因无人机在其境内爆炸召见乌克兰大使。",
+          "url": "https://flash.jin10.com/detail/20260809004711993800",
+          "heat": false
+        },
+        {
+          "title": "五角大楼官员：美军弹药库存充足，足以满足对伊作战需求",
+          "url": "https://flash.jin10.com/detail/20260809004645834800",
+          "heat": false
+        },
+        {
+          "title": "美国问题专家：美国新对俄制裁法案或成为“沉默法案”",
+          "url": "https://flash.jin10.com/detail/20260809003936166800",
+          "heat": false
+        },
+        {
+          "title": "黎巴嫩消息人士：黎巴嫩坚持在重返罗马谈判之前实现全面停火。黎巴嫩希望将本特杰贝尔和基亚姆纳入试验区。",
+          "url": "https://flash.jin10.com/detail/20260809003537533800",
+          "heat": false
+        },
+        {
+          "title": "美联储理事鲍曼将于十分钟后参加一场炉边谈话。",
+          "url": "https://flash.jin10.com/detail/20260809003500000800",
+          "heat": "✰"
+        },
+        {
+          "title": "特朗普政府冻结石油大亨萨金特资产，施压其退出委内瑞拉",
+          "url": "https://flash.jin10.com/detail/20260809002354192800",
+          "heat": false
+        },
         {
           "title": "受台风“白海豚”影响 上海两大机场近六成航班调减取消",
           "url": "https://flash.jin10.com/detail/20260809000651152800",
@@ -1447,46 +1482,6 @@
         {
           "title": "英国海事贸易组织：有可靠消息来源报告称，一艘船只遭到不明飞行物袭击导致火灾，现已被扑灭。船员已报告安全，无环境影响。",
           "url": "https://flash.jin10.com/detail/20260808211407439800",
-          "heat": false
-        },
-        {
-          "title": "英国海事贸易组织：已收到关于在阿曼哈萨布东18海里发生事件的报告。",
-          "url": "https://flash.jin10.com/detail/20260808210901468800",
-          "heat": false
-        },
-        {
-          "title": "Pro Farmer一周展望：天气窗口转向利好，CBOT大豆的“8月压力”有多大？",
-          "url": "https://flash.jin10.com/detail/20260808205615809800",
-          "heat": false
-        },
-        {
-          "title": "消息人士：若民主党赢得众议院，他们计划对特朗普进行调查而非弹劾",
-          "url": "https://flash.jin10.com/detail/20260808205550359800",
-          "heat": false
-        },
-        {
-          "title": "泰国校园枪击案死亡人数升至9人",
-          "url": "https://flash.jin10.com/detail/20260808204826895800",
-          "heat": false
-        },
-        {
-          "title": "VIP・95折库存日报首发上线！",
-          "url": "https://flash.jin10.com/detail/20260808204659810800",
-          "heat": false
-        },
-        {
-          "title": "<a href=\"https://www.jin10.com/activities/2026/8/vip_article/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/08/tcWa66qJEjxbSJWe5UQL6.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260808204658425800",
-          "heat": false
-        },
-        {
-          "title": "水利部将针对浙江省的洪水防御应急响应提升至Ⅲ级",
-          "url": "https://flash.jin10.com/detail/20260808204652542800",
-          "heat": false
-        },
-        {
-          "title": "苹果与阿里巴巴合作，千问AI功能上线Mac",
-          "url": "https://flash.jin10.com/detail/20260808204416510800",
           "heat": false
         }
       ]
