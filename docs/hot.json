@@ -1,6 +1,6 @@
 {
-  "updated": "06:05:30",
-  "total": 283,
+  "updated": "06:10:35",
+  "total": 285,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,28 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 28,
+      "count": 30,
       "items": [
+        {
+          "title": "俄罗斯国防部：俄武装力量夜间对基辅的军工企业和燃油库发动打击。（俄新社）",
+          "url": "https://flash.jin10.com/detail/20260808135825104800",
+          "heat": false
+        },
+        {
+          "title": "国家防总对江苏、安徽启动防汛防台风四级应急响应。",
+          "url": "https://flash.jin10.com/detail/20260808134810228800",
+          "heat": false
+        },
+        {
+          "title": "水利部：全国13条河流仍维持超警",
+          "url": "https://flash.jin10.com/detail/20260808134228652800",
+          "heat": false
+        },
+        {
+          "title": "8月7日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260808132525503800",
+          "heat": false
+        },
         {
           "title": "8月7日芝加哥商业交易所（CME）金属类商品成交量报告已在金十数据中心更新！欢迎点击查看",
           "url": "https://flash.jin10.com/detail/20260808132523457800",
@@ -1487,16 +1507,6 @@
         {
           "title": "中国东方电气集团原党组副书记、董事宋致远被查",
           "url": "https://flash.jin10.com/detail/20260808100246915800",
-          "heat": false
-        },
-        {
-          "title": "英伟达拟向Lancium投资至多30亿美元，支持AI数据中心电力基础设施",
-          "url": "https://flash.jin10.com/detail/20260808100104329800",
-          "heat": false
-        },
-        {
-          "title": "美国最大水库水位降至有记录以来最低水平",
-          "url": "https://flash.jin10.com/detail/20260808095957009800",
           "heat": false
         }
       ]
