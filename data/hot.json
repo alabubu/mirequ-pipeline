@@ -1,6 +1,6 @@
 {
-  "updated": "11:50:33",
-  "total": 282,
+  "updated": "11:55:27",
+  "total": 283,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,28 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 27,
+      "count": 28,
       "items": [
+        {
+          "title": "分析师：近期袭击引发也门冲突扩大的担忧",
+          "url": "https://flash.jin10.com/detail/20260808194604376800",
+          "heat": false
+        },
+        {
+          "title": "伊朗外长阿拉格齐：霍尔木兹海峡原有航道分隔方案已失效，需重新划定航线。",
+          "url": "https://flash.jin10.com/detail/20260808193134166800",
+          "heat": false
+        },
+        {
+          "title": "伊媒：伊外长称正在与阿曼合作确定霍尔木兹海峡的临时通行路线",
+          "url": "https://flash.jin10.com/detail/20260808192619712800",
+          "heat": false
+        },
+        {
+          "title": "美联储加息博弈焦点转向CPI，黄金多头已跑步进场",
+          "url": "https://flash.jin10.com/detail/20260808191803817800",
+          "heat": "✰"
+        },
         {
           "title": "受台风“白海豚”影响 长三角铁路进一步调整列车开行方案",
           "url": "https://flash.jin10.com/detail/20260808191243970800",
@@ -1478,21 +1498,6 @@
           "title": "美国财长贝森特：霍尔木兹海峡将“变得无关紧要”",
           "url": "https://flash.jin10.com/detail/20260808162809705800",
           "heat": false
-        },
-        {
-          "title": "乌克兰军方表示，乌克兰军队袭击了俄罗斯的伊尔斯基和西兹兰石油精炼厂，导致火灾发生。",
-          "url": "https://flash.jin10.com/detail/20260808161448998800",
-          "heat": false
-        },
-        {
-          "title": "美参议院通过临时拨款法案，有望避免政府停摆",
-          "url": "https://flash.jin10.com/detail/20260808160548220800",
-          "heat": "✰"
-        },
-        {
-          "title": "美国参议院通过临时拨款法案，以避免选举前夕出现政府停摆。",
-          "url": "https://flash.jin10.com/detail/20260808160148151800",
-          "heat": "✰"
         }
       ]
     }
