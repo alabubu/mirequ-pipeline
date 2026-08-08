@@ -1,6 +1,6 @@
 {
-  "updated": "16:20:29",
-  "total": 280,
+  "updated": "16:23:00",
+  "total": 281,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,18 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 25,
+      "count": 26,
       "items": [
+        {
+          "title": "受台风“白海豚”影响 上海两大机场近六成航班调减取消",
+          "url": "https://flash.jin10.com/detail/20260809000651152800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：周六重要消息汇总",
+          "url": "https://flash.jin10.com/detail/20260808225949733800",
+          "heat": "✰"
+        },
         {
           "title": "伊朗总统佩泽希齐扬：问题不能仅靠战争解决。致力于根据谅解备忘录的条款推进和平进程。",
           "url": "https://flash.jin10.com/detail/20260808225609300800",
@@ -1477,11 +1487,6 @@
         {
           "title": "苹果与阿里巴巴合作，千问AI功能上线Mac",
           "url": "https://flash.jin10.com/detail/20260808204416510800",
-          "heat": false
-        },
-        {
-          "title": "据沙特媒体哈达斯：伊朗总统表示，停止或继续战争的决定掌握在伊朗军事领导人手中。",
-          "url": "https://flash.jin10.com/detail/20260808204142320800",
           "heat": false
         }
       ]
