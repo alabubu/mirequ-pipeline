@@ -1,6 +1,6 @@
 {
-  "updated": "03:05:32",
-  "total": 285,
+  "updated": "03:10:36",
+  "total": 284,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,13 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 30,
+      "count": 29,
       "items": [
+        {
+          "title": "土耳其称沙土巴三国防务协议与北约条款不冲突",
+          "url": "https://flash.jin10.com/detail/20260808104332142800",
+          "heat": false
+        },
         {
           "title": "也门军方警告称，如果胡塞武装继续攻击，将采取进一步回应措施。",
           "url": "https://flash.jin10.com/detail/20260808102956475800",
@@ -1497,16 +1502,6 @@
         {
           "title": "金十图示：2026年08月08日（周六）白银ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20260808081401751800",
-          "heat": false
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加2.818吨，当前持仓量为1017.537吨。",
-          "url": "https://flash.jin10.com/detail/20260808081205549800",
-          "heat": "✰"
-        },
-        {
-          "title": "金十数据中心工具",
-          "url": "https://flash.jin10.com/detail/20260808080537714800",
           "heat": false
         }
       ]
