@@ -1,6 +1,6 @@
 {
-  "updated": "12:20:33",
-  "total": 283,
+  "updated": "12:25:26",
+  "total": 281,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,63 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 28,
+      "count": 26,
       "items": [
+        {
+          "title": "伯克希尔哈撒韦A(BRK.A.N)：截至6月30日，66%的股权投资总公允价值集中在美国运通、苹果、美国银行、Alphabet和可口可乐。",
+          "url": "https://flash.jin10.com/detail/20260808201557267800",
+          "heat": false
+        },
+        {
+          "title": "伯克希尔哈撒韦A(BRK.A.N)：2026年第二季度末现金储备降至3647亿美元。",
+          "url": "https://flash.jin10.com/detail/20260808201415586800",
+          "heat": false
+        },
+        {
+          "title": "伯克希尔哈撒韦(BRK.A.N)截至6月30日持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元，126.68亿美元，13.64亿美元。",
+          "url": "https://flash.jin10.com/detail/20260808201231128800",
+          "heat": false
+        },
+        {
+          "title": "伯克希尔哈撒韦A(BRK.A.N)：截至2026年6月30日，保险浮存金约为1775亿美元。",
+          "url": "https://flash.jin10.com/detail/20260808200552629800",
+          "heat": false
+        },
+        {
+          "title": "伯克希尔哈撒韦A(BRK.A.N)：截至2026年6月30日，流通在外的A类等值股份为1,431,693股。",
+          "url": "https://flash.jin10.com/detail/20260808200545207800",
+          "heat": false
+        },
+        {
+          "title": "伯克希尔哈撒韦B(BRK.B.N)2026年Q2 EPS为11.91美元。",
+          "url": "https://flash.jin10.com/detail/20260808200528846800",
+          "heat": false
+        },
+        {
+          "title": "伯克希尔哈撒韦A(BRK.A.N)2026年Q2 EPS为17868美元。",
+          "url": "https://flash.jin10.com/detail/20260808200508475800",
+          "heat": false
+        },
+        {
+          "title": "伯克希尔哈撒韦A(BRK.A.N)：2026年投资收益包括第二季度收益109亿美元。",
+          "url": "https://flash.jin10.com/detail/20260808200445518800",
+          "heat": false
+        },
+        {
+          "title": "伯克希尔哈撒韦A(BRK.A.N)2026年Q2净利润为256.67亿美元，较上年同期的123.7亿美元大幅增长。",
+          "url": "https://flash.jin10.com/detail/20260808200239743800",
+          "heat": false
+        },
+        {
+          "title": "伯克希尔哈撒韦A(BRK.A.N)2026年Q2营收为129.83亿美元。",
+          "url": "https://flash.jin10.com/detail/20260808200100671800",
+          "heat": "✰"
+        },
+        {
+          "title": "泽连斯基：美国将每月向乌克兰提供“爱国者”拦截导弹",
+          "url": "https://flash.jin10.com/detail/20260808195759819800",
+          "heat": false
+        },
         {
           "title": "分析师：近期袭击引发也门冲突扩大的担忧",
           "url": "https://flash.jin10.com/detail/20260808194604376800",
@@ -1433,71 +1488,6 @@
           "title": "伊朗革命卫队发言人：霍尔木兹海峡的重新开放取决于美国完全接受伊朗的条件；与伊朗和阿曼之间的谈判无关。",
           "url": "https://flash.jin10.com/detail/20260808181945934800",
           "heat": "✰"
-        },
-        {
-          "title": "伊拉克石油部长：管道将包括从哈迪萨到巴尼亚斯的支线、泵站和储存设施。",
-          "url": "https://flash.jin10.com/detail/20260808181212899800",
-          "heat": false
-        },
-        {
-          "title": "伊拉克石油部长：新巴士拉-费什哈布尔石油管道预计成本不超过150亿美元。",
-          "url": "https://flash.jin10.com/detail/20260808181208435800",
-          "heat": false
-        },
-        {
-          "title": "据伊拉克国家通讯社：伊拉克石油部长表示，新管道输送能力为每日200万桶。",
-          "url": "https://flash.jin10.com/detail/20260808180440130800",
-          "heat": false
-        },
-        {
-          "title": "据伊拉克国家通讯社：伊拉克石油部长表示，伊拉克目前日产270万桶，出口一半产量。",
-          "url": "https://flash.jin10.com/detail/20260808174959065800",
-          "heat": false
-        },
-        {
-          "title": "据伊拉克国家通讯社：伊拉克石油部长表示，巴格达正与伊朗进行谈判，以允许伊拉克石油出口，但相关安排尚未生效。",
-          "url": "https://flash.jin10.com/detail/20260808174542910800",
-          "heat": "✰"
-        },
-        {
-          "title": "统一按“车”收费，新疆调整4A及以上景区自驾服务费",
-          "url": "https://flash.jin10.com/detail/20260808173532525800",
-          "heat": false
-        },
-        {
-          "title": "江波龙：完成37亿元定增事项 发行价格为560元/股",
-          "url": "https://flash.jin10.com/detail/20260808172202913800",
-          "heat": "✰"
-        },
-        {
-          "title": "据俄新社：俄罗斯国防部表示，在乌克兰哈尔科夫地区夺取伊万尼夫卡。",
-          "url": "https://flash.jin10.com/detail/20260808170834391800",
-          "heat": false
-        },
-        {
-          "title": "印度食品监管机构已向全球最大洋酒公司帝亚吉欧发出通知，警告其关于一款本土威士忌品牌“在美国橡木桶中熟成”的说法具有误导性。",
-          "url": "https://flash.jin10.com/detail/20260808170348001800",
-          "heat": false
-        },
-        {
-          "title": "黄金此处看涨期权明显变动，强势行情能否延续？——增强版同步发布！",
-          "url": "https://flash.jin10.com/detail/20260808165149646800",
-          "heat": "✰"
-        },
-        {
-          "title": "地方当局表示，俄罗斯克拉斯诺达尔地区伊尔斯基石油炼油厂火灾已扑灭。",
-          "url": "https://flash.jin10.com/detail/20260808164443622800",
-          "heat": false
-        },
-        {
-          "title": "美国参议院确认托德布兰奇将担任美国司法部长。",
-          "url": "https://flash.jin10.com/detail/20260808163609067800",
-          "heat": false
-        },
-        {
-          "title": "美国财长贝森特：霍尔木兹海峡将“变得无关紧要”",
-          "url": "https://flash.jin10.com/detail/20260808162809705800",
-          "heat": false
         }
       ]
     }
