@@ -1,6 +1,6 @@
 {
-  "updated": "15:30:59",
-  "total": 253,
+  "updated": "15:35:26",
+  "total": 283,
   "platforms": [
     {
       "id": "zhihu",
@@ -583,8 +583,59 @@
     {
       "id": "wallstreetcn-hot",
       "name": "华尔街见闻",
-      "count": 0,
-      "items": []
+      "count": 10,
+      "items": [
+        {
+          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
+          "url": "https://wallstreetcn.com/articles/3778998",
+          "heat": ""
+        },
+        {
+          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
+          "url": "https://wallstreetcn.com/articles/3778996",
+          "heat": ""
+        },
+        {
+          "title": "“新王”登基“三把火”：伯克希尔开始“花钱”了，净买入200亿美元股票 ",
+          "url": "https://wallstreetcn.com/articles/3778995",
+          "heat": ""
+        },
+        {
+          "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
+          "url": "https://wallstreetcn.com/articles/3778994",
+          "heat": ""
+        },
+        {
+          "title": "周末热议：“空存储、多光”？ ",
+          "url": "https://wallstreetcn.com/articles/3778999",
+          "heat": ""
+        },
+        {
+          "title": "宇树科技明日申购，中一签能赚多少？",
+          "url": "https://wallstreetcn.com/articles/3779007",
+          "heat": ""
+        },
+        {
+          "title": "下周重磅日程：美国CPI，宇树科技打新，腾讯、京东、茅台、中芯国际财报",
+          "url": "https://wallstreetcn.com/articles/3778910",
+          "heat": ""
+        },
+        {
+          "title": "本轮通胀拐点已至",
+          "url": "https://wallstreetcn.com/articles/3779008",
+          "heat": ""
+        },
+        {
+          "title": "磷化铟是下一个“稀土”？关键产业如何成为反制核心，卡住美国光通信的脖子？",
+          "url": "https://wallstreetcn.com/premium/articles/3778945?layout=wscn-layout",
+          "heat": ""
+        },
+        {
+          "title": "马斯克，要颠覆EUV光刻机？",
+          "url": "https://wallstreetcn.com/articles/3779015",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "tieba",
@@ -975,8 +1026,109 @@
     {
       "id": "thepaper",
       "name": "澎湃新闻",
-      "count": 0,
-      "items": []
+      "count": 20,
+      "items": [
+        {
+          "title": "蓝厅观察丨被中方反制的7家美国实体有何来头？",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33746518",
+          "heat": ""
+        },
+        {
+          "title": "台风“白海豚”在浙江台州玉环沿海登陆，中心附近最大风力14级",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33748939",
+          "heat": ""
+        },
+        {
+          "title": "核观察｜美欲用战术核武器对抗中俄，弹药不足核武来凑？",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33745016",
+          "heat": ""
+        },
+        {
+          "title": "网上卖黄金卷入电诈8万元被划扣，驻马店市公安局称新蔡警方程序违法",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33747571",
+          "heat": ""
+        },
+        {
+          "title": "消费者称被“弹窗投保”续费超千元：元保保险称过程合规，已退款",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33743326",
+          "heat": ""
+        },
+        {
+          "title": "日媒：战时日本多所大学进行输血人体实验，向患者注射动物血",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33748107",
+          "heat": ""
+        },
+        {
+          "title": "特朗普：“很多人称我是最伟大总统之一”",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33746686",
+          "heat": ""
+        },
+        {
+          "title": "4.2平卫生间补漏注胶花1.55万，消费者称陷“天价注胶补漏”套路",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33748209",
+          "heat": ""
+        },
+        {
+          "title": "丘成桐：以好奇为基础的研究才算是真正的基础研究",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33748979",
+          "heat": ""
+        },
+        {
+          "title": "受台风“白海豚”影响：千余架次航班取消，多条铁路部分区段停运，浙江多个机场今日停航",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33748287",
+          "heat": ""
+        },
+        {
+          "title": "国家统计局解读：7月份CPI保持温和上涨，PPI同比涨幅有所回落",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33747633",
+          "heat": ""
+        },
+        {
+          "title": "现货黄金周涨超7%站上4300美元，为何突然大涨？",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33744664",
+          "heat": ""
+        },
+        {
+          "title": "经济日报：规范航班超售不可错开药方",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33747514",
+          "heat": ""
+        },
+        {
+          "title": "受台风“白海豚”影响，8月9日上海两大机场近六成航班调减取消",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33746909",
+          "heat": ""
+        },
+        {
+          "title": "伯克希尔二季度净利润翻倍，净买入200亿美元股票",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33746645",
+          "heat": ""
+        },
+        {
+          "title": "中央气象台升级发布台风红警：六省份有大暴雨，浙江局地特大暴雨",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33747722",
+          "heat": ""
+        },
+        {
+          "title": "分析｜受汽油价格涨幅回落影响，7月CPI同比涨幅有所回落",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33748441",
+          "heat": ""
+        },
+        {
+          "title": "电子布洛芬与媒介时代的听觉药性——以短视频儿歌的净化效果为中心",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33720111",
+          "heat": ""
+        },
+        {
+          "title": "中央气象台发布台风红色预警，为何发布最高级别预警",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33748039",
+          "heat": ""
+        },
+        {
+          "title": "欧盟移民危机升级：西意互设边境管控，新一轮越境潮的虚假信息蔓延",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33747915",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "ifeng",
