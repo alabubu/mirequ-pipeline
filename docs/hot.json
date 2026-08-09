@@ -1,6 +1,6 @@
 {
-  "updated": "03:31:05",
-  "total": 268,
+  "updated": "03:35:29",
+  "total": 278,
   "platforms": [
     {
       "id": "zhihu",
@@ -583,8 +583,59 @@
     {
       "id": "wallstreetcn-hot",
       "name": "华尔街见闻",
-      "count": 0,
-      "items": []
+      "count": 10,
+      "items": [
+        {
+          "title": "伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778993",
+          "heat": ""
+        },
+        {
+          "title": "苹果终于把千问接进Siri：中国版Apple Intelligence来了",
+          "url": "https://wallstreetcn.com/articles/3778992",
+          "heat": ""
+        },
+        {
+          "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
+          "url": "https://wallstreetcn.com/articles/3778988",
+          "heat": ""
+        },
+        {
+          "title": "“新王”登基“三把火”：伯克希尔开始“花钱”了，净买入200亿美元股票 ",
+          "url": "https://wallstreetcn.com/articles/3778995",
+          "heat": ""
+        },
+        {
+          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
+          "url": "https://wallstreetcn.com/articles/3778996",
+          "heat": ""
+        },
+        {
+          "title": "磷化铟是下一个“稀土”？关键产业如何成为反制核心，卡住美国光通信的脖子？",
+          "url": "https://wallstreetcn.com/premium/articles/3778945?layout=wscn-layout",
+          "heat": ""
+        },
+        {
+          "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
+          "url": "https://wallstreetcn.com/articles/3778994",
+          "heat": ""
+        },
+        {
+          "title": "AI应用公司毛利故事遭遇首次\"体检\"：Canva主动降速、Figma自吞推理成本 ",
+          "url": "https://wallstreetcn.com/articles/3778990",
+          "heat": ""
+        },
+        {
+          "title": "Agentic AI新趋势：亚马逊AWS出现“CPU短缺” ",
+          "url": "https://wallstreetcn.com/articles/3778989",
+          "heat": ""
+        },
+        {
+          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
+          "url": "https://wallstreetcn.com/articles/3778998",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "tieba",
