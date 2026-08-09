@@ -1,6 +1,6 @@
 {
-  "updated": "23:30:47",
-  "total": 283,
+  "updated": "23:35:27",
+  "total": 285,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,15 +1357,60 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 28,
+      "count": 30,
       "items": [
+        {
+          "title": "据半岛电视台：以军对加沙地带汗尤尼斯、布赖吉和拜特拉希亚的占领控制区实施炮击。",
+          "url": "https://flash.jin10.com/detail/20260810072629066800",
+          "heat": false
+        },
+        {
+          "title": "霍尔木兹协议临门一脚却卡死：伊朗抬高条件，特朗普突然降调改打“耐心牌”",
+          "url": "https://flash.jin10.com/detail/20260810071953536800",
+          "heat": "✰"
+        },
+        {
+          "title": "金十图示：2026年08月10日（周一）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260810071353921800",
+          "heat": false
+        },
+        {
+          "title": "宁德时代宜春枧下窝锂矿复产迎来关键期",
+          "url": "https://flash.jin10.com/detail/20260810071341251800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月10日（周一）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260810071227067800",
+          "heat": false
+        },
+        {
+          "title": "苹果考虑重塑Apple Watch产品线，探索无屏设备及更多形态",
+          "url": "https://flash.jin10.com/detail/20260810071100788800",
+          "heat": false
+        },
+        {
+          "title": "金十数据全球财经早餐 | 2026年8月10日",
+          "url": "https://flash.jin10.com/detail/20260810070552527800",
+          "heat": "✰"
+        },
+        {
+          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（2026-08-10）",
+          "url": "https://flash.jin10.com/detail/20260810070352919800",
+          "heat": false
+        },
+        {
+          "title": "霍尔木兹海峡协议未有进展，油价周一走高",
+          "url": "https://flash.jin10.com/detail/20260810070320898800",
+          "heat": false
+        },
         {
           "title": "本周重要事件与数据预告：美国CPI；成品油调价、腾讯财报",
           "url": "https://flash.jin10.com/detail/20260810065707221800",
           "heat": "✰"
         },
         {
-          "title": "据Axios：一位美国高级官员称，白宫“并不在意”内塔尼亚胡关于加沙计划的声明，并认为这是以色列选举季期间的一部分政治操作。白宫理解内塔尼亚胡的政治需求，他继续按照美国的要求去做——尤其是在限制对加沙的袭击方面——美国就不会有意见。",
+          "title": "美官员称不在意内塔尼亚胡关于加沙的表态",
           "url": "https://flash.jin10.com/detail/20260810065432853800",
           "heat": false
         },
@@ -1462,41 +1507,6 @@
         {
           "title": "市场消息：一艘船只在霍尔木兹海峡入口处的阿曼穆桑代姆半岛昆扎尔附近海域起火。",
           "url": "https://flash.jin10.com/detail/20260810052631620800",
-          "heat": false
-        },
-        {
-          "title": "分析师：澳洲联储料鹰派按兵不动，警惕持续通胀压力",
-          "url": "https://flash.jin10.com/detail/20260810052529476800",
-          "heat": false
-        },
-        {
-          "title": "黎巴嫩消息人士：目前没有计划在下个月举行黎巴嫩与以色列的新一轮谈判。新一轮谈判可能在今夏之后进行。",
-          "url": "https://flash.jin10.com/detail/20260810051053071800",
-          "heat": false
-        },
-        {
-          "title": "伊朗最高领袖任命佐勒加德尔为其政治顾问",
-          "url": "https://flash.jin10.com/detail/20260810045918536800",
-          "heat": false
-        },
-        {
-          "title": "马斯克或采用FEL技术挑战EUV光刻机",
-          "url": "https://flash.jin10.com/detail/20260810045558184800",
-          "heat": "✰"
-        },
-        {
-          "title": "在美日外汇市场干预后，对冲基金正迅速平仓做空日元的头寸",
-          "url": "https://flash.jin10.com/detail/20260810043823002800",
-          "heat": false
-        },
-        {
-          "title": "也门军事消息人士：防空系统击落了6架试图袭击摩卡港的胡塞武装无人机。",
-          "url": "https://flash.jin10.com/detail/20260810043457162800",
-          "heat": false
-        },
-        {
-          "title": "伊朗任命雷扎伊为最高国家安全委员会秘书",
-          "url": "https://flash.jin10.com/detail/20260810041124163800",
           "heat": false
         }
       ]
