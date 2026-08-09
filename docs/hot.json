@@ -1,6 +1,6 @@
 {
-  "updated": "14:30:56",
-  "total": 210,
+  "updated": "14:35:28",
+  "total": 283,
   "platforms": [
     {
       "id": "zhihu",
@@ -583,8 +583,59 @@
     {
       "id": "wallstreetcn-hot",
       "name": "华尔街见闻",
-      "count": 0,
-      "items": []
+      "count": 10,
+      "items": [
+        {
+          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
+          "url": "https://wallstreetcn.com/articles/3778998",
+          "heat": ""
+        },
+        {
+          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
+          "url": "https://wallstreetcn.com/articles/3778996",
+          "heat": ""
+        },
+        {
+          "title": "“新王”登基“三把火”：伯克希尔开始“花钱”了，净买入200亿美元股票 ",
+          "url": "https://wallstreetcn.com/articles/3778995",
+          "heat": ""
+        },
+        {
+          "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
+          "url": "https://wallstreetcn.com/articles/3778994",
+          "heat": ""
+        },
+        {
+          "title": "周末热议：“空存储、多光”？ ",
+          "url": "https://wallstreetcn.com/articles/3778999",
+          "heat": ""
+        },
+        {
+          "title": "宇树科技明日申购，中一签能赚多少？",
+          "url": "https://wallstreetcn.com/articles/3779007",
+          "heat": ""
+        },
+        {
+          "title": "本轮通胀拐点已至",
+          "url": "https://wallstreetcn.com/articles/3779008",
+          "heat": ""
+        },
+        {
+          "title": "磷化铟是下一个“稀土”？关键产业如何成为反制核心，卡住美国光通信的脖子？",
+          "url": "https://wallstreetcn.com/premium/articles/3778945?layout=wscn-layout",
+          "heat": ""
+        },
+        {
+          "title": "下周重磅日程：美国CPI，宇树科技打新，腾讯、京东、茅台、中芯国际财报",
+          "url": "https://wallstreetcn.com/articles/3778910",
+          "heat": ""
+        },
+        {
+          "title": "马斯克，要颠覆EUV光刻机？",
+          "url": "https://wallstreetcn.com/articles/3779015",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "tieba",
@@ -746,20 +797,338 @@
     {
       "id": "baidu",
       "name": "百度",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "台风白海豚在浙江玉环沿海登陆",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%9C%A8%E6%B5%99%E6%B1%9F%E7%8E%89%E7%8E%AF%E6%B2%BF%E6%B5%B7%E7%99%BB%E9%99%86",
+          "heat": ""
+        },
+        {
+          "title": "香港刷新1884年以来最高气温纪录",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%88%B7%E6%96%B01884%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%9C%80%E9%AB%98%E6%B0%94%E6%B8%A9%E7%BA%AA%E5%BD%95",
+          "heat": ""
+        },
+        {
+          "title": "如何看待当前物价运行态势",
+          "url": "https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%BD%93%E5%89%8D%E7%89%A9%E4%BB%B7%E8%BF%90%E8%A1%8C%E6%80%81%E5%8A%BF",
+          "heat": ""
+        },
+        {
+          "title": "“开学三件套”全线暴涨",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%BC%80%E5%AD%A6%E4%B8%89%E4%BB%B6%E5%A5%97%E2%80%9D%E5%85%A8%E7%BA%BF%E6%9A%B4%E6%B6%A8",
+          "heat": ""
+        },
+        {
+          "title": "婴儿被子蒙头快窒息时小猫扒醒宝妈",
+          "url": "https://www.baidu.com/s?wd=%E5%A9%B4%E5%84%BF%E8%A2%AB%E5%AD%90%E8%92%99%E5%A4%B4%E5%BF%AB%E7%AA%92%E6%81%AF%E6%97%B6%E5%B0%8F%E7%8C%AB%E6%89%92%E9%86%92%E5%AE%9D%E5%A6%88",
+          "heat": ""
+        },
+        {
+          "title": "伊朗最高领袖与总统会谈",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%B8%8E%E6%80%BB%E7%BB%9F%E4%BC%9A%E8%B0%88",
+          "heat": ""
+        },
+        {
+          "title": "台风白海豚已减弱为台风级",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%B7%B2%E5%87%8F%E5%BC%B1%E4%B8%BA%E5%8F%B0%E9%A3%8E%E7%BA%A7",
+          "heat": ""
+        },
+        {
+          "title": "穿8850元MiuMiu鞋脚被染黑 官方回应",
+          "url": "https://www.baidu.com/s?wd=%E7%A9%BF8850%E5%85%83MiuMiu%E9%9E%8B%E8%84%9A%E8%A2%AB%E6%9F%93%E9%BB%91+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94",
+          "heat": ""
+        },
+        {
+          "title": "浙江省甬江发生2026年第1号洪水",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E7%9C%81%E7%94%AC%E6%B1%9F%E5%8F%91%E7%94%9F2026%E5%B9%B4%E7%AC%AC1%E5%8F%B7%E6%B4%AA%E6%B0%B4",
+          "heat": ""
+        },
+        {
+          "title": "一个“村级”游泳池为啥全网点赞",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E2%80%9C%E6%9D%91%E7%BA%A7%E2%80%9D%E6%B8%B8%E6%B3%B3%E6%B1%A0%E4%B8%BA%E5%95%A5%E5%85%A8%E7%BD%91%E7%82%B9%E8%B5%9E",
+          "heat": ""
+        },
+        {
+          "title": "上海北横通道出现积水系旧视频",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%8C%97%E6%A8%AA%E9%80%9A%E9%81%93%E5%87%BA%E7%8E%B0%E7%A7%AF%E6%B0%B4%E7%B3%BB%E6%97%A7%E8%A7%86%E9%A2%91",
+          "heat": ""
+        },
+        {
+          "title": "浙江省委书记：该停下的坚决停下来",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%EF%BC%9A%E8%AF%A5%E5%81%9C%E4%B8%8B%E7%9A%84%E5%9D%9A%E5%86%B3%E5%81%9C%E4%B8%8B%E6%9D%A5",
+          "heat": ""
+        },
+        {
+          "title": "WTT横滨赛：张本智和夺得男单冠军",
+          "url": "https://www.baidu.com/s?wd=WTT%E6%A8%AA%E6%BB%A8%E8%B5%9B%EF%BC%9A%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E5%A4%BA%E5%BE%97%E7%94%B7%E5%8D%95%E5%86%A0%E5%86%9B",
+          "heat": ""
+        },
+        {
+          "title": "台风白海豚在浙江乐清二次登陆",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%9C%A8%E6%B5%99%E6%B1%9F%E4%B9%90%E6%B8%85%E4%BA%8C%E6%AC%A1%E7%99%BB%E9%99%86",
+          "heat": ""
+        },
+        {
+          "title": "独闯南太行的失联女生最后轨迹已确认",
+          "url": "https://www.baidu.com/s?wd=%E7%8B%AC%E9%97%AF%E5%8D%97%E5%A4%AA%E8%A1%8C%E7%9A%84%E5%A4%B1%E8%81%94%E5%A5%B3%E7%94%9F%E6%9C%80%E5%90%8E%E8%BD%A8%E8%BF%B9%E5%B7%B2%E7%A1%AE%E8%AE%A4",
+          "heat": ""
+        },
+        {
+          "title": "追风女记者抱杆抵抗强风",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%BD%E9%A3%8E%E5%A5%B3%E8%AE%B0%E8%80%85%E6%8A%B1%E6%9D%86%E6%8A%B5%E6%8A%97%E5%BC%BA%E9%A3%8E",
+          "heat": ""
+        },
+        {
+          "title": "黄山因台风滞留大量游客 景区回应",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E5%B1%B1%E5%9B%A0%E5%8F%B0%E9%A3%8E%E6%BB%9E%E7%95%99%E5%A4%A7%E9%87%8F%E6%B8%B8%E5%AE%A2+%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94",
+          "heat": ""
+        },
+        {
+          "title": "司机见竹子晃动紧急停车救下全车人",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E8%A7%81%E7%AB%B9%E5%AD%90%E6%99%83%E5%8A%A8%E7%B4%A7%E6%80%A5%E5%81%9C%E8%BD%A6%E6%95%91%E4%B8%8B%E5%85%A8%E8%BD%A6%E4%BA%BA",
+          "heat": ""
+        },
+        {
+          "title": "原字节跳动机器人一号位加入小米",
+          "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%80%E5%8F%B7%E4%BD%8D%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3",
+          "heat": ""
+        },
+        {
+          "title": "张本智和回应“兄妹双双登顶”",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E5%9B%9E%E5%BA%94%E2%80%9C%E5%85%84%E5%A6%B9%E5%8F%8C%E5%8F%8C%E7%99%BB%E9%A1%B6%E2%80%9D",
+          "heat": ""
+        },
+        {
+          "title": "《龙餐馆》 冲奖",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B+%E5%86%B2%E5%A5%96",
+          "heat": ""
+        },
+        {
+          "title": "云南一男子胃中取出180颗铁钉",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E4%B8%80%E7%94%B7%E5%AD%90%E8%83%83%E4%B8%AD%E5%8F%96%E5%87%BA180%E9%A2%97%E9%93%81%E9%92%89",
+          "heat": ""
+        },
+        {
+          "title": "《披荆斩棘2026》阵容官宣",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%982026%E3%80%8B%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3",
+          "heat": ""
+        },
+        {
+          "title": "江西警方通报：一男子酒驾致7人受伤",
+          "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%EF%BC%9A%E4%B8%80%E7%94%B7%E5%AD%90%E9%85%92%E9%A9%BE%E8%87%B47%E4%BA%BA%E5%8F%97%E4%BC%A4",
+          "heat": ""
+        },
+        {
+          "title": "央视新主播李秋莹母校发文祝贺",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%96%B0%E4%B8%BB%E6%92%AD%E6%9D%8E%E7%A7%8B%E8%8E%B9%E6%AF%8D%E6%A0%A1%E5%8F%91%E6%96%87%E7%A5%9D%E8%B4%BA",
+          "heat": ""
+        },
+        {
+          "title": "《欢迎来龙餐馆》点映及预售总票房破亿",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%E7%82%B9%E6%98%A0%E5%8F%8A%E9%A2%84%E5%94%AE%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF",
+          "heat": ""
+        },
+        {
+          "title": "迎战台风白海豚 上海共转移21.56万人",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%8E%E6%88%98%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A+%E4%B8%8A%E6%B5%B7%E5%85%B1%E8%BD%AC%E7%A7%BB21.56%E4%B8%87%E4%BA%BA",
+          "heat": ""
+        },
+        {
+          "title": "王传君 《披荆斩棘》",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E5%90%9B+%E3%80%8A%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E3%80%8B",
+          "heat": ""
+        },
+        {
+          "title": "最会过马路的小狗出现了",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%80%E4%BC%9A%E8%BF%87%E9%A9%AC%E8%B7%AF%E7%9A%84%E5%B0%8F%E7%8B%97%E5%87%BA%E7%8E%B0%E4%BA%86",
+          "heat": ""
+        },
+        {
+          "title": "13吨消防车被台风吹得左右摇晃",
+          "url": "https://www.baidu.com/s?wd=13%E5%90%A8%E6%B6%88%E9%98%B2%E8%BD%A6%E8%A2%AB%E5%8F%B0%E9%A3%8E%E5%90%B9%E5%BE%97%E5%B7%A6%E5%8F%B3%E6%91%87%E6%99%83",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "cls-hot",
       "name": "财联社",
-      "count": 0,
-      "items": []
+      "count": 13,
+      "items": [
+        {
+          "title": "多家A股公司：收到美国关税退税",
+          "url": "https://www.cls.cn/detail/2449086",
+          "heat": ""
+        },
+        {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "heat": ""
+        },
+        {
+          "title": "周末要闻汇总：北京购房政策调整，宇树科技10日开启IPO申购",
+          "url": "https://www.cls.cn/detail/2449266",
+          "heat": ""
+        },
+        {
+          "title": "宇树科技明日打新，注意四大事项",
+          "url": "https://www.cls.cn/detail/2449251",
+          "heat": ""
+        },
+        {
+          "title": "政治局会议后北京率先出手：下调非京籍五环内购房门槛 公积金贷款最高可达340万元",
+          "url": "https://www.cls.cn/detail/2449032",
+          "heat": ""
+        },
+        {
+          "title": "【早报】Apple智能可配合阿里千问模型工作；江波龙定增大幅溢价",
+          "url": "https://www.cls.cn/detail/2449188",
+          "heat": ""
+        },
+        {
+          "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
+          "url": "https://www.cls.cn/detail/2449139",
+          "heat": ""
+        },
+        {
+          "title": "巴菲特退休后伯克希尔首次大举动用现金 Q2回购并净买入股票",
+          "url": "https://www.cls.cn/detail/2449170",
+          "heat": ""
+        },
+        {
+          "title": "国家统计局：7月份CPI同比上涨0.5% PPI同比上涨3.5%",
+          "url": "https://www.cls.cn/detail/2449215",
+          "heat": ""
+        },
+        {
+          "title": "A股科技反弹是否一蹴而就？投资主线有哪些？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2449376",
+          "heat": ""
+        },
+        {
+          "title": "获美法院初步禁令！药明康德司法反制1260H名单迎阶段胜利 年内博弈或趋缓",
+          "url": "https://www.cls.cn/detail/2449388",
+          "heat": ""
+        },
+        {
+          "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
+          "url": "https://www.cls.cn/detail/2449177",
+          "heat": ""
+        },
+        {
+          "title": "灵巧手赛道重磅选手+1！蓝思科技+中科慧灵，要推出37个关节自由度",
+          "url": "https://www.cls.cn/detail/2449229",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "thepaper",
       "name": "澎湃新闻",
-      "count": 0,
-      "items": []
+      "count": 20,
+      "items": [
+        {
+          "title": "蓝厅观察丨被中方反制的7家美国实体有何来头？",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33746518",
+          "heat": ""
+        },
+        {
+          "title": "台风“白海豚”在浙江台州玉环沿海登陆，中心附近最大风力14级",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33748939",
+          "heat": ""
+        },
+        {
+          "title": "核观察｜美欲用战术核武器对抗中俄，弹药不足核武来凑？",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33745016",
+          "heat": ""
+        },
+        {
+          "title": "网上卖黄金卷入电诈8万元被划扣，驻马店市公安局称新蔡警方程序违法",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33747571",
+          "heat": ""
+        },
+        {
+          "title": "消费者称被“弹窗投保”续费超千元：元保保险称过程合规，已退款",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33743326",
+          "heat": ""
+        },
+        {
+          "title": "央视中文国际频道迎来新主播孙亚鹏、李秋莹",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33746136",
+          "heat": ""
+        },
+        {
+          "title": "日媒：战时日本多所大学进行输血人体实验，向患者注射动物血",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33748107",
+          "heat": ""
+        },
+        {
+          "title": "特朗普：“很多人称我是最伟大总统之一”",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33746686",
+          "heat": ""
+        },
+        {
+          "title": "4.2平卫生间补漏注胶花1.55万，消费者称陷“天价注胶补漏”套路",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33748209",
+          "heat": ""
+        },
+        {
+          "title": "受台风“白海豚”影响：千余架次航班取消，多条铁路部分区段停运，浙江多个机场今日停航",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33748287",
+          "heat": ""
+        },
+        {
+          "title": "国家统计局解读：7月份CPI保持温和上涨，PPI同比涨幅有所回落",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33747633",
+          "heat": ""
+        },
+        {
+          "title": "现货黄金周涨超7%站上4300美元，为何突然大涨？",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33744664",
+          "heat": ""
+        },
+        {
+          "title": "经济日报：规范航班超售不可错开药方",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33747514",
+          "heat": ""
+        },
+        {
+          "title": "受台风“白海豚”影响，8月9日上海两大机场近六成航班调减取消",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33746909",
+          "heat": ""
+        },
+        {
+          "title": "中央气象台升级发布台风红警：六省份有大暴雨，浙江局地特大暴雨",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33747722",
+          "heat": ""
+        },
+        {
+          "title": "伯克希尔二季度净利润翻倍，净买入200亿美元股票",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33746645",
+          "heat": ""
+        },
+        {
+          "title": "电子布洛芬与媒介时代的听觉药性——以短视频儿歌的净化效果为中心",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33720111",
+          "heat": ""
+        },
+        {
+          "title": "中央气象台发布台风红色预警，为何发布最高级别预警",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33748039",
+          "heat": ""
+        },
+        {
+          "title": "欧盟移民危机升级：西意互设边境管控，新一轮越境潮的虚假信息蔓延",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33747915",
+          "heat": ""
+        },
+        {
+          "title": "分析｜受汽油价格涨幅回落影响，7月CPI同比涨幅有所回落",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33748441",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "ifeng",
