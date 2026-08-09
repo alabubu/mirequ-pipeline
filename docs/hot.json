@@ -1,6 +1,6 @@
 {
-  "updated": "01:50:33",
-  "total": 282,
+  "updated": "01:55:28",
+  "total": 278,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,78 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 27,
+      "count": 23,
       "items": [
+        {
+          "title": "沙特能源部：沙特阿美在沙特阿拉伯贾赞的设施火灾已被扑灭。",
+          "url": "https://flash.jin10.com/detail/20260809094505071800",
+          "heat": false
+        },
+        {
+          "title": "国家统计局：7月份，PPI同比涨幅有所回落",
+          "url": "https://flash.jin10.com/detail/20260809094144161800",
+          "heat": false
+        },
+        {
+          "title": "国家统计局：7月份，PPI环比下降",
+          "url": "https://flash.jin10.com/detail/20260809094115453800",
+          "heat": false
+        },
+        {
+          "title": "国家统计局：7月份，CPI同比温和上涨，黄金饰品上涨24.6%",
+          "url": "https://flash.jin10.com/detail/20260809093957019800",
+          "heat": false
+        },
+        {
+          "title": "国家统计局：7月份，CPI环比降幅收窄",
+          "url": "https://flash.jin10.com/detail/20260809093821444800",
+          "heat": false
+        },
+        {
+          "title": "国家统计局：7月份，核心CPI环比上涨0.3%，同比上涨0.9%",
+          "url": "https://flash.jin10.com/detail/20260809093547261800",
+          "heat": false
+        },
+        {
+          "title": "国家统计局：7月份，各类商品及服务价格环比变动情况",
+          "url": "https://flash.jin10.com/detail/20260809093443755800",
+          "heat": false
+        },
+        {
+          "title": "国家统计局：7月份，猪肉价格同比下降13.3%",
+          "url": "https://flash.jin10.com/detail/20260809093355859800",
+          "heat": false
+        },
+        {
+          "title": "中国7月PPI月率 -0.7%，前值-0.3%。",
+          "url": "https://flash.jin10.com/detail/20260809093106576800",
+          "heat": false
+        },
+        {
+          "title": "2026年7月份居民消费价格同比上涨0.5%",
+          "url": "https://flash.jin10.com/detail/20260809093034813800",
+          "heat": "✰"
+        },
+        {
+          "title": "中国7月CPI月率 -0.1%，预期0.2%，前值-0.3%。",
+          "url": "https://flash.jin10.com/detail/20260809093023410800",
+          "heat": false
+        },
+        {
+          "title": "中国7月PPI年率 3.5%，预期3.80%，前值4.10%。",
+          "url": "https://flash.jin10.com/detail/20260809093020087800",
+          "heat": false
+        },
+        {
+          "title": "中国7月CPI年率 0.5%，预期0.80%，前值1.00%。",
+          "url": "https://flash.jin10.com/detail/20260809093020051800",
+          "heat": "✰"
+        },
+        {
+          "title": "据票务平台实时数据，截至8月9日9时19分，影片《奥德赛》点映及预售总票房突破6000万。",
+          "url": "https://flash.jin10.com/detail/20260809092601754800",
+          "heat": false
+        },
         {
           "title": "中国7月CPI年率将于十分钟后公布。",
           "url": "https://flash.jin10.com/detail/20260809092000001800",
@@ -1402,96 +1472,6 @@
         {
           "title": "日本大饭核电站3号机组因发电机异常停止运行",
           "url": "https://flash.jin10.com/detail/20260809084805274800",
-          "heat": false
-        },
-        {
-          "title": "伊朗媒体发布伊朗最高领袖视频",
-          "url": "https://flash.jin10.com/detail/20260809084524493800",
-          "heat": false
-        },
-        {
-          "title": "金十数据整理：昨日今晨重要新闻汇总（2026-08-09）",
-          "url": "https://flash.jin10.com/detail/20260809082505560800",
-          "heat": "✰"
-        },
-        {
-          "title": "伊朗接近与阿曼达成管理海峡协议",
-          "url": "https://flash.jin10.com/detail/20260809081421844800",
-          "heat": false
-        },
-        {
-          "title": "贝莱德大佬解读非农转负 称“如今加息已经没有太大意义”",
-          "url": "https://flash.jin10.com/detail/20260809080300996800",
-          "heat": false
-        },
-        {
-          "title": "伊朗革命卫队指挥官：美国和以色列在实现其针对伊斯兰体制的目标上已完全失败，其领导人在面对公众舆论、精英和本国人民时，对其接连不断的失败已无任何回应。",
-          "url": "https://flash.jin10.com/detail/20260809060029178800",
-          "heat": false
-        },
-        {
-          "title": "巴勒斯坦消息人士称，以色列军队对加沙地带北部进行了炮击。",
-          "url": "https://flash.jin10.com/detail/20260809055652057800",
-          "heat": false
-        },
-        {
-          "title": "我国渤海首个千亿方大气田Ⅰ期开发项目全面投产",
-          "url": "https://flash.jin10.com/detail/20260809055557023800",
-          "heat": false
-        },
-        {
-          "title": "以媒：美军中央司令部司令访以讨论“多战线局势”",
-          "url": "https://flash.jin10.com/detail/20260809055531466800",
-          "heat": false
-        },
-        {
-          "title": "美媒：美“爱国者”导弹库存不足1700枚",
-          "url": "https://flash.jin10.com/detail/20260809054843291800",
-          "heat": false
-        },
-        {
-          "title": "据英国泰晤士报：英国国防大臣斯特里廷表示，盟国必须加大力度帮助乌克兰度过寒冬。",
-          "url": "https://flash.jin10.com/detail/20260809053846056800",
-          "heat": false
-        },
-        {
-          "title": "土外长称沙土巴三国共同防务协议有望扩员",
-          "url": "https://flash.jin10.com/detail/20260809053205361800",
-          "heat": false
-        },
-        {
-          "title": "美国能源公司起诉数据中心开发商：将电费成本转嫁民众",
-          "url": "https://flash.jin10.com/detail/20260809052729023800",
-          "heat": false
-        },
-        {
-          "title": "美媒：伊朗战争导致国防库存锐减，五角大楼敦促国防企业加快武器生产",
-          "url": "https://flash.jin10.com/detail/20260809051320025800",
-          "heat": false
-        },
-        {
-          "title": "乌克兰无人机侵犯保加利亚领空爆炸，危及关键能源设施",
-          "url": "https://flash.jin10.com/detail/20260809050035805800",
-          "heat": false
-        },
-        {
-          "title": "马斯克：在长途航班中接入星链网络，将成为提升生产力的重大变革。",
-          "url": "https://flash.jin10.com/detail/20260809045524710800",
-          "heat": false
-        },
-        {
-          "title": "据伊朗法尔斯通讯社：保加利亚方面声称，今天上午一架乌克兰无人机向跨巴尔干天然气管道发动袭击，该管道经由土耳其将俄罗斯天然气输送至欧洲。",
-          "url": "https://flash.jin10.com/detail/20260809045339955800",
-          "heat": false
-        },
-        {
-          "title": "美消防部门证实：犹他州消防直升机坠毁致两人遇难",
-          "url": "https://flash.jin10.com/detail/20260809044400736800",
-          "heat": false
-        },
-        {
-          "title": "机构：美国7月CPI数据或显示通胀压力有所缓和",
-          "url": "https://flash.jin10.com/detail/20260809043806090800",
           "heat": false
         }
       ]
