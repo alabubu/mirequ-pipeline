@@ -1,6 +1,6 @@
 {
-  "updated": "01:20:36",
-  "total": 280,
+  "updated": "01:25:29",
+  "total": 282,
   "platforms": [
     {
       "id": "zhihu",
@@ -997,6 +997,11 @@
           "heat": ""
         },
         {
+          "title": "巴菲特退休后伯克希尔首次大举动用现金 Q2回购并净买入股票",
+          "url": "https://www.cls.cn/detail/2449170",
+          "heat": ""
+        },
+        {
           "title": "AGI之后，硅谷又为资本开支找了一个新理由",
           "url": "https://www.cls.cn/detail/2448374",
           "heat": ""
@@ -1004,11 +1009,6 @@
         {
           "title": "贝莱德大佬解读非农转负 放言“如今加息已经没有太大意义”",
           "url": "https://www.cls.cn/detail/2448946",
-          "heat": ""
-        },
-        {
-          "title": "巴菲特退休后伯克希尔首次大举动用现金 Q2回购并净买入股票",
-          "url": "https://www.cls.cn/detail/2449170",
           "heat": ""
         },
         {
@@ -1357,8 +1357,43 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 25,
+      "count": 27,
       "items": [
+        {
+          "title": "中国7月CPI年率将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260809092000001800",
+          "heat": "✰"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（8月9日）",
+          "url": "https://flash.jin10.com/detail/20260809091613424800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：沙特阿拉伯朱拜尔工业城燃气设施发生火灾。",
+          "url": "https://flash.jin10.com/detail/20260809091020252800",
+          "heat": false
+        },
+        {
+          "title": "VIP・95折订阅全新报告体系！",
+          "url": "https://flash.jin10.com/detail/20260809090007807800",
+          "heat": false
+        },
+        {
+          "title": "<a href=\"https://www.jin10.com/activities/2026/8/vip_article/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/08/y_xv4lKSiuAni719pfe5I.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260809090005978800",
+          "heat": false
+        },
+        {
+          "title": "马斯克：第三代星链卫星（V3）综合性能比V2高出一个数量级",
+          "url": "https://flash.jin10.com/detail/20260809085801985800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：中东局势跟踪（8月9日）",
+          "url": "https://flash.jin10.com/detail/20260809085609996800",
+          "heat": "✰"
+        },
         {
           "title": "韩股最动荡阶段或已结束，“去杠杆”后波动率回落至两个月低点",
           "url": "https://flash.jin10.com/detail/20260809085352753800",
@@ -1457,31 +1492,6 @@
         {
           "title": "机构：美国7月CPI数据或显示通胀压力有所缓和",
           "url": "https://flash.jin10.com/detail/20260809043806090800",
-          "heat": false
-        },
-        {
-          "title": "约旦外交部：两位外交大臣还讨论了一些共同关心的问题，以及加强阿拉伯共同合作的前景和途径，并一致同意在双边及多边组织框架内继续协调和磋商，针对地区和国际问题进行合作。",
-          "url": "https://flash.jin10.com/detail/20260809042229806800",
-          "heat": false
-        },
-        {
-          "title": "约旦外交部：双方讨论了地区局势的发展，以及旨在结束升级、恢复平静、实现安全与稳定的努力，并确保霍尔木兹海峡的航行自由。",
-          "url": "https://flash.jin10.com/detail/20260809042212116800",
-          "heat": false
-        },
-        {
-          "title": "约旦外交部：约旦副首相兼外交与侨务大臣艾曼·萨夫迪今天与巴林外交大臣阿卜杜拉提夫·扎亚尼博士进行了电话交谈。",
-          "url": "https://flash.jin10.com/detail/20260809042132942800",
-          "heat": false
-        },
-        {
-          "title": "叙利亚内政部：我们挫败了一起从塔尔图斯省向黎巴嫩境内走私武器弹药的行动。",
-          "url": "https://flash.jin10.com/detail/20260809041712032800",
-          "heat": false
-        },
-        {
-          "title": "海湾国家担忧伊朗“以钱换通航”，但应对空间极为有限",
-          "url": "https://flash.jin10.com/detail/20260809040308516800",
           "heat": false
         }
       ]
