@@ -1,6 +1,6 @@
 {
-  "updated": "02:50:36",
-  "total": 278,
+  "updated": "02:55:27",
+  "total": 279,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,18 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 23,
+      "count": 24,
       "items": [
+        {
+          "title": "中央气象台升级发布台风红色预警",
+          "url": "https://flash.jin10.com/detail/20260809104129624800",
+          "heat": false
+        },
+        {
+          "title": "苹果中国官网删除Apple智能接入阿里千问手册",
+          "url": "https://flash.jin10.com/detail/20260809102752884800",
+          "heat": false
+        },
         {
           "title": "美国前总统拜登前列腺癌恶化 癌细胞已扩散",
           "url": "https://flash.jin10.com/detail/20260809095652729800",
@@ -1468,11 +1478,6 @@
           "title": "金十数据整理：中东局势跟踪（8月9日）",
           "url": "https://flash.jin10.com/detail/20260809085609996800",
           "heat": "✰"
-        },
-        {
-          "title": "韩股最动荡阶段或已结束，“去杠杆”后波动率回落至两个月低点",
-          "url": "https://flash.jin10.com/detail/20260809085352753800",
-          "heat": false
         }
       ]
     }
