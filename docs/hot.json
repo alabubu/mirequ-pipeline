@@ -1,6 +1,6 @@
 {
-  "updated": "04:30:56",
-  "total": 246,
+  "updated": "04:35:30",
+  "total": 278,
   "platforms": [
     {
       "id": "zhihu",
@@ -426,17 +426,173 @@
     {
       "id": "bilibili-hot-search",
       "name": "B站",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "台风红色预警发布",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8F%B0%E9%A3%8E%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%E5%8F%91%E5%B8%83",
+          "heat": ""
+        },
+        {
+          "title": "终末地新干员梨诺",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%88%E6%9C%AB%E5%9C%B0%E6%96%B0%E5%B9%B2%E5%91%98%E6%A2%A8%E8%AF%BA",
+          "heat": ""
+        },
+        {
+          "title": "时光代理人3片尾曲公开",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%B6%E5%85%89%E4%BB%A3%E7%90%86%E4%BA%BA",
+          "heat": ""
+        },
+        {
+          "title": "牧神记延丰帝被驾崩",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%A7%E7%A5%9E%E8%AE%B0",
+          "heat": ""
+        },
+        {
+          "title": "关于知了猴的硬核知识",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%B3%E4%BA%8E%E7%9F%A5%E4%BA%86%E7%8C%B4%E7%9A%84%E7%A1%AC%E6%A0%B8%E7%9F%A5%E8%AF%86",
+          "heat": ""
+        },
+        {
+          "title": "堂主年马计划一周年",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A0%82%E4%B8%BB%E5%B9%B4%E9%A9%AC%E8%AE%A1%E5%88%92%E4%B8%80%E5%91%A8%E5%B9%B4",
+          "heat": ""
+        },
+        {
+          "title": "详解胶球与胶球存在证明",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E8%83%B6%E7%90%83%E4%B8%8E%E8%83%B6%E7%90%83%E5%AD%98%E5%9C%A8%E8%AF%81%E6%98%8E",
+          "heat": ""
+        },
+        {
+          "title": "直击台风白海豚",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A",
+          "heat": ""
+        },
+        {
+          "title": "阿森纳教练说会持续关注赵松源",
+          "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E6%A3%AE%E7%BA%B3%E6%95%99%E7%BB%83%E8%AF%B4%E4%BC%9A%E6%8C%81%E7%BB%AD%E5%85%B3%E6%B3%A8%E8%B5%B5%E6%9D%BE%E6%BA%90",
+          "heat": ""
+        },
+        {
+          "title": "李大霄复盘韩股崩盘始末",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E5%A4%8D%E7%9B%98%E9%9F%A9%E8%82%A1%E5%B4%A9%E7%9B%98%E5%A7%8B%E6%9C%AB",
+          "heat": ""
+        },
+        {
+          "title": "晚自习的消遣方式",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%9A%E8%87%AA%E4%B9%A0%E7%9A%84%E6%B6%88%E9%81%A3%E6%96%B9%E5%BC%8F",
+          "heat": ""
+        },
+        {
+          "title": "怪兽中出了一个奥特曼的卧底",
+          "url": "https://search.bilibili.com/all?keyword=%E6%80%AA%E5%85%BD%E4%B8%AD%E5%87%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A5%A5%E7%89%B9%E6%9B%BC%E7%9A%84%E5%8D%A7%E5%BA%95",
+          "heat": ""
+        },
+        {
+          "title": "奥德赛终极功课",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A5%A5%E5%BE%B7%E8%B5%9B%E7%BB%88%E6%9E%81%E5%8A%9F%E8%AF%BE",
+          "heat": ""
+        },
+        {
+          "title": "警惕食品中的含糖陷阱",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AD%A6%E6%83%95%E9%A3%9F%E5%93%81%E4%B8%AD%E7%9A%84%E5%90%AB%E7%B3%96%E9%99%B7%E9%98%B1",
+          "heat": ""
+        },
+        {
+          "title": "直击以军在巴勒斯坦军事行动",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%B4%E5%87%BB%E4%BB%A5%E5%86%9B%E5%9C%A8%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
+          "heat": ""
+        },
+        {
+          "title": "歌剧老师锐评歌王之战",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E6%AD%8C%E7%8E%8B%E4%B9%8B%E6%88%98",
+          "heat": ""
+        },
+        {
+          "title": "Lex锐评歌手决赛",
+          "url": "https://search.bilibili.com/all?keyword=Lex%E9%94%90%E8%AF%84%E6%AD%8C%E6%89%8B%E5%86%B3%E8%B5%9B",
+          "heat": ""
+        },
+        {
+          "title": "威少新赛季将何去何从",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A8%81%E5%B0%91%E6%96%B0%E8%B5%9B%E5%AD%A3%E5%B0%86%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E",
+          "heat": ""
+        },
+        {
+          "title": "欣小萌俄罗斯坐坦克打枪",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A3%E5%B0%8F%E8%90%8C%E4%BF%84%E7%BD%97%E6%96%AF%E5%9D%90%E5%9D%A6%E5%85%8B%E6%89%93%E6%9E%AA",
+          "heat": ""
+        },
+        {
+          "title": "AI是否能帮助数学实现大突破",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%98%AF%E5%90%A6%E8%83%BD%E5%B8%AE%E5%8A%A9%E6%95%B0%E5%AD%A6%E5%AE%9E%E7%8E%B0%E5%A4%A7%E7%AA%81%E7%A0%B4",
+          "heat": ""
+        },
+        {
+          "title": "BLG战胜EDG LPL第三赛段",
+          "url": "https://search.bilibili.com/all?keyword=BLG%20EDG",
+          "heat": ""
+        },
+        {
+          "title": "柴西洛杉矶自驾体验落日飞车",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9F%B4%E8%A5%BF%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%87%AA%E9%A9%BE%E4%BD%93%E9%AA%8C%E8%90%BD%E6%97%A5%E9%A3%9E%E8%BD%A6",
+          "heat": ""
+        },
+        {
+          "title": "韩立一语道破慕兰奸计",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E7%AB%8B",
+          "heat": ""
+        },
+        {
+          "title": "罗子君近期为何再次翻红",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E5%AD%90%E5%90%9B%E8%BF%91%E6%9C%9F%E4%B8%BA%E4%BD%95%E5%86%8D%E6%AC%A1%E7%BF%BB%E7%BA%A2",
+          "heat": ""
+        },
+        {
+          "title": "后室里的乌鲁鲁",
+          "url": "https://search.bilibili.com/all?keyword=%E5%90%8E%E5%AE%A4%E9%87%8C%E7%9A%84%E4%B9%8C%E9%B2%81%E9%B2%81",
+          "heat": ""
+        },
+        {
+          "title": "欢迎来龙餐馆是反战片吗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E6%98%AF%E5%8F%8D%E6%88%98%E7%89%87%E5%90%97",
+          "heat": ""
+        },
+        {
+          "title": "欧洲难民成了谁的筹码",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E6%B4%B2%E9%9A%BE%E6%B0%91%E6%88%90%E4%BA%86%E8%B0%81%E7%9A%84%E7%AD%B9%E7%A0%81",
+          "heat": ""
+        },
+        {
+          "title": "KSG战胜AG.AL赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=KSG%E6%88%98%E8%83%9CAG.AL%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "heat": ""
+        },
+        {
+          "title": "逐帧解析凡人修仙传186集",
+          "url": "https://search.bilibili.com/all?keyword=%E9%80%90%E5%B8%A7%E8%A7%A3%E6%9E%90%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0186%E9%9B%86",
+          "heat": ""
+        },
+        {
+          "title": "欢迎来龙餐馆值得看吗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E5%80%BC%E5%BE%97%E7%9C%8B%E5%90%97",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "wallstreetcn-hot",
       "name": "华尔街见闻",
-      "count": 9,
+      "count": 10,
       "items": [
         {
           "title": "伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3778993",
+          "heat": ""
+        },
+        {
+          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
+          "url": "https://wallstreetcn.com/articles/3778998",
           "heat": ""
         },
         {
@@ -450,18 +606,8 @@
           "heat": ""
         },
         {
-          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
-          "url": "https://wallstreetcn.com/articles/3778998",
-          "heat": ""
-        },
-        {
           "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
           "url": "https://wallstreetcn.com/articles/3778996",
-          "heat": ""
-        },
-        {
-          "title": "磷化铟是下一个“稀土”？关键产业如何成为反制核心，卡住美国光通信的脖子？",
-          "url": "https://wallstreetcn.com/premium/articles/3778945?layout=wscn-layout",
           "heat": ""
         },
         {
@@ -470,13 +616,23 @@
           "heat": ""
         },
         {
-          "title": "AI应用公司毛利故事遭遇首次\"体检\"：Canva主动降速、Figma自吞推理成本 ",
-          "url": "https://wallstreetcn.com/articles/3778990",
+          "title": "磷化铟是下一个“稀土”？关键产业如何成为反制核心，卡住美国光通信的脖子？",
+          "url": "https://wallstreetcn.com/premium/articles/3778945?layout=wscn-layout",
+          "heat": ""
+        },
+        {
+          "title": "AI推理前瞻——从基础设施建设到商业化变现",
+          "url": "https://wallstreetcn.com/articles/3778997",
           "heat": ""
         },
         {
           "title": "有色乘风起：地缘和利率仅是表象，供给短缺锚定三重驱动力",
           "url": "https://wallstreetcn.com/premium/articles/3778500?layout=wscn-layout",
+          "heat": ""
+        },
+        {
+          "title": "拯救悲剧股神后又当新娘！Anthropic幕僚长自述：在AI前沿寻找上帝",
+          "url": "https://wallstreetcn.com/articles/3779002",
           "heat": ""
         }
       ]
@@ -851,18 +1007,18 @@
           "heat": ""
         },
         {
-          "title": "黄金走势即将逆袭？华尔街投行：现在是买入的绝佳时机",
-          "url": "https://www.cls.cn/detail/2449090",
-          "heat": ""
-        },
-        {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
           "url": "https://www.cls.cn/detail/2449177",
           "heat": ""
         },
         {
-          "title": "台风“白海豚”眼区模糊已“闭眼”，局地强降雨具有极端性，浙江上海等地位于台风危险半圆",
-          "url": "https://www.cls.cn/detail/2449031",
+          "title": "黄金走势即将逆袭？华尔街投行：现在是买入的绝佳时机",
+          "url": "https://www.cls.cn/detail/2449090",
+          "heat": ""
+        },
+        {
+          "title": "国家统计局：7月份CPI同比上涨0.5% PPI同比上涨3.5%",
+          "url": "https://www.cls.cn/detail/2449215",
           "heat": ""
         }
       ]
@@ -1201,8 +1357,33 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 22,
+      "count": 23,
       "items": [
+        {
+          "title": "龚正主持召开台风“白海豚”防御应对视频调度会议",
+          "url": "https://flash.jin10.com/detail/20260809122916365800",
+          "heat": false
+        },
+        {
+          "title": "台风“白海豚”影响增强 浙江局地有特大暴雨阵风可达13至16级",
+          "url": "https://flash.jin10.com/detail/20260809120750640800",
+          "heat": false
+        },
+        {
+          "title": "据灯塔专业版实时数据，截至8月9日12时4分，影片《八仙！》票房突破14亿。 ​​​",
+          "url": "https://flash.jin10.com/detail/20260809120651492800",
+          "heat": false
+        },
+        {
+          "title": "俄媒：威特科夫和库什纳近日或访问基辅和莫斯科",
+          "url": "https://flash.jin10.com/detail/20260809120410193800",
+          "heat": false
+        },
+        {
+          "title": "刚果禁令拉响市场警报，铜价反应为时过早？",
+          "url": "https://flash.jin10.com/detail/20260809120005852800",
+          "heat": false
+        },
         {
           "title": "据印尼气象、气候和地球物理局发布的报告，当地时间8月9日10时02分，印尼亚齐特区沙璜市西北205公里处发生5.7级地震，震源深度10公里，没有海啸风险。",
           "url": "https://flash.jin10.com/detail/20260809113024703800",
@@ -1292,26 +1473,6 @@
           "title": "中国7月CPI年率 0.5%，预期0.80%，前值1.00%。",
           "url": "https://flash.jin10.com/detail/20260809093020051800",
           "heat": "✰"
-        },
-        {
-          "title": "据票务平台实时数据，截至8月9日9时19分，影片《奥德赛》点映及预售总票房突破6000万。",
-          "url": "https://flash.jin10.com/detail/20260809092601754800",
-          "heat": false
-        },
-        {
-          "title": "中国7月CPI年率将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260809092000001800",
-          "heat": "✰"
-        },
-        {
-          "title": "金十数据整理：每日科技要闻速递（8月9日）",
-          "url": "https://flash.jin10.com/detail/20260809091613424800",
-          "heat": false
-        },
-        {
-          "title": "市场消息：沙特阿拉伯朱拜尔工业城燃气设施发生火灾。",
-          "url": "https://flash.jin10.com/detail/20260809091020252800",
-          "heat": false
         }
       ]
     }
