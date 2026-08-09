@@ -1,12 +1,113 @@
 {
-  "updated": "22:00:55",
-  "total": 260,
+  "updated": "22:04:12",
+  "total": 280,
   "platforms": [
     {
       "id": "zhihu",
       "name": "知乎",
-      "count": 0,
-      "items": []
+      "count": 20,
+      "items": [
+        {
+          "title": "「抱冬瓜睡觉降温」走红，有人尝试，结果半夜瓜炸了，好端端的冬瓜为什么会爆裂？",
+          "url": "https://www.zhihu.com/question/2068090103704941168",
+          "heat": "181 万热度"
+        },
+        {
+          "title": "如何看待日本一医院错把患者脑部当肿瘤切除？",
+          "url": "https://www.zhihu.com/question/2069354305589620880",
+          "heat": "163 万热度"
+        },
+        {
+          "title": "Wayward 称 BLG 放弃 Bin 是最错误决定，你如何评价？",
+          "url": "https://www.zhihu.com/question/2069827123896907258",
+          "heat": "154 万热度"
+        },
+        {
+          "title": "如何看待美军林肯号航母爆出物资短缺，环境恶劣、飞行甲板磨出洞等情况？",
+          "url": "https://www.zhihu.com/question/2069728803518148969",
+          "heat": "146 万热度"
+        },
+        {
+          "title": "台风「白海豚」在浙江台州玉环沿海登陆，中心附近最大风力 14 级，你那边现在情况如何？",
+          "url": "https://www.zhihu.com/question/2068622608979813741",
+          "heat": "137 万热度"
+        },
+        {
+          "title": "鲁迅连个长篇都没有，可是为什么一提到中国现当代文学的 TOP1，就都想到了他？",
+          "url": "https://www.zhihu.com/question/1957061060604437527",
+          "heat": "132 万热度"
+        },
+        {
+          "title": "天蚕土豆新书【神通者】到底如何？",
+          "url": "https://www.zhihu.com/question/2069430560733369083",
+          "heat": "128 万热度"
+        },
+        {
+          "title": "菲媒证实网红雅典娜被害，网传该案仍有部分电诈犯未归案，目前案件的真实进展如何？",
+          "url": "https://www.zhihu.com/question/2069726177812374122",
+          "heat": "125 万热度"
+        },
+        {
+          "title": "如何看待「现在查 RTX 5090 价格已经变成了一种恐怖片题材」这个梗？",
+          "url": "https://www.zhihu.com/question/2067910668142093912",
+          "heat": "122 万热度"
+        },
+        {
+          "title": "2026 上半年国内手机销量 TOP30 出炉，苹果包揽前三、华为领跑国产，哪些品牌的表现值得关注？",
+          "url": "https://www.zhihu.com/question/2069715027674624332",
+          "heat": "98 万热度"
+        },
+        {
+          "title": "美国科学家首次用 AI 设计出病毒，意味着什么？生物安全防线该如何应对？",
+          "url": "https://www.zhihu.com/question/2068991097578021742",
+          "heat": "97 万热度"
+        },
+        {
+          "title": "你会去电影院看沈腾主演的新电影《欢迎来龙餐馆》吗？票房能破 50 亿吗?",
+          "url": "https://www.zhihu.com/question/2068398077522793536",
+          "heat": "96 万热度"
+        },
+        {
+          "title": "如何看待贵州网红金蝉子账号发布讣告，称外号「老表」的打工网红彭仕运在老家游泳时不幸溺水身亡？",
+          "url": "https://www.zhihu.com/question/2068817961792623517",
+          "heat": "92 万热度"
+        },
+        {
+          "title": "《亮剑》中有什么不符合逻辑的片段呢？",
+          "url": "https://www.zhihu.com/question/1923757189924906939",
+          "heat": "86 万热度"
+        },
+        {
+          "title": "女子被狗舔脚后被判定狂犬病三级暴露，因脚趾甲沟炎存在皮肤破损，反映出什么认知误区？哪些情况要及时就医？",
+          "url": "https://www.zhihu.com/question/2069321207866987893",
+          "heat": "86 万热度"
+        },
+        {
+          "title": "2026WTT 横滨冠军赛，张本智和 4 比 1 吴晙诚卫冕成功，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2069869187867137118",
+          "heat": "83 万热度"
+        },
+        {
+          "title": "如何看待 2026 年 8 月 8 日，史诗级电影《奥德赛》的点映上座率高达 57.3% 左右？",
+          "url": "https://www.zhihu.com/question/2069512576657105120",
+          "heat": "80 万热度"
+        },
+        {
+          "title": "如何看待最近爆火的「成吉思鸡」现象？",
+          "url": "https://www.zhihu.com/question/2065112578406328007",
+          "heat": "80 万热度"
+        },
+        {
+          "title": "面对海量信息流，我该如何有效获取深度知识而非碎片化内容？",
+          "url": "https://www.zhihu.com/question/1973345790182302455",
+          "heat": "70 万热度"
+        },
+        {
+          "title": "医生韩杰因医疗事故获刑仍不认罪，如何界定医疗过失的刑事边界？",
+          "url": "https://www.zhihu.com/question/2068717228388888877",
+          "heat": "70 万热度"
+        }
+      ]
     },
     {
       "id": "weibo",
@@ -1259,6 +1360,56 @@
       "count": 25,
       "items": [
         {
+          "title": "WTI原油站上78美元/桶，日内涨2.16%，布伦特原油涨2.4%，报83.5美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260810060209367800",
+          "heat": "✰"
+        },
+        {
+          "title": "美股股指期货周一开盘涨跌不一，纳指期货涨0.16%，道指期货跌0.14%。",
+          "url": "https://flash.jin10.com/detail/20260810060135599800",
+          "heat": false
+        },
+        {
+          "title": "现货黄金周一开盘上涨0.2%，现报4349美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260810060105196800",
+          "heat": false
+        },
+        {
+          "title": "WTI原油周一开盘上涨1.5%，现报77.6美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260810060035302800",
+          "heat": "✰"
+        },
+        {
+          "title": "美联储9月加息25个基点的概率为44.4%",
+          "url": "https://flash.jin10.com/detail/20260810055655060800",
+          "heat": false
+        },
+        {
+          "title": "美国中央司令部：截至8月9日，中央司令部已调转55艘在霍尔木兹海峡的商船航线，使2艘船只失去行动能力，并登船检查了2艘船只，以确保其遵守封锁令。",
+          "url": "https://flash.jin10.com/detail/20260810054710218800",
+          "heat": false
+        },
+        {
+          "title": "美国芝加哥市发生多起枪击事件致三死10伤",
+          "url": "https://flash.jin10.com/detail/20260810053926167800",
+          "heat": false
+        },
+        {
+          "title": "以媒：内塔尼亚胡曾同意从加沙部分地区撤军 现已反悔",
+          "url": "https://flash.jin10.com/detail/20260810053832613800",
+          "heat": false
+        },
+        {
+          "title": "周一汇市盘初持稳，美元兑日元USD/JPY跌0.08%、欧元兑美元EUR/USD涨0.03%、美元指数DXY跌0.04%。",
+          "url": "https://flash.jin10.com/detail/20260810053536334800",
+          "heat": false
+        },
+        {
+          "title": "科威特与巴基斯坦讨论地区局势",
+          "url": "https://flash.jin10.com/detail/20260810053359428800",
+          "heat": false
+        },
+        {
           "title": "美国总统特朗普：自9月1日起，威尔·沙夫将接替大卫·沃灵顿，成为总统助理兼白宫法律顾问。",
           "url": "https://flash.jin10.com/detail/20260810052934153800",
           "heat": false
@@ -1331,56 +1482,6 @@
         {
           "title": "以色列政府被曝将投资专款挪至国防预算 紧急采购武器",
           "url": "https://flash.jin10.com/detail/20260810034227220800",
-          "heat": false
-        },
-        {
-          "title": "F-16拦截特朗普高尔夫俱乐部附近两架违规飞机",
-          "url": "https://flash.jin10.com/detail/20260810033626643800",
-          "heat": false
-        },
-        {
-          "title": "据伊朗学生通讯社：伊朗举行经济关系协调委员会会议，重点讨论北部港口在保障基本商品供应中的作用。",
-          "url": "https://flash.jin10.com/detail/20260810032232973800",
-          "heat": false
-        },
-        {
-          "title": "内塔尼亚胡拒绝加沙和平计划，“和平委员会”回应以方顾虑",
-          "url": "https://flash.jin10.com/detail/20260810032020066800",
-          "heat": false
-        },
-        {
-          "title": "一位也门军方消息人士表示，该国公民应远离沙特军事人员集结地。",
-          "url": "https://flash.jin10.com/detail/20260810031913018800",
-          "heat": false
-        },
-        {
-          "title": "前美国安全官员警告：特朗普正按“独裁者剧本”行事，美国安全堪忧",
-          "url": "https://flash.jin10.com/detail/20260810030225732800",
-          "heat": false
-        },
-        {
-          "title": "据俄新社：俄罗斯军队对敖德萨热电厂和七个乌克兰变电站进行了打击。",
-          "url": "https://flash.jin10.com/detail/20260810025802999800",
-          "heat": false
-        },
-        {
-          "title": "据英国金融时报：前美国安全官员警告，美国总统特朗普正在拆除美国的防护屏障。",
-          "url": "https://flash.jin10.com/detail/20260810025259260800",
-          "heat": false
-        },
-        {
-          "title": "匈牙利央行官员盛赞加入欧元区的好处",
-          "url": "https://flash.jin10.com/detail/20260810022549114800",
-          "heat": false
-        },
-        {
-          "title": "在霍尔木兹海峡僵局中，伊朗为何自信能“耗过”美国？",
-          "url": "https://flash.jin10.com/detail/20260810022129742800",
-          "heat": false
-        },
-        {
-          "title": "据伊通社（IRNA）：伊朗总统府负责新闻与通信事务的副主任宣布，伊朗最高领袖穆杰塔巴任命穆赫辛·雷扎伊为其在国家安全委员会的代表。",
-          "url": "https://flash.jin10.com/detail/20260810015638671800",
           "heat": false
         }
       ]
