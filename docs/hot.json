@@ -1,6 +1,6 @@
 {
-  "updated": "03:31:02",
-  "total": 243,
+  "updated": "03:35:26",
+  "total": 285,
   "platforms": [
     {
       "id": "zhihu",
@@ -658,6 +658,11 @@
           "heat": ""
         },
         {
+          "title": "印度侨民要求压制厌印情绪",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356999&amp;topic_name=%E5%8D%B0%E5%BA%A6%E4%BE%A8%E6%B0%91%E8%A6%81%E6%B1%82%E5%8E%8B%E5%88%B6%E5%8E%8C%E5%8D%B0%E6%83%85%E7%BB%AA",
+          "heat": ""
+        },
+        {
           "title": "贾冰酒后爆粗,好友偷拍全程",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356997&amp;topic_name=%E8%B4%BE%E5%86%B0%E9%85%92%E5%90%8E%E7%88%86%E7%B2%97%2C%E5%A5%BD%E5%8F%8B%E5%81%B7%E6%8B%8D%E5%85%A8%E7%A8%8B",
           "heat": ""
@@ -785,11 +790,6 @@
         {
           "title": "波兰运动员黑宁波是贫民窟",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356966&amp;topic_name=%E6%B3%A2%E5%85%B0%E8%BF%90%E5%8A%A8%E5%91%98%E9%BB%91%E5%AE%81%E6%B3%A2%E6%98%AF%E8%B4%AB%E6%B0%91%E7%AA%9F",
-          "heat": ""
-        },
-        {
-          "title": "接线员失职被炒,控诉遭恶意辞退",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356960&amp;topic_name=%E6%8E%A5%E7%BA%BF%E5%91%98%E5%A4%B1%E8%81%8C%E8%A2%AB%E7%82%92%2C%E6%8E%A7%E8%AF%89%E9%81%AD%E6%81%B6%E6%84%8F%E8%BE%9E%E9%80%80",
           "heat": ""
         }
       ]
@@ -1133,8 +1133,69 @@
     {
       "id": "ifeng",
       "name": "凤凰网",
-      "count": 0,
-      "items": []
+      "count": 12,
+      "items": [
+        {
+          "title": "伊朗高层变动，最高领袖发出新任命",
+          "url": "https://news.ifeng.com/c/8vSqCKLbBLT",
+          "heat": ""
+        },
+        {
+          "title": "内塔尼亚胡现在反悔了",
+          "url": "https://news.ifeng.com/c/8vT0qwyFRIL",
+          "heat": ""
+        },
+        {
+          "title": "内塔尼亚胡“澄清”：以色列拒绝美方计划",
+          "url": "https://news.ifeng.com/c/8vSSHKuaMh8",
+          "heat": ""
+        },
+        {
+          "title": "伊朗最高领袖与总统会谈，重点讨论了这几个问题",
+          "url": "https://news.ifeng.com/c/8vS3pS8BvYm",
+          "heat": ""
+        },
+        {
+          "title": "特朗普公布新任总统助理人选",
+          "url": "https://news.ifeng.com/c/8vT8RYkNUQr",
+          "heat": ""
+        },
+        {
+          "title": "美军基地遭袭，伊朗公布最新卫星对比图",
+          "url": "https://news.ifeng.com/c/8vT6dxUIQom",
+          "heat": ""
+        },
+        {
+          "title": "倒向乌克兰？武契奇否认",
+          "url": "https://news.ifeng.com/c/8vTIsuHgsbF",
+          "heat": ""
+        },
+        {
+          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
+          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
+          "heat": ""
+        },
+        {
+          "title": "特朗普这是此地无银三百两吗？",
+          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
+          "heat": ""
+        },
+        {
+          "title": "民进党当局连续被日本政府羞辱？港媒：赤裸裸摊开国际现实",
+          "url": "https://news.ifeng.com/c/8vTGJXrK7co",
+          "heat": ""
+        },
+        {
+          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
+          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
+          "heat": ""
+        },
+        {
+          "title": "收到紧急命令，加拿大2万人连夜逃命",
+          "url": "https://news.ifeng.com/c/8vSAmw4emZY",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "toutiao",
@@ -1147,8 +1208,8 @@
           "heat": ""
         },
         {
-          "title": "蔡磊谈渐冻症晚期病情",
-          "url": "https://www.toutiao.com/trending/7671198704024322058/",
+          "title": "土耳其赛马场两马惨烈相撞",
+          "url": "https://www.toutiao.com/trending/7671424459643043878/",
           "heat": ""
         },
         {
@@ -1172,8 +1233,8 @@
           "heat": ""
         },
         {
-          "title": "美国以经济施压替代对伊军事行动",
-          "url": "https://www.toutiao.com/trending/7672181167310769706/",
+          "title": "台退将：大陆耐心有限终将不统而统",
+          "url": "https://www.toutiao.com/trending/7671288479745392646/",
           "heat": ""
         },
         {
@@ -1182,8 +1243,8 @@
           "heat": ""
         },
         {
-          "title": "加沙约14万栋建筑被完全摧毁",
-          "url": "https://www.toutiao.com/trending/7671876542372298795/",
+          "title": "蔡磊谈渐冻症晚期病情",
+          "url": "https://www.toutiao.com/trending/7671198704024322058/",
           "heat": ""
         },
         {
@@ -1207,33 +1268,8 @@
           "heat": ""
         },
         {
-          "title": "上海多区发布暴雨橙色预警",
-          "url": "https://www.toutiao.com/trending/7672185455110016521/",
-          "heat": ""
-        },
-        {
-          "title": "第二代490牛发动机完成百发卫星任务",
-          "url": "https://www.toutiao.com/trending/7671918250200039478/",
-          "heat": ""
-        },
-        {
-          "title": "伊朗最高领袖与总统会谈",
-          "url": "https://www.toutiao.com/trending/7670941843498287158/",
-          "heat": ""
-        },
-        {
-          "title": "钱塘江江滩现惊艳“大地流沙”画面",
-          "url": "https://www.toutiao.com/trending/7671885329657364523/",
-          "heat": ""
-        },
-        {
-          "title": "外媒：世界对中国产品需求不断增长",
-          "url": "https://www.toutiao.com/trending/7672205925381312009/",
-          "heat": ""
-        },
-        {
-          "title": "伊朗公布美军基地遭袭前后卫星对比图",
-          "url": "https://www.toutiao.com/trending/7671344515512762409/",
+          "title": "小沈阳加盟《披荆斩棘》",
+          "url": "https://www.toutiao.com/trending/7671229533500555306/",
           "heat": ""
         },
         {
@@ -1242,8 +1278,33 @@
           "heat": ""
         },
         {
-          "title": "印女子出轨被撞破与情夫一起遭毒打",
-          "url": "https://www.toutiao.com/trending/7671944826552057899/",
+          "title": "伊朗最高领袖与总统会谈",
+          "url": "https://www.toutiao.com/trending/7670941843498287158/",
+          "heat": ""
+        },
+        {
+          "title": "男子离婚后留给前妻千万债务",
+          "url": "https://www.toutiao.com/trending/7671831710077599807/",
+          "heat": ""
+        },
+        {
+          "title": "上海多区发布暴雨橙警",
+          "url": "https://www.toutiao.com/trending/7672185455110016521/",
+          "heat": ""
+        },
+        {
+          "title": "七旬老人被女主播骗8万",
+          "url": "https://www.toutiao.com/trending/7672018185071804422/",
+          "heat": ""
+        },
+        {
+          "title": "北京发布暴雨橙色预警",
+          "url": "https://www.toutiao.com/trending/7672217870108986922/",
+          "heat": ""
+        },
+        {
+          "title": "受台风影响上海鼓励居家办公",
+          "url": "https://www.toutiao.com/trending/7671480066983002153/",
           "heat": ""
         },
         {
@@ -1252,43 +1313,43 @@
           "heat": ""
         },
         {
+          "title": "第二代490牛发动机完成百发卫星任务",
+          "url": "https://www.toutiao.com/trending/7671918250200039478/",
+          "heat": ""
+        },
+        {
+          "title": "钱塘江江滩现惊艳“大地流沙”画面",
+          "url": "https://www.toutiao.com/trending/7671885329657364523/",
+          "heat": ""
+        },
+        {
+          "title": "美国以经济施压替代对伊军事行动",
+          "url": "https://www.toutiao.com/trending/7672181167310769706/",
+          "heat": ""
+        },
+        {
+          "title": "专家：菲方非法主张新变种手法拙劣",
+          "url": "https://www.toutiao.com/trending/7671086005776990234/",
+          "heat": ""
+        },
+        {
+          "title": "河北发布暴雨橙色预警",
+          "url": "https://www.toutiao.com/trending/7672225050124095019/",
+          "heat": ""
+        },
+        {
+          "title": "金正恩会见朝鲜国立交响乐团艺术家",
+          "url": "https://www.toutiao.com/trending/7672028741229297707/",
+          "heat": ""
+        },
+        {
+          "title": "今天是大将粟裕诞辰119周年",
+          "url": "https://www.toutiao.com/trending/7671058039643619379/",
+          "heat": ""
+        },
+        {
           "title": "江苏昆山升级发布暴雨红警",
           "url": "https://www.toutiao.com/trending/7672209928961920553/",
-          "heat": ""
-        },
-        {
-          "title": "研究发现“伟哥”成分或有抗癌潜力",
-          "url": "https://www.toutiao.com/trending/7671448721934188585/",
-          "heat": ""
-        },
-        {
-          "title": "“绕不开”的霍尔木兹海峡",
-          "url": "https://www.toutiao.com/trending/7672052899295268394/",
-          "heat": ""
-        },
-        {
-          "title": "台风天消防员匆匆扒完饭又冲进风雨",
-          "url": "https://www.toutiao.com/trending/7671866720215105555/",
-          "heat": ""
-        },
-        {
-          "title": "乘客讲述可乐爆瓶击伤空乘眼部",
-          "url": "https://www.toutiao.com/trending/7672027933289283627/",
-          "heat": ""
-        },
-        {
-          "title": "台湾记者直面白海豚紧抓杆不敢松手",
-          "url": "https://www.toutiao.com/trending/7670776714448096804/",
-          "heat": ""
-        },
-        {
-          "title": "土耳其赛马场两马惨烈相撞",
-          "url": "https://www.toutiao.com/trending/7671424459643043878/",
-          "heat": ""
-        },
-        {
-          "title": "男子离婚后留给前妻千万债务",
-          "url": "https://www.toutiao.com/trending/7671831710077599807/",
           "heat": ""
         }
       ]
@@ -1296,8 +1357,159 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "金十数据整理：每日存储市场要闻速递（2026-08-10）",
+          "url": "https://flash.jin10.com/detail/20260810110831417800",
+          "heat": "✰"
+        },
+        {
+          "title": "日本央行鹰派信号加码：通胀风险加剧，加息节奏或超预期",
+          "url": "https://flash.jin10.com/detail/20260810110825163800",
+          "heat": "✰"
+        },
+        {
+          "title": "某头部云厂商GPU报价11天零波动 A100/A10全线售罄",
+          "url": "https://flash.jin10.com/detail/20260810110620884800",
+          "heat": false
+        },
+        {
+          "title": "隔夜shibor报1.3770%，上涨1.6个基点；7天shibor报1.4000%，上涨0.9个基点；3个月shibor报1.4300%，与上日持平。点击查看>>",
+          "url": "https://flash.jin10.com/detail/20260810110514446800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月10日（周一）上海金早盘价为938.76元/克，较国际金价(936.92元/克)，高1.84元/克",
+          "url": "https://flash.jin10.com/detail/20260810110224681800",
+          "heat": false
+        },
+        {
+          "title": "广东省新型政策性金融工具培训视频会议（民营企业专场）在广州召开",
+          "url": "https://flash.jin10.com/detail/20260810110218820800",
+          "heat": false
+        },
+        {
+          "title": "“金虫”没有退场：黄金多头等待债市转向，看涨押注正在升温",
+          "url": "https://flash.jin10.com/detail/20260810110204324800",
+          "heat": "✰"
+        },
+        {
+          "title": "金十图示：2026年08月10日（周一）全球富豪榜",
+          "url": "https://flash.jin10.com/detail/20260810110102701800",
+          "heat": false
+        },
+        {
+          "title": "A股CPO概念盘中持续走弱，光迅科技逼近跌停，中际旭创跌超7%，东山精密、新易盛、长芯博创、联讯仪器等均跌超5%。",
+          "url": "https://flash.jin10.com/detail/20260810105948122800",
+          "heat": "✰"
+        },
+        {
+          "title": "Academy Securities：AI股票承受资本开支压力，AI债券却出现另一种机会",
+          "url": "https://flash.jin10.com/detail/20260810105752542800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月10日（周一）亚太市场股市指数（盘初）",
+          "url": "https://flash.jin10.com/detail/20260810105725271800",
+          "heat": false
+        },
+        {
+          "title": "渤海油田上半年油气产量创新高 千亿方大气田一期开发项目全面投产",
+          "url": "https://flash.jin10.com/detail/20260810105658026800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月10日（周一）全球主要科技与互联网公司市值变化",
+          "url": "https://flash.jin10.com/detail/20260810105631181800",
+          "heat": false
+        },
+        {
+          "title": "霍尔木兹僵局未破，油价短期仍有支撑——新版发布",
+          "url": "https://flash.jin10.com/detail/20260810105603133800",
+          "heat": "✰"
+        },
+        {
+          "title": "金十图示：2026年08月10日（周一）港A科技互联网公司市值排名TOP 50一览",
+          "url": "https://flash.jin10.com/detail/20260810105544282800",
+          "heat": false
+        },
+        {
+          "title": "就业市场降温推动金价上周大幅反弹，现货黄金多头占比现略微占优，白银多头占比高达88%；霍尔木兹海峡开放步入关键时刻，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260810105514008800",
+          "heat": false
+        },
+        {
+          "title": "科创50指数日内跌逾2%。",
+          "url": "https://flash.jin10.com/detail/20260810104837022800",
+          "heat": "✰"
+        },
+        {
+          "title": "快时尚巨头等待复苏 希音2027年盈利料将恢复",
+          "url": "https://flash.jin10.com/detail/20260810104740812800",
+          "heat": false
+        },
+        {
+          "title": "多支高溢价LOF大幅下跌",
+          "url": "https://flash.jin10.com/detail/20260810104631933800",
+          "heat": "✰"
+        },
+        {
+          "title": "创业板指走低跌逾2%，深证成指现跌超1%，沪指涨幅收窄至0.3%。CPO、先进封装等板块跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260810104530733800",
+          "heat": "✰"
+        },
+        {
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20260810104137102800",
+          "heat": false
+        },
+        {
+          "title": "美国共和党全国委员会主席：预计中期选举后共和党将保住参众两院控制权",
+          "url": "https://flash.jin10.com/detail/20260810104128451800",
+          "heat": false
+        },
+        {
+          "title": "A股民爆概念持续走强，凯龙股份、高争民爆涨停，广东宏大涨超4%，金奥博、四川美丰等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260810104038568800",
+          "heat": false
+        },
+        {
+          "title": "非农已明显缓解加息压力，黄金将在8月走出季节性行情？——新版发布",
+          "url": "https://flash.jin10.com/detail/20260810103731446800",
+          "heat": "✰"
+        },
+        {
+          "title": "各大银行/品牌金条价格排行一览",
+          "url": "https://flash.jin10.com/detail/20260810103715895800",
+          "heat": false
+        },
+        {
+          "title": "金十期货8月10日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨1600元/吨，中间价报144150元/吨。",
+          "url": "https://flash.jin10.com/detail/20260810103426036800",
+          "heat": false
+        },
+        {
+          "title": "第一三共：与信达生物关于维复泰®在中国大陆达成商业化合作",
+          "url": "https://flash.jin10.com/detail/20260810103345590800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月10日（周一）中国工商银行账户贵金属行情",
+          "url": "https://flash.jin10.com/detail/20260810103230895800",
+          "heat": false
+        },
+        {
+          "title": "美债收益率逼近失控？贝森特连续出招，华尔街解读出“救债市”信号",
+          "url": "https://flash.jin10.com/detail/20260810102945512800",
+          "heat": "✰"
+        },
+        {
+          "title": "中国AI大模型调用量连续十五周领跑 DeepSeek-V4-Flash正式版登顶",
+          "url": "https://flash.jin10.com/detail/20260810102929259800",
+          "heat": false
+        }
+      ]
     }
   ]
 }
