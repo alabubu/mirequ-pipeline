@@ -1,6 +1,6 @@
 {
-  "updated": "22:30:52",
-  "total": 237,
+  "updated": "22:35:26",
+  "total": 282,
   "platforms": [
     {
       "id": "zhihu",
@@ -954,20 +954,248 @@
     {
       "id": "cls-hot",
       "name": "财联社",
-      "count": 0,
-      "items": []
+      "count": 13,
+      "items": [
+        {
+          "title": "马斯克的新挑战：给光刻机“换束光”",
+          "url": "https://www.cls.cn/detail/2450318",
+          "heat": ""
+        },
+        {
+          "title": "《中国人民银行“十五五”改革发展规划》发布",
+          "url": "https://www.cls.cn/detail/2450255",
+          "heat": ""
+        },
+        {
+          "title": "9天8板暴涨130%！民爆热股月涨幅市场第二，连涨股近日扫描，这些方向占比较高",
+          "url": "https://www.cls.cn/detail/2450169",
+          "heat": ""
+        },
+        {
+          "title": "中签率0.0181%！宇树科技今天打新，机器人产业链迎来估值锚点",
+          "url": "https://www.cls.cn/detail/2450388",
+          "heat": ""
+        },
+        {
+          "title": "年内最贵新股，中签号公布",
+          "url": "https://www.cls.cn/detail/2450329",
+          "heat": ""
+        },
+        {
+          "title": "抓典型！最新监管通报指向“C基金公司”，再给大V带货、风格漂移敲警钟",
+          "url": "https://www.cls.cn/detail/2450054",
+          "heat": ""
+        },
+        {
+          "title": "【焦点复盘】微盘股指数7连涨站上年线，全市场近百股涨停，AI赋能持续催热创新药概念",
+          "url": "https://www.cls.cn/detail/2450137",
+          "heat": ""
+        },
+        {
+          "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
+          "url": "https://www.cls.cn/detail/2450652",
+          "heat": ""
+        },
+        {
+          "title": "【每日收评】沪指录得5连阳，全市场超4000股飘红，大消费、有色板块集体走强",
+          "url": "https://www.cls.cn/detail/2450076",
+          "heat": ""
+        },
+        {
+          "title": "扎克伯格重返开源模型路线 中东局势又现波折 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2450457",
+          "heat": ""
+        },
+        {
+          "title": "江波龙上半年净利超百亿，拟最高8亿元回购股份",
+          "url": "https://www.cls.cn/detail/2450426",
+          "heat": ""
+        },
+        {
+          "title": "《煤炭工业发展“十五五”规划》印发",
+          "url": "https://www.cls.cn/detail/2450018",
+          "heat": ""
+        },
+        {
+          "title": "一图看懂｜禁令获批VS订单暴增：药明康德的两个“战场”",
+          "url": "https://www.cls.cn/detail/2450182",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "thepaper",
       "name": "澎湃新闻",
-      "count": 0,
-      "items": []
+      "count": 20,
+      "items": [
+        {
+          "title": "外交部：百余名菲律宾公民因非法就业、非法居留被依法处理",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33754109",
+          "heat": ""
+        },
+        {
+          "title": "公安部深化扫黑除恶专项斗争第一轮集中收网，抓获犯罪嫌疑人8200余名",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33754726",
+          "heat": ""
+        },
+        {
+          "title": "中星4B卫星发射失利",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33755223",
+          "heat": ""
+        },
+        {
+          "title": "“白海豚”将影响京津冀地区，专家：本次台风系统较先前更复杂",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33754228",
+          "heat": ""
+        },
+        {
+          "title": "武汉警方通报城管协管员与摊主发生冲突：3名协管员被刑拘",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33750449",
+          "heat": ""
+        },
+        {
+          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33750452",
+          "heat": ""
+        },
+        {
+          "title": "【社论】如何“关闭”坑老的弹窗广告",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33753139",
+          "heat": ""
+        },
+        {
+          "title": "人民论坛：武松打虎，首先是“敢”打",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33750252",
+          "heat": ""
+        },
+        {
+          "title": "代表建议设立带薪陪考假“中考3天、高考5天”，当地人社局回应",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33753022",
+          "heat": ""
+        },
+        {
+          "title": "拜登之子：拜登癌症已扩散，令他非常痛苦",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33750313",
+          "heat": ""
+        },
+        {
+          "title": "媒体：演员秦焰因病去世，曾出演《狂飙》《我爱我家》等",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33752223",
+          "heat": ""
+        },
+        {
+          "title": "宇树科技：回拨机制启动后，网上发行最终中签率为0.01809759%",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33754082",
+          "heat": ""
+        },
+        {
+          "title": "现场｜最大规模方增先回顾展：再现他的人物画探索之路",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33754454",
+          "heat": ""
+        },
+        {
+          "title": "日月谭天丨一场演习、一部大片，让岛内看清“台独”末日",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33755077",
+          "heat": ""
+        },
+        {
+          "title": "一个抢排“老兵”的台风天：从一处积水点到下一处积水点",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33753700",
+          "heat": ""
+        },
+        {
+          "title": "上海发布8月11日交通出行通告，早高峰期间仍需注意风雨影响",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33754396",
+          "heat": ""
+        },
+        {
+          "title": "潮涌千帆志昂扬——党中央、国务院邀请优秀专家人才代表北戴河休假侧记 ",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33750249",
+          "heat": ""
+        },
+        {
+          "title": "IPO周报｜本周4只新股申购，“人形机器人第一股”宇树科技今日打新",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33750281",
+          "heat": ""
+        },
+        {
+          "title": "台风暴雨强对流！中央气象台三预警齐发，11个省份有大到暴雨",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33750785",
+          "heat": ""
+        },
+        {
+          "title": "马上评｜台风汛情绝不是流量密码",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33751172",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "ifeng",
       "name": "凤凰网",
-      "count": 0,
-      "items": []
+      "count": 12,
+      "items": [
+        {
+          "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
+          "url": "https://news.ifeng.com/c/8vTlIUCd26B",
+          "heat": ""
+        },
+        {
+          "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
+          "url": "https://news.ifeng.com/c/8vTiqvCqOyW",
+          "heat": ""
+        },
+        {
+          "title": "特朗普称要向伊朗索赔",
+          "url": "https://news.ifeng.com/c/8vUHiH9a6Bz",
+          "heat": ""
+        },
+        {
+          "title": "伊朗回应特朗普“棋局”比喻：伊朗人是“专业棋手”",
+          "url": "https://news.ifeng.com/c/8vTu2Im0JsI",
+          "heat": ""
+        },
+        {
+          "title": "中国驻日本大使馆：台湾不是一个国家，不存在“国格”一说",
+          "url": "https://news.ifeng.com/c/8vTrgaTJuzw",
+          "heat": ""
+        },
+        {
+          "title": "日本民众质问高市政府：粮食自给率只有36%，拿什么去打仗？",
+          "url": "https://news.ifeng.com/c/8vTsXOzcp3M",
+          "heat": ""
+        },
+        {
+          "title": "泽连斯基声称5万朝军或入俄，呼吁韩国与乌克兰加强合作",
+          "url": "https://news.ifeng.com/c/8vTdI4YiJIX",
+          "heat": ""
+        },
+        {
+          "title": "那些搬到越南的工厂，正在重新回到中国",
+          "url": "https://news.ifeng.com/c/8vThKJ77VvL",
+          "heat": ""
+        },
+        {
+          "title": "地震已致77人死亡，哥伦比亚宣布进入国家灾难状态",
+          "url": "https://news.ifeng.com/c/8vUHiH9a6H6",
+          "heat": ""
+        },
+        {
+          "title": "中国驻菲律宾大使馆：重大涉诈逃犯檀某落网",
+          "url": "https://news.ifeng.com/c/8vU4JXwHdBh",
+          "heat": ""
+        },
+        {
+          "title": "原料、设备和资金全是坑，怎么跟中国争！印度稀土大计卡了",
+          "url": "https://news.ifeng.com/c/8vTuyw7b9OV",
+          "heat": ""
+        },
+        {
+          "title": "耶鲁大学高级研究员唱衰香港的老调，该收场了！",
+          "url": "https://news.ifeng.com/c/8vU5X3sL2GX",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "toutiao",
