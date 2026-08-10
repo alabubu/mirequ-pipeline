@@ -1,6 +1,6 @@
 {
-  "updated": "02:35:26",
-  "total": 281,
+  "updated": "02:40:35",
+  "total": 284,
   "platforms": [
     {
       "id": "zhihu",
@@ -596,16 +596,6 @@
           "heat": ""
         },
         {
-          "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
-          "url": "https://wallstreetcn.com/articles/3778994",
-          "heat": ""
-        },
-        {
-          "title": "本周重磅日程：美国CPI，宇树科技打新，腾讯、京东、茅台、中芯国际财报",
-          "url": "https://wallstreetcn.com/articles/3778910",
-          "heat": ""
-        },
-        {
           "title": "周末热议：“空存储、多光”？ ",
           "url": "https://wallstreetcn.com/articles/3778999",
           "heat": ""
@@ -633,6 +623,16 @@
         {
           "title": "摩尔线程：上半年营收激增147%，净亏损大幅收窄，筹划发行H股赴港上市",
           "url": "https://wallstreetcn.com/articles/3779010",
+          "heat": ""
+        },
+        {
+          "title": "华尔街谈“中概”：从“无力”到“机会性看多”",
+          "url": "https://wallstreetcn.com/articles/3779018",
+          "heat": ""
+        },
+        {
+          "title": "中美Token经济学：利润来源、溢价流向与兑现顺序 ",
+          "url": "https://wallstreetcn.com/articles/3779009",
           "heat": ""
         }
       ]
@@ -977,11 +977,6 @@
           "heat": ""
         },
         {
-          "title": "【早报】Apple智能可配合阿里千问模型工作；江波龙定增大幅溢价",
-          "url": "https://www.cls.cn/detail/2449188",
-          "heat": ""
-        },
-        {
           "title": "获美法院初步禁令！药明康德司法反制1260H名单迎阶段胜利 年内博弈或趋缓",
           "url": "https://www.cls.cn/detail/2449388",
           "heat": ""
@@ -1019,6 +1014,11 @@
         {
           "title": "上海地铁：8月10日，3号线、5号线、16号线、浦江线全线停运",
           "url": "https://www.cls.cn/detail/2449403",
+          "heat": ""
+        },
+        {
+          "title": "0.02%！今年“最贵”新股频准激光中签率出炉",
+          "url": "https://www.cls.cn/detail/2449299",
           "heat": ""
         }
       ]
@@ -1357,8 +1357,88 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 26,
+      "count": 29,
       "items": [
+        {
+          "title": "各大银行/品牌金条价格排行一览",
+          "url": "https://flash.jin10.com/detail/20260810103715895800",
+          "heat": false
+        },
+        {
+          "title": "金十期货8月10日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨1600元/吨，中间价报144150元/吨。",
+          "url": "https://flash.jin10.com/detail/20260810103426036800",
+          "heat": false
+        },
+        {
+          "title": "第一三共：与信达生物关于维复泰®在中国大陆达成商业化合作",
+          "url": "https://flash.jin10.com/detail/20260810103345590800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月10日（周一）中国工商银行账户贵金属行情",
+          "url": "https://flash.jin10.com/detail/20260810103230895800",
+          "heat": false
+        },
+        {
+          "title": "美债收益率逼近失控？贝森特连续出招，华尔街解读出“救债市”信号",
+          "url": "https://flash.jin10.com/detail/20260810102945512800",
+          "heat": "✰"
+        },
+        {
+          "title": "中国AI大模型调用量连续十五周领跑 DeepSeek-V4-Flash正式版登顶",
+          "url": "https://flash.jin10.com/detail/20260810102929259800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月10日（周一）亚盘市场行情",
+          "url": "https://flash.jin10.com/detail/20260810102925268800",
+          "heat": false
+        },
+        {
+          "title": "A股旅游及酒店板块走高，华天酒店涨停，锦江酒店、金陵饭店、君亭酒店、首旅酒店跟涨。",
+          "url": "https://flash.jin10.com/detail/20260810102406719800",
+          "heat": false
+        },
+        {
+          "title": "韩媒：李在明将视察人工智能相关投资计划的进展情况",
+          "url": "https://flash.jin10.com/detail/20260810102358029800",
+          "heat": false
+        },
+        {
+          "title": "从流程简化到资金加码 多地完善汽车消费补贴政策",
+          "url": "https://flash.jin10.com/detail/20260810102211345800",
+          "heat": false
+        },
+        {
+          "title": "西太平洋银行：下行风险兑现但CPI降温 澳联储8月料维持利率不变",
+          "url": "https://flash.jin10.com/detail/20260810102044156800",
+          "heat": false
+        },
+        {
+          "title": "印尼雅加达综合指数一度上涨0.7%，至6,454.388点，创下自5月20日以来的最高水平。",
+          "url": "https://flash.jin10.com/detail/20260810101745373800",
+          "heat": false
+        },
+        {
+          "title": "Plus精选图表",
+          "url": "https://flash.jin10.com/detail/20260810101659199800",
+          "heat": false
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260810101658859800",
+          "heat": "✰"
+        },
+        {
+          "title": "内存价格贵回2007年 DDR5每GB卖到90块",
+          "url": "https://flash.jin10.com/detail/20260810101640338800",
+          "heat": false
+        },
+        {
+          "title": "港股养殖板块走强，中粮家佳康(01610.HK)涨超4%，牧原股份(02714.HK)、德康农牧(02419.HK)等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260810101320669800",
+          "heat": false
+        },
         {
           "title": "A股造纸板短线拉升，宜宾纸业触及涨停，齐峰新材、恒丰纸业、森林包装、民丰特纸、恒达新材跟涨。",
           "url": "https://flash.jin10.com/detail/20260810101240509800",
@@ -1423,71 +1503,6 @@
           "title": "中华人民共和国财政部、澳门特别行政区中央政府在澳门发行人民币国债",
           "url": "https://flash.jin10.com/detail/20260810100121098800",
           "heat": false
-        },
-        {
-          "title": "A股黄金概念持续走强，潮宏基、宝鼎科技涨停，山金国际、招金黄金、菜百股份、西部黄金等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260810100051146800",
-          "heat": false
-        },
-        {
-          "title": "A股寒武纪跌超5%，成交额超100亿元。",
-          "url": "https://flash.jin10.com/detail/20260810095838513800",
-          "heat": "✰"
-        },
-        {
-          "title": "美能源企业运钻探设备赴格陵兰岛 遭严正警告",
-          "url": "https://flash.jin10.com/detail/20260810095611980800",
-          "heat": false
-        },
-        {
-          "title": "华尔街分析师：美国CPI数据滞后，美联储的天平正向降息倾斜",
-          "url": "https://flash.jin10.com/detail/20260810095549716800",
-          "heat": "✰"
-        },
-        {
-          "title": "日经225指数突破67000点，日内涨2.13%。",
-          "url": "https://flash.jin10.com/detail/20260810095335374800",
-          "heat": false
-        },
-        {
-          "title": "A股白酒板块短线走强，会稽山、迎驾贡酒涨超5%，贵州茅台涨超2%，古井贡酒、泸州老窖等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260810095308813800",
-          "heat": false
-        },
-        {
-          "title": "A股半导体设备板块再度拉升，盛美上海涨超10%，托伦斯、微导纳米、恒运昌、富创精密、至纯科技等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260810095231388800",
-          "heat": "✰"
-        },
-        {
-          "title": "A股存储芯片板块震荡走低，朗科科技跌超13%，普冉股份、托伦斯、圣邦股份、北京君正、佰维存储跟跌。",
-          "url": "https://flash.jin10.com/detail/20260810094757732800",
-          "heat": "✰"
-        },
-        {
-          "title": "美战机拦截特朗普球场附近飞机",
-          "url": "https://flash.jin10.com/detail/20260810094713330800",
-          "heat": false
-        },
-        {
-          "title": "A股早盘钴矿概念再度活跃，寒锐钴业涨超10%，此前鹏欣资源涨停，腾远钴业、华友钴业、中矿资源、格林美、盛屯矿业跟涨。",
-          "url": "https://flash.jin10.com/detail/20260810094642129800",
-          "heat": false
-        },
-        {
-          "title": "科创50指数跌幅扩大至1%。",
-          "url": "https://flash.jin10.com/detail/20260810094544854800",
-          "heat": false
-        },
-        {
-          "title": "A股中际旭创盘初跌超3%，成交额超110亿元。",
-          "url": "https://flash.jin10.com/detail/20260810094532495800",
-          "heat": "✰"
-        },
-        {
-          "title": "A股锂矿板块走高，永杉锂业涨停，融捷股份、天齐锂业、赣锋锂业、永兴材料、盛新锂能等纷纷走高。",
-          "url": "https://flash.jin10.com/detail/20260810094409282800",
-          "heat": "✰"
         }
       ]
     }
