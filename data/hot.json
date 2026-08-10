@@ -1,6 +1,6 @@
 {
-  "updated": "14:35:39",
-  "total": 281,
+  "updated": "14:40:33",
+  "total": 280,
   "platforms": [
     {
       "id": "zhihu",
@@ -606,6 +606,11 @@
           "heat": ""
         },
         {
+          "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "heat": ""
+        },
+        {
           "title": "硅基vs碳基、光vs存储、开源vs闭源--这是高盛顶级科技交易员最关注的10张图表",
           "url": "https://wallstreetcn.com/articles/3779037",
           "heat": ""
@@ -616,23 +621,18 @@
           "heat": ""
         },
         {
-          "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "heat": ""
-        },
-        {
           "title": "宇树科技科创板申购火爆，中签率仅0.018%，首日盈利或逾20万元",
           "url": "https://wallstreetcn.com/articles/3779085",
           "heat": ""
         },
         {
-          "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
-          "url": "https://wallstreetcn.com/articles/3779034",
+          "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
+          "url": "https://wallstreetcn.com/articles/3779081",
           "heat": ""
         },
         {
-          "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
-          "url": "https://wallstreetcn.com/articles/3779081",
+          "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
+          "url": "https://wallstreetcn.com/articles/3779034",
           "heat": ""
         }
       ]
@@ -1357,8 +1357,108 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 26,
+      "count": 25,
       "items": [
+        {
+          "title": "美国中央司令部在社交媒体发布照片，其内容是“一架美国空军F-16战斗机从中东的一个基地起飞”。",
+          "url": "https://flash.jin10.com/detail/20260810223154186800",
+          "heat": false
+        },
+        {
+          "title": "原油跌了30%，成品油反噬的风险却在逼近？",
+          "url": "https://flash.jin10.com/detail/20260810223028290800",
+          "heat": false
+        },
+        {
+          "title": "哥伦比亚马尼萨莱斯市市长报告称，地震已造成至少2人死亡。",
+          "url": "https://flash.jin10.com/detail/20260810222702010800",
+          "heat": false
+        },
+        {
+          "title": "墨西哥主要股票指数下跌1%。",
+          "url": "https://flash.jin10.com/detail/20260810222542836800",
+          "heat": false
+        },
+        {
+          "title": "据伊朗媒体Fars News：也门无人机袭击目标直指沙特在摩卡地区的代理人。",
+          "url": "https://flash.jin10.com/detail/20260810222535115800",
+          "heat": false
+        },
+        {
+          "title": "乌克兰军方：击中了位于秋明州的俄罗斯石化厂。",
+          "url": "https://flash.jin10.com/detail/20260810222330233800",
+          "heat": "✰"
+        },
+        {
+          "title": "美国得州政府：Meta Platforms(META.O)承诺遵守数据中心标准。",
+          "url": "https://flash.jin10.com/detail/20260810222304346800",
+          "heat": false
+        },
+        {
+          "title": "雷扎伊任命显示伊朗军政宗教高层“协同加强”",
+          "url": "https://flash.jin10.com/detail/20260810222218882800",
+          "heat": false
+        },
+        {
+          "title": "智谱API用户数近700万，新启用超5万块国产算力芯片",
+          "url": "https://flash.jin10.com/detail/20260810222148392800",
+          "heat": false
+        },
+        {
+          "title": "对下半年干散货行情如何展望？海通发展回应",
+          "url": "https://flash.jin10.com/detail/20260810222031355800",
+          "heat": false
+        },
+        {
+          "title": "热浪将至叠加出口回升 美国天然气期货价格飙升",
+          "url": "https://flash.jin10.com/detail/20260810221919000800",
+          "heat": false
+        },
+        {
+          "title": "巴基斯坦与伊朗外长通话 就地区局势交换意见",
+          "url": "https://flash.jin10.com/detail/20260810221826228800",
+          "heat": false
+        },
+        {
+          "title": "伊朗开复航条件，俄油回流G7：两股力量重塑能源定价 | Plus日报",
+          "url": "https://flash.jin10.com/detail/20260810221813827800",
+          "heat": false
+        },
+        {
+          "title": "据阿拉比亚电视台：也门军队在摩卡地区应对胡塞武装的无人机。",
+          "url": "https://flash.jin10.com/detail/20260810221701467800",
+          "heat": false
+        },
+        {
+          "title": "韩国拟颁布特别法 为半导体等三大项目清障",
+          "url": "https://flash.jin10.com/detail/20260810221604617800",
+          "heat": false
+        },
+        {
+          "title": "哥伦比亚多地机场地震中受损",
+          "url": "https://flash.jin10.com/detail/20260810221546041800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：韩国将颁布特别法，加快半导体、人工智能大型项目建设。",
+          "url": "https://flash.jin10.com/detail/20260810221103638800",
+          "heat": false
+        },
+        {
+          "title": "美光科技(MU.O)涨幅扩大至1.4%。",
+          "url": "https://flash.jin10.com/detail/20260810221010081800",
+          "heat": false
+        },
+        {
+          "title": "哥伦比亚卡利市市长称，地震后有人被困在倒塌的建筑物中。",
+          "url": "https://flash.jin10.com/detail/20260810220945206800",
+          "heat": false
+        },
+        {
+          "title": "英国10年期国债收益率升至4.988%，创6日新高。",
+          "url": "https://flash.jin10.com/detail/20260810220834109800",
+          "heat": false
+        },
         {
           "title": "哥伦比亚航空管理局：这些航站楼的航空业务已暂停。",
           "url": "https://flash.jin10.com/detail/20260810220501985800",
@@ -1382,111 +1482,6 @@
         {
           "title": "美国7月谘商会就业趋势指数 107.71，前值106.69。",
           "url": "https://flash.jin10.com/detail/20260810220024812800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：2026年08月10日（周一）全球股市指数-美洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260810220020455800",
-          "heat": false
-        },
-        {
-          "title": "多家券商上调年底标普500指数至8000点",
-          "url": "https://flash.jin10.com/detail/20260810215906770800",
-          "heat": false
-        },
-        {
-          "title": "WTI原油站上80美元/桶，为8月4日以来新高，日内涨4.78%。",
-          "url": "https://flash.jin10.com/detail/20260810215750553800",
-          "heat": "✰"
-        },
-        {
-          "title": "特朗普再对美联储下手！哈塞特急撇清，并拒绝接任理事",
-          "url": "https://flash.jin10.com/detail/20260810215426690800",
-          "heat": "✰"
-        },
-        {
-          "title": "ST惠伦：公司基于原材料价格上涨等原因对产品价格进行了相应调整",
-          "url": "https://flash.jin10.com/detail/20260810215329203800",
-          "heat": false
-        },
-        {
-          "title": "美元兑瑞郎USD/CHF向上触及0.81，日内涨0.26%。",
-          "url": "https://flash.jin10.com/detail/20260810215148770800",
-          "heat": false
-        },
-        {
-          "title": "据国际文传电讯社：截至8月10日，俄罗斯小麦收成超过6000万吨。",
-          "url": "https://flash.jin10.com/detail/20260810215108110800",
-          "heat": false
-        },
-        {
-          "title": "英国央行6亿英镑的7-20年期国债拍卖的投标倍数为1.81。",
-          "url": "https://flash.jin10.com/detail/20260810215022625800",
-          "heat": false
-        },
-        {
-          "title": "日元被干预后的涨幅已跌去一半",
-          "url": "https://flash.jin10.com/detail/20260810214700499800",
-          "heat": "✰"
-        },
-        {
-          "title": "布伦特原油站上85美元/桶，为8月4日以来新高，日内涨4.31%。",
-          "url": "https://flash.jin10.com/detail/20260810214637509800",
-          "heat": "✰"
-        },
-        {
-          "title": "金十图示：2026年08月10日（周一）美盘市场行情一览",
-          "url": "https://flash.jin10.com/detail/20260810214625204800",
-          "heat": false
-        },
-        {
-          "title": "WTI原油日内涨4.00%，现报79.41美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260810214538740800",
-          "heat": false
-        },
-        {
-          "title": "原油系期货主力合约集体走强，SC原油上涨2.12%，现报543.4元/桶。低硫燃料油（LU）上涨2.05%，现报4671元/吨。燃油上涨2.25%，现报3587元/吨。沥青上涨0.98%，现报4215元/吨。",
-          "url": "https://flash.jin10.com/detail/20260810214524322800",
-          "heat": "✰"
-        },
-        {
-          "title": "布伦特原油日内涨4.00%，现报84.76美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260810214356548800",
-          "heat": "✰"
-        },
-        {
-          "title": "金十图示：2026年08月10日（周一）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260810214155047800",
-          "heat": false
-        },
-        {
-          "title": "美国地质调查局：哥伦比亚圣何塞德尔帕尔马尔西面16公里处发生5级地震。",
-          "url": "https://flash.jin10.com/detail/20260810214154157800",
-          "heat": false
-        },
-        {
-          "title": "非农数据大爆冷，黄金来到关键阻力！​《大有作V》栏目更新，3分钟解读国际金走势>><font class=\"important-text\"></font>",
-          "url": "https://flash.jin10.com/detail/20260810214117794800",
-          "heat": false
-        },
-        {
-          "title": "Cloudflare(NET.N)股价下跌2.3%，此前该公司宣布拟私募发行21.75亿美元可转换债券。",
-          "url": "https://flash.jin10.com/detail/20260810214052963800",
-          "heat": false
-        },
-        {
-          "title": "美国天然气期货价格继续上涨，涨幅达到5%，创下两周新高，因液化天然气出口流量达到一个月以来的最高水平。",
-          "url": "https://flash.jin10.com/detail/20260810213806348800",
-          "heat": false
-        },
-        {
-          "title": "哥伦比亚总统德拉埃斯普列亚：发生了地震后，将前往佩雷拉视察。",
-          "url": "https://flash.jin10.com/detail/20260810213757440800",
-          "heat": false
-        },
-        {
-          "title": "微软Maia 300 AI芯片最快9月亮相 已与台积电敲定超30万枚产能",
-          "url": "https://flash.jin10.com/detail/20260810213742375800",
           "heat": false
         }
       ]
