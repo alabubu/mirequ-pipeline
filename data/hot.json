@@ -1,6 +1,6 @@
 {
-  "updated": "17:01:19",
-  "total": 205,
+  "updated": "17:05:30",
+  "total": 282,
   "platforms": [
     {
       "id": "zhihu",
@@ -269,8 +269,159 @@
     {
       "id": "douyin",
       "name": "抖音",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "上海暴雨",
+          "url": "https://www.douyin.com/hot/2603779",
+          "heat": ""
+        },
+        {
+          "title": "台风白海豚实时路径",
+          "url": "https://www.douyin.com/hot/2602902",
+          "heat": ""
+        },
+        {
+          "title": "暑期档电影市场增势向好",
+          "url": "https://www.douyin.com/hot/2604957",
+          "heat": ""
+        },
+        {
+          "title": "易烊千玺百花奖最佳男主角",
+          "url": "https://www.douyin.com/hot/2605003",
+          "heat": ""
+        },
+        {
+          "title": "南太行失联22岁女孩遗体被发现",
+          "url": "https://www.douyin.com/hot/2604364",
+          "heat": ""
+        },
+        {
+          "title": "演员秦焰去世",
+          "url": "https://www.douyin.com/hot/2604306",
+          "heat": ""
+        },
+        {
+          "title": "开封夜市好吃到停不下来",
+          "url": "https://www.douyin.com/hot/2604585",
+          "heat": ""
+        },
+        {
+          "title": "经销商：雪佛兰暂停在华新车销售",
+          "url": "https://www.douyin.com/hot/2604550",
+          "heat": ""
+        },
+        {
+          "title": "一口气看懂万达现状",
+          "url": "https://www.douyin.com/hot/2605041",
+          "heat": ""
+        },
+        {
+          "title": "夏天结束前再漂亮一次",
+          "url": "https://www.douyin.com/hot/2604475",
+          "heat": ""
+        },
+        {
+          "title": "卫诗雅获百花奖最佳女主角",
+          "url": "https://www.douyin.com/hot/2605021",
+          "heat": ""
+        },
+        {
+          "title": "穿搭天才依旧稳定发挥",
+          "url": "https://www.douyin.com/hot/2604130",
+          "heat": ""
+        },
+        {
+          "title": "通勤穿出松弛感",
+          "url": "https://www.douyin.com/hot/2604482",
+          "heat": ""
+        },
+        {
+          "title": "百花奖获奖名单",
+          "url": "https://www.douyin.com/hot/2605047",
+          "heat": ""
+        },
+        {
+          "title": "遗忘之海章鱼哥太难听了",
+          "url": "https://www.douyin.com/hot/2603650",
+          "heat": ""
+        },
+        {
+          "title": "蹦沙卡拉卡反差转场",
+          "url": "https://www.douyin.com/hot/2605085",
+          "heat": ""
+        },
+        {
+          "title": "哥伦比亚发生7.5级地震",
+          "url": "https://www.douyin.com/hot/2604980",
+          "heat": ""
+        },
+        {
+          "title": "火影手游百战虎皮全爆料",
+          "url": "https://www.douyin.com/hot/2604944",
+          "heat": ""
+        },
+        {
+          "title": "王骁萨日娜百花奖最佳男女配",
+          "url": "https://www.douyin.com/hot/2604972",
+          "heat": ""
+        },
+        {
+          "title": "这个半脸动漫惊到我了",
+          "url": "https://www.douyin.com/hot/2604483",
+          "heat": ""
+        },
+        {
+          "title": "电视剧重器开播",
+          "url": "https://www.douyin.com/hot/2604101",
+          "heat": ""
+        },
+        {
+          "title": "伊拉克老王电影龙餐馆观后感",
+          "url": "https://www.douyin.com/hot/2604635",
+          "heat": ""
+        },
+        {
+          "title": "媒体评雪佛兰退出中国市场",
+          "url": "https://www.douyin.com/hot/2604587",
+          "heat": ""
+        },
+        {
+          "title": "第38届百花奖闭幕式",
+          "url": "https://www.douyin.com/hot/2604628",
+          "heat": ""
+        },
+        {
+          "title": "大海真的好美呀",
+          "url": "https://www.douyin.com/hot/2604329",
+          "heat": ""
+        },
+        {
+          "title": "赵鹏皓官宣加入众星时代",
+          "url": "https://www.douyin.com/hot/2604215",
+          "heat": ""
+        },
+        {
+          "title": "七夕那天给我虚晃了一枪",
+          "url": "https://www.douyin.com/hot/2604105",
+          "heat": ""
+        },
+        {
+          "title": "欢迎来龙餐馆沈腾演技",
+          "url": "https://www.douyin.com/hot/2604630",
+          "heat": ""
+        },
+        {
+          "title": "我的暑假漫展日记",
+          "url": "https://www.douyin.com/hot/2604031",
+          "heat": ""
+        },
+        {
+          "title": "用转场打开甲乙丙丁",
+          "url": "https://www.douyin.com/hot/2603741",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "bilibili-hot-search",
@@ -875,8 +1026,109 @@
     {
       "id": "thepaper",
       "name": "澎湃新闻",
-      "count": 0,
-      "items": []
+      "count": 20,
+      "items": [
+        {
+          "title": "良田被毁、污水入河，央视曝光多地乡村排污乱象",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33750096",
+          "heat": ""
+        },
+        {
+          "title": "面对面丨蔡磊：与渐冻症抗争，纵使不敌，也不屈服",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33750215",
+          "heat": ""
+        },
+        {
+          "title": "武汉警方通报城管协管员与摊主发生冲突：3名协管员被刑拘",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33750449",
+          "heat": ""
+        },
+        {
+          "title": "国际观察丨沙土巴三国“共同防务”防什么",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33750175",
+          "heat": ""
+        },
+        {
+          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33750452",
+          "heat": ""
+        },
+        {
+          "title": "人民论坛：武松打虎，首先是“敢”打",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33750252",
+          "heat": ""
+        },
+        {
+          "title": "【社论】如何“关闭”坑老的弹窗广告",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33753139",
+          "heat": ""
+        },
+        {
+          "title": "公安部深化扫黑除恶专项斗争第一轮集中收网，抓获犯罪嫌疑人8200余名",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33754726",
+          "heat": ""
+        },
+        {
+          "title": "代表建议设立带薪陪考假“中考3天、高考5天”，当地人社局回应",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33753022",
+          "heat": ""
+        },
+        {
+          "title": "拜登之子：拜登癌症已扩散，令他非常痛苦",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33750313",
+          "heat": ""
+        },
+        {
+          "title": "媒体：演员秦焰因病去世，曾出演《狂飙》《我爱我家》等",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33752223",
+          "heat": ""
+        },
+        {
+          "title": "潮起渤海湾，奋楫“十五五”——党中央国务院邀请优秀专家人才代表北戴河休假侧记",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33750119",
+          "heat": ""
+        },
+        {
+          "title": "潮涌千帆志昂扬——党中央、国务院邀请优秀专家人才代表北戴河休假侧记 ",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33750249",
+          "heat": ""
+        },
+        {
+          "title": "IPO周报｜本周4只新股申购，“人形机器人第一股”宇树科技今日打新",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33750281",
+          "heat": ""
+        },
+        {
+          "title": "台风暴雨强对流！中央气象台三预警齐发，11个省份有大到暴雨",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33750785",
+          "heat": ""
+        },
+        {
+          "title": "台风天9岁男孩被海浪卷走，媒体：规则为何总被无视？",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33750171",
+          "heat": ""
+        },
+        {
+          "title": "宇树科技：回拨机制启动后，网上发行最终中签率为0.01809759%",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33754082",
+          "heat": ""
+        },
+        {
+          "title": "十大券商看后市｜A股仍处于上行周期，超跌反弹还有演绎空间",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33750320",
+          "heat": ""
+        },
+        {
+          "title": "释疑｜总在开盘前喊停？从两万五千条交易数据，看特朗普投资“玄学”",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33561179",
+          "heat": ""
+        },
+        {
+          "title": "马上评｜台风汛情绝不是流量密码",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33751172",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "ifeng",
@@ -1105,8 +1357,144 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 0,
-      "items": []
+      "count": 27,
+      "items": [
+        {
+          "title": "OpenAI：新的高级席位（Premium Seat）使用额度相比标准版提升5倍，无5小时使用限制，并提供可预测的每周使用额度重置。",
+          "url": "https://flash.jin10.com/detail/20260811005217914800",
+          "heat": false
+        },
+        {
+          "title": "OpenAI：限时期间，符合条件的工作区管理员每增加一个高级席位（Premium Seat），将获得价值100美元的额度奖励，最多可为5个席位获得总计500美元的额度。",
+          "url": "https://flash.jin10.com/detail/20260811005211685800",
+          "heat": false
+        },
+        {
+          "title": "OpenAI：高级席位（Premium Seats）价格为每位用户每月125美元，按年付费则为每位用户每月100美元。",
+          "url": "https://flash.jin10.com/detail/20260811005131000800",
+          "heat": false
+        },
+        {
+          "title": "OpenAI：为ChatGPT Business推出高级席位（Premium Seats）。",
+          "url": "https://flash.jin10.com/detail/20260811005120672800",
+          "heat": false
+        },
+        {
+          "title": "消息人士称，英国石油公司将向特立尼达国家天然气公司出售其在委内瑞拉的Cocuina气田20%的股份。70%的天然气将用于生产液化天然气，其余部分将用于石化产品。最终投资决策可能在年底前做出。",
+          "url": "https://flash.jin10.com/detail/20260811005041104800",
+          "heat": false
+        },
+        {
+          "title": "俄罗斯最高法院禁止反战的雅布洛科党参加议会选举。",
+          "url": "https://flash.jin10.com/detail/20260811004929286800",
+          "heat": false
+        },
+        {
+          "title": "以色列国防军参谋长：我们在国防方面准备充分，同时保持随时恢复高强度战斗的战备状态。",
+          "url": "https://flash.jin10.com/detail/20260811004905645800",
+          "heat": false
+        },
+        {
+          "title": "美股三大指数集体走低，纳指跌0.51%，道指跌0.25%， 标普500指数跌0.17%。",
+          "url": "https://flash.jin10.com/detail/20260811004521998800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月10日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260811004311524800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月10日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260811004202641800",
+          "heat": false
+        },
+        {
+          "title": "特朗普要求伊朗赔偿 称将纳入未来谈判",
+          "url": "https://flash.jin10.com/detail/20260811003934129800",
+          "heat": "✰"
+        },
+        {
+          "title": "美国总统特朗普：伊朗要求对过去五个月军事冲突中对其造成的损失进行赔偿。我同样要求伊朗赔偿。已指示我的代表们在未来的任何谈判中，都要坚定地提出这一点。",
+          "url": "https://flash.jin10.com/detail/20260811003419512800",
+          "heat": "✰"
+        },
+        {
+          "title": "英伟达(NVDA.O)跌至盘中低点，日内跌2.6%。",
+          "url": "https://flash.jin10.com/detail/20260811003255080800",
+          "heat": false
+        },
+        {
+          "title": "里萨拉尔达省省长：哥伦比亚地震已造成40人遇难。",
+          "url": "https://flash.jin10.com/detail/20260811003151704800",
+          "heat": false
+        },
+        {
+          "title": "伊朗最高领袖公布多项任命 调整武装力量领导层",
+          "url": "https://flash.jin10.com/detail/20260811003027747800",
+          "heat": false
+        },
+        {
+          "title": "据悉英伟达联手华尔街巨头筹划5000亿美元AI基建融资",
+          "url": "https://flash.jin10.com/detail/20260811002725586800",
+          "heat": "✰"
+        },
+        {
+          "title": "市场消息：伊朗革命卫队海军司令表示，任何外国船只通过霍尔木兹海峡都会受到伊朗军队的识别、跟踪和监控。",
+          "url": "https://flash.jin10.com/detail/20260811001859720800",
+          "heat": false
+        },
+        {
+          "title": "奈飞(NFLX.O)升至盘中高点，日内涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260811001337093800",
+          "heat": false
+        },
+        {
+          "title": "哥伦比亚外交部长：哥伦比亚承认以色列对戈兰高地的主权。",
+          "url": "https://flash.jin10.com/detail/20260811001254786800",
+          "heat": false
+        },
+        {
+          "title": "奈飞(NFLX.O)：2026年美国广告承诺几乎翻倍。",
+          "url": "https://flash.jin10.com/detail/20260811000823726800",
+          "heat": false
+        },
+        {
+          "title": "美国上诉法院拒绝暂停针对Meta Platforms(META.O)、TikTok及其他公司的数千起社交媒体成瘾诉讼。",
+          "url": "https://flash.jin10.com/detail/20260811000250709800",
+          "heat": false
+        },
+        {
+          "title": "现货白银突破65美元/盎司，日内涨2.32%。",
+          "url": "https://flash.jin10.com/detail/20260811000013515800",
+          "heat": "✰"
+        },
+        {
+          "title": "今日重点关注的财经数据与事件：2026年8月11日 周二",
+          "url": "https://flash.jin10.com/detail/20260811000000001800",
+          "heat": "✰"
+        },
+        {
+          "title": "伊朗和巴基斯坦外长在通话中讨论霍尔木兹海谈判及防务协议。",
+          "url": "https://flash.jin10.com/detail/20260810235617403800",
+          "heat": false
+        },
+        {
+          "title": "霍尔木兹海峡风险推高油轮租船成本，中东航线日费逼近50万美元。",
+          "url": "https://flash.jin10.com/detail/20260810235519623800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：伊朗外长阿拉格齐与德国外交部长讨论了双边、地区和国际局势。",
+          "url": "https://flash.jin10.com/detail/20260810234432760800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：伊朗外交部长与德国外长通电话。",
+          "url": "https://flash.jin10.com/detail/20260810234334198800",
+          "heat": false
+        }
+      ]
     }
   ]
 }
