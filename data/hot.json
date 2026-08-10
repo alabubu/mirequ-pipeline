@@ -1,6 +1,6 @@
 {
-  "updated": "13:35:40",
-  "total": 285,
+  "updated": "13:40:38",
+  "total": 284,
   "platforms": [
     {
       "id": "zhihu",
@@ -621,18 +621,18 @@
           "heat": ""
         },
         {
-          "title": "宇树科技科创板申购火爆，中签率仅0.018%，首日盈利或逾20万元",
-          "url": "https://wallstreetcn.com/articles/3779085",
-          "heat": ""
-        },
-        {
           "title": "科技股延续涨势，美股盘前光模块集体走高，霍尔木兹谈判僵局推升油价，黄金维持高位",
           "url": "https://wallstreetcn.com/articles/3779052",
           "heat": ""
         },
         {
-          "title": "拐点已至！高盛：AI开始真正改写SaaS业绩，赢家与输家名单浮现  ",
-          "url": "https://wallstreetcn.com/articles/3779070",
+          "title": "宇树科技科创板申购火爆，中签率仅0.018%，首日盈利或逾20万元",
+          "url": "https://wallstreetcn.com/articles/3779085",
+          "heat": ""
+        },
+        {
+          "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
+          "url": "https://wallstreetcn.com/articles/3779081",
           "heat": ""
         }
       ]
@@ -1357,8 +1357,133 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 30,
+      "count": 29,
       "items": [
+        {
+          "title": "巴里克矿业下跌8%，因公司第二季度利润未达预期。",
+          "url": "https://flash.jin10.com/detail/20260810213618648800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月10日（周一）热门中概股行情一览",
+          "url": "https://flash.jin10.com/detail/20260810213545804800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：“大空头”迈克尔·伯里称“认为伯克希尔哈撒韦公司未来并非有吸引力的投资标的”。",
+          "url": "https://flash.jin10.com/detail/20260810213536284800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月10日（周一）华尔街恐惧与贪婪指数（美盘初）",
+          "url": "https://flash.jin10.com/detail/20260810213459817800",
+          "heat": false
+        },
+        {
+          "title": "SpaceX(SPCX.O)股价上涨1.8%，重回135美元IPO发行价上方。",
+          "url": "https://flash.jin10.com/detail/20260810213250029800",
+          "heat": false
+        },
+        {
+          "title": "塔斯社援引俄罗斯外交官的话称，莫斯科将把德涅斯特河沿岸地区的任何军事挑衅视为对俄罗斯的攻击。",
+          "url": "https://flash.jin10.com/detail/20260810213232789800",
+          "heat": false
+        },
+        {
+          "title": "受收购波音旗下Wisk Aero、Insitu和Skygrid子公司消息提振，Archer Aviation股价上涨14%。",
+          "url": "https://flash.jin10.com/detail/20260810213220326800",
+          "heat": false
+        },
+        {
+          "title": "道琼斯指数8月10日（周一）开盘下跌17.50点，跌幅0.03%，报54019.43点；<br/>标普500指数8月10日（周一）开盘下跌1.00点，跌幅0.01%，报7756.46点；<br/>纳斯达克综合指数8月10日（周一）开盘下跌19.93点，跌幅0.08%，报26670.69点。",
+          "url": "https://flash.jin10.com/detail/20260810213201284800",
+          "heat": false
+        },
+        {
+          "title": "Tenax Therapeutics股价暴跌87.2%，此前该公司的心脏药物在后期研究中未达到主要目标。",
+          "url": "https://flash.jin10.com/detail/20260810213158312800",
+          "heat": false
+        },
+        {
+          "title": "微软(MSFT.O)上涨1.4%，公司将大幅提高人工智能芯片产量。Meta Platforms(META.O)上涨1.16%，公司推出轻量级AI模型Muse Glimmer。",
+          "url": "https://flash.jin10.com/detail/20260810213058062800",
+          "heat": "✰"
+        },
+        {
+          "title": "金十图示：2026年08月10日（周一）各大货币对表现",
+          "url": "https://flash.jin10.com/detail/20260810213050326800",
+          "heat": false
+        },
+        {
+          "title": "美股开盘，道指跌0.1%、标普500指数跌0.06%、纳指跌0.06%。苹果(AAPL.O)跌2.1%，杰富瑞下调公司评级；英特尔(INTC.O)跌4%，公司宣布拟进行150亿美元普通股发行。",
+          "url": "https://flash.jin10.com/detail/20260810213035402800",
+          "heat": "✰"
+        },
+        {
+          "title": "航行警告！南海海域军事训练",
+          "url": "https://flash.jin10.com/detail/20260810213034026800",
+          "heat": false
+        },
+        {
+          "title": "据俄罗斯新闻社援引官方消息，俄罗斯下卡姆斯克无人机袭击事件中13名遇难者中有9人死于一家旅馆内。",
+          "url": "https://flash.jin10.com/detail/20260810213000194800",
+          "heat": false
+        },
+        {
+          "title": "据沙特媒体哈达斯：知情人士透露，伊朗议会议长卡利巴夫对巴格达的访问将推迟至下周。",
+          "url": "https://flash.jin10.com/detail/20260810212732951800",
+          "heat": false
+        },
+        {
+          "title": "俄油船运重回G7？油价越低，西方船东越敢接单",
+          "url": "https://flash.jin10.com/detail/20260810212655394800",
+          "heat": false
+        },
+        {
+          "title": "当地官员表示，哥伦比亚地震给佩雷拉市造成严重破坏和人员伤亡。",
+          "url": "https://flash.jin10.com/detail/20260810212423661800",
+          "heat": false
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：最高领袖的身体健康状况非常良好。",
+          "url": "https://flash.jin10.com/detail/20260810212203988800",
+          "heat": false
+        },
+        {
+          "title": "上海解除台风蓝色预警信号",
+          "url": "https://flash.jin10.com/detail/20260810211858152800",
+          "heat": false
+        },
+        {
+          "title": "华尔街期权市场亮起极端看涨信号！“踏空恐惧”成美股破局主引擎？",
+          "url": "https://flash.jin10.com/detail/20260810211636317800",
+          "heat": "✰"
+        },
+        {
+          "title": "TVB拟成立合营公司，提供算力服务",
+          "url": "https://flash.jin10.com/detail/20260810211440360800",
+          "heat": false
+        },
+        {
+          "title": "黄金多头能否乘胜追击？",
+          "url": "https://flash.jin10.com/detail/20260810211139102800",
+          "heat": false
+        },
+        {
+          "title": "消息人士称，哈萨克斯坦8月9日的石油和天然气凝析油产量比7月31日增长了40%。",
+          "url": "https://flash.jin10.com/detail/20260810211048929800",
+          "heat": false
+        },
+        {
+          "title": "知情人士确认亿纬锂能两类电池将涨价，业内称不排除影响后续电车定价",
+          "url": "https://flash.jin10.com/detail/20260810210839157800",
+          "heat": false
+        },
+        {
+          "title": "0.018%！“人形机器人第一股”中签率出炉 | 盘后公告精选",
+          "url": "https://flash.jin10.com/detail/20260810210816573800",
+          "heat": "✰"
+        },
         {
           "title": "微软(MSFT.O)盘前上涨0.93%。",
           "url": "https://flash.jin10.com/detail/20260810210453281800",
@@ -1378,136 +1503,6 @@
           "title": "据The Information：微软将大幅提高人工智能芯片产量。",
           "url": "https://flash.jin10.com/detail/20260810210320250800",
           "heat": "✰"
-        },
-        {
-          "title": "据The Information：微软认为，MAIA芯片能够以更低的成本运行其自主研发和OpenAI的模型。",
-          "url": "https://flash.jin10.com/detail/20260810210234815800",
-          "heat": false
-        },
-        {
-          "title": "据The Information：微软计划加大自身对MAIA的使用力度，同时积极争取大客户。",
-          "url": "https://flash.jin10.com/detail/20260810210219761800",
-          "heat": false
-        },
-        {
-          "title": "据The Information：微软计划于9月发布其下一代MAIA 300人工智能芯片。",
-          "url": "https://flash.jin10.com/detail/20260810210202456800",
-          "heat": "✰"
-        },
-        {
-          "title": "据The Information：微软(MSFT.O)自主研发的人工智能芯片项目在经历了缓慢的起步阶段后，展现出复苏迹象。",
-          "url": "https://flash.jin10.com/detail/20260810210139889800",
-          "heat": false
-        },
-        {
-          "title": "刚果（金）埃博拉确诊病例超4200例 病死率达45.5%",
-          "url": "https://flash.jin10.com/detail/20260810210133715800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：2026年08月10日（周一）中国工商银行账户贵金属行情",
-          "url": "https://flash.jin10.com/detail/20260810210132326800",
-          "heat": false
-        },
-        {
-          "title": "夜盘开盘，国内期货主力合约涨多跌少，低硫燃料油（LU）涨近2%，燃料油、SC原油、液化石油气（LPG）、甲醇、沥青、聚丙烯涨超1%。跌幅方面，玻璃、菜粕、纸浆小幅下跌。",
-          "url": "https://flash.jin10.com/detail/20260810210002832800",
-          "heat": "✰"
-        },
-        {
-          "title": "英特尔(INTC.O)盘前跌幅度达到5.3%。",
-          "url": "https://flash.jin10.com/detail/20260810205854282800",
-          "heat": false
-        },
-        {
-          "title": "北约东翼拉响警报！波兰与波罗的海三国严防俄罗斯",
-          "url": "https://flash.jin10.com/detail/20260810205739849800",
-          "heat": "✰"
-        },
-        {
-          "title": "恒逸石化：子公司拟投资48.7亿元建设年产40万吨PA6熔体直纺项目",
-          "url": "https://flash.jin10.com/detail/20260810205621925800",
-          "heat": false
-        },
-        {
-          "title": "恒逸石化：2026年上半年净利润59.02亿元，同比增长2500.73%",
-          "url": "https://flash.jin10.com/detail/20260810205614455800",
-          "heat": false
-        },
-        {
-          "title": "WTI原油突破79美元/桶，日内涨3.50%。",
-          "url": "https://flash.jin10.com/detail/20260810205423076800",
-          "heat": "✰"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-08-10）",
-          "url": "https://flash.jin10.com/detail/20260810205232720800",
-          "heat": "✰"
-        },
-        {
-          "title": "VIP・95折库存日报首发上线！",
-          "url": "https://flash.jin10.com/detail/20260810205151242800",
-          "heat": false
-        },
-        {
-          "title": "<a href=\"https://www.jin10.com/activities/2026/8/vip_article/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/08/tcWa66qJEjxbSJWe5UQL6.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260810205147617800",
-          "heat": false
-        },
-        {
-          "title": "哥伦比亚海域发生7.5级地震 可能会在震源周围引发局地海啸",
-          "url": "https://flash.jin10.com/detail/20260810205142816800",
-          "heat": false
-        },
-        {
-          "title": "乌兹别克斯坦领事馆：无人机袭击俄罗斯鞑靼斯坦共和国，造成七名乌兹别克斯坦公民死亡。",
-          "url": "https://flash.jin10.com/detail/20260810205018363800",
-          "heat": false
-        },
-        {
-          "title": "技术刘Pro：黄金高位宽幅运行于密集区内部，关注POC对价格的关键作用",
-          "url": "https://flash.jin10.com/detail/20260810204910568800",
-          "heat": "✰"
-        },
-        {
-          "title": "哈塞特：希望库克无罪 我不会接任美联储理事席位",
-          "url": "https://flash.jin10.com/detail/20260810204813093800",
-          "heat": false
-        },
-        {
-          "title": "Anthropic牵手麦格理与GIC 加码美国AI数据中心",
-          "url": "https://flash.jin10.com/detail/20260810204600750800",
-          "heat": false
-        },
-        {
-          "title": "市场消息：加拿大安大略省教师养老金计划上半年收益率达9.5%，主要得益于马斯克旗下SpaceX(SPCX.O)公司的IPO。",
-          "url": "https://flash.jin10.com/detail/20260810204420102800",
-          "heat": false
-        },
-        {
-          "title": "哥伦比亚发生6.7级地震",
-          "url": "https://flash.jin10.com/detail/20260810204147988800",
-          "heat": "✰"
-        },
-        {
-          "title": "非农数据重磅利多，黄金挑战4380关口，空头最后的希望仍未破灭？金十研究员Steven正在直播，立即观看>><font class=\"important-text\"></font>",
-          "url": "https://flash.jin10.com/detail/20260810204135946800",
-          "heat": false
-        },
-        {
-          "title": "市场消息：哥伦比亚的首都波哥大发生地震，建筑物摇晃。",
-          "url": "https://flash.jin10.com/detail/20260810203820568800",
-          "heat": false
-        },
-        {
-          "title": "DeepTalk：华尔街资深市场老兵认证黄金见底，新高大概率明年出现",
-          "url": "https://flash.jin10.com/detail/20260810203748130800",
-          "heat": "✰"
-        },
-        {
-          "title": "绿控传动：回拨后本次网上发行中签率为0.0151775616%",
-          "url": "https://flash.jin10.com/detail/20260810203623420800",
-          "heat": false
         }
       ]
     }
