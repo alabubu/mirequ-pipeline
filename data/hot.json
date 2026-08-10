@@ -1,6 +1,6 @@
 {
-  "updated": "12:35:35",
-  "total": 283,
+  "updated": "12:40:38",
+  "total": 285,
   "platforms": [
     {
       "id": "zhihu",
@@ -621,13 +621,13 @@
           "heat": ""
         },
         {
-          "title": "高盛刘劲津：中国AI不存在整体性泡沫，外资配置空间巨大",
-          "url": "https://wallstreetcn.com/articles/3779028",
+          "title": "拐点已至！高盛：AI开始真正改写SaaS业绩，赢家与输家名单浮现  ",
+          "url": "https://wallstreetcn.com/articles/3779070",
           "heat": ""
         },
         {
-          "title": "拐点已至！高盛：AI开始真正改写SaaS业绩，赢家与输家名单浮现  ",
-          "url": "https://wallstreetcn.com/articles/3779070",
+          "title": "宇树科技科创板申购火爆，中签率仅0.018%，首日盈利或逾20万元",
+          "url": "https://wallstreetcn.com/articles/3779085",
           "heat": ""
         },
         {
@@ -1357,8 +1357,103 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 28,
+      "count": 30,
       "items": [
+        {
+          "title": "市场消息：诺兰执导的《奥德赛》成为票房最高的IMAX影片。",
+          "url": "https://flash.jin10.com/detail/20260810203223119800",
+          "heat": false
+        },
+        {
+          "title": "AI算力CPI",
+          "url": "https://flash.jin10.com/detail/20260810203159138800",
+          "heat": false
+        },
+        {
+          "title": "金十交易学院正在直播中",
+          "url": "https://flash.jin10.com/detail/20260810203033035800",
+          "heat": false
+        },
+        {
+          "title": "A95咨询公司称，乌克兰7月份汽油进口量增长34%。",
+          "url": "https://flash.jin10.com/detail/20260810202744559800",
+          "heat": false
+        },
+        {
+          "title": "第十六届中国国际数字出版博览会将于8月27日启幕",
+          "url": "https://flash.jin10.com/detail/20260810202730413800",
+          "heat": false
+        },
+        {
+          "title": "伊朗总统：我与最高领袖之间的会议持续7-8个小时",
+          "url": "https://flash.jin10.com/detail/20260810202700420800",
+          "heat": false
+        },
+        {
+          "title": "智利总统：智利将于今日宣布新的副财政部长。",
+          "url": "https://flash.jin10.com/detail/20260810202505637800",
+          "heat": false
+        },
+        {
+          "title": "金宏气体在互动平台表示，截至目前，公司控股子公司云南汉兴德方气体科技有限公司未开展实际经营活动，未规划六氟化钨相关设计产能，相关信息请以公司官方发布内容为准。",
+          "url": "https://flash.jin10.com/detail/20260810202447483800",
+          "heat": false
+        },
+        {
+          "title": "金十交易学院正在直播中",
+          "url": "https://flash.jin10.com/detail/20260810202226818800",
+          "heat": false
+        },
+        {
+          "title": "藏格矿业：2026年上半年净利润36.38亿元，同比增长102.09%",
+          "url": "https://flash.jin10.com/detail/20260810202152679800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月10日（周一）新闻联播今日要点",
+          "url": "https://flash.jin10.com/detail/20260810202117318800",
+          "heat": false
+        },
+        {
+          "title": "阿维塔辟谣“与华为合作是非必要项”：系言论误读",
+          "url": "https://flash.jin10.com/detail/20260810201711282800",
+          "heat": false
+        },
+        {
+          "title": "亚马逊公司：诺和诺德选择AWS作为合作伙伴。",
+          "url": "https://flash.jin10.com/detail/20260810201457542800",
+          "heat": false
+        },
+        {
+          "title": "美元兑日元USD/JPY一度下挫约40点，最低至158.41，现回升至158.67。",
+          "url": "https://flash.jin10.com/detail/20260810201209826800",
+          "heat": "✰"
+        },
+        {
+          "title": "我国境内发现多起“Sorry”勒索病毒攻击事件",
+          "url": "https://flash.jin10.com/detail/20260810201144513800",
+          "heat": false
+        },
+        {
+          "title": "伊朗总统：与最高领袖的会议持续了7-8小时。",
+          "url": "https://flash.jin10.com/detail/20260810201128279800",
+          "heat": false
+        },
+        {
+          "title": "汇成真空：拟定增募资不超9.55亿元，用于超精密半导体及连续式PVD设备产业化项目",
+          "url": "https://flash.jin10.com/detail/20260810201125122800",
+          "heat": false
+        },
+        {
+          "title": "正在直播中",
+          "url": "https://flash.jin10.com/detail/20260810201100124800",
+          "heat": false
+        },
+        {
+          "title": "日媒：植田暗示9月加息促成美日联合买入日元",
+          "url": "https://flash.jin10.com/detail/20260810200801896800",
+          "heat": "✰"
+        },
         {
           "title": "市场消息：Meta Platforms(META.O)支持得克萨斯州州长阿博特对数据中心的审查。",
           "url": "https://flash.jin10.com/detail/20260810200636137800",
@@ -1412,91 +1507,6 @@
         {
           "title": "一秒算力抵人类持续计算200年",
           "url": "https://flash.jin10.com/detail/20260810200114306800",
-          "heat": false
-        },
-        {
-          "title": "阿斯麦(ASML.O)公布当前股票回购计划下的交易情况。",
-          "url": "https://flash.jin10.com/detail/20260810200108224800",
-          "heat": false
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 8月10日（周一）晚盘盘初下跌0.11%报940.11元/克；<br/>上海黄金交易所白银T+D 8月10日（周一）晚盘盘初上涨2.67%报15640.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260810200100587800",
-          "heat": false
-        },
-        {
-          "title": "罗马尼亚央行维持基准利率在6.50%，符合市场预期预。",
-          "url": "https://flash.jin10.com/detail/20260810200054219800",
-          "heat": false
-        },
-        {
-          "title": "加拿大至8月7日全国经济信心指数 53，前值52.8。",
-          "url": "https://flash.jin10.com/detail/20260810200019519800",
-          "heat": false
-        },
-        {
-          "title": "Anthropic、麦格理资产管理公司和新加坡政府投资公司宣布建立战略合作伙伴关系。",
-          "url": "https://flash.jin10.com/detail/20260810195928687800",
-          "heat": false
-        },
-        {
-          "title": "江波龙：2026年上半年净利润105.77亿元，同比增长71,528.66%",
-          "url": "https://flash.jin10.com/detail/20260810195857967800",
-          "heat": "✰"
-        },
-        {
-          "title": "江波龙：拟以4亿元-8亿元回购公司股份",
-          "url": "https://flash.jin10.com/detail/20260810195803582800",
-          "heat": false
-        },
-        {
-          "title": "聚飞光电光耦产品获德国VDE官方认证",
-          "url": "https://flash.jin10.com/detail/20260810195722041800",
-          "heat": false
-        },
-        {
-          "title": "市场消息：由于港口被俄罗斯袭击，乌克兰下调粮食出口预期。",
-          "url": "https://flash.jin10.com/detail/20260810195712850800",
-          "heat": false
-        },
-        {
-          "title": "昆仑万维：拟7.5亿元出售闲徕互娱99%股权",
-          "url": "https://flash.jin10.com/detail/20260810195418120800",
-          "heat": false
-        },
-        {
-          "title": "电投能源：拟投资4.22亿元建设库伦旗10万千瓦风电项目",
-          "url": "https://flash.jin10.com/detail/20260810195412132800",
-          "heat": false
-        },
-        {
-          "title": "洁美科技：拟发行股份收购埃福思科技100%股权，交易作价9.15亿元",
-          "url": "https://flash.jin10.com/detail/20260810195401391800",
-          "heat": false
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：美国总统特朗普将决定持有英特尔(INTC.O)股票的时间。",
-          "url": "https://flash.jin10.com/detail/20260810195133798800",
-          "heat": false
-        },
-        {
-          "title": "备忘录显示，沙特阿美公司将日产能40万桶的吉赞炼油厂的重启时间推迟15天至8月30日。",
-          "url": "https://flash.jin10.com/detail/20260810195113139800",
-          "heat": false
-        },
-        {
-          "title": "eBay(EBAY.O)股价盘前下跌2.5%，游戏驿站(GME.N)上涨3.7%。",
-          "url": "https://flash.jin10.com/detail/20260810195053202800",
-          "heat": false
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：无需编造美债理论来稳定日元。",
-          "url": "https://flash.jin10.com/detail/20260810195019865800",
-          "heat": false
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：日元汇率稳定有助于阻止波动蔓延。",
-          "url": "https://flash.jin10.com/detail/20260810194942977800",
           "heat": false
         }
       ]
