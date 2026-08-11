@@ -1,6 +1,6 @@
 {
-  "updated": "04:15:41",
-  "total": 285,
+  "updated": "04:16:48",
+  "total": 284,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,43 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 30,
+      "count": 29,
       "items": [
+        {
+          "title": "上半年规上互联网企业完成互联网业务收入超万亿元 同比增长10.1%",
+          "url": "https://flash.jin10.com/detail/20260811121423722800",
+          "heat": false
+        },
+        {
+          "title": "7月CPI可能反弹，但美联储当前更怕错杀而非落后——新版发布",
+          "url": "https://flash.jin10.com/detail/20260811121142931800",
+          "heat": "✰"
+        },
+        {
+          "title": "据中央气象台消息，8月11日11时，台风“白海豚”已减弱为热带低压，位于湖北黄冈境内。",
+          "url": "https://flash.jin10.com/detail/20260811120549161800",
+          "heat": false
+        },
+        {
+          "title": "港股午评：恒指高开低走收跌0.63% 创新药板块延续强势",
+          "url": "https://flash.jin10.com/detail/20260811120330753800",
+          "heat": false
+        },
+        {
+          "title": "哈萨克斯坦央行：7月份的净黄金和外汇储备为617.24亿美元（环比变化3.2%）。",
+          "url": "https://flash.jin10.com/detail/20260811120328823800",
+          "heat": false
+        },
+        {
+          "title": "爱芯元智下一代大算力AI芯片完成流片，支持多芯级联实现边缘侧满血大模型推理",
+          "url": "https://flash.jin10.com/detail/20260811115612569800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-08-11）",
+          "url": "https://flash.jin10.com/detail/20260811115144518800",
+          "heat": "✰"
+        },
         {
           "title": "机构：2026年第二季度全球平板电脑市场出货量下滑10%",
           "url": "https://flash.jin10.com/detail/20260811114530982800",
@@ -1468,46 +1503,6 @@
           "title": "隔夜shibor报1.3580%，下跌1.9个基点；7天shibor报1.3940%，下跌0.6个基点；3个月shibor报1.4300%，与上日持平。点击查看>>",
           "url": "https://flash.jin10.com/detail/20260811111038605800",
           "heat": false
-        },
-        {
-          "title": "“伊朗说了算”，海湾国家被迫接受霍尔木兹新常态",
-          "url": "https://flash.jin10.com/detail/20260811110335188800",
-          "heat": "✰"
-        },
-        {
-          "title": "金十图示：2026年08月11日（周二）全球富豪榜",
-          "url": "https://flash.jin10.com/detail/20260811110253067800",
-          "heat": false
-        },
-        {
-          "title": "TrendForce：DDR5 16Gb (2Gx8) 4800/5600现货均价较上日上涨0.32%",
-          "url": "https://flash.jin10.com/detail/20260811110251728800",
-          "heat": false
-        },
-        {
-          "title": "替代路线风险升温，油市重新定价供应中断预期——新版发布",
-          "url": "https://flash.jin10.com/detail/20260811110230362800",
-          "heat": "✰"
-        },
-        {
-          "title": "金十图示：2026年08月11日（周二）上海金早盘价为961.33元/克，较国际金价(956.87元/克)，高4.46元/克",
-          "url": "https://flash.jin10.com/detail/20260811110126674800",
-          "heat": false
-        },
-        {
-          "title": "港股新消费概念震荡走弱，沪上阿姨(02589.HK)跌超3%，老铺黄金(06181.HK)跌超2%，古茗(01364.HK)、鸣鸣很忙(01768.HK)等跟跌。",
-          "url": "https://flash.jin10.com/detail/20260811110108422800",
-          "heat": false
-        },
-        {
-          "title": "日媒：据悉日本央行将在9月加息以应对通胀风险",
-          "url": "https://flash.jin10.com/detail/20260811110026484800",
-          "heat": false
-        },
-        {
-          "title": "据日本时事通讯社：知情人士称，日本央行可能会在9月17日至18日举行的下次政策会议上考虑再次加息，以应对通胀加剧的风险。",
-          "url": "https://flash.jin10.com/detail/20260811105914552800",
-          "heat": "✰"
         }
       ]
     }
