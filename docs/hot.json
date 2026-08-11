@@ -1,12 +1,113 @@
 {
-  "updated": "13:31:16",
-  "total": 217,
+  "updated": "13:35:31",
+  "total": 280,
   "platforms": [
     {
       "id": "zhihu",
       "name": "知乎",
-      "count": 0,
-      "items": []
+      "count": 20,
+      "items": [
+        {
+          "title": "央视首次曝光 055 遵义舰演习遭潜艇伏击「击沉」，这一操作的意图是什么？算暴露 055 的短板吗？",
+          "url": "https://www.zhihu.com/question/2069804922732860138",
+          "heat": "356 万热度"
+        },
+        {
+          "title": "上海突如其来的大暴雨，市区很多路段全面积水，无法排出的原因是什么？",
+          "url": "https://www.zhihu.com/question/2062262812324508088",
+          "heat": "325 万热度"
+        },
+        {
+          "title": "费大厨撤下「全国小炒肉大王」 宣传，上菜口号更换为 「精选黑猪肉、专业大厨炒」，此举带来的影响有多大？",
+          "url": "https://www.zhihu.com/question/2070112824437876354",
+          "heat": "282 万热度"
+        },
+        {
+          "title": "媒体曝中国网红「雅典娜」确认遇害，宁波警方称并未证实其已遇害，事件真相到底如何？",
+          "url": "https://www.zhihu.com/question/2070285462472582864",
+          "heat": "275 万热度"
+        },
+        {
+          "title": "因儿子说「大不了送外卖」，爸爸三伏天带他送外卖，竟意外修复父子关系，这一实践式教育怎么样？值得效仿吗？",
+          "url": "https://www.zhihu.com/question/2070152087481083737",
+          "heat": "269 万热度"
+        },
+        {
+          "title": "58 同城被曝启动大规模裁员，缩减比例或达 75%，是真的吗？58 同城这几年到底经历了什么？",
+          "url": "https://www.zhihu.com/question/2070107191181305385",
+          "heat": "224 万热度"
+        },
+        {
+          "title": "易烊千玺连续四届提名百花奖，终凭《小小的我》刘春和一角成 00 后首位百花影帝，如何评价他的表演？",
+          "url": "https://www.zhihu.com/question/2070253242945106599",
+          "heat": "220 万热度"
+        },
+        {
+          "title": "为什么武侠游戏招式名爱用 「 降龙十八掌 」 式的华丽辞藻, 而西方中世纪骑士游戏招式却朴素得像说明书?",
+          "url": "https://www.zhihu.com/question/2070098614244864702",
+          "heat": "218 万热度"
+        },
+        {
+          "title": "阿维塔高管称不认为和华为的合作模式是「必要项」，阿维塔具备差异化的能力，如何看待这一表态？",
+          "url": "https://www.zhihu.com/question/2070107144536560600",
+          "heat": "210 万热度"
+        },
+        {
+          "title": "曾经的钢琴为雅，现在怎么感觉没什么人愿意练钢琴了?",
+          "url": "https://www.zhihu.com/question/1998873387645305487",
+          "heat": "192 万热度"
+        },
+        {
+          "title": "因为给我买车买房没提前跟我弟说，我弟把我全家都拉黑了快 7 年了，父子都不愿低头，怎么破冰？",
+          "url": "https://www.zhihu.com/question/2068757535138566295",
+          "heat": "183 万热度"
+        },
+        {
+          "title": "如何看待 8 月 10 日沈腾主演电影《欢迎来龙餐馆》总票房预测值大幅提升至  35.4 亿人民币？",
+          "url": "https://www.zhihu.com/question/2070305441545040277",
+          "heat": "174 万热度"
+        },
+        {
+          "title": "为啥感觉麻辣烫越来越贵，而自助小火锅却在越卷越便宜？同样是汤煮菜，为啥会出现这样的差异？",
+          "url": "https://www.zhihu.com/question/2067711801098069791",
+          "heat": "157 万热度"
+        },
+        {
+          "title": "为什么沈腾作为中国影史票房第一人，却金鸡、百花、华表一个奖都没拿？",
+          "url": "https://www.zhihu.com/question/2070076711593406558",
+          "heat": "154 万热度"
+        },
+        {
+          "title": "台风「白海豚」深入内陆，湖北宜昌进战时状态，河南、安徽、山东迎来特大暴雨，你那目前情况咋样？雨有多大？",
+          "url": "https://www.zhihu.com/question/2070409831639245816",
+          "heat": "151 万热度"
+        },
+        {
+          "title": "张本兄妹同时包揽 WTT 横滨冠军赛单打冠军，会对国乒的霸主地位有影响吗？国乒到底怎么了？",
+          "url": "https://www.zhihu.com/question/2069914089296486954",
+          "heat": "149 万热度"
+        },
+        {
+          "title": "16 岁少年强抱女友跳河自己上岸女友溺亡，凶手母亲包庇其 17 年，凶手及其家属可能受到哪些处罚？",
+          "url": "https://www.zhihu.com/question/2070461199141920826",
+          "heat": "147 万热度"
+        },
+        {
+          "title": "如何评价 Anthropic 宣布将黎曼猜想的已知下界从 41.6% 提高到了 67.2%？",
+          "url": "https://www.zhihu.com/question/2070336637360518307",
+          "heat": "147 万热度"
+        },
+        {
+          "title": "睡车里被酒店收 150 元住宿费事件反转，媒体因报道呈现不够全面客观致歉，如何避免类似事件再次发生？",
+          "url": "https://www.zhihu.com/question/2070468397289009796",
+          "heat": "147 万热度"
+        },
+        {
+          "title": "伊朗高层近期密集调整军政核心职位，是出于哪些考虑？向外界传递了怎样的信息？",
+          "url": "https://www.zhihu.com/question/2070450417981469090",
+          "heat": "144 万热度"
+        }
+      ]
     },
     {
       "id": "weibo",
@@ -853,8 +954,74 @@
     {
       "id": "cls-hot",
       "name": "财联社",
-      "count": 0,
-      "items": []
+      "count": 13,
+      "items": [
+        {
+          "title": "蓄力下一代DRAM 存储龙头拟提升EUV光刻性能 相移掩模版成关键",
+          "url": "https://www.cls.cn/detail/2451127",
+          "heat": ""
+        },
+        {
+          "title": "让“科味”更浓，恒生科技指数大调整，这一次有何不同？",
+          "url": "https://www.cls.cn/detail/2450976",
+          "heat": ""
+        },
+        {
+          "title": "上海：到2030年把上海软件和信息服务业打造成经济增长“动力源” 产业规模力争达到4万亿元",
+          "url": "https://www.cls.cn/detail/2451324",
+          "heat": ""
+        },
+        {
+          "title": "非科技板块的春天？医药板块调研热度超越半导体",
+          "url": "https://www.cls.cn/detail/2450966",
+          "heat": ""
+        },
+        {
+          "title": "财联社C50风向指数调查：8月资金面有望均衡偏松，MLF与买断式逆回购或加量续作",
+          "url": "https://www.cls.cn/detail/2450955",
+          "heat": ""
+        },
+        {
+          "title": "黄仁勋深度解读5000亿美元融资计划：AI算力是“投资级资产”",
+          "url": "https://www.cls.cn/detail/2450953",
+          "heat": ""
+        },
+        {
+          "title": "【焦点复盘】沪指缩量探底终结5连阳，算力租赁概念逆势活跃，有色板块现深幅调整",
+          "url": "https://www.cls.cn/detail/2451345",
+          "heat": ""
+        },
+        {
+          "title": "大模型攻入OTA腹地？豆包称酒店推荐“按成交收费” 或挑战“佣金+广告”模式|深度",
+          "url": "https://www.cls.cn/detail/2451001",
+          "heat": ""
+        },
+        {
+          "title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月",
+          "url": "https://www.cls.cn/detail/2451347",
+          "heat": ""
+        },
+        {
+          "title": "【每日收评】三大指数缩量震荡涨跌不一，医药股持续活跃，机器人概念午后爆发",
+          "url": "https://www.cls.cn/detail/2451276",
+          "heat": ""
+        },
+        {
+          "title": "全国能繁母猪少了近300万头 猪价为何还在10元挣扎？7月多数猪企再陷亏损|行业动态",
+          "url": "https://www.cls.cn/detail/2451445",
+          "heat": ""
+        },
+        {
+          "title": "金银牛市即将重启？专家：回调是“正常波折”，长期风险回报已改善！",
+          "url": "https://www.cls.cn/detail/2451146",
+          "heat": ""
+        },
+        {
+          "title": "首日上市突破500元！“大肉签”跻身A股股价前十，高价阵营频见新股面孔",
+          "url": "https://www.cls.cn/detail/2451293",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "thepaper",
@@ -1033,8 +1200,159 @@
     {
       "id": "toutiao",
       "name": "今日头条",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "内蒙古境内重要考古发现公布",
+          "url": "https://www.toutiao.com/trending/7672692943800107054/",
+          "heat": ""
+        },
+        {
+          "title": "文献纪录片《江泽民》播出",
+          "url": "https://www.toutiao.com/trending/7672736569466060846/",
+          "heat": ""
+        },
+        {
+          "title": "全方位培养、引进、用好人才",
+          "url": "https://www.toutiao.com/trending/7672755872958959155/",
+          "heat": ""
+        },
+        {
+          "title": "网红逍遥客为救父亲氨气中毒去世",
+          "url": "https://www.toutiao.com/trending/7672588898545451046/",
+          "heat": ""
+        },
+        {
+          "title": "租金从800降到450房东决定不租了",
+          "url": "https://www.toutiao.com/trending/7671617219173351460/",
+          "heat": ""
+        },
+        {
+          "title": "984.5高校火了",
+          "url": "https://www.toutiao.com/trending/7672196297356673087/",
+          "heat": ""
+        },
+        {
+          "title": "龙翔贪2.61亿被判死缓",
+          "url": "https://www.toutiao.com/trending/7672696576308940342/",
+          "heat": ""
+        },
+        {
+          "title": "女子做核磁忘摘金手镯",
+          "url": "https://www.toutiao.com/trending/7671741370721402921/",
+          "heat": ""
+        },
+        {
+          "title": "直击河南防汛一线",
+          "url": "https://www.toutiao.com/trending/7672416286558735878/",
+          "heat": ""
+        },
+        {
+          "title": "如何查询自己的法定退休年龄",
+          "url": "https://www.toutiao.com/trending/7671752640606896155/",
+          "heat": ""
+        },
+        {
+          "title": "“上海女子在台风中坠楼”不实",
+          "url": "https://www.toutiao.com/trending/7672214861442465833/",
+          "heat": ""
+        },
+        {
+          "title": "中国气象局：高度警惕河南暴雨极端性",
+          "url": "https://www.toutiao.com/trending/7672651000192175625/",
+          "heat": ""
+        },
+        {
+          "title": "宇树科技中签号出炉",
+          "url": "https://www.toutiao.com/trending/7672729077492485651/",
+          "heat": ""
+        },
+        {
+          "title": "贵州省文旅厅：决不护短 决不手软",
+          "url": "https://www.toutiao.com/trending/7672616457024487475/",
+          "heat": ""
+        },
+        {
+          "title": "家属回应男子遗体滞留太平间12年",
+          "url": "https://www.toutiao.com/trending/7672571205748424754/",
+          "heat": ""
+        },
+        {
+          "title": "《我的前半生》全网翻红",
+          "url": "https://www.toutiao.com/trending/7671555150721564718/",
+          "heat": ""
+        },
+        {
+          "title": "北京暴雨",
+          "url": "https://www.toutiao.com/trending/7672694799908130314/",
+          "heat": ""
+        },
+        {
+          "title": "女子写表扬信感谢店员照顾醉酒丈夫",
+          "url": "https://www.toutiao.com/trending/7672550947969302571/",
+          "heat": ""
+        },
+        {
+          "title": "男子在野生菌上写名字结果被别人捡走",
+          "url": "https://www.toutiao.com/trending/7671876832389120041/",
+          "heat": ""
+        },
+        {
+          "title": "催收新规落地半年 行业有何变化",
+          "url": "https://www.toutiao.com/trending/7671909448416493587/",
+          "heat": ""
+        },
+        {
+          "title": "公交司机称开公交直达拉萨 公司回应",
+          "url": "https://www.toutiao.com/trending/7672720728681676854/",
+          "heat": ""
+        },
+        {
+          "title": "白海豚撞上冷空气",
+          "url": "https://www.toutiao.com/trending/7672700919041052187/",
+          "heat": ""
+        },
+        {
+          "title": "沪指失守3950点 资金切换到3条主线",
+          "url": "https://www.toutiao.com/trending/7672719557420650027/",
+          "heat": ""
+        },
+        {
+          "title": "百花奖“硬汉F4”同台",
+          "url": "https://www.toutiao.com/trending/7672571968667582502/",
+          "heat": ""
+        },
+        {
+          "title": "起底茶颜悦色“服从性测试”",
+          "url": "https://www.toutiao.com/trending/7672710904877711366/",
+          "heat": ""
+        },
+        {
+          "title": "睡车里被酒店收150元住宿费事件反转",
+          "url": "https://www.toutiao.com/trending/7672232495756902446/",
+          "heat": ""
+        },
+        {
+          "title": "中国与印尼舰艇将位台岛以东海域演练",
+          "url": "https://www.toutiao.com/trending/7671983623922532403/",
+          "heat": ""
+        },
+        {
+          "title": "宁波公安回应网红雅典娜遇害传闻",
+          "url": "https://www.toutiao.com/trending/7671612619727572499/",
+          "heat": ""
+        },
+        {
+          "title": "老人就餐晕倒幸好邻桌是医生",
+          "url": "https://www.toutiao.com/trending/7672611295238848562/",
+          "heat": ""
+        },
+        {
+          "title": "韩国为何不向乌克兰提供防空武器",
+          "url": "https://www.toutiao.com/trending/7672706118245682751/",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "jin10",
