@@ -1,6 +1,6 @@
 {
-  "updated": "02:15:42",
-  "total": 279,
+  "updated": "02:20:33",
+  "total": 281,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,88 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 24,
+      "count": 26,
       "items": [
+        {
+          "title": "现货黄金日内涨幅扩大至1.00%，现报4434.15美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260811101452255800",
+          "heat": "✰"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260811101432674800",
+          "heat": "✰"
+        },
+        {
+          "title": "深证成指盘中转涨，创业板指现涨0.4%。",
+          "url": "https://flash.jin10.com/detail/20260811101334507800",
+          "heat": false
+        },
+        {
+          "title": "哥伦比亚卡利市政府宣布实施宵禁",
+          "url": "https://flash.jin10.com/detail/20260811100926346800",
+          "heat": false
+        },
+        {
+          "title": "外交部阿富汗事务特使岳晓勇访问土耳其、巴基斯坦和阿富汗",
+          "url": "https://flash.jin10.com/detail/20260811100910298800",
+          "heat": false
+        },
+        {
+          "title": "原油ETF持仓报告正式上线，美、布两油持仓有何变动？",
+          "url": "https://flash.jin10.com/detail/20260811100623002800",
+          "heat": false
+        },
+        {
+          "title": "中国地震台网正式测定：08月11日09时56分在新疆阿克苏地区沙雅县（北纬39.61度，东经82.78度）发生3.3级地震，震源深度23千米。",
+          "url": "https://flash.jin10.com/detail/20260811100515137800",
+          "heat": false
+        },
+        {
+          "title": "美国开始“借新还息”，债务循环正在加速吗？",
+          "url": "https://flash.jin10.com/detail/20260811100144184800",
+          "heat": false
+        },
+        {
+          "title": "科创50指数盘初走弱，跌逾2%，成分股中源杰科技跌超8%领跌成分股。",
+          "url": "https://flash.jin10.com/detail/20260811100140876800",
+          "heat": "✰"
+        },
+        {
+          "title": "集运指数（欧线）主力合约日内跌超5.00%，现报1554.5点。",
+          "url": "https://flash.jin10.com/detail/20260811100138069800",
+          "heat": "✰"
+        },
+        {
+          "title": "北京全市启动防汛二级应急响应",
+          "url": "https://flash.jin10.com/detail/20260811100112548800",
+          "heat": false
+        },
+        {
+          "title": "纽约期金日内涨幅扩大至1.00%，现报4493.10美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260811095546659800",
+          "heat": false
+        },
+        {
+          "title": "现货钯金向上触及1400美元/盎司，日内涨1.38%。",
+          "url": "https://flash.jin10.com/detail/20260811095505514800",
+          "heat": false
+        },
+        {
+          "title": "A股电网设备板块早盘震荡走弱，京泉华跌停，北京科锐、中能电气、信通电子、华菱线缆均跌超5%。",
+          "url": "https://flash.jin10.com/detail/20260811095341264800",
+          "heat": false
+        },
+        {
+          "title": "A股算力租赁概念盘中异动拉升，阿里云方向领涨，杭钢股份、鸿博股份直线涨停，朗源股份涨超10%，佳力图、美利云、铜牛信息、数据港等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260811095255105800",
+          "heat": false
+        },
+        {
+          "title": "现货白银日内涨幅达1.00%，现报66.39美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260811094946187800",
+          "heat": "✰"
+        },
         {
           "title": "沪银主力合约日内涨4.00%，现报16214.00元/千克。",
           "url": "https://flash.jin10.com/detail/20260811094915785800",
@@ -1407,76 +1487,6 @@
         {
           "title": "A股养鸡板块短线拉升，益生股份涨停，民和股份、圣农发展、华英农业、广弘控股、金龙鱼等纷纷走高。",
           "url": "https://flash.jin10.com/detail/20260811094209621800",
-          "heat": false
-        },
-        {
-          "title": "蓝箭航天朱雀三号遥二运载火箭发射推迟",
-          "url": "https://flash.jin10.com/detail/20260811094156361800",
-          "heat": false
-        },
-        {
-          "title": "A股MLCC概念板块冲高，双星新材涨停，昀冢科技、国风新材、风华高科、达利凯普跟涨。",
-          "url": "https://flash.jin10.com/detail/20260811094014697800",
-          "heat": false
-        },
-        {
-          "title": "A股乳业板块走高，皇氏集团2连板，一鸣食品、欢乐家、骑士乳业、阳光乳业、新乳业跟涨。",
-          "url": "https://flash.jin10.com/detail/20260811094006845800",
-          "heat": false
-        },
-        {
-          "title": "知情人士透露，苹果(AAPL.O)仍计划在明年iPhone问世20周年之际推出一款以玻璃材质为核心的全面升级版iPhone，此前一份分析师报告称该计划已被取消。",
-          "url": "https://flash.jin10.com/detail/20260811093953528800",
-          "heat": "✰"
-        },
-        {
-          "title": "A股创新药板块短线拉升，百花医药6连板，甘李药业涨停，百普赛斯、哈药股份、长春高新、万邦医药跟涨。",
-          "url": "https://flash.jin10.com/detail/20260811093947206800",
-          "heat": "✰"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260811093817164800",
-          "heat": "✰"
-        },
-        {
-          "title": "国家海洋预报台发布风暴潮黄色警报",
-          "url": "https://flash.jin10.com/detail/20260811093719751800",
-          "heat": false
-        },
-        {
-          "title": "澳大利亚7月商业状况略有改善 但商业信心依然脆弱",
-          "url": "https://flash.jin10.com/detail/20260811093631986800",
-          "heat": false
-        },
-        {
-          "title": "A股工业母机概念延续昨日强势，华东数控2连板，华中数控、沈阳机床、科德数控、恒进感应跟涨。",
-          "url": "https://flash.jin10.com/detail/20260811093343156800",
-          "heat": false
-        },
-        {
-          "title": "国务院新闻办公室将于2026年8月13日（星期四）上午10时举行“开局起步‘十五五’”系列主题新闻发布会，请生态环境部部长黄润秋介绍全面推进美丽中国建设有关情况，并答记者问。",
-          "url": "https://flash.jin10.com/detail/20260811093315891800",
-          "heat": false
-        },
-        {
-          "title": "美国总统特朗普：如果国际足联出于任何原因甚至考虑更换主席因凡蒂诺，那将是一个巨大的错误。他非常出色，刚刚成功主持了有史以来最成功的世界杯——其成功程度是以往的四倍。如果他离任，世界杯将再也无法取得如此巨大的成功或盈利。",
-          "url": "https://flash.jin10.com/detail/20260811093238110800",
-          "heat": false
-        },
-        {
-          "title": "A股卫星ETF富国（563230）、 卫星ETF广发（512630）、 卫星ETF易方达（563530）等多支卫星ETF盘初跌超3%。",
-          "url": "https://flash.jin10.com/detail/20260811093144829800",
-          "heat": false
-        },
-        {
-          "title": "国债期货早盘开盘",
-          "url": "https://flash.jin10.com/detail/20260811093108061800",
-          "heat": false
-        },
-        {
-          "title": "股指期货早盘开盘",
-          "url": "https://flash.jin10.com/detail/20260811093105383800",
           "heat": false
         }
       ]
