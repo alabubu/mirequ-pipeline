@@ -1,6 +1,6 @@
 {
-  "updated": "06:55:34",
-  "total": 283,
+  "updated": "07:01:07",
+  "total": 233,
   "platforms": [
     {
       "id": "zhihu",
@@ -583,59 +583,8 @@
     {
       "id": "wallstreetcn-hot",
       "name": "华尔街见闻",
-      "count": 10,
-      "items": [
-        {
-          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "heat": ""
-        },
-        {
-          "title": "华尔街见闻早餐FM-Radio | 2026年8月11日",
-          "url": "https://wallstreetcn.com/articles/3779117",
-          "heat": ""
-        },
-        {
-          "title": "今日起，豆包推荐酒店将收取佣金：综合扣费12%！",
-          "url": "https://wallstreetcn.com/articles/3779079",
-          "heat": ""
-        },
-        {
-          "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
-          "url": "https://wallstreetcn.com/articles/3779065",
-          "heat": ""
-        },
-        {
-          "title": "宇树科技科创板申购火爆，中签率仅0.018%，首日盈利或逾20万元",
-          "url": "https://wallstreetcn.com/articles/3779085",
-          "heat": ""
-        },
-        {
-          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
-          "url": "https://wallstreetcn.com/articles/3779107",
-          "heat": ""
-        },
-        {
-          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
-          "url": "https://wallstreetcn.com/articles/3779115",
-          "heat": ""
-        },
-        {
-          "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
-          "url": "https://wallstreetcn.com/articles/3779081",
-          "heat": ""
-        },
-        {
-          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
-          "url": "https://wallstreetcn.com/articles/3779130",
-          "heat": ""
-        },
-        {
-          "title": "江波龙上半年净利润同比增长71529%，拟最高8亿元回购股份 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779092",
-          "heat": ""
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "id": "tieba",
@@ -1133,69 +1082,8 @@
     {
       "id": "ifeng",
       "name": "凤凰网",
-      "count": 12,
-      "items": [
-        {
-          "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
-          "url": "https://news.ifeng.com/c/8vUxlx302vt",
-          "heat": ""
-        },
-        {
-          "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
-          "url": "https://news.ifeng.com/c/8vUtL7Lqyat",
-          "heat": ""
-        },
-        {
-          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
-          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
-          "heat": ""
-        },
-        {
-          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
-          "url": "https://news.ifeng.com/c/8vUFosuJumv",
-          "heat": ""
-        },
-        {
-          "title": "伊朗更强硬的强硬派来了",
-          "url": "https://news.ifeng.com/c/8vUncUovk9A",
-          "heat": ""
-        },
-        {
-          "title": "美国又一个机构成为“反华急先锋”",
-          "url": "https://news.ifeng.com/c/8vV0CNr2Nw7",
-          "heat": ""
-        },
-        {
-          "title": "遏制中国？美国仍在做“沿第一岛链拒止威慑”的美梦",
-          "url": "https://news.ifeng.com/c/8vV2wvtx3Do",
-          "heat": ""
-        },
-        {
-          "title": "特朗普：美军已100%控制霍尔木兹海峡",
-          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
-          "heat": ""
-        },
-        {
-          "title": "德国记者要帮泽连斯基“杀死更多俄罗斯人”，武契奇表情震惊",
-          "url": "https://news.ifeng.com/c/8vU5AoRmRLo",
-          "heat": ""
-        },
-        {
-          "title": "中方回应印度声明：非法无效，从不承认！",
-          "url": "https://news.ifeng.com/c/8vTuxwcJsvW",
-          "heat": ""
-        },
-        {
-          "title": "“日本没被原子弹炸过”！篡改历史的回旋镖砸向日本",
-          "url": "https://news.ifeng.com/c/8vUL8mvmfET",
-          "heat": ""
-        },
-        {
-          "title": "库尔斯克战役两周年：战事催生了一个独立兵种",
-          "url": "https://news.ifeng.com/c/8vUvXI92gyE",
-          "heat": ""
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "id": "toutiao",
@@ -1357,149 +1245,8 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 28,
-      "items": [
-        {
-          "title": "市场消息：位于沃罗涅日州的俄罗斯网络零售商野莓（Wildberries）的物流中心内的货物基本完好无损。",
-          "url": "https://flash.jin10.com/detail/20260811142641233800",
-          "heat": false
-        },
-        {
-          "title": "俄罗斯国防部：武装部队袭击了一个运输和物流中心“Kyiv-3”，该中心面积约50,000平方米。",
-          "url": "https://flash.jin10.com/detail/20260811142528060800",
-          "heat": false
-        },
-        {
-          "title": "暴雨黄色预警生效中 河南部分地区防汛应急响应提升至三级",
-          "url": "https://flash.jin10.com/detail/20260811142514895800",
-          "heat": false
-        },
-        {
-          "title": "沪深两市成交额连续第6个交易日突破2万亿元。",
-          "url": "https://flash.jin10.com/detail/20260811142257460800",
-          "heat": "✰"
-        },
-        {
-          "title": "理想汽车：根据当前规划，第二代理想AI眼镜 Livis预计将在明年下半年到来",
-          "url": "https://flash.jin10.com/detail/20260811142206160800",
-          "heat": false
-        },
-        {
-          "title": "日媒爆日本央行9月加息已摆上桌面，但高市的债务“火药桶”正在引燃",
-          "url": "https://flash.jin10.com/detail/20260811142038971800",
-          "heat": "✰"
-        },
-        {
-          "title": "澳大利亚S&P/ASX200指数8月11日（周二）收盘上涨21.80点，涨幅0.24%，报9254.40点。",
-          "url": "https://flash.jin10.com/detail/20260811142014551800",
-          "heat": false
-        },
-        {
-          "title": "金十数据整理：每日全球外汇市场要闻速递（2026-08-11）",
-          "url": "https://flash.jin10.com/detail/20260811142009319800",
-          "heat": "✰"
-        },
-        {
-          "title": "上证50指数午后跌超1%。",
-          "url": "https://flash.jin10.com/detail/20260811142007623800",
-          "heat": false
-        },
-        {
-          "title": "实控人欲转让价值5亿元股份 天合光能回应",
-          "url": "https://flash.jin10.com/detail/20260811141432768800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：北京时间8月11日22:00将有欧元、日元等外汇期权大单到期，3个行权价10亿以上大单，敬请管理风险。",
-          "url": "https://flash.jin10.com/detail/20260811141306297800",
-          "heat": false
-        },
-        {
-          "title": "澳洲联储主席布洛克：利率前景尚未平衡。",
-          "url": "https://flash.jin10.com/detail/20260811141116611800",
-          "heat": false
-        },
-        {
-          "title": "澳洲联储主席布洛克：委员会成员都对通胀至少有一点担忧。",
-          "url": "https://flash.jin10.com/detail/20260811141108806800",
-          "heat": false
-        },
-        {
-          "title": "人民币汇率创三年半新高 人民币强势突围三大原因",
-          "url": "https://flash.jin10.com/detail/20260811141105712800",
-          "heat": false
-        },
-        {
-          "title": "AI前沿日报-8月11日",
-          "url": "https://flash.jin10.com/detail/20260811141104458800",
-          "heat": false
-        },
-        {
-          "title": "A股*ST闻泰短线异动拉升，现涨超7%。",
-          "url": "https://flash.jin10.com/detail/20260811141056011800",
-          "heat": "✰"
-        },
-        {
-          "title": "主力资金流向前十大个股",
-          "url": "https://flash.jin10.com/detail/20260811141045749800",
-          "heat": false
-        },
-        {
-          "title": "四川四家银行联合筹建理财公司新进展：专项工作组已成立",
-          "url": "https://flash.jin10.com/detail/20260811141004999800",
-          "heat": false
-        },
-        {
-          "title": "印度央行行长：金砖国家的央行数字货币和快速支付系统的联系正在讨论阶段。",
-          "url": "https://flash.jin10.com/detail/20260811140733194800",
-          "heat": false
-        },
-        {
-          "title": "俄称对基辅等地发动打击 乌称袭击已致6人死亡",
-          "url": "https://flash.jin10.com/detail/20260811140609795800",
-          "heat": false
-        },
-        {
-          "title": "印度央行行长：跨境支付是金砖国家关注的领域，因为在降低成本和提高速度方面存在潜力。",
-          "url": "https://flash.jin10.com/detail/20260811140553463800",
-          "heat": false
-        },
-        {
-          "title": "霍尔木兹海峡重开希望渺茫加剧供应担忧 铝价连续第七天上涨",
-          "url": "https://flash.jin10.com/detail/20260811140513069800",
-          "heat": false
-        },
-        {
-          "title": "欧洲斯托克50指数期货下跌0.02%，德国DAX指数期货上涨0.05%，英国富时100指数期货下跌0.11%。",
-          "url": "https://flash.jin10.com/detail/20260811140431387800",
-          "heat": false
-        },
-        {
-          "title": "澳洲联储主席布洛克：对私人信贷脆弱性并不担忧。",
-          "url": "https://flash.jin10.com/detail/20260811140339362800",
-          "heat": false
-        },
-        {
-          "title": "当地州长表示，俄罗斯奥伦堡州一家工业企业遭“敌方无人机”袭击后起火。",
-          "url": "https://flash.jin10.com/detail/20260811140324473800",
-          "heat": false
-        },
-        {
-          "title": "韩国央行高级副行长：美元兑韩元汇率仍在1400区间，依然“非常高”。",
-          "url": "https://flash.jin10.com/detail/20260811140301432800",
-          "heat": false
-        },
-        {
-          "title": "韩国央行高级副行长：央行更关注需求侧通胀压力，而非供给侧。将会有额外的加息。",
-          "url": "https://flash.jin10.com/detail/20260811140237487800",
-          "heat": "✰"
-        },
-        {
-          "title": "A股减速器板块持续走高，斯菱智驱涨停，丰光精密、瑞迪智驱涨超15%，绿的谐波、宏昌科技涨超10%，科达利、中大力德、昊志机电跟涨。",
-          "url": "https://flash.jin10.com/detail/20260811135926528800",
-          "heat": "✰"
-        }
-      ]
+      "count": 0,
+      "items": []
     }
   ]
 }
