@@ -1,6 +1,6 @@
 {
-  "updated": "21:55:34",
-  "total": 274,
+  "updated": "22:00:53",
+  "total": 243,
   "platforms": [
     {
       "id": "zhihu",
@@ -1133,69 +1133,8 @@
     {
       "id": "ifeng",
       "name": "凤凰网",
-      "count": 12,
-      "items": [
-        {
-          "title": "美方竟鼓噪“谁被中国人抢了饭碗速来举报”",
-          "url": "https://news.ifeng.com/c/8vW366Ay9AA",
-          "heat": ""
-        },
-        {
-          "title": "伊朗讽美：对制裁“病态依赖”，丧失了独立思考能力",
-          "url": "https://news.ifeng.com/c/8vVLJAifXPo",
-          "heat": ""
-        },
-        {
-          "title": "俄军士兵用树枝抽下乌军FPV无人机",
-          "url": "https://news.ifeng.com/c/8vVfJL89AEf",
-          "heat": ""
-        },
-        {
-          "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
-          "url": "https://news.ifeng.com/c/8vVVzg0SEzI",
-          "heat": ""
-        },
-        {
-          "title": "泽连斯基向韩国索要防空系统，韩外交部回应了",
-          "url": "https://news.ifeng.com/c/8vVe3rtyq9d",
-          "heat": ""
-        },
-        {
-          "title": "高市早苗送礼反被澳总理开低俗笑话？日方回应曝光",
-          "url": "https://news.ifeng.com/c/8vVLP54qs1I",
-          "heat": ""
-        },
-        {
-          "title": "他们锁定了中国人！东南亚惊悚剧离我们并不远",
-          "url": "https://news.ifeng.com/c/8vW1JWpTLSY",
-          "heat": ""
-        },
-        {
-          "title": "日本民众反对议员参拜靖国神社：那是侵略神社！",
-          "url": "https://news.ifeng.com/c/8vVSXRaklRS",
-          "heat": ""
-        },
-        {
-          "title": "韩国股市暴跌，聚焦三星电子和SK海力士的投资节目成娱乐新热点",
-          "url": "https://news.ifeng.com/c/8vVaQwUQJEb",
-          "heat": ""
-        },
-        {
-          "title": "美国等国无端指责中国7月进行的潜射洲际弹道导弹试射，中方驳斥",
-          "url": "https://news.ifeng.com/c/8vVmVQhoXD1",
-          "heat": ""
-        },
-        {
-          "title": "经济命脉遭重创，哥伦比亚新政府能否扛住多重考验？",
-          "url": "https://news.ifeng.com/c/8vVnt3CpBQX",
-          "heat": ""
-        },
-        {
-          "title": "网红“雅典娜”已确认遇害？母亲发声",
-          "url": "https://news.ifeng.com/c/8vVeyWMOlIM",
-          "heat": ""
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "id": "toutiao",
@@ -1357,104 +1296,8 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 19,
-      "items": [
-        {
-          "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
-          "url": "https://flash.jin10.com/detail/20260812053053264800",
-          "heat": false
-        },
-        {
-          "title": "超微电脑(SMCI.O)CFO：第四季度企业和渠道客户升级计算、存储和网络基础设施的需求有所增长。",
-          "url": "https://flash.jin10.com/detail/20260812052938272800",
-          "heat": false
-        },
-        {
-          "title": "超微电脑(SMCI.O)CFO：2026财年公司有9家客户的收入均超过10亿美元，而2025财年只有4家。",
-          "url": "https://flash.jin10.com/detail/20260812052937702800",
-          "heat": false
-        },
-        {
-          "title": "金十数据整理：中东局势跟踪（8月12日）",
-          "url": "https://flash.jin10.com/detail/20260812052811053800",
-          "heat": "✰"
-        },
-        {
-          "title": "美国证券交易委员会（SEC）文件显示，截至2026年6月30日蓝猫资本持有SpaceX(SPCX.O)140万股A类普通股。",
-          "url": "https://flash.jin10.com/detail/20260812052528296800",
-          "heat": false
-        },
-        {
-          "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",
-          "url": "https://flash.jin10.com/detail/20260812052220258800",
-          "heat": false
-        },
-        {
-          "title": "美国“金穹”防御系统取得早期进展",
-          "url": "https://flash.jin10.com/detail/20260812051759129800",
-          "heat": false
-        },
-        {
-          "title": "美国法官阻止邮政服务根据特朗普命令限制邮寄投票。",
-          "url": "https://flash.jin10.com/detail/20260812050519717800",
-          "heat": false
-        },
-        {
-          "title": "CoreWeave第二季营收翻倍，股价盘后大涨12%",
-          "url": "https://flash.jin10.com/detail/20260812050405164800",
-          "heat": false
-        },
-        {
-          "title": "据相关声明，美国商品期货交易委员会（CFTC）已要求预测平台Kalshi继续运营。",
-          "url": "https://flash.jin10.com/detail/20260812045727885800",
-          "heat": false
-        },
-        {
-          "title": "市场消息：普京已抵达俄罗斯南萨哈林斯克，参加太平洋舰队军演最后阶段。",
-          "url": "https://flash.jin10.com/detail/20260812045252838800",
-          "heat": false
-        },
-        {
-          "title": "Coreweave(CRWV.O)美股盘后上涨10%。",
-          "url": "https://flash.jin10.com/detail/20260812043909627800",
-          "heat": false
-        },
-        {
-          "title": "美国至8月7日当周API投产原油量 3.4万桶/日，前值-11.2万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260812043636135800",
-          "heat": false
-        },
-        {
-          "title": "美国至8月7日当周API成品油进口 19.6万桶/日，前值-20.6万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260812043626131800",
-          "heat": false
-        },
-        {
-          "title": "美国至8月7日当周API原油进口 83.5万桶，前值17.2万桶。",
-          "url": "https://flash.jin10.com/detail/20260812043617732800",
-          "heat": false
-        },
-        {
-          "title": "美国至8月7日当周API取暖油库存 42.4万桶，前值-11.8万桶。",
-          "url": "https://flash.jin10.com/detail/20260812043608659800",
-          "heat": false
-        },
-        {
-          "title": "美国至8月7日当周API库欣原油库存 157.1万桶，前值235.8万桶。",
-          "url": "https://flash.jin10.com/detail/20260812043558096800",
-          "heat": false
-        },
-        {
-          "title": "美国至8月7日当周API精炼油库存 -59.6万桶，预期-160万桶，前值-123.2万桶。",
-          "url": "https://flash.jin10.com/detail/20260812043547137800",
-          "heat": false
-        },
-        {
-          "title": "美国至8月7日当周API汽油库存 -153.1万桶，预期-157.8万桶，前值15.6万桶。",
-          "url": "https://flash.jin10.com/detail/20260812043525508800",
-          "heat": false
-        }
-      ]
+      "count": 0,
+      "items": []
     }
   ]
 }
