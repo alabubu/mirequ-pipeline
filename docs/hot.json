@@ -1,6 +1,6 @@
 {
-  "updated": "21:50:33",
-  "total": 283,
+  "updated": "21:55:27",
+  "total": 284,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,28 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 28,
+      "count": 29,
       "items": [
+        {
+          "title": "白宫：特朗普签署备忘录，授权美国执法部门使用网络工具打击在外国司法管辖区活动的犯罪组织。",
+          "url": "https://flash.jin10.com/detail/20260813054700329800",
+          "heat": false
+        },
+        {
+          "title": "MSCI中国旗舰指数调整：新纳入智谱等33只标的",
+          "url": "https://flash.jin10.com/detail/20260813054538402800",
+          "heat": "✰"
+        },
+        {
+          "title": "金十数据整理：中东局势跟踪（8月13日）",
+          "url": "https://flash.jin10.com/detail/20260813054511324800",
+          "heat": "✰"
+        },
+        {
+          "title": "委内瑞拉央行：7月份通胀水平达到19.9%。",
+          "url": "https://flash.jin10.com/detail/20260813054226379800",
+          "heat": false
+        },
         {
           "title": "美国得州一“阿帕奇”直升机坠毁 两人死亡",
           "url": "https://flash.jin10.com/detail/20260813052431560800",
@@ -1482,21 +1502,6 @@
         {
           "title": "世卫组织：美国调整儿童疫苗接种计划背离科学依据",
           "url": "https://flash.jin10.com/detail/20260813035616533800",
-          "heat": false
-        },
-        {
-          "title": "特朗普：白宫新闻秘书莱维特将于本月底离任",
-          "url": "https://flash.jin10.com/detail/20260813035525711800",
-          "heat": false
-        },
-        {
-          "title": "伊朗“波斯湾海峡管理局”：霍尔木兹海峡仍关闭",
-          "url": "https://flash.jin10.com/detail/20260813035429492800",
-          "heat": false
-        },
-        {
-          "title": "白宫新闻秘书莱维特：特朗普总统已要求我在外部继续担任他的高级顾问，我将永远是MAGA和共和党的坚定代言人。",
-          "url": "https://flash.jin10.com/detail/20260813034627586800",
           "heat": false
         }
       ]
