@@ -1,6 +1,6 @@
 {
-  "updated": "07:30:54",
-  "total": 255,
+  "updated": "07:35:31",
+  "total": 284,
   "platforms": [
     {
       "id": "zhihu",
@@ -1002,6 +1002,11 @@
           "heat": ""
         },
         {
+          "title": "全球市场今晚屏息以待：美国CPI还能带来“鸽派惊喜”吗？",
+          "url": "https://www.cls.cn/detail/2452233",
+          "heat": ""
+        },
+        {
           "title": "8月12日投资避雷针：这家上市公司实控人因操纵证券市场罪 终审获刑三年九个月",
           "url": "https://www.cls.cn/detail/2451835",
           "heat": ""
@@ -1012,13 +1017,8 @@
           "heat": ""
         },
         {
-          "title": "伊朗称在美国满足条件前霍尔木兹海峡不会重开 国际油价短线冲高",
-          "url": "https://www.cls.cn/detail/2451716",
-          "heat": ""
-        },
-        {
-          "title": "马斯克押注智能体再出招：“数字同事”Grok Bot上线",
-          "url": "https://www.cls.cn/detail/2451756",
+          "title": "国产算力基建加速落地！阿里云超节点实例上线 后续拟扩至多地域",
+          "url": "https://www.cls.cn/detail/2452166",
           "heat": ""
         }
       ]
@@ -1357,8 +1357,154 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 0,
-      "items": []
+      "count": 29,
+      "items": [
+        {
+          "title": "黄金4500赔率68.4%，霍尔木兹复航却押不动｜市场赔率数据表",
+          "url": "https://flash.jin10.com/detail/20260812153253160800",
+          "heat": "✰"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 8月12日（周三）收盘上涨0.25%报955.08元/克；<br/>上海黄金交易所白银T+D 8月12日（周三）收盘上涨1.66%报16110.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260812153242239800",
+          "heat": false
+        },
+        {
+          "title": "CPI公布日，竞猜赢大奖",
+          "url": "https://flash.jin10.com/detail/20260812153239712800",
+          "heat": false
+        },
+        {
+          "title": "中国地震台网正式测定：08月12日15时14分在吉尔吉斯斯坦（北纬42.02度，东经75.45度）发生5.2级地震，震源深度10千米。",
+          "url": "https://flash.jin10.com/detail/20260812152912504800",
+          "heat": false
+        },
+        {
+          "title": "希腊政府高级顾问表示，森林大火和热浪给希腊及地中海地区带来了中长期的财政风险。",
+          "url": "https://flash.jin10.com/detail/20260812152831179800",
+          "heat": false
+        },
+        {
+          "title": "华源证券：7月理财规模季节性大幅增长1.75万亿元 理财存续规模35.4万亿创历史新高",
+          "url": "https://flash.jin10.com/detail/20260812152821272800",
+          "heat": false
+        },
+        {
+          "title": "7月深圳新房销售同比涨超30% 限购放松后外地客翻倍增长 业内：看好金九银十市场行情",
+          "url": "https://flash.jin10.com/detail/20260812152745751800",
+          "heat": false
+        },
+        {
+          "title": "中一科技在互动平台表示，公司云梦基地新建1万吨高端电子电路铜箔项目目前已经满产，后续将根据市场情况持续进行产品结构优化。",
+          "url": "https://flash.jin10.com/detail/20260812152603178800",
+          "heat": false
+        },
+        {
+          "title": "鸿海：第三季AI机柜出货量将比上季呈现高双位数的成长，2026年AI机柜出货量料较上年倍数成长。",
+          "url": "https://flash.jin10.com/detail/20260812152534138800",
+          "heat": false
+        },
+        {
+          "title": "CPI将为国际金短期反弹定调 白银成为印度汇率保卫战的“牺牲品”？| Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260812152429670800",
+          "heat": "✰"
+        },
+        {
+          "title": "港股应用软件板块震荡走弱，金蝶国际(00268.HK)跌超8%，金山软件(03888.HK)、涂鸦智能(02391.HK)等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260812152408290800",
+          "heat": false
+        },
+        {
+          "title": "乌克兰首都基辅市响起爆炸声",
+          "url": "https://flash.jin10.com/detail/20260812152311738800",
+          "heat": false
+        },
+        {
+          "title": "伊朗无人机覆盖几乎整个美军中东网络，真正压力不是射程而是“防空成本”",
+          "url": "https://flash.jin10.com/detail/20260812152249484800",
+          "heat": false
+        },
+        {
+          "title": "鸿海：将在美国增产，包括得克萨斯州和威斯康星州。",
+          "url": "https://flash.jin10.com/detail/20260812151855833800",
+          "heat": false
+        },
+        {
+          "title": "摩萨德前局长称以方人员多次“踩点”伊朗核设施",
+          "url": "https://flash.jin10.com/detail/20260812151837617800",
+          "heat": false
+        },
+        {
+          "title": "鸿海：中国台湾地区、美国、墨西哥和越南都会扩产。",
+          "url": "https://flash.jin10.com/detail/20260812151759216800",
+          "heat": false
+        },
+        {
+          "title": "ADNOC拟利用“暗中转运”策略帮助伊拉克出口原油",
+          "url": "https://flash.jin10.com/detail/20260812151751369800",
+          "heat": false
+        },
+        {
+          "title": "鸿海：资本支出持续增加以强化全球制造及自动化布局。",
+          "url": "https://flash.jin10.com/detail/20260812151747773800",
+          "heat": false
+        },
+        {
+          "title": "国债期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20260812151642769800",
+          "heat": false
+        },
+        {
+          "title": "鸿海：明年展望很正面，客户对AI的需求非常强劲。",
+          "url": "https://flash.jin10.com/detail/20260812151556203800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月12日（周三）上海金午盘价为955.85元/克，较国际金价(955.54元/克)，高0.31元/克",
+          "url": "https://flash.jin10.com/detail/20260812151555688800",
+          "heat": false
+        },
+        {
+          "title": "鸿海：将继续增加资本支出。",
+          "url": "https://flash.jin10.com/detail/20260812151536756800",
+          "heat": false
+        },
+        {
+          "title": "中国同辐等成立新公司 含AI及物联网业务",
+          "url": "https://flash.jin10.com/detail/20260812151435632800",
+          "heat": false
+        },
+        {
+          "title": "鸿海：受人工智能需求强劲推动，淡季已不复存在。",
+          "url": "https://flash.jin10.com/detail/20260812151344625800",
+          "heat": false
+        },
+        {
+          "title": "鸿海：AI伺服器的成长非常强劲。",
+          "url": "https://flash.jin10.com/detail/20260812151335839800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月12日（周三）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260812151140126800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月12日（周三）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20260812151053304800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：A股每日市场要闻回顾（2026-08-12）",
+          "url": "https://flash.jin10.com/detail/20260812150956652800",
+          "heat": "✰"
+        },
+        {
+          "title": "金十整理：机构前瞻美国7月CPI及核心CPI月率",
+          "url": "https://flash.jin10.com/detail/20260812150759298800",
+          "heat": "✰"
+        }
+      ]
     }
   ]
 }
