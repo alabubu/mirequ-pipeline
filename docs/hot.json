@@ -1,6 +1,6 @@
 {
-  "updated": "13:31:08",
-  "total": 225,
+  "updated": "13:35:33",
+  "total": 284,
   "platforms": [
     {
       "id": "zhihu",
@@ -982,6 +982,11 @@
           "heat": ""
         },
         {
+          "title": "算力租赁、光通信利好不断 美国7月CPI平稳落地 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2452722",
+          "heat": ""
+        },
+        {
           "title": "【焦点复盘】科技成长股主导缩量普涨，全市场超4100股飘红，大消费板块午后再度爆发",
           "url": "https://www.cls.cn/detail/2452438",
           "heat": ""
@@ -997,8 +1002,13 @@
           "heat": ""
         },
         {
-          "title": "跨界进军光通信，蓝盾光电三连“20CM”涨停",
-          "url": "https://www.cls.cn/detail/2452186",
+          "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
+          "url": "https://www.cls.cn/detail/2452579",
+          "heat": ""
+        },
+        {
+          "title": "涨价持续+高端产品占比提升 覆铜板头部企业：毛利率或突破30%，加快扩产布局上游|传真",
+          "url": "https://www.cls.cn/detail/2452564",
           "heat": ""
         },
         {
@@ -1007,18 +1017,8 @@
           "heat": ""
         },
         {
-          "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
-          "url": "https://www.cls.cn/detail/2452579",
-          "heat": ""
-        },
-        {
           "title": "央行：综合运用并适时调整货币政策工具 保持流动性充裕和社会融资条件相对宽松",
           "url": "https://www.cls.cn/detail/2452559",
-          "heat": ""
-        },
-        {
-          "title": "三星、SK海力士股价大涨！淡马锡据悉拟投资 认为存储仍被低估",
-          "url": "https://www.cls.cn/detail/2452409",
           "heat": ""
         }
       ]
@@ -1200,14 +1200,311 @@
     {
       "id": "toutiao",
       "name": "今日头条",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "朱镕基同志逝世",
+          "url": "https://www.toutiao.com/trending/7672219414749793835/",
+          "heat": ""
+        },
+        {
+          "title": "朱镕基同志遗像发布",
+          "url": "https://www.toutiao.com/trending/7673083499741449747/",
+          "heat": ""
+        },
+        {
+          "title": "新能源汽车新车销量占比首超60%",
+          "url": "https://www.toutiao.com/trending/7673110698733637130/",
+          "heat": ""
+        },
+        {
+          "title": "《新闻联播》播发朱镕基逝世",
+          "url": "https://www.toutiao.com/trending/7673096832658132489/",
+          "heat": ""
+        },
+        {
+          "title": "中方用孔子一句话送给美方",
+          "url": "https://www.toutiao.com/trending/7672974182912622635/",
+          "heat": ""
+        },
+        {
+          "title": "上半年全国结婚登记327.5万对",
+          "url": "https://www.toutiao.com/trending/7672315775647432723/",
+          "heat": ""
+        },
+        {
+          "title": "英仙座流星雨将迎来极大",
+          "url": "https://www.toutiao.com/trending/7673106308901224457/",
+          "heat": ""
+        },
+        {
+          "title": "郭兰英1994年将演唱版权无偿捐国家",
+          "url": "https://www.toutiao.com/trending/7672949387655400998/",
+          "heat": ""
+        },
+        {
+          "title": "胖东来弃租背后房东的“话事权”转移",
+          "url": "https://www.toutiao.com/trending/7673102497090653715/",
+          "heat": ""
+        },
+        {
+          "title": "中印发生新的边境事件？中方回应",
+          "url": "https://www.toutiao.com/trending/7673107791090814506/",
+          "heat": ""
+        },
+        {
+          "title": "昌小e系列短片丨破解网络谣言",
+          "url": "https://www.toutiao.com/trending/7673130498504212530/",
+          "heat": ""
+        },
+        {
+          "title": "河南暴雨",
+          "url": "https://www.toutiao.com/trending/7672919255847272454/",
+          "heat": ""
+        },
+        {
+          "title": "女子躲雨遇热心店主狂买10件衣服",
+          "url": "https://www.toutiao.com/trending/7673091896931893311/",
+          "heat": ""
+        },
+        {
+          "title": "原来姚安娜是艺名",
+          "url": "https://www.toutiao.com/trending/7672540673719697435/",
+          "heat": ""
+        },
+        {
+          "title": "伊朗总统向多名新任军事指挥官致贺信",
+          "url": "https://www.toutiao.com/trending/7671934926010744875/",
+          "heat": ""
+        },
+        {
+          "title": "博主：俄朝轮番亮剑打懵日本右翼",
+          "url": "https://www.toutiao.com/trending/7673100953611947556/",
+          "heat": ""
+        },
+        {
+          "title": "广场舞高音喇叭扰民最高罚2万",
+          "url": "https://www.toutiao.com/trending/7673049462863986714/",
+          "heat": ""
+        },
+        {
+          "title": "高志凯：谁搞“台独”就是真正的汉奸",
+          "url": "https://www.toutiao.com/trending/7672549052433334281/",
+          "heat": ""
+        },
+        {
+          "title": "贾冰：这两天的热搜快给我热馊了",
+          "url": "https://www.toutiao.com/trending/7672557375442157595/",
+          "heat": ""
+        },
+        {
+          "title": "普京穿军装在导弹巡洋舰上点名日本",
+          "url": "https://www.toutiao.com/trending/7673080386569797638/",
+          "heat": ""
+        },
+        {
+          "title": "日全食将上演 最长持续约2分18秒",
+          "url": "https://www.toutiao.com/trending/7672179294160355347/",
+          "heat": ""
+        },
+        {
+          "title": "被前男友杀害女生母亲带着判决书扫墓",
+          "url": "https://www.toutiao.com/trending/7672065703012515886/",
+          "heat": ""
+        },
+        {
+          "title": "特朗普“历史性协议”告吹",
+          "url": "https://www.toutiao.com/trending/7673096246801747492/",
+          "heat": ""
+        },
+        {
+          "title": "于荣光释小龙现身哈尔滨逛吃",
+          "url": "https://www.toutiao.com/trending/7673003152958079026/",
+          "heat": ""
+        },
+        {
+          "title": "台风后路面积水女子开拖拉机送娃上学",
+          "url": "https://www.toutiao.com/trending/7672966094818967595/",
+          "heat": ""
+        },
+        {
+          "title": "康师傅和统一为何对老产品越来越依赖",
+          "url": "https://www.toutiao.com/trending/7673086081918570011/",
+          "heat": ""
+        },
+        {
+          "title": "郑州交警回应车主为躲积水把车停高架",
+          "url": "https://www.toutiao.com/trending/7672352467820445723/",
+          "heat": ""
+        },
+        {
+          "title": "酒店为何把小瓶洗护换成大瓶",
+          "url": "https://www.toutiao.com/trending/7673008330303111214/",
+          "heat": ""
+        },
+        {
+          "title": "日本女主播直播时对黑人用歧视词汇",
+          "url": "https://www.toutiao.com/trending/7672174150161154054/",
+          "heat": ""
+        },
+        {
+          "title": "暴雨天滞留货车司机被暖心投喂",
+          "url": "https://www.toutiao.com/trending/7672267848802369546/",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 0,
-      "items": []
+      "count": 29,
+      "items": [
+        {
+          "title": "Coreweave股价飙升22%，Nebius上涨18%。",
+          "url": "https://flash.jin10.com/detail/20260812213220552800",
+          "heat": false
+        },
+        {
+          "title": "道琼斯指数8月12日（周三）开盘上涨14.50点，涨幅0.03%，报53806.35点；<br/>标普500指数8月12日（周三）开盘上涨27.19点，涨幅0.35%，报7755.28点；<br/>纳斯达克综合指数8月12日（周三）开盘上涨189.14点，涨幅0.71%，报26634.59点。",
+          "url": "https://flash.jin10.com/detail/20260812213217356800",
+          "heat": false
+        },
+        {
+          "title": "超微电脑(SMCI.O)股价上涨9%，因其预测2027财年收入将超出预期。",
+          "url": "https://flash.jin10.com/detail/20260812213152795800",
+          "heat": "✰"
+        },
+        {
+          "title": "金十期货正在直播",
+          "url": "https://flash.jin10.com/detail/20260812213030018800",
+          "heat": false
+        },
+        {
+          "title": "美国CPI数据符合预期，美股高开",
+          "url": "https://flash.jin10.com/detail/20260812213029025800",
+          "heat": "✰"
+        },
+        {
+          "title": "金十图示：2026年08月12日（周三）各大货币对表现",
+          "url": "https://flash.jin10.com/detail/20260812213026181800",
+          "heat": false
+        },
+        {
+          "title": "航行警告！东海海域军事演练",
+          "url": "https://flash.jin10.com/detail/20260812213025276800",
+          "heat": false
+        },
+        {
+          "title": "外媒曝美伊停火“毫无进展”，特朗普声称对霍尔木兹拥有完全控制权",
+          "url": "https://flash.jin10.com/detail/20260812212941566800",
+          "heat": "✰"
+        },
+        {
+          "title": "央行：二季度新发放企业贷款和房贷利率均在3%左右",
+          "url": "https://flash.jin10.com/detail/20260812212936594800",
+          "heat": false
+        },
+        {
+          "title": "期货盯盘神器专属文章",
+          "url": "https://flash.jin10.com/detail/20260812212211594800",
+          "heat": "✰"
+        },
+        {
+          "title": "财料",
+          "url": "https://flash.jin10.com/detail/20260812212101549800",
+          "heat": "✰"
+        },
+        {
+          "title": "科威特国家通讯社：科威特方面称挫败了一起袭击重要设施的“恐怖袭击阴谋”。",
+          "url": "https://flash.jin10.com/detail/20260812212018551800",
+          "heat": false
+        },
+        {
+          "title": "俄罗斯外交部：乌克兰的攻击加剧了全球粮食短缺，推动了全球食品价格上涨。",
+          "url": "https://flash.jin10.com/detail/20260812211457491800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：阿联酋铝生产商将斥资4亿美元恢复生产，此前该公司遭到伊朗袭击。",
+          "url": "https://flash.jin10.com/detail/20260812211429342800",
+          "heat": false
+        },
+        {
+          "title": "俄罗斯情报机构消息称，乌克兰正利用西方情报机构袭击亚速海和黑海的交通物流基础设施和船只。",
+          "url": "https://flash.jin10.com/detail/20260812211311397800",
+          "heat": false
+        },
+        {
+          "title": "据国际文传电讯社援引俄罗斯官方消息称，俄罗斯将继续打击向乌克兰运送西方武器的船只。",
+          "url": "https://flash.jin10.com/detail/20260812211206938800",
+          "heat": false
+        },
+        {
+          "title": "CPI数据能否左右黄金？",
+          "url": "https://flash.jin10.com/detail/20260812211058573800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：在乌克兰敖德萨地区坠毁的乌克兰空军米格-29战斗机是被“友军火力”击落的。",
+          "url": "https://flash.jin10.com/detail/20260812211047860800",
+          "heat": false
+        },
+        {
+          "title": "也门消息人士：过去六天内有28名胡塞武装领导人被击毙。",
+          "url": "https://flash.jin10.com/detail/20260812211025592800",
+          "heat": false
+        },
+        {
+          "title": "13天9板AI应用牛股被深交所重点监控，或申请停牌核查 | 盘后公告精选",
+          "url": "https://flash.jin10.com/detail/20260812210926333800",
+          "heat": "✰"
+        },
+        {
+          "title": "美股狂欢助推养老金 纽约五大基金跑赢目标",
+          "url": "https://flash.jin10.com/detail/20260812210916323800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-08-12）",
+          "url": "https://flash.jin10.com/detail/20260812210726258800",
+          "heat": "✰"
+        },
+        {
+          "title": "分析师：7月通胀报告强化了美联储9月按兵不动的预期",
+          "url": "https://flash.jin10.com/detail/20260812210725064800",
+          "heat": false
+        },
+        {
+          "title": "CPI黄金竞猜中奖名单公布",
+          "url": "https://flash.jin10.com/detail/20260812210652846800",
+          "heat": "✰"
+        },
+        {
+          "title": "华尔街对美国最新通胀报告表示满意",
+          "url": "https://flash.jin10.com/detail/20260812210640082800",
+          "heat": false
+        },
+        {
+          "title": "策略师：这份通胀报告并不能把美联储加息可能性完全排除",
+          "url": "https://flash.jin10.com/detail/20260812210601901800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月12日（周三）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20260812210518479800",
+          "heat": false
+        },
+        {
+          "title": "ST围海：申请撤销股票交易其他风险警示，自行政处罚决定书出具已满十二个月",
+          "url": "https://flash.jin10.com/detail/20260812210435381800",
+          "heat": false
+        },
+        {
+          "title": "北约理事会对受影响的盟友表示团结，并重申对乌克兰的支持。",
+          "url": "https://flash.jin10.com/detail/20260812210400575800",
+          "heat": false
+        }
+      ]
     }
   ]
 }
