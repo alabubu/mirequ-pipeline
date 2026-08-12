@@ -1,113 +1,12 @@
 {
-  "updated": "16:25:32",
-  "total": 280,
+  "updated": "16:30:45",
+  "total": 193,
   "platforms": [
     {
       "id": "zhihu",
       "name": "知乎",
-      "count": 20,
-      "items": [
-        {
-          "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
-          "url": "https://zhuanlan.zhihu.com/p/2070933430993414087",
-          "heat": "1226 万热度"
-        },
-        {
-          "title": "上海、浙江等多地试点直升高中，部分学校改为十二年一贯制，怎样看待这种模式？中考的功能可能发生哪些变化？",
-          "url": "https://www.zhihu.com/question/2070815706040329689",
-          "heat": "293 万热度"
-        },
-        {
-          "title": "赵一鸣牛肉干 64 元复称仅 17 元，店方称不知道为啥出错，暴露了哪些管理漏洞？消费者如何避免被坑？",
-          "url": "https://www.zhihu.com/question/2070790151454684401",
-          "heat": "264 万热度"
-        },
-        {
-          "title": "据媒体报道部分手机壳疑似采用废弃针管等医疗垃圾加工而成，真的吗？对健康会有多大危害？消费者该如何辨别？",
-          "url": "https://www.zhihu.com/question/2070066925363619123",
-          "heat": "244 万热度"
-        },
-        {
-          "title": "内蒙古一警车被指擅自更换车标，警方称正在整改，会面临哪些处罚？警车作为执法车辆为何会出现此类违规操作？",
-          "url": "https://www.zhihu.com/question/2070438924262929841",
-          "heat": "179 万热度"
-        },
-        {
-          "title": "黑洞的引力如此之大，连光都无法逃脱，那它内部的物质最终去了哪里？",
-          "url": "https://www.zhihu.com/question/1943680908252148271",
-          "heat": "174 万热度"
-        },
-        {
-          "title": "你认为川菜的麻辣是为了祛湿，还是为了掩盖食材不新鲜味道？",
-          "url": "https://www.zhihu.com/question/2065696591072203753",
-          "heat": "163 万热度"
-        },
-        {
-          "title": "7 月小米 SU7 销量 21,044 辆，连续 4 个月位列 20 万以上轿车销量第一，如何评价？",
-          "url": "https://www.zhihu.com/question/2070807325699580723",
-          "heat": "151 万热度"
-        },
-        {
-          "title": "腾讯发布二季度财报，上半年资本开支增长 82%，二季度达到 527.84 亿元，如何解读？",
-          "url": "https://www.zhihu.com/question/2070928873705791858",
-          "heat": "131 万热度"
-        },
-        {
-          "title": "如何评价 2026 年 8 月米哈游《原神》7.0 【至冬】大世界地图？",
-          "url": "https://www.zhihu.com/question/2070554826006599113",
-          "heat": "128 万热度"
-        },
-        {
-          "title": "《王者荣耀世界》第二赛季无限期延期，官方补偿 6500 玄晶加 10 连抽，玩家会买账吗？",
-          "url": "https://www.zhihu.com/question/2070571923441034531",
-          "heat": "126 万热度"
-        },
-        {
-          "title": "为什么《哪吒之魔童闹海》获百花奖最佳影片无人站起，《惊蛰无声》获优秀影片，现场全体起立？",
-          "url": "https://www.zhihu.com/question/2070482846033121781",
-          "heat": "124 万热度"
-        },
-        {
-          "title": "如果城市允许骑马，且有公共马厩供马休息，你愿意骑马通勤吗？",
-          "url": "https://www.zhihu.com/question/2061806723862631112",
-          "heat": "119 万热度"
-        },
-        {
-          "title": "女子开一天一夜空调后确诊呼吸性碱中毒，是空调导致的吗？为什么会被误传为「二氧化碳中毒」，二者有何区别？",
-          "url": "https://www.zhihu.com/question/2068973888067964954",
-          "heat": "118 万热度"
-        },
-        {
-          "title": "梁文锋财富一年暴涨 3850% ，跻身全球亿万富豪榜，他是如何做到的？",
-          "url": "https://www.zhihu.com/question/2070810807168980648",
-          "heat": "114 万热度"
-        },
-        {
-          "title": "家庭资产几乎都在房子里，到底危险在哪？",
-          "url": "https://www.zhihu.com/question/2070454238250111565",
-          "heat": "110 万热度"
-        },
-        {
-          "title": "DeepSeek Pro 正式版已经发布，如何评价该模型？",
-          "url": "https://www.zhihu.com/question/2071014727606703118",
-          "heat": "109 万热度"
-        },
-        {
-          "title": "为什么液体可以完全浮在水上面，固体则必须被淹没一部分？",
-          "url": "https://www.zhihu.com/question/11742854315",
-          "heat": "108 万热度"
-        },
-        {
-          "title": "为什么《蜘蛛侠》能拍「交不起房租」，国产大片却总在拍「光鲜亮丽的拯救世界」？",
-          "url": "https://www.zhihu.com/question/2068356359494559541",
-          "heat": "107 万热度"
-        },
-        {
-          "title": "如何看待杨奇回应《黑神话：钟馗》进度「设计阶段会远离 AIGC 工具，诺兰的奥德赛也是古法创作」？",
-          "url": "https://www.zhihu.com/question/2070508935673378471",
-          "heat": "100 万热度"
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "id": "weibo",
@@ -269,159 +168,8 @@
     {
       "id": "douyin",
       "name": "抖音",
-      "count": 30,
-      "items": [
-        {
-          "title": "朱镕基同志逝世",
-          "url": "https://www.douyin.com/hot/2607321",
-          "heat": ""
-        },
-        {
-          "title": "山西运城才是旅行的宝藏地",
-          "url": "https://www.douyin.com/hot/2606513",
-          "heat": ""
-        },
-        {
-          "title": "我国加快自然资源一张图建设",
-          "url": "https://www.douyin.com/hot/2607445",
-          "heat": ""
-        },
-        {
-          "title": "沉浸式感受红山石林带来的震撼",
-          "url": "https://www.douyin.com/hot/2606942",
-          "heat": ""
-        },
-        {
-          "title": "新台风浪卡生成",
-          "url": "https://www.douyin.com/hot/2606819",
-          "heat": ""
-        },
-        {
-          "title": "徒步人都有的一张照片",
-          "url": "https://www.douyin.com/hot/2606244",
-          "heat": ""
-        },
-        {
-          "title": "郭兰英逝世",
-          "url": "https://www.douyin.com/hot/2606459",
-          "heat": ""
-        },
-        {
-          "title": "硬核运镜闯8D重庆太丝滑了",
-          "url": "https://www.douyin.com/hot/2606990",
-          "heat": ""
-        },
-        {
-          "title": "武大靖出任中国短道速滑队主教练",
-          "url": "https://www.douyin.com/hot/2607027",
-          "heat": ""
-        },
-        {
-          "title": "15万亿元投资新机遇来了",
-          "url": "https://www.douyin.com/hot/2606839",
-          "heat": ""
-        },
-        {
-          "title": "朱镕基同志遗像发布",
-          "url": "https://www.douyin.com/hot/2607329",
-          "heat": ""
-        },
-        {
-          "title": "一起追英仙座流星雨",
-          "url": "https://www.douyin.com/hot/2607514",
-          "heat": ""
-        },
-        {
-          "title": "穿搭改变环境",
-          "url": "https://www.douyin.com/hot/2606975",
-          "heat": ""
-        },
-        {
-          "title": "英仙座流星雨将迎来极大",
-          "url": "https://www.douyin.com/hot/2606852",
-          "heat": ""
-        },
-        {
-          "title": "中国军号海外账号发布高燃视频",
-          "url": "https://www.douyin.com/hot/2606588",
-          "heat": ""
-        },
-        {
-          "title": "中国裁军大使严正驳斥美方无端指责",
-          "url": "https://www.douyin.com/hot/2606474",
-          "heat": ""
-        },
-        {
-          "title": "赵心童5:6不敌张安达",
-          "url": "https://www.douyin.com/hot/2606681",
-          "heat": ""
-        },
-        {
-          "title": "感动千万网友的搬瓜少年后续",
-          "url": "https://www.douyin.com/hot/2607391",
-          "heat": ""
-        },
-        {
-          "title": "杰伦格林抖音海选球迷太夯了",
-          "url": "https://www.douyin.com/hot/2606787",
-          "heat": ""
-        },
-        {
-          "title": "没有花一开始就是一朵花",
-          "url": "https://www.douyin.com/hot/2607357",
-          "heat": ""
-        },
-        {
-          "title": "这下七夕你总满意了吧",
-          "url": "https://www.douyin.com/hot/2607256",
-          "heat": ""
-        },
-        {
-          "title": "手瓦莲花套将上线",
-          "url": "https://www.douyin.com/hot/2607500",
-          "heat": ""
-        },
-        {
-          "title": "美股三大指数集体高开",
-          "url": "https://www.douyin.com/hot/2607617",
-          "heat": ""
-        },
-        {
-          "title": "这段眼神戏满是遗憾",
-          "url": "https://www.douyin.com/hot/2606789",
-          "heat": ""
-        },
-        {
-          "title": "走进宫崎骏的夏天",
-          "url": "https://www.douyin.com/hot/2606007",
-          "heat": ""
-        },
-        {
-          "title": "央行将开展隔夜逆回购操作",
-          "url": "https://www.douyin.com/hot/2607310",
-          "heat": ""
-        },
-        {
-          "title": "向流星许个愿",
-          "url": "https://www.douyin.com/hot/2607650",
-          "heat": ""
-        },
-        {
-          "title": "英仙座流星雨观赏攻略",
-          "url": "https://www.douyin.com/hot/2607560",
-          "heat": ""
-        },
-        {
-          "title": "甄子丹参演影之刃零",
-          "url": "https://www.douyin.com/hot/2607139",
-          "heat": ""
-        },
-        {
-          "title": "双枪在手怎么颜色还全打错了",
-          "url": "https://www.douyin.com/hot/2606917",
-          "heat": ""
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "id": "bilibili-hot-search",
@@ -1133,69 +881,8 @@
     {
       "id": "ifeng",
       "name": "凤凰网",
-      "count": 12,
-      "items": [
-        {
-          "title": "朱镕基同志逝世",
-          "url": "https://news.ifeng.com/c/8vXGlDfywi9",
-          "heat": ""
-        },
-        {
-          "title": "浙江一家公司，收到美国政府2.62亿元关税退税",
-          "url": "https://news.ifeng.com/c/8vX3tTPDU9p",
-          "heat": ""
-        },
-        {
-          "title": "安理会巴以问题紧急公开会上，中方提出“三个必须”",
-          "url": "https://news.ifeng.com/c/8vX0dRXKpp3",
-          "heat": ""
-        },
-        {
-          "title": "美国又撤销一项TikTok禁令，联邦政府设备上也可以使用了",
-          "url": "https://news.ifeng.com/c/8vX3mzcIRsB",
-          "heat": ""
-        },
-        {
-          "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
-          "url": "https://news.ifeng.com/c/8vX5eliYwTC",
-          "heat": ""
-        },
-        {
-          "title": "美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹",
-          "url": "https://news.ifeng.com/c/8vX4SqfjB1V",
-          "heat": ""
-        },
-        {
-          "title": "普京：若西方国家扣押俄罗斯商船，俄方将予以对等回应",
-          "url": "https://news.ifeng.com/c/8vX6M3WTlqn",
-          "heat": ""
-        },
-        {
-          "title": "俄罗斯本土，遭遇“最致命袭击”",
-          "url": "https://news.ifeng.com/c/8vXC7SdnfWv",
-          "heat": ""
-        },
-        {
-          "title": "不满美国施加高额关税，泰国罕见亮出军事筹码威胁特朗普政府",
-          "url": "https://news.ifeng.com/c/8vXFYlujdhz",
-          "heat": ""
-        },
-        {
-          "title": "中国管制稀土对日出口量腰斩，多个品类6月供应清零",
-          "url": "https://news.ifeng.com/c/8vX0aYByCO5",
-          "heat": ""
-        },
-        {
-          "title": "韩国发布七大战略：5年登月、9年商用核反应堆…",
-          "url": "https://news.ifeng.com/c/8vX128VQ5CD",
-          "heat": ""
-        },
-        {
-          "title": "林肯号航母被曝士气低落，有人试图跳海，美海军发言人发声",
-          "url": "https://news.ifeng.com/c/8vX7slCVHR7",
-          "heat": ""
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "id": "toutiao",
@@ -1273,6 +960,11 @@
           "heat": ""
         },
         {
+          "title": "业内：机器人技术反向回流手机",
+          "url": "https://www.toutiao.com/trending/7673104720453763099/",
+          "heat": ""
+        },
+        {
           "title": "胖东来弃租背后房东的“话事权”转移",
           "url": "https://www.toutiao.com/trending/7673102497090653715/",
           "heat": ""
@@ -1283,23 +975,18 @@
           "heat": ""
         },
         {
-          "title": "越南为何陷入“越输出越难发展”怪圈",
-          "url": "https://www.toutiao.com/trending/7673093968405466634/",
-          "heat": ""
-        },
-        {
           "title": "普京穿军装在导弹巡洋舰上点名日本",
           "url": "https://www.toutiao.com/trending/7673080386569797638/",
           "heat": ""
         },
         {
-          "title": "业内：机器人技术反向回流手机",
-          "url": "https://www.toutiao.com/trending/7673104720453763099/",
+          "title": "荣耀Magic9系列手机外观首曝",
+          "url": "https://www.toutiao.com/trending/7672306494965055494/",
           "heat": ""
         },
         {
-          "title": "汽车实体按键“杀”回来了",
-          "url": "https://www.toutiao.com/trending/7671986425835913266/",
+          "title": "伊朗：目前使用武器都是自主研发的",
+          "url": "https://www.toutiao.com/trending/7672229042539888694/",
           "heat": ""
         },
         {
@@ -1313,43 +1000,43 @@
           "heat": ""
         },
         {
-          "title": "女子躲雨遇热心店主狂买10件衣服",
-          "url": "https://www.toutiao.com/trending/7673091896931893311/",
-          "heat": ""
-        },
-        {
-          "title": "男子伪装快递员杀害前女友被判死刑",
-          "url": "https://www.toutiao.com/trending/7673090079111397385/",
-          "heat": ""
-        },
-        {
-          "title": "红杉投资人李彦男正在关心什么",
-          "url": "https://www.toutiao.com/trending/7673125278347955722/",
-          "heat": ""
-        },
-        {
           "title": "男子分手十几年后欲要回金手镯",
           "url": "https://www.toutiao.com/trending/7673019599934144521/",
           "heat": ""
         },
         {
-          "title": "荣耀Magic9系列手机外观首曝",
-          "url": "https://www.toutiao.com/trending/7672306494965055494/",
+          "title": "男子上班脑出血送医后死亡未认定工伤",
+          "url": "https://www.toutiao.com/trending/7672999408576905222/",
           "heat": ""
         },
         {
-          "title": "王晶现身哈尔滨港片“大佬”气场全开",
-          "url": "https://www.toutiao.com/trending/7672856913482874943/",
+          "title": "四川阿坝州汶川县发生3.0级地震",
+          "url": "https://www.toutiao.com/trending/7673128397937053247/",
           "heat": ""
         },
         {
-          "title": "金饰冲高至1300元/克 未来走势如何",
-          "url": "https://www.toutiao.com/trending/7673131965846916644/",
+          "title": "丁程鑫周柯宇躺张凌赫胸肌上",
+          "url": "https://www.toutiao.com/trending/7672675618396553258/",
           "heat": ""
         },
         {
-          "title": "男子看病8天花8万治疗按分钟收费",
-          "url": "https://www.toutiao.com/trending/7673054156569133119/",
+          "title": "冯小刚徐帆亮相成龙电影周闭幕式",
+          "url": "https://www.toutiao.com/trending/7673080537377701942/",
+          "heat": ""
+        },
+        {
+          "title": "北特科技为何押上18.5亿入局机器人",
+          "url": "https://www.toutiao.com/trending/7673121649394191923/",
+          "heat": ""
+        },
+        {
+          "title": "女子躲雨遇热心店主狂买10件衣服",
+          "url": "https://www.toutiao.com/trending/7673091896931893311/",
+          "heat": ""
+        },
+        {
+          "title": "汽车实体按键“杀”回来了",
+          "url": "https://www.toutiao.com/trending/7671986425835913266/",
           "heat": ""
         }
       ]
@@ -1357,134 +1044,8 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 25,
-      "items": [
-        {
-          "title": "据Politico：派拉蒙(PSKY.O)CEO被要求接受国会问询。",
-          "url": "https://flash.jin10.com/detail/20260813000233551800",
-          "heat": false
-        },
-        {
-          "title": "美国农业部：8月美国2026/2027年度大豆产量预期为45.19亿蒲式耳，市场预期为44.72亿蒲式耳，7月预期为44.75亿蒲式耳。8月美国2026/2027年度大豆期末库存预期为3.2亿蒲式耳，市场预期为3.04亿蒲式耳，7月预期为3.1亿蒲式耳。8月美国2026/2027年度大豆单产预期为52.7蒲式耳/英亩，市场预期为52.9蒲式耳/英亩，7月预期为53蒲式耳/英亩。",
-          "url": "https://flash.jin10.com/detail/20260813000229591800",
-          "heat": "✰"
-        },
-        {
-          "title": "俄罗斯统计局：七月份消费者物价指数环比上涨0.54%。",
-          "url": "https://flash.jin10.com/detail/20260813000112741800",
-          "heat": false
-        },
-        {
-          "title": "俄罗斯统计局：第二季度GDP同比增长1.3%，而上一季度同比下降0.2%。",
-          "url": "https://flash.jin10.com/detail/20260813000038998800",
-          "heat": false
-        },
-        {
-          "title": "今日重点关注的财经数据与事件：2026年8月13日 周四",
-          "url": "https://flash.jin10.com/detail/20260813000000000800",
-          "heat": "✰"
-        },
-        {
-          "title": "谷歌：推出谷歌Pixel Tag。",
-          "url": "https://flash.jin10.com/detail/20260812234819125800",
-          "heat": false
-        },
-        {
-          "title": "做空机构Viceroy Research表示其正在做空Blue Moon Metals，该公司股价目前下跌8%。",
-          "url": "https://flash.jin10.com/detail/20260812234809019800",
-          "heat": false
-        },
-        {
-          "title": "黑石集团正在考虑终止一项价值30亿美元的股权换现金交易。",
-          "url": "https://flash.jin10.com/detail/20260812234714743800",
-          "heat": false
-        },
-        {
-          "title": "马斯克：Grok 4.6的Elo评分达到1753分。",
-          "url": "https://flash.jin10.com/detail/20260812234523228800",
-          "heat": false
-        },
-        {
-          "title": "知情人士：巴基斯坦正竭力斡旋 以延长美伊停火协议",
-          "url": "https://flash.jin10.com/detail/20260812234440692800",
-          "heat": false
-        },
-        {
-          "title": "以色列国防军：在加沙地带北部击毙一名哈马斯指挥官。",
-          "url": "https://flash.jin10.com/detail/20260812234324258800",
-          "heat": false
-        },
-        {
-          "title": "波斯湾油污危机浮现 油轮袭击加剧霍尔木兹环境风险",
-          "url": "https://flash.jin10.com/detail/20260812234157311800",
-          "heat": false
-        },
-        {
-          "title": "市场消息：瑞士拟立法强制延迟银行高管奖金发放，最长可达五年。",
-          "url": "https://flash.jin10.com/detail/20260812234143205800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：2026年08月12日（周三）全球股市指数-欧洲市场",
-          "url": "https://flash.jin10.com/detail/20260812234031456800",
-          "heat": false
-        },
-        {
-          "title": "伊朗：美国国会应调查特朗普资产的增加情况",
-          "url": "https://flash.jin10.com/detail/20260812233824579800",
-          "heat": false
-        },
-        {
-          "title": "德国DAX30指数8月12日（周三）收盘下跌53.75点，跌幅0.20%，报26341.62点；<br/>英国富时100指数8月12日（周三）收盘下跌7.55点，跌幅0.07%，报10836.64点；<br/>法国CAC40指数8月12日（周三）收盘下跌40.00点，跌幅0.46%，报8674.94点；<br/>欧洲斯托克50指数8月12日（周三）收盘下跌15.87点，跌幅0.24%，报6535.35点；<br/>西班牙IBEX35指数8月12日（周三）收盘下跌8.44点，跌幅0.04%，报20205.16点；<br/>意大利富时MIB指数8月12日（周三）收盘上涨0.79点，涨幅0.00%，报53707.00点。",
-          "url": "https://flash.jin10.com/detail/20260812233643285800",
-          "heat": false
-        },
-        {
-          "title": "伊朗革命卫队指挥官纳克迪：我们已经承受了长达73年的美国打击，伊朗顶住了这些压力，保持了团结，维护了领土完整，没有让敌人实现其目标。",
-          "url": "https://flash.jin10.com/detail/20260812233621598800",
-          "heat": false
-        },
-        {
-          "title": "伊朗革命卫队指挥官纳克迪：美国军队比我们想象的更加弱小。",
-          "url": "https://flash.jin10.com/detail/20260812233552508800",
-          "heat": false
-        },
-        {
-          "title": "美国至8月12日4个月国债竞拍-得标利率 3.755%，前值3.79%。",
-          "url": "https://flash.jin10.com/detail/20260812233357669800",
-          "heat": false
-        },
-        {
-          "title": "美国至8月12日4个月国债竞拍-得标利率配置百分比 9.14%，前值94.66%。",
-          "url": "https://flash.jin10.com/detail/20260812233332046800",
-          "heat": false
-        },
-        {
-          "title": "美国至8月12日4个月国债竞拍-投标倍数 3.16，前值3.19。",
-          "url": "https://flash.jin10.com/detail/20260812233230928800",
-          "heat": false
-        },
-        {
-          "title": "SPACEXAI：Grok 4.6也已通过API以及OpenRouter、Vercel和Cloudflare等合作伙伴平台上线。",
-          "url": "https://flash.jin10.com/detail/20260812233052318800",
-          "heat": false
-        },
-        {
-          "title": "SPACEXAI：Grok 4.6定价为每百万输入Token收费2美元，每百万输出Token收费6美元。",
-          "url": "https://flash.jin10.com/detail/20260812233030107800",
-          "heat": false
-        },
-        {
-          "title": "SPACEXAI：Grok 4.6今日已在Cursor和Grok Build中上线。",
-          "url": "https://flash.jin10.com/detail/20260812233010027800",
-          "heat": false
-        },
-        {
-          "title": "SPACEXAI：推出GROK 4.6。",
-          "url": "https://flash.jin10.com/detail/20260812232832412800",
-          "heat": "✰"
-        }
-      ]
+      "count": 0,
+      "items": []
     }
   ]
 }
