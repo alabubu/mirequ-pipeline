@@ -1,6 +1,6 @@
 {
-  "updated": "20:20:34",
-  "total": 281,
+  "updated": "20:25:35",
+  "total": 283,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,63 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 26,
+      "count": 28,
       "items": [
+        {
+          "title": "美国能源部：将不再推进此前于2024年12月选定进入审查程序的三个拟议“国家利益电力输电走廊”的指定工作。",
+          "url": "https://flash.jin10.com/detail/20260813042406726800",
+          "heat": false
+        },
+        {
+          "title": "美元指数12日上涨",
+          "url": "https://flash.jin10.com/detail/20260813041909701800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月12日（周三）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260813040601475800",
+          "heat": false
+        },
+        {
+          "title": "道琼斯指数8月12日（周三）收盘下跌21.69点，跌幅0.04%，报53770.16点；<br/>标普500指数8月12日（周三）收盘上涨20.31点，涨幅0.26%，报7748.51点；<br/>纳斯达克综合指数8月12日（周三）收盘上涨143.04点，涨幅0.54%，报26588.49点。",
+          "url": "https://flash.jin10.com/detail/20260813040558634800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月12日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260813040557554800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月12日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260813040554059800",
+          "heat": false
+        },
+        {
+          "title": "据以色列i24News：应哥伦比亚地震灾害管理请求，以色列总理内塔尼亚胡派遣援助团前往哥伦比亚。",
+          "url": "https://flash.jin10.com/detail/20260813040302367800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月12日（周三）华尔街恐惧与贪婪指数（美盘后）",
+          "url": "https://flash.jin10.com/detail/20260813040148084800",
+          "heat": false
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一，海力士涨9%",
+          "url": "https://flash.jin10.com/detail/20260813040109673800",
+          "heat": "✰"
+        },
+        {
+          "title": "世卫组织：美国调整儿童疫苗接种计划背离科学依据",
+          "url": "https://flash.jin10.com/detail/20260813035616533800",
+          "heat": false
+        },
+        {
+          "title": "特朗普：白宫新闻秘书莱维特将于本月底离任",
+          "url": "https://flash.jin10.com/detail/20260813035525711800",
+          "heat": false
+        },
         {
           "title": "伊朗“波斯湾海峡管理局”：霍尔木兹海峡仍关闭",
           "url": "https://flash.jin10.com/detail/20260813035429492800",
@@ -1442,51 +1497,6 @@
         {
           "title": "伊朗波斯湾海峡管理局：美国官员声称并多次发布消息称霍尔木兹海峡已不再受阻，但这些说法并不能改变现实：霍尔木兹海峡仍处于封锁状态，除非伊朗提出的条件得到接受，否则该海峡不会重新开放。",
           "url": "https://flash.jin10.com/detail/20260813030442991800",
-          "heat": false
-        },
-        {
-          "title": "恒指期货夜盘收跌0.35%，报25320点，低水120点。",
-          "url": "https://flash.jin10.com/detail/20260813030036032800",
-          "heat": false
-        },
-        {
-          "title": "派拉蒙(PSKY.O)成交量激增，现涨2.61%。",
-          "url": "https://flash.jin10.com/detail/20260813025411123800",
-          "heat": false
-        },
-        {
-          "title": "据华尔街日报：派拉蒙(PSKY.O)已讨论成立一个董事会以确保CNN的独立性。",
-          "url": "https://flash.jin10.com/detail/20260813025155290800",
-          "heat": false
-        },
-        {
-          "title": "布伦特原油期货结算价为每桶88.98美元，上涨7美分，涨幅0.08%。",
-          "url": "https://flash.jin10.com/detail/20260813024705554800",
-          "heat": false
-        },
-        {
-          "title": "美国原油期货结算价为每桶83.27美元，上涨7美分，涨幅0.08%。",
-          "url": "https://flash.jin10.com/detail/20260813023254048800",
-          "heat": false
-        },
-        {
-          "title": "夜盘主力合约收盘",
-          "url": "https://flash.jin10.com/detail/20260813023134512800",
-          "heat": false
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 8月12日（周三）晚盘收盘上涨0.23%报956.01元/克；<br/>上海黄金交易所白银T+D 8月12日（周三）晚盘收盘上涨0.23%报15988.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260813023048574800",
-          "heat": false
-        },
-        {
-          "title": "加拿大拟接受部分汽车关税 换取美国降低关税",
-          "url": "https://flash.jin10.com/detail/20260813023000941800",
-          "heat": false
-        },
-        {
-          "title": "美国7月预算赤字激增，创2021年3月以来新高",
-          "url": "https://flash.jin10.com/detail/20260813021932932800",
           "heat": false
         }
       ]
