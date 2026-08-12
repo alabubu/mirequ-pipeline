@@ -1,6 +1,6 @@
 {
-  "updated": "23:50:30",
-  "total": 284,
+  "updated": "23:55:26",
+  "total": 282,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,58 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 29,
+      "count": 27,
       "items": [
+        {
+          "title": "日本7月国内企业商品物价指数月率 0.1%，预期0.60%，前值0.40%。",
+          "url": "https://flash.jin10.com/detail/20260813075004510800",
+          "heat": false
+        },
+        {
+          "title": "日本7月国内企业商品物价指数年率 7.2%，预期7.4%，前值7.10%。",
+          "url": "https://flash.jin10.com/detail/20260813075004509800",
+          "heat": false
+        },
+        {
+          "title": "澳大利亚承诺投资17.6亿美元以维持力拓铝冶炼厂的运营",
+          "url": "https://flash.jin10.com/detail/20260813074331404800",
+          "heat": false
+        },
+        {
+          "title": "中金：美国通胀或已进入新的阶段 通胀持续的时间可能相应延长",
+          "url": "https://flash.jin10.com/detail/20260813073920426800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（8月13日）",
+          "url": "https://flash.jin10.com/detail/20260813073827286800",
+          "heat": false
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260813073740600800",
+          "heat": "✰"
+        },
+        {
+          "title": "美媒：白宫拟扩大AI监管，开源模型或纳入测试框架",
+          "url": "https://flash.jin10.com/detail/20260813073739096800",
+          "heat": false
+        },
+        {
+          "title": "现货价格",
+          "url": "https://flash.jin10.com/detail/20260813073621354800",
+          "heat": false
+        },
+        {
+          "title": "现货价格",
+          "url": "https://flash.jin10.com/detail/20260813073614749800",
+          "heat": false
+        },
+        {
+          "title": "黄金反弹能走多远？加息预期降温只是开始，杰克逊霍尔或成下一道关卡",
+          "url": "https://flash.jin10.com/detail/20260813073420543800",
+          "heat": "✰"
+        },
         {
           "title": "美媒：美乌联合演习中 乌克兰无人机部队轻松取胜",
           "url": "https://flash.jin10.com/detail/20260813072022050800",
@@ -1442,66 +1492,6 @@
         {
           "title": "福特汽车(F.N)计划从2030年开始增加林肯车型在美国的产量。",
           "url": "https://flash.jin10.com/detail/20260813063428076800",
-          "heat": false
-        },
-        {
-          "title": "据华尔街日报：消息人士透露，苹果(AAPL.O)正寻求与出版商达成新协议，以便使用其内容开发人工智能语音助手Siri。",
-          "url": "https://flash.jin10.com/detail/20260813063348828800",
-          "heat": "✰"
-        },
-        {
-          "title": "金十数据整理：昨日今晨重要新闻汇总（2026-08-13）",
-          "url": "https://flash.jin10.com/detail/20260813063055848800",
-          "heat": "✰"
-        },
-        {
-          "title": "油价五连涨后回落，市场聚焦霍尔木兹海峡及供应缺口",
-          "url": "https://flash.jin10.com/detail/20260813063037608800",
-          "heat": false
-        },
-        {
-          "title": "矿山项目接连受挫，Codelco放弃铜产量增长目标",
-          "url": "https://flash.jin10.com/detail/20260813062912829800",
-          "heat": false
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加3.139吨，当前持仓量为1025.811吨。",
-          "url": "https://flash.jin10.com/detail/20260813062409759800",
-          "heat": "✰"
-        },
-        {
-          "title": "美联储9月维持利率不变的概率为59.9%",
-          "url": "https://flash.jin10.com/detail/20260813060606379800",
-          "heat": false
-        },
-        {
-          "title": "伊拉克通讯社：伊拉克情报部门在巴格达逮捕4人，并查获20多架国产无人机。",
-          "url": "https://flash.jin10.com/detail/20260813060555893800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：2026年08月13日（周四）各大货币对表现",
-          "url": "https://flash.jin10.com/detail/20260813060027244800",
-          "heat": false
-        },
-        {
-          "title": "白宫：特朗普签署备忘录，授权美国执法部门使用网络工具打击在外国司法管辖区活动的犯罪组织。",
-          "url": "https://flash.jin10.com/detail/20260813054700329800",
-          "heat": false
-        },
-        {
-          "title": "MSCI中国旗舰指数调整：新纳入智谱等33只标的",
-          "url": "https://flash.jin10.com/detail/20260813054538402800",
-          "heat": "✰"
-        },
-        {
-          "title": "金十数据整理：中东局势跟踪（8月13日）",
-          "url": "https://flash.jin10.com/detail/20260813054511324800",
-          "heat": "✰"
-        },
-        {
-          "title": "委内瑞拉央行：7月份通胀水平达到19.9%。",
-          "url": "https://flash.jin10.com/detail/20260813054226379800",
           "heat": false
         }
       ]
