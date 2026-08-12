@@ -1,6 +1,6 @@
 {
-  "updated": "10:35:32",
-  "total": 283,
+  "updated": "10:40:32",
+  "total": 282,
   "platforms": [
     {
       "id": "zhihu",
@@ -596,18 +596,23 @@
           "heat": ""
         },
         {
+          "title": "中共中央 全国人大常委会 国务院 全国政协讣告朱镕基同志逝世",
+          "url": "https://wallstreetcn.com/articles/3779286",
+          "heat": ""
+        },
+        {
           "title": "明天美国CPI有“鸽派惊喜”？高盛称通胀或低于普遍预期 ，汇丰则押注“温和” 数据",
           "url": "https://wallstreetcn.com/articles/3779188",
           "heat": ""
         },
         {
-          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779219",
+          "title": "腾讯Q2营收同比增长11%超预期，算力采购大幅推高资本开支至527.8亿元，自由现金流转负 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779275",
           "heat": ""
         },
         {
-          "title": "腾讯Q2营收同比增长11%超预期，算力采购大幅推高资本开支至527.8亿元，自由现金流转负 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779275",
+          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779219",
           "heat": ""
         },
         {
@@ -628,11 +633,6 @@
         {
           "title": "Lumentum电话会：CEO称“超大功率激光器需求正远超产能”，“NPO机会完全是增量”",
           "url": "https://wallstreetcn.com/articles/3779226",
-          "heat": ""
-        },
-        {
-          "title": "存储见顶担忧升温，韩国多家券商下调三星、SK海力士目标价，最深下调超30%",
-          "url": "https://wallstreetcn.com/articles/3779183",
           "heat": ""
         }
       ]
@@ -977,6 +977,11 @@
           "heat": ""
         },
         {
+          "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
+          "url": "https://www.cls.cn/detail/2452533",
+          "heat": ""
+        },
+        {
           "title": "上海印发重磅规划，十万卡集群×4万亿规模，谁在涨停板上“卡位”？",
           "url": "https://www.cls.cn/detail/2452231",
           "heat": ""
@@ -987,13 +992,13 @@
           "heat": ""
         },
         {
-          "title": "【焦点复盘】科技成长股主导缩量普涨，全市场超4100股飘红，大消费板块午后再度爆发",
-          "url": "https://www.cls.cn/detail/2452438",
+          "title": "重返3.5万亿市值！A股“一哥”大涨超6%，百亿成交活跃股扫描",
+          "url": "https://www.cls.cn/detail/2452477",
           "heat": ""
         },
         {
-          "title": "重返3.5万亿市值！A股“一哥”大涨超6%，百亿成交活跃股扫描",
-          "url": "https://www.cls.cn/detail/2452477",
+          "title": "【焦点复盘】科技成长股主导缩量普涨，全市场超4100股飘红，大消费板块午后再度爆发",
+          "url": "https://www.cls.cn/detail/2452438",
           "heat": ""
         },
         {
@@ -1009,11 +1014,6 @@
         {
           "title": "跨界进军光通信，蓝盾光电三连“20CM”涨停",
           "url": "https://www.cls.cn/detail/2452186",
-          "heat": ""
-        },
-        {
-          "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
-          "url": "https://www.cls.cn/detail/2452533",
           "heat": ""
         },
         {
@@ -1357,8 +1357,133 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 28,
+      "count": 27,
       "items": [
+        {
+          "title": "央行：构建覆盖全面的宏观审慎管理体系，丰富宏观审慎政策工具箱",
+          "url": "https://flash.jin10.com/detail/20260812183711462800",
+          "heat": "✰"
+        },
+        {
+          "title": "湖南白银：董事、副董事长郭庆锋辞职",
+          "url": "https://flash.jin10.com/detail/20260812183543263800",
+          "heat": false
+        },
+        {
+          "title": "央行：支持政策性开发性金融机构推进新型政策性金融工具，重点支持数字经济、人工智能、消费基础设施，以及交通、能源、地下管网建设改造等城市更新领域",
+          "url": "https://flash.jin10.com/detail/20260812183458695800",
+          "heat": false
+        },
+        {
+          "title": "央行：适时开展中期借贷便利（MLF）操作 及时开展常备借贷便利（SLF）操作",
+          "url": "https://flash.jin10.com/detail/20260812183338024800",
+          "heat": false
+        },
+        {
+          "title": "央行：淡化对贷款这个单一融资渠道的关注，把贷款和债券融资等合并观察",
+          "url": "https://flash.jin10.com/detail/20260812183300246800",
+          "heat": "✰"
+        },
+        {
+          "title": "CPI前市场极度紧张！PIMCO给出“定心丸”：利率必然暴跌！",
+          "url": "https://flash.jin10.com/detail/20260812183245020800",
+          "heat": "✰"
+        },
+        {
+          "title": "央行：继续实施股票回购增持再贷款",
+          "url": "https://flash.jin10.com/detail/20260812183235157800",
+          "heat": false
+        },
+        {
+          "title": "央行：当前社融和M2增速仍高于名义GDP增速，货币金融环境比较宽松",
+          "url": "https://flash.jin10.com/detail/20260812183056597800",
+          "heat": "✰"
+        },
+        {
+          "title": "央行：加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
+          "url": "https://flash.jin10.com/detail/20260812183052032800",
+          "heat": false
+        },
+        {
+          "title": "央行：平稳有序推动货币政策操作框架改革完善",
+          "url": "https://flash.jin10.com/detail/20260812183025418800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：英国财政部官员预测，如果霍尔木兹海峡持续关闭，2027年英国GDP增长率在最糟糕的情况下将仅为0.3%。",
+          "url": "https://flash.jin10.com/detail/20260812182941412800",
+          "heat": false
+        },
+        {
+          "title": "央行：综合运用并适时调整货币政策工具，保持流动性充裕和社会融资条件相对宽松",
+          "url": "https://flash.jin10.com/detail/20260812182924018800",
+          "heat": "✰"
+        },
+        {
+          "title": "央行：以市场化方式引导地方法人金融机构加大对民营企业的信贷投放",
+          "url": "https://flash.jin10.com/detail/20260812182842169800",
+          "heat": "✰"
+        },
+        {
+          "title": "央行：及时谋划出台务实管用的增量政策，加大逆周期调节力度",
+          "url": "https://flash.jin10.com/detail/20260812182801735800",
+          "heat": "✰"
+        },
+        {
+          "title": "田湾核电7号机组开始首次装料工作",
+          "url": "https://flash.jin10.com/detail/20260812182656617800",
+          "heat": false
+        },
+        {
+          "title": "翰宇药业：与三生蔓迪签署司美格鲁肽注射液合作协议",
+          "url": "https://flash.jin10.com/detail/20260812182555585800",
+          "heat": false
+        },
+        {
+          "title": "2026暑期档票房破90亿",
+          "url": "https://flash.jin10.com/detail/20260812182532243800",
+          "heat": false
+        },
+        {
+          "title": "巴克莱：将超微电脑(SMCI.O)目标价从38美元上调至39美元。",
+          "url": "https://flash.jin10.com/detail/20260812182036988800",
+          "heat": false
+        },
+        {
+          "title": "梅茨勒银行：今晚的通胀数据对美联储影响有限",
+          "url": "https://flash.jin10.com/detail/20260812181932282800",
+          "heat": false
+        },
+        {
+          "title": "浙江省省长刘捷在杭州专题调研新能源汽车企业发展情况",
+          "url": "https://flash.jin10.com/detail/20260812181730756800",
+          "heat": false
+        },
+        {
+          "title": "又一单REIT扩募申请获受理，沪市已有8单REITs完成扩募",
+          "url": "https://flash.jin10.com/detail/20260812181607002800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：乌克兰基辅再次传出爆炸声，无人机正在袭击该市。",
+          "url": "https://flash.jin10.com/detail/20260812180900268800",
+          "heat": false
+        },
+        {
+          "title": "石药创新：控股子公司收到阿斯利康协议首付款3,000万美元",
+          "url": "https://flash.jin10.com/detail/20260812180854935800",
+          "heat": false
+        },
+        {
+          "title": "分析师：白银反弹今日面临关键考验",
+          "url": "https://flash.jin10.com/detail/20260812180848016800",
+          "heat": false
+        },
+        {
+          "title": "花旗：将超微电脑(SMCI.O)目标价从33美元上调至39美元。",
+          "url": "https://flash.jin10.com/detail/20260812180833111800",
+          "heat": false
+        },
         {
           "title": "前美外交官：特朗普在“挺以色列”形象与对内塔尼亚胡不满间挣扎",
           "url": "https://flash.jin10.com/detail/20260812180539210800",
@@ -1368,136 +1493,6 @@
           "title": "宁波富邦：证券简称自2026年8月18日起变更为富邦新材",
           "url": "https://flash.jin10.com/detail/20260812180417799800",
           "heat": false
-        },
-        {
-          "title": "据华盛顿邮报：特朗普政府计划至少花费9亿美元用于白宫建设。",
-          "url": "https://flash.jin10.com/detail/20260812180318303800",
-          "heat": false
-        },
-        {
-          "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
-          "url": "https://flash.jin10.com/detail/20260812180317107800",
-          "heat": false
-        },
-        {
-          "title": "市场消息：巴基斯坦方面表示，更广泛的和平进程陷入停滞，希望很快能够恢复。",
-          "url": "https://flash.jin10.com/detail/20260812180146636800",
-          "heat": false
-        },
-        {
-          "title": "宁德时代成立控股新公司 含AI软件开发业务",
-          "url": "https://flash.jin10.com/detail/20260812180140130800",
-          "heat": false
-        },
-        {
-          "title": "巴基斯坦：美伊谅解备忘录的期限可以延长",
-          "url": "https://flash.jin10.com/detail/20260812180115584800",
-          "heat": "✰"
-        },
-        {
-          "title": "月之暗面增资至223万元",
-          "url": "https://flash.jin10.com/detail/20260812175834808800",
-          "heat": false
-        },
-        {
-          "title": "日本首相高市早苗：伊朗总统佩泽希齐扬介绍了伊朗方面的立场，包括伊朗与阿曼围绕霍尔木兹海峡问题沟通的当前进展及未来前景。关于曼德海峡问题，佩泽希齐扬表示，伊朗正在与沙特保持对话，并努力推动问题解决。",
-          "url": "https://flash.jin10.com/detail/20260812175652547800",
-          "heat": false
-        },
-        {
-          "title": "日本首相高市早苗：从能源安全角度出发，我也表达了对曼德海峡当前局势的担忧，并要求伊朗向胡塞武装施加更强力度，促使其保持克制。",
-          "url": "https://flash.jin10.com/detail/20260812175618275800",
-          "heat": false
-        },
-        {
-          "title": "华丰科技：具备航天级连接器研发与配套能力 关注太空算力等新兴场景",
-          "url": "https://flash.jin10.com/detail/20260812175549056800",
-          "heat": false
-        },
-        {
-          "title": "日本首相高市早苗：关于霍尔木兹海峡，我强调，确保“在不产生额外成本的情况下实现自由、安全航行”十分重要。",
-          "url": "https://flash.jin10.com/detail/20260812175537699800",
-          "heat": false
-        },
-        {
-          "title": "高市早苗再通话伊朗总统 呼吁缓和霍尔木兹局势",
-          "url": "https://flash.jin10.com/detail/20260812175528624800",
-          "heat": false
-        },
-        {
-          "title": "日本首相高市早苗：美国和伊朗有必要按照谅解备忘录开展磋商，并尽早就包括核问题在内的相关议题达成最终协议。同时，日本强烈期待通过外交手段实现中东局势尽快平息。",
-          "url": "https://flash.jin10.com/detail/20260812175516946800",
-          "heat": false
-        },
-        {
-          "title": "日本首相高市早苗：在霍尔木兹海峡局势进入关键阶段之际，考虑到伊朗正继续与相关国家就实现海峡开放展开沟通，日本认为，缓解当前军事紧张局势并尽快平息事态至关重要。",
-          "url": "https://flash.jin10.com/detail/20260812175424744800",
-          "heat": false
-        },
-        {
-          "title": "日本首相高市早苗：鉴于当前最新的中东局势，我与伊朗总统佩泽希齐扬进行了第四次电话会谈。",
-          "url": "https://flash.jin10.com/detail/20260812175416736800",
-          "heat": false
-        },
-        {
-          "title": "价格成本和认证中心组织召开生物药产业发展座谈会",
-          "url": "https://flash.jin10.com/detail/20260812175414348800",
-          "heat": false
-        },
-        {
-          "title": "新思科技宣布实现首个HBM4 IP测试芯片验证",
-          "url": "https://flash.jin10.com/detail/20260812175352086800",
-          "heat": false
-        },
-        {
-          "title": "金龙鱼：2026年上半年净利润22.94亿元，同比增长30.69%",
-          "url": "https://flash.jin10.com/detail/20260812175138510800",
-          "heat": false
-        },
-        {
-          "title": "WTI原油日内走低1.00%，现报81.37美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260812175016928800",
-          "heat": "✰"
-        },
-        {
-          "title": "普京警告欧盟勿扣押俄船只 称此举等同“海盗行为”",
-          "url": "https://flash.jin10.com/detail/20260812174949697800",
-          "heat": false
-        },
-        {
-          "title": "矿产成为新战场 乌克兰建议限制俄军工资源来源",
-          "url": "https://flash.jin10.com/detail/20260812174654189800",
-          "heat": false
-        },
-        {
-          "title": "香港交易所信息显示，摩根大通的宁德时代(03750.HK)H股空头头寸在8月7日从2.45%上升至3.09%。",
-          "url": "https://flash.jin10.com/detail/20260812174652336800",
-          "heat": false
-        },
-        {
-          "title": "黑海粮运再遭冲击 俄罗斯三大粮码头受损",
-          "url": "https://flash.jin10.com/detail/20260812174514912800",
-          "heat": false
-        },
-        {
-          "title": "新农股份：副总经理、董事会秘书姚钢辞职",
-          "url": "https://flash.jin10.com/detail/20260812174456306800",
-          "heat": false
-        },
-        {
-          "title": "上交所发布关于上海毕得医药科技股份有限公司相关事项的监管工作函。",
-          "url": "https://flash.jin10.com/detail/20260812174357627800",
-          "heat": false
-        },
-        {
-          "title": "中坚科技：涉嫌信息披露违法违规，收到浙江证监局行政处罚事先告知书",
-          "url": "https://flash.jin10.com/detail/20260812174340677800",
-          "heat": false
-        },
-        {
-          "title": "中鼎股份澄清：与腾讯云签署的战略合作协议对公司本年度经营业绩暂不会构成重大影响",
-          "url": "https://flash.jin10.com/detail/20260812174112479800",
-          "heat": "✰"
         }
       ]
     }
