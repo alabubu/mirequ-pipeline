@@ -1,6 +1,6 @@
 {
-  "updated": "21:20:36",
-  "total": 282,
+  "updated": "21:25:26",
+  "total": 283,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,38 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 27,
+      "count": 28,
       "items": [
+        {
+          "title": "美国得州一“阿帕奇”直升机坠毁 两人死亡",
+          "url": "https://flash.jin10.com/detail/20260813052431560800",
+          "heat": false
+        },
+        {
+          "title": "美国商务部长卢特尼克：将于当地时间明日宣布在德克萨斯州建立苹果(AAPL.O)Mac mini工厂。",
+          "url": "https://flash.jin10.com/detail/20260813051237847800",
+          "heat": false
+        },
+        {
+          "title": "美国商务部长卢特尼克：福特汽车(F.N)正在将更多制造业带回美国。关税推动其带来更多就业机会。",
+          "url": "https://flash.jin10.com/detail/20260813051034278800",
+          "heat": false
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
+          "url": "https://flash.jin10.com/detail/20260813050715033800",
+          "heat": "✰"
+        },
+        {
+          "title": "明晟公司（MSCI）：MSCI全球指数将新增55只证券，并剔除92只证券。",
+          "url": "https://flash.jin10.com/detail/20260813050253380800",
+          "heat": false
+        },
+        {
+          "title": "据福克斯商业频道：美国白宫经济顾问委员会主席费伦表示，CPI报告削弱了加息的理由。",
+          "url": "https://flash.jin10.com/detail/20260813050118983800",
+          "heat": false
+        },
         {
           "title": "巴西众议院批准法案，建立新的支出控制机制；法案文本将提交参议院。",
           "url": "https://flash.jin10.com/detail/20260813045348322800",
@@ -1467,31 +1497,6 @@
         {
           "title": "白宫新闻秘书莱维特：特朗普总统已要求我在外部继续担任他的高级顾问，我将永远是MAGA和共和党的坚定代言人。",
           "url": "https://flash.jin10.com/detail/20260813034627586800",
-          "heat": false
-        },
-        {
-          "title": "美国总统特朗普：莱维特将成为我的高级外部顾问之一，也是共和党内有影响力的声音。",
-          "url": "https://flash.jin10.com/detail/20260813033919055800",
-          "heat": false
-        },
-        {
-          "title": "美国总统特朗普：白宫新闻秘书莱维特将辞去职务，以便能有更多时间陪伴家人。",
-          "url": "https://flash.jin10.com/detail/20260813033648092800",
-          "heat": false
-        },
-        {
-          "title": "美国总统特朗普：白宫新闻秘书莱维特将于本月底离职。",
-          "url": "https://flash.jin10.com/detail/20260813033557637800",
-          "heat": "✰"
-        },
-        {
-          "title": "据伊朗媒体Fars News：也门胡塞武装对沙特雇佣军在摩卡港的阵地发动了无人机袭击。",
-          "url": "https://flash.jin10.com/detail/20260813033525851800",
-          "heat": false
-        },
-        {
-          "title": "新西兰房地产协会：7月份调整后的中位房价较去年下降0.6%。",
-          "url": "https://flash.jin10.com/detail/20260813033143203800",
           "heat": false
         }
       ]
