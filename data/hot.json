@@ -1,6 +1,6 @@
 {
-  "updated": "11:05:31",
-  "total": 282,
+  "updated": "11:10:30",
+  "total": 280,
   "platforms": [
     {
       "id": "zhihu",
@@ -591,13 +591,13 @@
           "heat": ""
         },
         {
-          "title": "华尔街见闻早餐FM-Radio | 2026年8月12日",
-          "url": "https://wallstreetcn.com/articles/3779224",
+          "title": "中共中央 全国人大常委会 国务院 全国政协讣告朱镕基同志逝世",
+          "url": "https://wallstreetcn.com/articles/3779286",
           "heat": ""
         },
         {
-          "title": "中共中央 全国人大常委会 国务院 全国政协讣告朱镕基同志逝世",
-          "url": "https://wallstreetcn.com/articles/3779286",
+          "title": "华尔街见闻早餐FM-Radio | 2026年8月12日",
+          "url": "https://wallstreetcn.com/articles/3779224",
           "heat": ""
         },
         {
@@ -972,11 +972,6 @@
           "heat": ""
         },
         {
-          "title": "量化推波助澜？芯片股的“完美对冲”浮现了！",
-          "url": "https://www.cls.cn/detail/2452001",
-          "heat": ""
-        },
-        {
           "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
           "url": "https://www.cls.cn/detail/2452533",
           "heat": ""
@@ -987,11 +982,6 @@
           "heat": ""
         },
         {
-          "title": "无惧硬件涨价压力！CoreWeave业绩会打消市场疑虑：算力收益涨得更快！",
-          "url": "https://www.cls.cn/detail/2452063",
-          "heat": ""
-        },
-        {
           "title": "重返3.5万亿市值！A股“一哥”大涨超6%，百亿成交活跃股扫描",
           "url": "https://www.cls.cn/detail/2452477",
           "heat": ""
@@ -999,6 +989,11 @@
         {
           "title": "【焦点复盘】科技成长股主导缩量普涨，全市场超4100股飘红，大消费板块午后再度爆发",
           "url": "https://www.cls.cn/detail/2452438",
+          "heat": ""
+        },
+        {
+          "title": "无惧硬件涨价压力！CoreWeave业绩会打消市场疑虑：算力收益涨得更快！",
+          "url": "https://www.cls.cn/detail/2452063",
           "heat": ""
         },
         {
@@ -1019,6 +1014,11 @@
         {
           "title": "上半年全国结婚登记327.5万对",
           "url": "https://www.cls.cn/detail/2452242",
+          "heat": ""
+        },
+        {
+          "title": "翻倍基从202只到仅剩8只，哪些基金经理回撤最小？",
+          "url": "https://www.cls.cn/detail/2452077",
           "heat": ""
         }
       ]
@@ -1136,6 +1136,11 @@
       "count": 12,
       "items": [
         {
+          "title": "朱镕基同志逝世",
+          "url": "https://news.ifeng.com/c/8vX8UpuMXHK",
+          "heat": ""
+        },
+        {
           "title": "浙江一家公司，收到美国政府2.62亿元关税退税",
           "url": "https://news.ifeng.com/c/8vX3tTPDU9p",
           "heat": ""
@@ -1148,11 +1153,6 @@
         {
           "title": "美最新报告：对华出口管制没有获得战略收益",
           "url": "https://news.ifeng.com/c/8vWZlesN7sk",
-          "heat": ""
-        },
-        {
-          "title": "泽连斯基向美提交结束俄乌战争提案",
-          "url": "https://news.ifeng.com/c/8vWaqalKOzc",
           "heat": ""
         },
         {
@@ -1357,142 +1357,132 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 27,
+      "count": 25,
       "items": [
         {
-          "title": "央行：构建覆盖全面的宏观审慎管理体系，丰富宏观审慎政策工具箱",
-          "url": "https://flash.jin10.com/detail/20260812183711462800",
+          "title": "百花医药：公司是以小分子化学仿制药研发为主的CRO企业，不涉及创新药研发",
+          "url": "https://flash.jin10.com/detail/20260812190701155800",
+          "heat": false
+        },
+        {
+          "title": "台铃公司：涉事“长新”牌电池为假冒台铃原厂电池，系门店私自所为",
+          "url": "https://flash.jin10.com/detail/20260812190620593800",
+          "heat": false
+        },
+        {
+          "title": "长虹华意：2026年上半年净利润2.51亿元，同比下降2.60%",
+          "url": "https://flash.jin10.com/detail/20260812190556846800",
+          "heat": false
+        },
+        {
+          "title": "诚志股份：2026年上半年净利润2.9亿元，同比增长1416.23%",
+          "url": "https://flash.jin10.com/detail/20260812190437207800",
+          "heat": false
+        },
+        {
+          "title": "频准激光：科创板IPO发行价格186.88元/股",
+          "url": "https://flash.jin10.com/detail/20260812190231370800",
+          "heat": false
+        },
+        {
+          "title": "中韩半导体ETF华泰柏瑞：本基金将于2026年8月13日开市起至当日10:30停牌。",
+          "url": "https://flash.jin10.com/detail/20260812190229771800",
+          "heat": false
+        },
+        {
+          "title": "纳指ETF国泰：本基金将于2026年8月13日开市起至当日10:30停牌。",
+          "url": "https://flash.jin10.com/detail/20260812190149706800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月12日（周三）全球股市指数-亚太市场",
+          "url": "https://flash.jin10.com/detail/20260812190138615800",
+          "heat": false
+        },
+        {
+          "title": "7月CPI成为“定方向数据”！不同情景下，美元黄金美股如何反应？",
+          "url": "https://flash.jin10.com/detail/20260812190120326800",
           "heat": "✰"
         },
         {
-          "title": "湖南白银：董事、副董事长郭庆锋辞职",
-          "url": "https://flash.jin10.com/detail/20260812183543263800",
+          "title": "华润置地：7月本集团经常性收入约人民币44.1亿元，同比增长5.6%",
+          "url": "https://flash.jin10.com/detail/20260812190111762800",
           "heat": false
         },
         {
-          "title": "央行：支持政策性开发性金融机构推进新型政策性金融工具，重点支持数字经济、人工智能、消费基础设施，以及交通、能源、地下管网建设改造等城市更新领域",
-          "url": "https://flash.jin10.com/detail/20260812183458695800",
+          "title": "金十图示：2026年08月12日（周三）欧盘市场行情一览",
+          "url": "https://flash.jin10.com/detail/20260812190057126800",
           "heat": false
         },
         {
-          "title": "央行：适时开展中期借贷便利（MLF）操作 及时开展常备借贷便利（SLF）操作",
-          "url": "https://flash.jin10.com/detail/20260812183338024800",
+          "title": "CPI来袭！VIP·9折仅限今日！",
+          "url": "https://flash.jin10.com/detail/20260812190020022800",
           "heat": false
         },
         {
-          "title": "央行：淡化对贷款这个单一融资渠道的关注，把贷款和债券融资等合并观察",
-          "url": "https://flash.jin10.com/detail/20260812183300246800",
+          "title": "<a href=\"https://www.jin10.com/vip/payment/pc/index.html#/pc\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/08/LomcgOslSPg7ZC6koHMbK.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260812190018210800",
+          "heat": false
+        },
+        {
+          "title": "美国至8月7日当周MBA抵押贷款再融资活动指数 744.4，前值709.1。",
+          "url": "https://flash.jin10.com/detail/20260812190002176800",
+          "heat": false
+        },
+        {
+          "title": "美国至8月7日当周MBA抵押贷款申请活动指数 248.6，前值240。",
+          "url": "https://flash.jin10.com/detail/20260812190002177800",
+          "heat": false
+        },
+        {
+          "title": "美国至8月7日当周MBA30年期固定抵押贷款利率 6.77%，前值6.81%。",
+          "url": "https://flash.jin10.com/detail/20260812190002169800",
+          "heat": false
+        },
+        {
+          "title": "美国至8月7日当周MBA抵押贷款购买指数 157.9，前值154。",
+          "url": "https://flash.jin10.com/detail/20260812190002170800",
+          "heat": false
+        },
+        {
+          "title": "俄罗斯新罗西斯克市长宣布进入紧急状态，并称乌克兰袭击事件导致教育设施受损。",
+          "url": "https://flash.jin10.com/detail/20260812185930460800",
+          "heat": false
+        },
+        {
+          "title": "俄罗斯黑海港口城市新罗西斯克市长称，由于乌克兰无人机造成的破坏，该市供水已被暂停。",
+          "url": "https://flash.jin10.com/detail/20260812185556868800",
+          "heat": false
+        },
+        {
+          "title": "纳指科技ETF景顺：本基金将于2026年8月13日开市起停牌，自2026年8月13日10:30起复牌。",
+          "url": "https://flash.jin10.com/detail/20260812185834394800",
+          "heat": false
+        },
+        {
+          "title": "中光防雷：2026年上半年净利润1204.79万元，同比增长12.82%",
+          "url": "https://flash.jin10.com/detail/20260812185337833800",
+          "heat": false
+        },
+        {
+          "title": "消息人士：目前没有就延长停火进行任何讨论",
+          "url": "https://flash.jin10.com/detail/20260812185051855800",
           "heat": "✰"
         },
         {
-          "title": "CPI前市场极度紧张！PIMCO给出“定心丸”：利率必然暴跌！",
-          "url": "https://flash.jin10.com/detail/20260812183245020800",
+          "title": "伊朗高级消息人士：正在讨论的问题之一是美国重返谅解备忘录，并确定履行其承诺的时间框架。",
+          "url": "https://flash.jin10.com/detail/20260812185026355800",
+          "heat": false
+        },
+        {
+          "title": "伊朗高级消息人士：美国在达成临时协议48小时后便违反了该协议，并在几天后退出了该协议。",
+          "url": "https://flash.jin10.com/detail/20260812185006487800",
+          "heat": false
+        },
+        {
+          "title": "伊朗高级消息人士：伊朗和美国之间没有就延长停火进行任何讨论。从伊朗的角度来看，停火协议没有生效日期，因此不存在延长停火协议的必要。",
+          "url": "https://flash.jin10.com/detail/20260812184938905800",
           "heat": "✰"
-        },
-        {
-          "title": "央行：继续实施股票回购增持再贷款",
-          "url": "https://flash.jin10.com/detail/20260812183235157800",
-          "heat": false
-        },
-        {
-          "title": "央行：当前社融和M2增速仍高于名义GDP增速，货币金融环境比较宽松",
-          "url": "https://flash.jin10.com/detail/20260812183056597800",
-          "heat": "✰"
-        },
-        {
-          "title": "央行：加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
-          "url": "https://flash.jin10.com/detail/20260812183052032800",
-          "heat": false
-        },
-        {
-          "title": "央行：平稳有序推动货币政策操作框架改革完善",
-          "url": "https://flash.jin10.com/detail/20260812183025418800",
-          "heat": false
-        },
-        {
-          "title": "市场消息：英国财政部官员预测，如果霍尔木兹海峡持续关闭，2027年英国GDP增长率在最糟糕的情况下将仅为0.3%。",
-          "url": "https://flash.jin10.com/detail/20260812182941412800",
-          "heat": false
-        },
-        {
-          "title": "央行：综合运用并适时调整货币政策工具，保持流动性充裕和社会融资条件相对宽松",
-          "url": "https://flash.jin10.com/detail/20260812182924018800",
-          "heat": "✰"
-        },
-        {
-          "title": "央行：以市场化方式引导地方法人金融机构加大对民营企业的信贷投放",
-          "url": "https://flash.jin10.com/detail/20260812182842169800",
-          "heat": "✰"
-        },
-        {
-          "title": "央行：及时谋划出台务实管用的增量政策，加大逆周期调节力度",
-          "url": "https://flash.jin10.com/detail/20260812182801735800",
-          "heat": "✰"
-        },
-        {
-          "title": "田湾核电7号机组开始首次装料工作",
-          "url": "https://flash.jin10.com/detail/20260812182656617800",
-          "heat": false
-        },
-        {
-          "title": "翰宇药业：与三生蔓迪签署司美格鲁肽注射液合作协议",
-          "url": "https://flash.jin10.com/detail/20260812182555585800",
-          "heat": false
-        },
-        {
-          "title": "2026暑期档票房破90亿",
-          "url": "https://flash.jin10.com/detail/20260812182532243800",
-          "heat": false
-        },
-        {
-          "title": "巴克莱：将超微电脑(SMCI.O)目标价从38美元上调至39美元。",
-          "url": "https://flash.jin10.com/detail/20260812182036988800",
-          "heat": false
-        },
-        {
-          "title": "梅茨勒银行：今晚的通胀数据对美联储影响有限",
-          "url": "https://flash.jin10.com/detail/20260812181932282800",
-          "heat": false
-        },
-        {
-          "title": "浙江省省长刘捷在杭州专题调研新能源汽车企业发展情况",
-          "url": "https://flash.jin10.com/detail/20260812181730756800",
-          "heat": false
-        },
-        {
-          "title": "又一单REIT扩募申请获受理，沪市已有8单REITs完成扩募",
-          "url": "https://flash.jin10.com/detail/20260812181607002800",
-          "heat": false
-        },
-        {
-          "title": "市场消息：乌克兰基辅再次传出爆炸声，无人机正在袭击该市。",
-          "url": "https://flash.jin10.com/detail/20260812180900268800",
-          "heat": false
-        },
-        {
-          "title": "石药创新：控股子公司收到阿斯利康协议首付款3,000万美元",
-          "url": "https://flash.jin10.com/detail/20260812180854935800",
-          "heat": false
-        },
-        {
-          "title": "分析师：白银反弹今日面临关键考验",
-          "url": "https://flash.jin10.com/detail/20260812180848016800",
-          "heat": false
-        },
-        {
-          "title": "花旗：将超微电脑(SMCI.O)目标价从33美元上调至39美元。",
-          "url": "https://flash.jin10.com/detail/20260812180833111800",
-          "heat": false
-        },
-        {
-          "title": "前美外交官：特朗普在“挺以色列”形象与对内塔尼亚胡不满间挣扎",
-          "url": "https://flash.jin10.com/detail/20260812180539210800",
-          "heat": false
-        },
-        {
-          "title": "宁波富邦：证券简称自2026年8月18日起变更为富邦新材",
-          "url": "https://flash.jin10.com/detail/20260812180417799800",
-          "heat": false
         }
       ]
     }
