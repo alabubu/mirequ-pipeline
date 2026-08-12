@@ -1,6 +1,6 @@
 {
-  "updated": "22:50:33",
-  "total": 284,
+  "updated": "22:55:31",
+  "total": 285,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,68 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 29,
+      "count": 30,
       "items": [
+        {
+          "title": "今日重点关注的财经数据与事件：2026年8月13日 周四",
+          "url": "https://flash.jin10.com/detail/20260813065000000800",
+          "heat": "✰"
+        },
+        {
+          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（2026-08-13）",
+          "url": "https://flash.jin10.com/detail/20260813064904789800",
+          "heat": false
+        },
+        {
+          "title": "白宫新闻秘书辞职，特朗普中期选举前痛失“最锋利的话筒”",
+          "url": "https://flash.jin10.com/detail/20260813064543456800",
+          "heat": "✰"
+        },
+        {
+          "title": "据美国广播公司ABC：美国计划9月30日之前从伊拉克撤出所有部队，结束自2003年入侵以来在伊拉克的军事存在，而伊拉克部队将承担打击“伊斯兰国”（ISIS）的全部责任。",
+          "url": "https://flash.jin10.com/detail/20260813064303141800",
+          "heat": false
+        },
+        {
+          "title": "据悉苹果洽谈向出版商付费，以提升其人工智能Siri",
+          "url": "https://flash.jin10.com/detail/20260813064006751800",
+          "heat": false
+        },
+        {
+          "title": "据华尔街日报：消息人士透露，苹果(AAPL.O)已讨论一项数亿美元的预算，用于向一批出版商支付Siri人工智能合作协议的费用。",
+          "url": "https://flash.jin10.com/detail/20260813063512720800",
+          "heat": false
+        },
+        {
+          "title": "福特汽车(F.N)计划从2030年开始增加林肯车型在美国的产量。",
+          "url": "https://flash.jin10.com/detail/20260813063428076800",
+          "heat": false
+        },
+        {
+          "title": "据华尔街日报：消息人士透露，苹果(AAPL.O)正寻求与出版商达成新协议，以便使用其内容开发人工智能语音助手Siri。",
+          "url": "https://flash.jin10.com/detail/20260813063348828800",
+          "heat": "✰"
+        },
+        {
+          "title": "金十数据整理：昨日今晨重要新闻汇总（2026-08-13）",
+          "url": "https://flash.jin10.com/detail/20260813063055848800",
+          "heat": "✰"
+        },
+        {
+          "title": "油价五连涨后回落，市场聚焦霍尔木兹海峡及供应缺口",
+          "url": "https://flash.jin10.com/detail/20260813063037608800",
+          "heat": false
+        },
+        {
+          "title": "矿山项目接连受挫，Codelco放弃铜产量增长目标",
+          "url": "https://flash.jin10.com/detail/20260813062912829800",
+          "heat": false
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加3.139吨，当前持仓量为1025.811吨。",
+          "url": "https://flash.jin10.com/detail/20260813062409759800",
+          "heat": "✰"
+        },
         {
           "title": "美联储9月维持利率不变的概率为59.9%",
           "url": "https://flash.jin10.com/detail/20260813060606379800",
@@ -1447,61 +1507,6 @@
         {
           "title": "“特朗普消息付费抢先看”服务引发交易机构抵制",
           "url": "https://flash.jin10.com/detail/20260813044836122800",
-          "heat": false
-        },
-        {
-          "title": "Cerebras第二季财报喜忧参半，股价盘后跌17%",
-          "url": "https://flash.jin10.com/detail/20260813044711878800",
-          "heat": false
-        },
-        {
-          "title": "市场消息：标普全球扩大与微软(MSFT.O)合作，将丰富的关键智能数据引入微软365 Copilot。",
-          "url": "https://flash.jin10.com/detail/20260813044520898800",
-          "heat": false
-        },
-        {
-          "title": "据Axios：美国国务院高级官员表示，美国敦促各方遵守框架协议。以色列已明确无意占领黎巴嫩领土，长期驻军黎南不符合协议承诺，也不利于两国长期和平与安全。",
-          "url": "https://flash.jin10.com/detail/20260813044016689800",
-          "heat": false
-        },
-        {
-          "title": "据Axios：特朗普政府批评以色列国防部长卡茨有关继续占领黎巴嫩南部的言论，并表示相关表态违背了以色列政府与美国及黎巴嫩签署协议中的承诺。",
-          "url": "https://flash.jin10.com/detail/20260813043923903800",
-          "heat": false
-        },
-        {
-          "title": "美国能源部：将不再推进此前于2024年12月选定进入审查程序的三个拟议“国家利益电力输电走廊”的指定工作。",
-          "url": "https://flash.jin10.com/detail/20260813042406726800",
-          "heat": false
-        },
-        {
-          "title": "美元指数12日上涨",
-          "url": "https://flash.jin10.com/detail/20260813041909701800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：2026年08月12日（周三）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260813040601475800",
-          "heat": false
-        },
-        {
-          "title": "道琼斯指数8月12日（周三）收盘下跌21.69点，跌幅0.04%，报53770.16点；<br/>标普500指数8月12日（周三）收盘上涨20.31点，涨幅0.26%，报7748.51点；<br/>纳斯达克综合指数8月12日（周三）收盘上涨143.04点，涨幅0.54%，报26588.49点。",
-          "url": "https://flash.jin10.com/detail/20260813040558634800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：2026年08月12日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260813040557554800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：2026年08月12日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260813040554059800",
-          "heat": false
-        },
-        {
-          "title": "据以色列i24News：应哥伦比亚地震灾害管理请求，以色列总理内塔尼亚胡派遣援助团前往哥伦比亚。",
-          "url": "https://flash.jin10.com/detail/20260813040302367800",
           "heat": false
         }
       ]
