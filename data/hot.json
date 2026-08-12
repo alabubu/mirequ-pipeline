@@ -1,6 +1,6 @@
 {
-  "updated": "00:30:49",
-  "total": 270,
+  "updated": "00:35:28",
+  "total": 280,
   "platforms": [
     {
       "id": "zhihu",
@@ -1133,8 +1133,69 @@
     {
       "id": "ifeng",
       "name": "凤凰网",
-      "count": 0,
-      "items": []
+      "count": 12,
+      "items": [
+        {
+          "title": "美方竟鼓噪“谁被中国人抢了饭碗速来举报”",
+          "url": "https://news.ifeng.com/c/8vW366Ay9AA",
+          "heat": ""
+        },
+        {
+          "title": "伊朗讽美：对制裁“病态依赖”，丧失了独立思考能力",
+          "url": "https://news.ifeng.com/c/8vVLJAifXPo",
+          "heat": ""
+        },
+        {
+          "title": "俄军士兵用树枝抽下乌军FPV无人机",
+          "url": "https://news.ifeng.com/c/8vVfJL89AEf",
+          "heat": ""
+        },
+        {
+          "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
+          "url": "https://news.ifeng.com/c/8vVVzg0SEzI",
+          "heat": ""
+        },
+        {
+          "title": "泽连斯基向韩国索要防空系统，韩外交部回应了",
+          "url": "https://news.ifeng.com/c/8vVe3rtyq9d",
+          "heat": ""
+        },
+        {
+          "title": "高市早苗送礼反被澳总理开低俗笑话？日方回应曝光",
+          "url": "https://news.ifeng.com/c/8vVLP54qs1I",
+          "heat": ""
+        },
+        {
+          "title": "他们锁定了中国人！东南亚惊悚剧离我们并不远",
+          "url": "https://news.ifeng.com/c/8vW1JWpTLSY",
+          "heat": ""
+        },
+        {
+          "title": "日本民众反对议员参拜靖国神社：那是侵略神社！",
+          "url": "https://news.ifeng.com/c/8vVSXRaklRS",
+          "heat": ""
+        },
+        {
+          "title": "韩国股市暴跌，聚焦三星电子和SK海力士的投资节目成娱乐新热点",
+          "url": "https://news.ifeng.com/c/8vVaQwUQJEb",
+          "heat": ""
+        },
+        {
+          "title": "美国等国无端指责中国7月进行的潜射洲际弹道导弹试射，中方驳斥",
+          "url": "https://news.ifeng.com/c/8vVmVQhoXD1",
+          "heat": ""
+        },
+        {
+          "title": "经济命脉遭重创，哥伦比亚新政府能否扛住多重考验？",
+          "url": "https://news.ifeng.com/c/8vVnt3CpBQX",
+          "heat": ""
+        },
+        {
+          "title": "网红“雅典娜”已确认遇害？母亲发声",
+          "url": "https://news.ifeng.com/c/8vVeyWMOlIM",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "toutiao",
@@ -1296,8 +1357,68 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 27,
+      "count": 25,
       "items": [
+        {
+          "title": "现货白银向上触及65美元/盎司，日内涨0.52%。",
+          "url": "https://flash.jin10.com/detail/20260812083239895800",
+          "heat": false
+        },
+        {
+          "title": "美联储官员释放信号：通胀是头号大敌",
+          "url": "https://flash.jin10.com/detail/20260812083229974800",
+          "heat": "✰"
+        },
+        {
+          "title": "期货盯盘神器专属文章",
+          "url": "https://flash.jin10.com/detail/20260812082842851800",
+          "heat": "✰"
+        },
+        {
+          "title": "日本2年期国债收益率上升2.0个基点，至1.630%。",
+          "url": "https://flash.jin10.com/detail/20260812082106442800",
+          "heat": false
+        },
+        {
+          "title": "CPI公布日，竞猜赢大奖",
+          "url": "https://flash.jin10.com/detail/20260812082010392800",
+          "heat": false
+        },
+        {
+          "title": "现货黄金站上4380美元/盎司，日内涨0.28%。",
+          "url": "https://flash.jin10.com/detail/20260812082009571800",
+          "heat": false
+        },
+        {
+          "title": "韩国KOSPI指数日内涨幅达2.00%，三星电子涨4%，SK海力士涨2%。",
+          "url": "https://flash.jin10.com/detail/20260812081730848800",
+          "heat": "✰"
+        },
+        {
+          "title": "据阿拉比亚电视台：消息人士称，一架无人机袭击了利比亚的扎维耶电站。",
+          "url": "https://flash.jin10.com/detail/20260812081646469800",
+          "heat": false
+        },
+        {
+          "title": "澳大利亚S&P/ASX200指数8月12日（周三）开盘下跌46.70点，跌幅0.50%，报9203.90点。",
+          "url": "https://flash.jin10.com/detail/20260812081004387800",
+          "heat": false
+        },
+        {
+          "title": "中信建投：预计近期稀土价格稳中偏强",
+          "url": "https://flash.jin10.com/detail/20260812080804100800",
+          "heat": false
+        },
+        {
+          "title": "中信证券：存储产业保持高景气度，后续关注LTA进展与股东回报",
+          "url": "https://flash.jin10.com/detail/20260812080747499800",
+          "heat": false
+        },
+        {
+          "title": "中金：商品内部或将继续分化 AI基建等支撑铜铝需求",
+          "url": "https://flash.jin10.com/detail/20260812080544069800",
+          "heat": false
+        },
         {
           "title": "中金：建议继续超配黄金",
           "url": "https://flash.jin10.com/detail/20260812080409319800",
@@ -1361,76 +1482,6 @@
         {
           "title": "金十数据中心工具",
           "url": "https://flash.jin10.com/detail/20260812075105462800",
-          "heat": false
-        },
-        {
-          "title": "华泰证券：锂电旺季有望支撑商品和权益修复",
-          "url": "https://flash.jin10.com/detail/20260812074950300800",
-          "heat": false
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260812074652895800",
-          "heat": "✰"
-        },
-        {
-          "title": "中金：高端感光干膜需求扩张 具备长期投资价值",
-          "url": "https://flash.jin10.com/detail/20260812074136714800",
-          "heat": false
-        },
-        {
-          "title": "威胁直指“空军一号”？伊朗导弹情报曝光，特朗普曾借餐饮车秘密换机逃离土耳其",
-          "url": "https://flash.jin10.com/detail/20260812073924587800",
-          "heat": "✰"
-        },
-        {
-          "title": "现货价格",
-          "url": "https://flash.jin10.com/detail/20260812073533128800",
-          "heat": false
-        },
-        {
-          "title": "现货价格",
-          "url": "https://flash.jin10.com/detail/20260812073529376800",
-          "heat": false
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260812073024367800",
-          "heat": "✰"
-        },
-        {
-          "title": "金十数据整理：每日科技要闻速递（8月12日）",
-          "url": "https://flash.jin10.com/detail/20260812072924097800",
-          "heat": false
-        },
-        {
-          "title": "芯片热潮推动，日本制造业信心升至3月以来最高",
-          "url": "https://flash.jin10.com/detail/20260812072456202800",
-          "heat": false
-        },
-        {
-          "title": "美军直接打击商船、胡塞再袭红海：伊朗称美国不满足条件，霍尔木兹不开",
-          "url": "https://flash.jin10.com/detail/20260812070423579800",
-          "heat": "✰"
-        },
-        {
-          "title": "澳大利亚国民银行：仍预期澳洲联储将在2026年剩余时间内维持现金利率不变，首次降息仍预计将在2027年年中左右进行。",
-          "url": "https://flash.jin10.com/detail/20260812070345576800",
-          "heat": false
-        },
-        {
-          "title": "西太平洋银行：澳洲联储加息预期实际已降温",
-          "url": "https://flash.jin10.com/detail/20260812070105925800",
-          "heat": false
-        },
-        {
-          "title": "日本8月路透短观非制造业景气判断指数 28，前值25。",
-          "url": "https://flash.jin10.com/detail/20260812070002272800",
-          "heat": false
-        },
-        {
-          "title": "日本8月路透短观制造业景气判断指数 18，前值13。",
-          "url": "https://flash.jin10.com/detail/20260812070002226800",
           "heat": false
         }
       ]
