@@ -1,6 +1,6 @@
 {
-  "updated": "08:01:25",
-  "total": 285,
+  "updated": "08:05:35",
+  "total": 281,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,156 +1357,136 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 30,
+      "count": 26,
       "items": [
         {
-          "title": "上海黄金交易所黄金T+D 8月13日（周四）收盘下跌0.48%报949.2元/克；<br/>上海黄金交易所白银T+D 8月13日（周四）收盘下跌1.32%报15741.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260813153050639800",
+          "title": "挪威央行：通胀在这个夏天放缓，且低于预期。通胀放缓是个好消息。",
+          "url": "https://flash.jin10.com/detail/20260813160126042800",
           "heat": false
         },
         {
-          "title": "AI前沿日报-8月13日",
-          "url": "https://flash.jin10.com/detail/20260813152523148800",
-          "heat": false
-        },
-        {
-          "title": "乌克兰铁路：8月迄今，乌克兰谷物出口运输量同比下降76%，至201,700公吨。",
-          "url": "https://flash.jin10.com/detail/20260813152510769800",
-          "heat": false
-        },
-        {
-          "title": "总库存减少1.9万盎司，汇丰与摩根大通Eligible同步流出｜黄金库存日报上新",
-          "url": "https://flash.jin10.com/detail/20260813152417065800",
+          "title": " 瑞银喊黄金“4000以下闭眼买”，LBMA调查显示“年底看到4500+”",
+          "url": "https://flash.jin10.com/detail/20260813160103836800",
           "heat": "✰"
         },
         {
-          "title": "外资涌入日本芯片行业，投资规模已达6万亿日元",
-          "url": "https://flash.jin10.com/detail/20260813152354724800",
+          "title": "伦敦金属交易所(LME)：锌库存减少2800吨，镍库存减少12吨，锡库存减少55吨，铅库存减少2700吨，铜库存减少4400吨，铝库存减少1700吨。",
+          "url": "https://flash.jin10.com/detail/20260813160056645800",
           "heat": false
         },
         {
-          "title": "腾讯控股(00700.HK)尾盘跌近5%，总市值一度跌破4万亿港元。",
-          "url": "https://flash.jin10.com/detail/20260813152339947800",
+          "title": "挪威央行：通胀仍然过高，目前得出通胀前景已发生实质性变化的结论为时尚早。因此，可能仍需提高政策利率。",
+          "url": "https://flash.jin10.com/detail/20260813160054300800",
+          "heat": false
+        },
+        {
+          "title": "马士基首席执行官：我认为2026年全面重返苏伊士运河的条件已经具备。",
+          "url": "https://flash.jin10.com/detail/20260813160036199800",
+          "heat": false
+        },
+        {
+          "title": "Plus精选图示",
+          "url": "https://flash.jin10.com/detail/20260813160009226800",
+          "heat": false
+        },
+        {
+          "title": "挪威至8月13日央行利率决定 4.25%，预期4.25%，前值4.25%。",
+          "url": "https://flash.jin10.com/detail/20260813160002627800",
+          "heat": false
+        },
+        {
+          "title": "伊朗外长阿拉格齐：美国长期以来因情报失误而误判形势。典型例子就是对伊朗的战争。如今，在霍尔木兹海峡问题上，美国又犯下了一个更大的误判。",
+          "url": "https://flash.jin10.com/detail/20260813155911323800",
+          "heat": false
+        },
+        {
+          "title": "上海港湾：控股股东提前终止减持计划，已减持345.3万股",
+          "url": "https://flash.jin10.com/detail/20260813155855259800",
+          "heat": false
+        },
+        {
+          "title": "土耳其央行：预计2026年底通胀率将达28%；2027年底通胀率为15%。",
+          "url": "https://flash.jin10.com/detail/20260813155831741800",
+          "heat": false
+        },
+        {
+          "title": "马士基首席执行官：我们将与合作伙伴赫伯罗特共同评估是否能够启动重返苏伊士运河的下一阶段行动。",
+          "url": "https://flash.jin10.com/detail/20260813155807258800",
+          "heat": false
+        },
+        {
+          "title": "马士基首席执行官：若也门局势平稳，苏伊士运河已具备全面恢复通航的安全条件。",
+          "url": "https://flash.jin10.com/detail/20260813155744609800",
+          "heat": false
+        },
+        {
+          "title": "花园生物：首次取得药品生产许可证，有效期至2031年8月9日",
+          "url": "https://flash.jin10.com/detail/20260813155522045800",
+          "heat": false
+        },
+        {
+          "title": "土耳其央行：2028年底通胀中期目标为9%。",
+          "url": "https://flash.jin10.com/detail/20260813155517865800",
+          "heat": false
+        },
+        {
+          "title": "土耳其央行：2027年底通胀中期目标为15%，与此前预期持平。",
+          "url": "https://flash.jin10.com/detail/20260813155505401800",
+          "heat": false
+        },
+        {
+          "title": "土耳其央行：2026年底通胀中期目标定为28%，而此前为24%。",
+          "url": "https://flash.jin10.com/detail/20260813155447290800",
+          "heat": false
+        },
+        {
+          "title": "土耳其央行：对2027年油价的预期为76.4美元，而此前预期为75.4美元。",
+          "url": "https://flash.jin10.com/detail/20260813155427773800",
+          "heat": false
+        },
+        {
+          "title": "土耳其央行：对2026年的油价预期为87.8美元，而此预期为89.4美元。",
+          "url": "https://flash.jin10.com/detail/20260813155407323800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：每日房地产行业动态汇总（2026-08-13）",
+          "url": "https://flash.jin10.com/detail/20260813155343275800",
           "heat": "✰"
         },
         {
-          "title": "金十图示：2026年08月13日（周四）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260813152053370800",
+          "title": "土耳其央行：2027年食品价格通胀预测为19%，与之前预测持平。",
+          "url": "https://flash.jin10.com/detail/20260813155343188800",
           "heat": false
         },
         {
-          "title": "极端高温或令欧盟国家损失约1800亿欧元",
-          "url": "https://flash.jin10.com/detail/20260813152015640800",
+          "title": "土耳其央行：将2026年食品价格通胀预测从此前预测的26.3%上调至28.5%。",
+          "url": "https://flash.jin10.com/detail/20260813155326597800",
           "heat": false
         },
         {
-          "title": "宏观环境支撑国际金价 LBMA年末预测分歧巨大 | Live分析更新中",
-          "url": "https://flash.jin10.com/detail/20260813151925383800",
-          "heat": "✰"
-        },
-        {
-          "title": "大华银行经济学家：美国通胀率可能已在第二季度见顶",
-          "url": "https://flash.jin10.com/detail/20260813151915201800",
+          "title": "伊朗说将以持久战消耗美国",
+          "url": "https://flash.jin10.com/detail/20260813155211017800",
           "heat": false
         },
         {
-          "title": "伊朗民兵武装：霍尔木兹海峡在伊朗控制下",
-          "url": "https://flash.jin10.com/detail/20260813151847435800",
+          "title": "乌称一客运列车遭无人机袭击 2名乘务人员死亡",
+          "url": "https://flash.jin10.com/detail/20260813155001562800",
           "heat": false
         },
         {
-          "title": "Plus精选图表",
-          "url": "https://flash.jin10.com/detail/20260813151814035800",
+          "title": "芬兰总统：与英国首相伯纳姆进行了通话，我们讨论了乌克兰局势以及对乌克兰防务的支持问题。芬兰与英国的关系以及双方的防务合作十分牢固。英国是地区的重要参与者。",
+          "url": "https://flash.jin10.com/detail/20260813154941115800",
           "heat": false
         },
         {
-          "title": "据国际文传电讯社：俄罗斯对印度在石油和天然气领域的投资感兴趣。",
-          "url": "https://flash.jin10.com/detail/20260813151614452800",
+          "title": "鹏鼎控股：AI服务器PCB上半年营收近10亿元 高速光模块PCB突破6亿元",
+          "url": "https://flash.jin10.com/detail/20260813154705393800",
           "heat": false
         },
         {
-          "title": "国债期货午盘收盘",
-          "url": "https://flash.jin10.com/detail/20260813151611635800",
-          "heat": false
-        },
-        {
-          "title": "金十数据整理：A股每日市场要闻回顾（2026-08-13）",
-          "url": "https://flash.jin10.com/detail/20260813151611079800",
-          "heat": "✰"
-        },
-        {
-          "title": "金十图示：2026年08月13日（周四）投机情绪指数",
-          "url": "https://flash.jin10.com/detail/20260813151127836800",
-          "heat": false
-        },
-        {
-          "title": "联想首席执行官：目标是在本财年实现1000亿美元营收。",
-          "url": "https://flash.jin10.com/detail/20260813151122819800",
-          "heat": "✰"
-        },
-        {
-          "title": "恒生科技指数尾盘再度转跌，午后一度涨逾1%，恒指现跌0.4%。",
-          "url": "https://flash.jin10.com/detail/20260813151019440800",
-          "heat": false
-        },
-        {
-          "title": "安全应急装备产业发展“十五五”规划发布",
-          "url": "https://flash.jin10.com/detail/20260813151017270800",
-          "heat": false
-        },
-        {
-          "title": "联想首席执行官：联想将开发更强大的PC及边缘运算产品。",
-          "url": "https://flash.jin10.com/detail/20260813150933414800",
-          "heat": false
-        },
-        {
-          "title": "股市资金流向图：今日沪深两市主力资金净流出449.64亿元，占比1.76%；大单资金净流出271.76亿元，占比1.07%；小单资金净流入468.45亿元，占比1.84%。",
-          "url": "https://flash.jin10.com/detail/20260813150927167800",
-          "heat": false
-        },
-        {
-          "title": "挂单报告：国际金徘徊在日低附近 美日此处多单集中",
-          "url": "https://flash.jin10.com/detail/20260813150924483800",
-          "heat": "✰"
-        },
-        {
-          "title": "金十图示：北京时间8月13日22:00将有欧元、日元等外汇期权大单到期，16个行权价10亿以上大单，敬请管理风险。",
-          "url": "https://flash.jin10.com/detail/20260813150915287800",
-          "heat": false
-        },
-        {
-          "title": "联想首席执行官：个人AI装置将成为PC需求的主要驱动力。",
-          "url": "https://flash.jin10.com/detail/20260813150840931800",
-          "heat": false
-        },
-        {
-          "title": "联想首席执行官：2026年下半年PC需求将受到抑制，但受惠于较高的产品定价，预计营收仍将增加。",
-          "url": "https://flash.jin10.com/detail/20260813150829322800",
-          "heat": false
-        },
-        {
-          "title": "商务部：对原产于印度的进口单模光纤继续征收反倾销税",
-          "url": "https://flash.jin10.com/detail/20260813150744507800",
-          "heat": "✰"
-        },
-        {
-          "title": "A股收评：创业板指午后回落收跌0.45% 有色金属板块领跌大盘",
-          "url": "https://flash.jin10.com/detail/20260813150706098800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：2026年08月13日（周四）各大货币对表现",
-          "url": "https://flash.jin10.com/detail/20260813150444959800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：2026年08月13日（周四）上海金午盘价为950.18元/克，较国际金价(950.27元/克)，低0.09元/克",
-          "url": "https://flash.jin10.com/detail/20260813150441795800",
-          "heat": false
-        },
-        {
-          "title": "中国上证综指8月13日（周四）收盘下跌19.71点，跌幅：0.5%，报3926.96点；<br/>中国深证成指8月13日（周四）收盘下跌124.98点，跌幅：0.87%，报14289.44点；<br/>中国沪深300指数8月13日（周四）收盘下跌26.97点，跌幅：0.57%，报4663.95点；<br/>中国创业板指数8月13日（周四）收盘下跌16.04点，跌幅：0.45%，报3586.04点；<br/>中国科创50指数8月13日（周四）收盘下跌19.24点，跌幅：1.11%，报1717.75点。",
-          "url": "https://flash.jin10.com/detail/20260813150433815800",
+          "title": "土耳其央行行长：服务业通胀回落趋势持续。",
+          "url": "https://flash.jin10.com/detail/20260813154638885800",
           "heat": false
         }
       ]
