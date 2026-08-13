@@ -1,6 +1,6 @@
 {
-  "updated": "15:01:17",
-  "total": 213,
+  "updated": "15:05:29",
+  "total": 279,
   "platforms": [
     {
       "id": "zhihu",
@@ -426,8 +426,159 @@
     {
       "id": "bilibili-hot-search",
       "name": "B站",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "BLG战胜TT LPL第三赛段",
+          "url": "https://search.bilibili.com/all?keyword=TT%20BLG",
+          "heat": ""
+        },
+        {
+          "title": "DeepSeek Harness发布",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%8F%91%E5%B8%83",
+          "heat": ""
+        },
+        {
+          "title": "DeepSeek API确认涨价",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20API%E7%A1%AE%E8%AE%A4%E6%B6%A8%E4%BB%B7",
+          "heat": ""
+        },
+        {
+          "title": "曝Stew疑似加入EDG",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DStew%E7%96%91%E4%BC%BC%E5%8A%A0%E5%85%A5EDG",
+          "heat": ""
+        },
+        {
+          "title": "最后离开的人赢百万豪宅",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%80%E5%90%8E%E7%A6%BB%E5%BC%80%E7%9A%84%E4%BA%BA%E8%B5%A2%E7%99%BE%E4%B8%87%E8%B1%AA%E5%AE%85",
+          "heat": ""
+        },
+        {
+          "title": "臣妾要线上告发熹贵妃",
+          "url": "https://search.bilibili.com/all?keyword=%E8%87%A3%E5%A6%BE%E8%A6%81%E7%BA%BF%E4%B8%8A%E5%91%8A%E5%8F%91%E7%86%B9%E8%B4%B5%E5%A6%83",
+          "heat": ""
+        },
+        {
+          "title": "跟着TXT乱闯上海",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B7%9F%E7%9D%80TXT%E4%B9%B1%E9%97%AF%E4%B8%8A%E6%B5%B7",
+          "heat": ""
+        },
+        {
+          "title": "UP主泰拉瑞亚再创新历史",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9A%E5%86%8D%E5%88%9B%E6%96%B0%E5%8E%86%E5%8F%B2",
+          "heat": ""
+        },
+        {
+          "title": "俄罗斯历史课本里的中国",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BF%84%E7%BD%97%E6%96%AF%E5%8E%86%E5%8F%B2%E8%AF%BE%E6%9C%AC%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD",
+          "heat": ""
+        },
+        {
+          "title": "日食记探访哔哩哔哩山歌小学",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E9%A3%9F%E8%AE%B0%E6%8E%A2%E8%AE%BF%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%B1%B1%E6%AD%8C%E5%B0%8F%E5%AD%A6",
+          "heat": ""
+        },
+        {
+          "title": "LGD战胜TES LPL第三赛段",
+          "url": "https://search.bilibili.com/all?keyword=TES%20LGD",
+          "heat": ""
+        },
+        {
+          "title": "普京首次登上俄日争议岛屿",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E4%BA%AC%E9%A6%96%E6%AC%A1%E7%99%BB%E4%B8%8A%E4%BF%84%E6%97%A5%E4%BA%89%E8%AE%AE%E5%B2%9B%E5%B1%BF",
+          "heat": ""
+        },
+        {
+          "title": "NIP战胜WBG LPL第三赛段",
+          "url": "https://search.bilibili.com/all?keyword=WBG%20NIP",
+          "heat": ""
+        },
+        {
+          "title": "济南RW侠战胜KSG KPL",
+          "url": "https://search.bilibili.com/all?keyword=KSG%20%E6%B5%8E%E5%8D%97RW%E4%BE%A0",
+          "heat": ""
+        },
+        {
+          "title": "云南交警翻唱坏苹果",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%91%E5%8D%97%E4%BA%A4%E8%AD%A6%E7%BF%BB%E5%94%B1%E5%9D%8F%E8%8B%B9%E6%9E%9C",
+          "heat": ""
+        },
+        {
+          "title": "查理斯超长播客爆料TI幕后",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9F%A5%E7%90%86%E6%96%AF%E8%B6%85%E9%95%BF%E6%92%AD%E5%AE%A2%E7%88%86%E6%96%99TI%E5%B9%95%E5%90%8E",
+          "heat": ""
+        },
+        {
+          "title": "这盘棋分明是老叟戏顽童",
+          "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E7%9B%98%E6%A3%8B%E5%88%86%E6%98%8E%E6%98%AF%E8%80%81%E5%8F%9F%E6%88%8F%E9%A1%BD%E7%AB%A5",
+          "heat": ""
+        },
+        {
+          "title": "原神至冬7.0一条龙全收集",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E8%87%B3%E5%86%AC7.0%E4%B8%80%E6%9D%A1%E9%BE%99%E5%85%A8%E6%94%B6%E9%9B%86",
+          "heat": ""
+        },
+        {
+          "title": "UP主自制植物大战僵尸恐怖版",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B8%E6%81%90%E6%80%96%E7%89%88",
+          "heat": ""
+        },
+        {
+          "title": "DeepSeek官方Agent发布",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%98%E6%96%B9Agent%E5%8F%91%E5%B8%83",
+          "heat": ""
+        },
+        {
+          "title": "长沙TES.A战胜成都AG超玩会 KPL",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%90%E9%83%BDAG%E8%B6%85%E7%8E%A9%E4%BC%9A%20%E9%95%BF%E6%B2%99TES.A",
+          "heat": ""
+        },
+        {
+          "title": "百花奖看点全复盘",
+          "url": "https://search.bilibili.com/all?keyword=%E7%99%BE%E8%8A%B1%E5%A5%96%E7%9C%8B%E7%82%B9%E5%85%A8%E5%A4%8D%E7%9B%98",
+          "heat": ""
+        },
+        {
+          "title": "宁缺复仇遇隐藏修行者",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%81%E7%BC%BA%E5%A4%8D%E4%BB%87%E9%81%87%E9%9A%90%E8%97%8F%E4%BF%AE%E8%A1%8C%E8%80%85",
+          "heat": ""
+        },
+        {
+          "title": "原神奥黛塔全面测评",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E5%A5%A5%E9%BB%9B%E5%A1%94%E5%85%A8%E9%9D%A2%E6%B5%8B%E8%AF%84",
+          "heat": ""
+        },
+        {
+          "title": "三角洲丢包撤离技巧",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E4%B8%A2%E5%8C%85%E6%92%A4%E7%A6%BB%E6%8A%80%E5%B7%A7",
+          "heat": ""
+        },
+        {
+          "title": "原神至冬狼人杀剧情全流程",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E8%87%B3%E5%86%AC%E7%8B%BC%E4%BA%BA%E6%9D%80%E5%89%A7%E6%83%85%E5%85%A8%E6%B5%81%E7%A8%8B",
+          "heat": ""
+        },
+        {
+          "title": "高中生自制蛛丝发射器",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E4%B8%AD%E7%94%9F%E8%87%AA%E5%88%B6%E8%9B%9B%E4%B8%9D%E5%8F%91%E5%B0%84%E5%99%A8",
+          "heat": ""
+        },
+        {
+          "title": "顽童戏老叟",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A1%BD%E7%AB%A5%E6%88%8F%E8%80%81%E5%8F%9F",
+          "heat": ""
+        },
+        {
+          "title": "UP主自制无畏契约道具攻略网站",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E9%81%93%E5%85%B7%E6%94%BB%E7%95%A5%E7%BD%91%E7%AB%99",
+          "heat": ""
+        },
+        {
+          "title": "GEN战胜HLE赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=GEN%E6%88%98%E8%83%9CHLE%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "wallstreetcn-hot",
@@ -982,8 +1133,69 @@
     {
       "id": "ifeng",
       "name": "凤凰网",
-      "count": 0,
-      "items": []
+      "count": 12,
+      "items": [
+        {
+          "title": "伊朗：将以持久战消耗美国",
+          "url": "https://news.ifeng.com/c/8vYfWkn57YW",
+          "heat": ""
+        },
+        {
+          "title": "特朗普宣称美国“完全掌控”霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vYdZtyCxYa",
+          "heat": ""
+        },
+        {
+          "title": "被伊朗打成外交收缩？美驻中东使馆拟长期精简人员",
+          "url": "https://news.ifeng.com/c/8vYdi6QKWQt",
+          "heat": ""
+        },
+        {
+          "title": "特朗普秘密“换机”返美，除赫格塞思外的3名亲信都是谁？",
+          "url": "https://news.ifeng.com/c/8vYQf5wseR7",
+          "heat": ""
+        },
+        {
+          "title": "伊朗将正式加入金砖国家新开发银行",
+          "url": "https://news.ifeng.com/c/8vYalXCyC9Z",
+          "heat": ""
+        },
+        {
+          "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
+          "url": "https://news.ifeng.com/c/8vYj1925EKl",
+          "heat": ""
+        },
+        {
+          "title": "俄罗斯太平洋舰队军演，日本急了",
+          "url": "https://v.ifeng.com/c/8vYmNSHdxRh",
+          "heat": ""
+        },
+        {
+          "title": "27枚仅拦截1枚，欧美防空库存告急，乌克兰怎么办？",
+          "url": "https://news.ifeng.com/c/8vYV6j8l7kg",
+          "heat": ""
+        },
+        {
+          "title": "泽连斯基声称收复745平方公里土地，“一切在计划中”",
+          "url": "https://news.ifeng.com/c/8vYbmXBfZZC",
+          "heat": ""
+        },
+        {
+          "title": "郑丽文连说四个“不再是”，炮轰司法沦为民进党的爪牙",
+          "url": "https://news.ifeng.com/c/8vYYII5EoTa",
+          "heat": ""
+        },
+        {
+          "title": "选情告急，民进党再炒作“大陆介选”",
+          "url": "https://news.ifeng.com/c/8vYsRokDUdD",
+          "heat": ""
+        },
+        {
+          "title": "规避抄袭率检测让AI改稿，化学论文竟推荐“屠杀一整个民族”？",
+          "url": "https://news.ifeng.com/c/8vYegkOgEUC",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "toutiao",
@@ -1145,8 +1357,129 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 0,
-      "items": []
+      "count": 24,
+      "items": [
+        {
+          "title": "全球首单企业类自贸离岸债在上海发行",
+          "url": "https://flash.jin10.com/detail/20260813223949465800",
+          "heat": false
+        },
+        {
+          "title": "前达拉斯联邦储备主席卡普兰：美联储在7月份没有加息是“绝对”正确的决定。",
+          "url": "https://flash.jin10.com/detail/20260813223804333800",
+          "heat": false
+        },
+        {
+          "title": "高盛：美联储7月按兵不动绝对正确 9月前应保持开放",
+          "url": "https://flash.jin10.com/detail/20260813223749186800",
+          "heat": false
+        },
+        {
+          "title": "加拿大负责美加双边贸易的部长将于周四下午会见美国贸易代表格里尔。",
+          "url": "https://flash.jin10.com/detail/20260813223741606800",
+          "heat": false
+        },
+        {
+          "title": "意大利罗马附近一军工厂发生爆炸",
+          "url": "https://flash.jin10.com/detail/20260813223603653800",
+          "heat": false
+        },
+        {
+          "title": "英国海事贸易组织：伊朗革命卫队继续骚扰和监视商船，尽管在最新报告期内没有确认的攻击事件。",
+          "url": "https://flash.jin10.com/detail/20260813223530443800",
+          "heat": false
+        },
+        {
+          "title": "英国海事贸易组织：霍尔木兹海峡的商业交通仍处于受限水平。",
+          "url": "https://flash.jin10.com/detail/20260813223514708800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：印度获得20份设立磁铁制造工厂的投标。",
+          "url": "https://flash.jin10.com/detail/20260813223445261800",
+          "heat": false
+        },
+        {
+          "title": "消息人士称，乌克兰的提议是通过第三方转达给俄罗斯的，但尚未收到回复。",
+          "url": "https://flash.jin10.com/detail/20260813223418974800",
+          "heat": false
+        },
+        {
+          "title": "消息人士称，乌克兰已向俄罗斯提出双方停止在黑海袭击平民目标的提议。",
+          "url": "https://flash.jin10.com/detail/20260813223411212800",
+          "heat": false
+        },
+        {
+          "title": "英国央行首席经济学家皮尔：英国经济增长提振加息理由。",
+          "url": "https://flash.jin10.com/detail/20260813223307323800",
+          "heat": false
+        },
+        {
+          "title": "乌军称袭击俄西南部一大型炼油厂",
+          "url": "https://flash.jin10.com/detail/20260813223248804800",
+          "heat": false
+        },
+        {
+          "title": "美国天然气期货延续跌势，跌幅达3.0%，因美国能源信息署报告显示库存增幅超出预期。",
+          "url": "https://flash.jin10.com/detail/20260813223211429800",
+          "heat": false
+        },
+        {
+          "title": "现货黄金跌破4360美元/盎司，日内跌1.12%。",
+          "url": "https://flash.jin10.com/detail/20260813223030625800",
+          "heat": "✰"
+        },
+        {
+          "title": "EIA天然气报告：截至8月7日当周，美国天然气库存总量为31530亿立方英尺，较此前一周增加360亿立方英尺，较去年同期减少250亿立方英尺，同比降幅0.8%，同时较5年均值高1980亿立方英尺，增幅6.7%。",
+          "url": "https://flash.jin10.com/detail/20260813223009057800",
+          "heat": "✰"
+        },
+        {
+          "title": "纳指涨幅扩大至1%，闪迪(SNDK.O)和SK海力士涨超4%。",
+          "url": "https://flash.jin10.com/detail/20260813223004647800",
+          "heat": "✰"
+        },
+        {
+          "title": "美国至8月7日当周EIA天然气库存 360亿立方英尺，预期320亿立方英尺，前值330亿立方英尺。",
+          "url": "https://flash.jin10.com/detail/20260813223003500800",
+          "heat": "✰"
+        },
+        {
+          "title": "银行理财市场规模站上35万亿",
+          "url": "https://flash.jin10.com/detail/20260813223001897800",
+          "heat": false
+        },
+        {
+          "title": "通胀见顶信号增强 市场不再完全定价美联储今年加息",
+          "url": "https://flash.jin10.com/detail/20260813222805326800",
+          "heat": "✰"
+        },
+        {
+          "title": "匈牙利总理表示，因多瑙河水位问题，帕克斯2号核电站的环境许可证存在不确定性。",
+          "url": "https://flash.jin10.com/detail/20260813222617279800",
+          "heat": false
+        },
+        {
+          "title": "DATABRICKS以1900亿美元估值完成50亿美元融资。",
+          "url": "https://flash.jin10.com/detail/20260813222013425800",
+          "heat": false
+        },
+        {
+          "title": "美国至8月7日当周EIA天然气库存将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260813222000001800",
+          "heat": "✰"
+        },
+        {
+          "title": "市场消息：意大利科莱费罗的KNDS工厂发生爆炸。",
+          "url": "https://flash.jin10.com/detail/20260813221954887800",
+          "heat": false
+        },
+        {
+          "title": "苹果白捡22亿，科技基金一周吸金156亿——但美联储有人喊“必须加息” | Plus日报",
+          "url": "https://flash.jin10.com/detail/20260813221846988800",
+          "heat": false
+        }
+      ]
     }
   ]
 }
