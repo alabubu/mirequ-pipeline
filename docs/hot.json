@@ -1,6 +1,6 @@
 {
-  "updated": "00:55:33",
-  "total": 284,
+  "updated": "01:00:53",
+  "total": 239,
   "platforms": [
     {
       "id": "zhihu",
@@ -954,248 +954,20 @@
     {
       "id": "cls-hot",
       "name": "财联社",
-      "count": 13,
-      "items": [
-        {
-          "title": "【早报】美AI概念股飙升；原油微涨、黄金走高；央行：及时谋划出台务实管用的增量政策",
-          "url": "https://www.cls.cn/detail/2452911",
-          "heat": ""
-        },
-        {
-          "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
-          "url": "https://www.cls.cn/detail/2452533",
-          "heat": ""
-        },
-        {
-          "title": "美国7月CPI通胀全面符合预期 美联储9月加息预期进一步降温 金价刷新日内高点",
-          "url": "https://www.cls.cn/detail/2452735",
-          "heat": ""
-        },
-        {
-          "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
-          "url": "https://www.cls.cn/detail/2452897",
-          "heat": ""
-        },
-        {
-          "title": "重返3.5万亿市值！A股“一哥”大涨超6%，百亿成交活跃股扫描",
-          "url": "https://www.cls.cn/detail/2452477",
-          "heat": ""
-        },
-        {
-          "title": "算力租赁、光通信利好不断 美国7月CPI平稳落地 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2452722",
-          "heat": ""
-        },
-        {
-          "title": "涨价持续+高端产品占比提升 覆铜板头部企业：毛利率或突破30%，加快扩产布局上游|传真",
-          "url": "https://www.cls.cn/detail/2452564",
-          "heat": ""
-        },
-        {
-          "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
-          "url": "https://www.cls.cn/detail/2452579",
-          "heat": ""
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
-          "url": "https://www.cls.cn/detail/2452920",
-          "heat": ""
-        },
-        {
-          "title": "伊朗称霍尔木兹海峡仍关闭 美军称已使59艘商船改变航线 | 环球市场",
-          "url": "https://www.cls.cn/detail/2452922",
-          "heat": ""
-        },
-        {
-          "title": "全球最大主权财富基金掌门人警告：别指望高回报能持续 未来投资环境或更艰难",
-          "url": "https://www.cls.cn/detail/2452803",
-          "heat": ""
-        },
-        {
-          "title": "腾讯算力采购大增 单季资本开支528亿元同比升176% 即将发布Hy4|财报解读",
-          "url": "https://www.cls.cn/detail/2452763",
-          "heat": ""
-        },
-        {
-          "title": "央行：综合运用并适时调整货币政策工具 保持流动性充裕和社会融资条件相对宽松",
-          "url": "https://www.cls.cn/detail/2452559",
-          "heat": ""
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "id": "thepaper",
       "name": "澎湃新闻",
-      "count": 20,
-      "items": [
-        {
-          "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33769071",
-          "heat": ""
-        },
-        {
-          "title": "朱镕基同志遗像",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33769094",
-          "heat": ""
-        },
-        {
-          "title": "浙江省博物馆长征主题版画展现多处错误，馆方：正安排修改",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33769006",
-          "heat": ""
-        },
-        {
-          "title": "视频丨C919国产大飞机正式执飞国际商业航线",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33765803",
-          "heat": ""
-        },
-        {
-          "title": "文学行馕、天鹅浮空商店……上海书展爆款文创为何出圈？",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33769570",
-          "heat": ""
-        },
-        {
-          "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33764096",
-          "heat": ""
-        },
-        {
-          "title": "马上评｜别让“饭圈”戾气伤害为国争光的运动员",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33766065",
-          "heat": ""
-        },
-        {
-          "title": "“结婚八年三女儿均非亲生”离婚案将于8月17日开庭",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33765987",
-          "heat": ""
-        },
-        {
-          "title": "连续两个月突破100万辆，我国汽车出口延续强劲增长态势",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33767366",
-          "heat": ""
-        },
-        {
-          "title": "【社论】警惕心机商标向药品领域蔓延",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33768587",
-          "heat": ""
-        },
-        {
-          "title": "媒体：炒作“雅典娜遇害”的人真在意她生死吗？网络不是无底线流量场",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33765510",
-          "heat": ""
-        },
-        {
-          "title": "新闻蒸馏器｜一辆卡车和三架专机：特朗普证实秘密换机避暗杀，随行记者成诱饵",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33765931",
-          "heat": ""
-        },
-        {
-          "title": "黄浦江潮位持续偏高，专家解读对堤防安全和市民生活有何影响",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33771859",
-          "heat": ""
-        },
-        {
-          "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33765581",
-          "heat": ""
-        },
-        {
-          "title": "炸鸡店员工因爆单情绪崩溃倒地抽搐，工会：呼吸性碱中毒，找到新工作已离职",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33766264",
-          "heat": ""
-        },
-        {
-          "title": "“匕首”变“七首”、“宗教”变“宗救”，益阳市博物馆回应提示牌上错字连篇：开馆仓促，陆续纠错",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33766561",
-          "heat": ""
-        },
-        {
-          "title": "在这里，电竞不只为了赢，更是关于成长和未来的破壁实验",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33766771",
-          "heat": ""
-        },
-        {
-          "title": "游客称“地球的红飘带”长征主题版画作品展出现多处文字纰漏，浙江省博物馆：前期未仔细检查，将连夜修改",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33769444",
-          "heat": ""
-        },
-        {
-          "title": "关于货币政策、物价水平等，央行最新报告释放了哪些信号？",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33769466",
-          "heat": ""
-        },
-        {
-          "title": "中国海军红河舰与印尼海军“莱”号护卫舰位台岛以东海域圆满完成通航演练",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33769582",
-          "heat": ""
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "id": "ifeng",
       "name": "凤凰网",
-      "count": 12,
-      "items": [
-        {
-          "title": "朱镕基同志逝世",
-          "url": "https://news.ifeng.com/c/8vXGlDfywi9",
-          "heat": ""
-        },
-        {
-          "title": "浙江一家公司，收到美国政府2.62亿元关税退税",
-          "url": "https://news.ifeng.com/c/8vX3tTPDU9p",
-          "heat": ""
-        },
-        {
-          "title": "点名日本，普京亲自指挥演习期间发声",
-          "url": "https://news.ifeng.com/c/8vY3J1B9Lt1",
-          "heat": ""
-        },
-        {
-          "title": "美国拼凑41国“兴师问罪”，想吓住中国？",
-          "url": "https://news.ifeng.com/c/8vXZuNRVplI",
-          "heat": ""
-        },
-        {
-          "title": "伊朗目前经济状况如何？专家：正面临两大困境",
-          "url": "https://news.ifeng.com/c/8vXOuaWRIKP",
-          "heat": ""
-        },
-        {
-          "title": "美国人感觉要撤了，有三个小细节",
-          "url": "https://news.ifeng.com/c/8vY3J1B9Lt4",
-          "heat": ""
-        },
-        {
-          "title": "美国得州一架飞机坠毁，“事故非常惨烈”",
-          "url": "https://news.ifeng.com/c/8vY142g1E7T",
-          "heat": ""
-        },
-        {
-          "title": "性能诉求相似，技术分享存疑，印度加入能“救”法国六代机？",
-          "url": "https://news.ifeng.com/c/8vY2aspSFdw",
-          "heat": ""
-        },
-        {
-          "title": "美国海军推出首艘“无人机航母”，美媒泼冷水",
-          "url": "https://news.ifeng.com/c/8vY3J1B9LkF",
-          "heat": ""
-        },
-        {
-          "title": "中国和印尼首次在台岛以东联合军演，台当局气急败坏",
-          "url": "https://news.ifeng.com/c/8vY34OnOdcM",
-          "heat": ""
-        },
-        {
-          "title": "埃及暂不参与沙土巴联合防务协议，有两个原因",
-          "url": "https://news.ifeng.com/c/8vY63zOHaPP",
-          "heat": ""
-        },
-        {
-          "title": "“与其筑墙不如架桥”，欧洲学者：西方制造难民，中国才是希望",
-          "url": "https://news.ifeng.com/c/8vX7slCVHMi",
-          "heat": ""
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "id": "toutiao",
