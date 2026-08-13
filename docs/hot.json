@@ -1,6 +1,6 @@
 {
-  "updated": "14:31:02",
-  "total": 242,
+  "updated": "14:40:40",
+  "total": 283,
   "platforms": [
     {
       "id": "zhihu",
@@ -954,8 +954,74 @@
     {
       "id": "cls-hot",
       "name": "财联社",
-      "count": 0,
-      "items": []
+      "count": 13,
+      "items": [
+        {
+          "title": "商务部：对原产于印度的进口单模光纤继续征收反倾销税 实施期限为5年",
+          "url": "https://www.cls.cn/detail/2453388",
+          "heat": ""
+        },
+        {
+          "title": "MSCI公布8月季度审议结果：中国指数新纳入33只标的 华峰测控、富创精密等科创板公司入选",
+          "url": "https://www.cls.cn/detail/2453202",
+          "heat": ""
+        },
+        {
+          "title": "费城半导体指数即将重回技术性牛市 华尔街怎么看？",
+          "url": "https://www.cls.cn/detail/2453364",
+          "heat": ""
+        },
+        {
+          "title": "20cm四连板！又一“跨界”热股月内涨翻倍，年内大号连板阵营再扩容",
+          "url": "https://www.cls.cn/detail/2453587",
+          "heat": ""
+        },
+        {
+          "title": "多晶硅连续两周无成交价 中游已“涨声”连连 光伏价格传导迎关键考验",
+          "url": "https://www.cls.cn/detail/2453703",
+          "heat": ""
+        },
+        {
+          "title": "业绩增长超预期 中芯国际Q2销售收入达30亿美元 产能利用率进一步提升",
+          "url": "https://www.cls.cn/detail/2453693",
+          "heat": ""
+        },
+        {
+          "title": "【每日收评】三大指数午后回落全线收跌， 全市场超4300股飘绿，医药股持续活跃",
+          "url": "https://www.cls.cn/detail/2453502",
+          "heat": ""
+        },
+        {
+          "title": "AI“循环融资”越来越仰赖一件事：英伟达GPU能保值多久……",
+          "url": "https://www.cls.cn/detail/2453237",
+          "heat": ""
+        },
+        {
+          "title": "标普冲击新高 费城半导体指数即将重回“牛市” | 今夜看点",
+          "url": "https://www.cls.cn/detail/2453791",
+          "heat": ""
+        },
+        {
+          "title": "史上最大IPO要易主了？据称Anthropic将于10月IPO，估值或突破2万亿美元",
+          "url": "https://www.cls.cn/detail/2453351",
+          "heat": ""
+        },
+        {
+          "title": "【焦点复盘】科创50高开低走跌超1%，两市成交额放大近4000亿，电力板块午后逆势拉升",
+          "url": "https://www.cls.cn/detail/2453548",
+          "heat": ""
+        },
+        {
+          "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
+          "url": "https://www.cls.cn/detail/2453615",
+          "heat": ""
+        },
+        {
+          "title": "黄金后市何去何从？业内预测：年内仍有上行空间，最高看向7150美元！",
+          "url": "https://www.cls.cn/detail/2453369",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "thepaper",
@@ -1291,8 +1357,149 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 0,
-      "items": []
+      "count": 28,
+      "items": [
+        {
+          "title": "Databricks完成50亿美元融资，估值达1900亿美元。",
+          "url": "https://flash.jin10.com/detail/20260813221246622800",
+          "heat": false
+        },
+        {
+          "title": "据港交所文件：湖南军信环保股份有限公司向港交所提交上市申请书。",
+          "url": "https://flash.jin10.com/detail/20260813221112631800",
+          "heat": false
+        },
+        {
+          "title": "原油系期货主力合约集体下跌，SC原油下跌1.80%，现报544.2元/桶。低硫燃料油（LU）下跌1.85%，现报4560元/吨。燃油下跌0.72%，现报3741元/吨。沥青下跌0.02%，现报4310元/吨。",
+          "url": "https://flash.jin10.com/detail/20260813220750679800",
+          "heat": "✰"
+        },
+        {
+          "title": "以色列防长放言：若真主党不解除武装，以将长期占领黎巴嫩南部",
+          "url": "https://flash.jin10.com/detail/20260813220433913800",
+          "heat": "✰"
+        },
+        {
+          "title": "加拿大总理卡尼：加拿大的主权根植于强大而安全的北方。",
+          "url": "https://flash.jin10.com/detail/20260813220359406800",
+          "heat": false
+        },
+        {
+          "title": "布伦特原油回落至85美元/桶下方，日内跌2.57%。",
+          "url": "https://flash.jin10.com/detail/20260813220132443800",
+          "heat": false
+        },
+        {
+          "title": "研究显示，标普500指数公司CEO薪酬创历史新高。",
+          "url": "https://flash.jin10.com/detail/20260813220123807800",
+          "heat": "✰"
+        },
+        {
+          "title": "金十图示：2026年08月13日（周四）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260813220033961800",
+          "heat": false
+        },
+        {
+          "title": "标普500指数首次突破7800点",
+          "url": "https://flash.jin10.com/detail/20260813215902946800",
+          "heat": "✰"
+        },
+        {
+          "title": "美国2年期国债收益率延续跌势，触及7月中旬以来最低水平；最新报4.136%，下跌6.2个基点。",
+          "url": "https://flash.jin10.com/detail/20260813215732854800",
+          "heat": false
+        },
+        {
+          "title": "欧洲电网运营商协会：德国太阳能发电量周四升至创纪录的58.6吉瓦。",
+          "url": "https://flash.jin10.com/detail/20260813215615109800",
+          "heat": false
+        },
+        {
+          "title": "标普500指数创下盘中历史新高，最新上涨0.6%。",
+          "url": "https://flash.jin10.com/detail/20260813215536426800",
+          "heat": false
+        },
+        {
+          "title": "布伦特原油日内下跌2.00%，现报85.50美元/桶。WTI原油回落至80美元/桶下方，日内跌2.07%。",
+          "url": "https://flash.jin10.com/detail/20260813215434666800",
+          "heat": "✰"
+        },
+        {
+          "title": "印尼镍矿商协会：将有选择地发放2026年镍矿石额外生产配额",
+          "url": "https://flash.jin10.com/detail/20260813215410726800",
+          "heat": "✰"
+        },
+        {
+          "title": "纳斯达克100指数上涨1%；标普500指数上涨近0.6%。",
+          "url": "https://flash.jin10.com/detail/20260813215220988800",
+          "heat": false
+        },
+        {
+          "title": "墨西哥总统辛鲍姆：哥伦比亚未批准墨西哥救援队。",
+          "url": "https://flash.jin10.com/detail/20260813214958164800",
+          "heat": false
+        },
+        {
+          "title": "英特尔(INTC.O)涨幅扩大至4%。戴尔(DELL.N)股价一度首次突破500美元，最高至514美元。",
+          "url": "https://flash.jin10.com/detail/20260813214927310800",
+          "heat": "✰"
+        },
+        {
+          "title": "金十图示：2026年08月13日（周四）华尔街恐惧与贪婪指数（美盘初）",
+          "url": "https://flash.jin10.com/detail/20260813214709112800",
+          "heat": false
+        },
+        {
+          "title": "美伊谈判陷僵局，霍尔木兹控制权成最大“死结”",
+          "url": "https://flash.jin10.com/detail/20260813214657146800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月13日（周四）美盘市场行情一览",
+          "url": "https://flash.jin10.com/detail/20260813214624295800",
+          "heat": false
+        },
+        {
+          "title": "埃克森美孚发言人表示，鹿特丹炼油厂的停电问题已解决，运营恢复正常。",
+          "url": "https://flash.jin10.com/detail/20260813214614362800",
+          "heat": false
+        },
+        {
+          "title": "浙江直播经济相关企业突破17万家",
+          "url": "https://flash.jin10.com/detail/20260813214506036800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月13日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260813214319855800",
+          "heat": false
+        },
+        {
+          "title": "沪市年内已有7单公募REITs披露增持计划 合计增持金额上限约4.3亿元",
+          "url": "https://flash.jin10.com/detail/20260813214113798800",
+          "heat": false
+        },
+        {
+          "title": "智利矿业部长：与阿根廷达成的协议可能带来207亿美元的投资，并每年增加54万吨铜的产量。",
+          "url": "https://flash.jin10.com/detail/20260813214032677800",
+          "heat": false
+        },
+        {
+          "title": "前7个月苏州工业园区外贸首破万亿大关",
+          "url": "https://flash.jin10.com/detail/20260813213901502800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月13日（周四）热门中概股行情一览",
+          "url": "https://flash.jin10.com/detail/20260813213623214800",
+          "heat": false
+        },
+        {
+          "title": "石油交易商贡渥集团：鹿特丹爆炸事件造成一人死亡。",
+          "url": "https://flash.jin10.com/detail/20260813213431917800",
+          "heat": false
+        }
+      ]
     }
   ]
 }
