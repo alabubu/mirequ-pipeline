@@ -1,6 +1,6 @@
 {
-  "updated": "15:10:33",
-  "total": 279,
+  "updated": "15:15:42",
+  "total": 280,
   "platforms": [
     {
       "id": "zhihu",
@@ -586,11 +586,6 @@
       "count": 10,
       "items": [
         {
-          "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
-          "url": "https://wallstreetcn.com/articles/3779257",
-          "heat": ""
-        },
-        {
           "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
           "url": "https://wallstreetcn.com/articles/3779306",
           "heat": ""
@@ -601,8 +596,13 @@
           "heat": ""
         },
         {
-          "title": "腾讯电话会：AI投入回报空间已现，WorkBuddy毛利率已显著改善，算力出租为“安全垫”",
-          "url": "https://wallstreetcn.com/articles/3779299",
+          "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
+          "url": "https://wallstreetcn.com/articles/3779257",
+          "heat": ""
+        },
+        {
+          "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
+          "url": "https://wallstreetcn.com/articles/3779377",
           "heat": ""
         },
         {
@@ -611,8 +611,8 @@
           "heat": ""
         },
         {
-          "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
-          "url": "https://wallstreetcn.com/articles/3779377",
+          "title": "通胀超预期降温！美国7月PPI同比涨幅收窄至4.7%，能源成本下降成主因",
+          "url": "https://wallstreetcn.com/articles/3779381",
           "heat": ""
         },
         {
@@ -626,8 +626,8 @@
           "heat": ""
         },
         {
-          "title": "通胀超预期降温！美国7月PPI同比涨幅收窄至4.7%，能源成本下降成主因",
-          "url": "https://wallstreetcn.com/articles/3779381",
+          "title": "DeepSeek智能体曝光！人人用得起的Agent？",
+          "url": "https://wallstreetcn.com/articles/3779332",
           "heat": ""
         },
         {
@@ -1357,126 +1357,131 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 24,
+      "count": 25,
       "items": [
         {
-          "title": "全球首单企业类自贸离岸债在上海发行",
-          "url": "https://flash.jin10.com/detail/20260813223949465800",
+          "title": "闪迪(SNDK.O)：目标在2028至2030财年实现约50%的调整后自由现金流利润率。",
+          "url": "https://flash.jin10.com/detail/20260813230912962800",
           "heat": false
         },
         {
-          "title": "前达拉斯联邦储备主席卡普兰：美联储在7月份没有加息是“绝对”正确的决定。",
-          "url": "https://flash.jin10.com/detail/20260813223804333800",
-          "heat": false
-        },
-        {
-          "title": "高盛：美联储7月按兵不动绝对正确 9月前应保持开放",
-          "url": "https://flash.jin10.com/detail/20260813223749186800",
-          "heat": false
-        },
-        {
-          "title": "加拿大负责美加双边贸易的部长将于周四下午会见美国贸易代表格里尔。",
-          "url": "https://flash.jin10.com/detail/20260813223741606800",
-          "heat": false
-        },
-        {
-          "title": "意大利罗马附近一军工厂发生爆炸",
-          "url": "https://flash.jin10.com/detail/20260813223603653800",
-          "heat": false
-        },
-        {
-          "title": "英国海事贸易组织：伊朗革命卫队继续骚扰和监视商船，尽管在最新报告期内没有确认的攻击事件。",
-          "url": "https://flash.jin10.com/detail/20260813223530443800",
-          "heat": false
-        },
-        {
-          "title": "英国海事贸易组织：霍尔木兹海峡的商业交通仍处于受限水平。",
-          "url": "https://flash.jin10.com/detail/20260813223514708800",
-          "heat": false
-        },
-        {
-          "title": "市场消息：印度获得20份设立磁铁制造工厂的投标。",
-          "url": "https://flash.jin10.com/detail/20260813223445261800",
-          "heat": false
-        },
-        {
-          "title": "消息人士称，乌克兰的提议是通过第三方转达给俄罗斯的，但尚未收到回复。",
-          "url": "https://flash.jin10.com/detail/20260813223418974800",
-          "heat": false
-        },
-        {
-          "title": "消息人士称，乌克兰已向俄罗斯提出双方停止在黑海袭击平民目标的提议。",
-          "url": "https://flash.jin10.com/detail/20260813223411212800",
-          "heat": false
-        },
-        {
-          "title": "英国央行首席经济学家皮尔：英国经济增长提振加息理由。",
-          "url": "https://flash.jin10.com/detail/20260813223307323800",
-          "heat": false
-        },
-        {
-          "title": "乌军称袭击俄西南部一大型炼油厂",
-          "url": "https://flash.jin10.com/detail/20260813223248804800",
-          "heat": false
-        },
-        {
-          "title": "美国天然气期货延续跌势，跌幅达3.0%，因美国能源信息署报告显示库存增幅超出预期。",
-          "url": "https://flash.jin10.com/detail/20260813223211429800",
-          "heat": false
-        },
-        {
-          "title": "现货黄金跌破4360美元/盎司，日内跌1.12%。",
-          "url": "https://flash.jin10.com/detail/20260813223030625800",
+          "title": "也门胡塞武装控制的萨巴通讯社报道称，该组织用两架无人机袭击了位于沙特吉赞的沙特阿美炼油厂。",
+          "url": "https://flash.jin10.com/detail/20260813230854336800",
           "heat": "✰"
         },
         {
-          "title": "EIA天然气报告：截至8月7日当周，美国天然气库存总量为31530亿立方英尺，较此前一周增加360亿立方英尺，较去年同期减少250亿立方英尺，同比降幅0.8%，同时较5年均值高1980亿立方英尺，增幅6.7%。",
-          "url": "https://flash.jin10.com/detail/20260813223009057800",
-          "heat": "✰"
-        },
-        {
-          "title": "纳指涨幅扩大至1%，闪迪(SNDK.O)和SK海力士涨超4%。",
-          "url": "https://flash.jin10.com/detail/20260813223004647800",
-          "heat": "✰"
-        },
-        {
-          "title": "美国至8月7日当周EIA天然气库存 360亿立方英尺，预期320亿立方英尺，前值330亿立方英尺。",
-          "url": "https://flash.jin10.com/detail/20260813223003500800",
-          "heat": "✰"
-        },
-        {
-          "title": "银行理财市场规模站上35万亿",
-          "url": "https://flash.jin10.com/detail/20260813223001897800",
+          "title": "闪迪(SNDK.O)：预计2028财年至2030财年实现15%至19%左右的营收增长。",
+          "url": "https://flash.jin10.com/detail/20260813230807427800",
           "heat": false
         },
         {
-          "title": "通胀见顶信号增强 市场不再完全定价美联储今年加息",
-          "url": "https://flash.jin10.com/detail/20260813222805326800",
+          "title": "波罗的海干散货运价指数延续跌势，超灵便型船小升",
+          "url": "https://flash.jin10.com/detail/20260813230656805800",
+          "heat": false
+        },
+        {
+          "title": "闪迪(SNDK.O)最新上涨6.3%。",
+          "url": "https://flash.jin10.com/detail/20260813230608121800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：欧盘美盘重要新闻汇总（2026-08-13）",
+          "url": "https://flash.jin10.com/detail/20260813230451474800",
           "heat": "✰"
         },
         {
-          "title": "匈牙利总理表示，因多瑙河水位问题，帕克斯2号核电站的环境许可证存在不确定性。",
-          "url": "https://flash.jin10.com/detail/20260813222617279800",
+          "title": "闪迪(SNDK.O)：在投资业务后将返还多余现金。",
+          "url": "https://flash.jin10.com/detail/20260813230429898800",
           "heat": false
         },
         {
-          "title": "DATABRICKS以1900亿美元估值完成50亿美元融资。",
-          "url": "https://flash.jin10.com/detail/20260813222013425800",
+          "title": "闪迪(SNDK.O)：预计将把100%的超额现金返还给股东。",
+          "url": "https://flash.jin10.com/detail/20260813230416382800",
           "heat": false
         },
         {
-          "title": "美国至8月7日当周EIA天然气库存将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260813222000001800",
+          "title": "闪迪(SNDK.O)：预计2028财年至2030财年非GAAP营业利润率约为75%。",
+          "url": "https://flash.jin10.com/detail/20260813230404834800",
+          "heat": false
+        },
+        {
+          "title": "闪迪(SNDK.O)预计28财年至30财年非通用会计准则毛利率约为80%。",
+          "url": "https://flash.jin10.com/detail/20260813230338685800",
+          "heat": false
+        },
+        {
+          "title": "分歧大爆发！“超鹰”美联储官员喊话加息，市场却悄然取消年内加息押注",
+          "url": "https://flash.jin10.com/detail/20260813230333341800",
           "heat": "✰"
         },
         {
-          "title": "市场消息：意大利科莱费罗的KNDS工厂发生爆炸。",
-          "url": "https://flash.jin10.com/detail/20260813221954887800",
+          "title": "惠誉：美国私募信贷违约率7月升至纪录新高。",
+          "url": "https://flash.jin10.com/detail/20260813230324952800",
           "heat": false
         },
         {
-          "title": "苹果白捡22亿，科技基金一周吸金156亿——但美联储有人喊“必须加息” | Plus日报",
-          "url": "https://flash.jin10.com/detail/20260813221846988800",
+          "title": "截至23:00收盘，国内期货主力合约涨多跌少，焦煤、纸浆、豆一、玻璃、纯碱涨超1%，胶版纸涨近1%。跌幅方面，20号胶、PTA跌超1%，低硫燃料油（LU）、橡胶跌近1%。",
+          "url": "https://flash.jin10.com/detail/20260813230038340800",
+          "heat": "✰"
+        },
+        {
+          "title": "油市月报齐砍需求，需求破坏将压过地缘风险？",
+          "url": "https://flash.jin10.com/detail/20260813230005333800",
+          "heat": false
+        },
+        {
+          "title": "据荷兰媒体BNR：俄罗斯黑客组织声称已入侵壳牌和飞利浦。飞利浦确认遭遇网络攻击，未对客户造成影响。壳牌发言人确认事件正在调查中。",
+          "url": "https://flash.jin10.com/detail/20260813225654300800",
+          "heat": false
+        },
+        {
+          "title": "CPU“超级周期”重估芯片股：英伟达只有30倍？",
+          "url": "https://flash.jin10.com/detail/20260813224827137800",
+          "heat": false
+        },
+        {
+          "title": "美联储巴尔金：许多AI应用场景目前似乎还不够成熟，不足以带来大规模裁员。",
+          "url": "https://flash.jin10.com/detail/20260813224815712800",
+          "heat": false
+        },
+        {
+          "title": "美联储巴尔金：AI对就业岗位数量的净影响并不是最大的问题，更值得关注的是AI可能带来的不同岗位之间的就业重新配置。",
+          "url": "https://flash.jin10.com/detail/20260813224757168800",
+          "heat": false
+        },
+        {
+          "title": "美联储巴尔金：面向企业客户销售的企业对定价权信心十足；而面向消费者销售的企业则不太确定能否将成本上涨转嫁给消费者。",
+          "url": "https://flash.jin10.com/detail/20260813224745529800",
+          "heat": false
+        },
+        {
+          "title": "美联储巴尔金：美联储目前并不处于适合提供“前瞻性指引”的阶段。",
+          "url": "https://flash.jin10.com/detail/20260813224725063800",
+          "heat": false
+        },
+        {
+          "title": "美联储巴尔金：确实担心低收入人群的消费支出还能维持多久。",
+          "url": "https://flash.jin10.com/detail/20260813224708582800",
+          "heat": false
+        },
+        {
+          "title": "美联储巴尔金：我确实相信，如果帮助人们理解反应机制，有助于市场发挥作用，但我也认为过于谨慎的引导会导致约束。",
+          "url": "https://flash.jin10.com/detail/20260813224656790800",
+          "heat": false
+        },
+        {
+          "title": "美联储巴尔金：企业通常不喜欢裁员，更倾向于避免裁员，即使在招聘方面持谨慎态度。",
+          "url": "https://flash.jin10.com/detail/20260813224644481800",
+          "heat": false
+        },
+        {
+          "title": "美联储巴尔金：如果整体通胀持续放缓，将有助于保持预期稳定。",
+          "url": "https://flash.jin10.com/detail/20260813224639012800",
+          "heat": false
+        },
+        {
+          "title": "美联储巴尔金：我在两种看法之间犹豫不决——一方面，通胀已经连续超过目标水平5年多；另一方面，通胀曾在两个不同阶段出现跃升，如今正在放缓。",
+          "url": "https://flash.jin10.com/detail/20260813224621853800",
           "heat": false
         }
       ]
