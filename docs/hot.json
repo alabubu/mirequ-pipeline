@@ -1,6 +1,6 @@
 {
-  "updated": "12:25:36",
-  "total": 283,
+  "updated": "12:30:48",
+  "total": 228,
   "platforms": [
     {
       "id": "zhihu",
@@ -583,59 +583,8 @@
     {
       "id": "wallstreetcn-hot",
       "name": "华尔街见闻",
-      "count": 10,
-      "items": [
-        {
-          "title": "全面符合预期！美国7月CPI同比涨幅收窄至3.4%，核心CPI同比放缓至2.5%",
-          "url": "https://wallstreetcn.com/articles/3779297",
-          "heat": ""
-        },
-        {
-          "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
-          "url": "https://wallstreetcn.com/articles/3779257",
-          "heat": ""
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
-          "url": "https://wallstreetcn.com/articles/3779306",
-          "heat": ""
-        },
-        {
-          "title": "华尔街见闻早餐FM-Radio | 2026年8月13日",
-          "url": "https://wallstreetcn.com/articles/3779321",
-          "heat": ""
-        },
-        {
-          "title": "腾讯电话会：AI投入回报空间已现，WorkBuddy毛利率已显著改善，算力出租为“安全垫”",
-          "url": "https://wallstreetcn.com/articles/3779299",
-          "heat": ""
-        },
-        {
-          "title": "528 亿砸下去，腾讯要换估值锚",
-          "url": "https://wallstreetcn.com/articles/3779302",
-          "heat": ""
-        },
-        {
-          "title": "光通信巨头Coherent业绩与指引全面超预期，称新财年需求异常强劲，盘后仍跳水｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779317",
-          "heat": ""
-        },
-        {
-          "title": "A股午后回落，三大股指集体收跌，医药股逆势大涨，港股腾讯跌超4%，联想集团午后暴涨20%",
-          "url": "https://wallstreetcn.com/articles/3779335",
-          "heat": ""
-        },
-        {
-          "title": "唱反调！高盛策略师：美联储年内或将全线按兵不动，驳斥市场加息预期",
-          "url": "https://wallstreetcn.com/articles/3779295",
-          "heat": ""
-        },
-        {
-          "title": "美温和通胀缓解加息压力，美股期指涨跌互现，光通信、存储芯片股盘前下跌，金油齐跌",
-          "url": "https://wallstreetcn.com/articles/3779338",
-          "heat": ""
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "id": "tieba",
@@ -954,248 +903,20 @@
     {
       "id": "cls-hot",
       "name": "财联社",
-      "count": 13,
-      "items": [
-        {
-          "title": "“仅对来样负责” 一句免责声明滋生检测行业潜规则",
-          "url": "https://www.cls.cn/detail/2453169",
-          "heat": ""
-        },
-        {
-          "title": "商务部：对原产于印度的进口单模光纤继续征收反倾销税 实施期限为5年",
-          "url": "https://www.cls.cn/detail/2453388",
-          "heat": ""
-        },
-        {
-          "title": "MSCI公布8月季度审议结果：中国指数新纳入33只标的 华峰测控、富创精密等科创板公司入选",
-          "url": "https://www.cls.cn/detail/2453202",
-          "heat": ""
-        },
-        {
-          "title": "费城半导体指数即将重回技术性牛市 华尔街怎么看？",
-          "url": "https://www.cls.cn/detail/2453364",
-          "heat": ""
-        },
-        {
-          "title": "AI“循环融资”越来越仰赖一件事：英伟达GPU能保值多久……",
-          "url": "https://www.cls.cn/detail/2453237",
-          "heat": ""
-        },
-        {
-          "title": "20cm四连板！又一“跨界”热股月内涨翻倍，年内大号连板阵营再扩容",
-          "url": "https://www.cls.cn/detail/2453587",
-          "heat": ""
-        },
-        {
-          "title": "从表态到实操！险资近一个月密集调研通信板块，科技产业增量成核心布局方向",
-          "url": "https://www.cls.cn/detail/2453116",
-          "heat": ""
-        },
-        {
-          "title": "【每日收评】三大指数午后回落全线收跌， 全市场超4300股飘绿，医药股持续活跃",
-          "url": "https://www.cls.cn/detail/2453502",
-          "heat": ""
-        },
-        {
-          "title": "史上最大IPO要易主了？据称Anthropic将于10月IPO，估值或突破2万亿美元",
-          "url": "https://www.cls.cn/detail/2453351",
-          "heat": ""
-        },
-        {
-          "title": "多晶硅连续两周无成交价 中游已“涨声”连连 光伏价格传导迎关键考验",
-          "url": "https://www.cls.cn/detail/2453703",
-          "heat": ""
-        },
-        {
-          "title": "【焦点复盘】科创50高开低走跌超1%，两市成交额放大近4000亿，电力板块午后逆势拉升",
-          "url": "https://www.cls.cn/detail/2453548",
-          "heat": ""
-        },
-        {
-          "title": "股价飙升34%！算力租赁商Nebius Q2云收入暴增514% 点燃AI基建板块",
-          "url": "https://www.cls.cn/detail/2453081",
-          "heat": ""
-        },
-        {
-          "title": "AI重构半导体产业？韩国双雄积极导入AI 研发、设备甚至KPI都要改",
-          "url": "https://www.cls.cn/detail/2453126",
-          "heat": ""
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "id": "thepaper",
       "name": "澎湃新闻",
-      "count": 20,
-      "items": [
-        {
-          "title": "服务区开水间英文标识翻译错误，甘肃省高速公路服务集团致歉",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33769667",
-          "heat": ""
-        },
-        {
-          "title": "视频丨普京首次登上俄日争议岛屿",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33775032",
-          "heat": ""
-        },
-        {
-          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33773012",
-          "heat": ""
-        },
-        {
-          "title": "浙江省博物馆长征主题版画展出现多处文字错误，协办方致歉",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33771077",
-          "heat": ""
-        },
-        {
-          "title": "马上评｜郭德纲即兴改编是否违规，武汉文旅不妨以调查给出结论",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33774962",
-          "heat": ""
-        },
-        {
-          "title": "经纬度：汽车出口连破纪录，为稳外贸提供有力支撑",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33768942",
-          "heat": ""
-        },
-        {
-          "title": "黄浦江潮位持续偏高，专家解读对堤防安全和市民生活有何影响",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33771859",
-          "heat": ""
-        },
-        {
-          "title": "探索“红灯停表”等，京沪共治外卖平台“内卷式”竞争",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33775041",
-          "heat": ""
-        },
-        {
-          "title": "长征主题版画临展现多处错误，浙江省博物馆致歉",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33775483",
-          "heat": ""
-        },
-        {
-          "title": "马上评｜博物馆不能总让小朋友来当“校对”",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33774383",
-          "heat": ""
-        },
-        {
-          "title": "郭德纲演出中即兴改编红歌遭举报，武汉市文旅局立案调查",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33773834",
-          "heat": ""
-        },
-        {
-          "title": "特朗普：我想谋求第三任期，但美国法律太严",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33769936",
-          "heat": ""
-        },
-        {
-          "title": "日本强烈抗议普京登上日俄争议岛屿",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33775380",
-          "heat": ""
-        },
-        {
-          "title": "男子钓1.6米长鳡鱼绑车尾慢速行驶，当事人：并非刻意显摆，怕绳索脱落不敢开快",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33770918",
-          "heat": ""
-        },
-        {
-          "title": "儿童在杂粮区将粮食掺在一起，超市负责人：挑不出来，已全部下架",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33776204",
-          "heat": ""
-        },
-        {
-          "title": "关于货币政策、物价水平等，央行最新报告释放了哪些信号？",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33769466",
-          "heat": ""
-        },
-        {
-          "title": "“阿里最年轻P10”林俊旸创业：语用科技落户模速空间，估值超百亿元",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33769319",
-          "heat": ""
-        },
-        {
-          "title": "《江泽民》第3集《临危受命》",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33770623",
-          "heat": ""
-        },
-        {
-          "title": "国家“两弹一星功勋奖章”获得者王希季院士逝世，享年105岁",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33775307",
-          "heat": ""
-        },
-        {
-          "title": "城市足球联赛为何能扎根福建，苏超和闽超还有这么一段故事",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33769443",
-          "heat": ""
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "id": "ifeng",
       "name": "凤凰网",
-      "count": 12,
-      "items": [
-        {
-          "title": "日本强烈抗议普京登上日俄争议岛屿",
-          "url": "https://news.ifeng.com/c/8vYSQwntbvN",
-          "heat": ""
-        },
-        {
-          "title": "普京就领土问题驳斥日方，日媒：极为罕见！",
-          "url": "https://news.ifeng.com/c/8vYBMWmRaJB",
-          "heat": ""
-        },
-        {
-          "title": "27枚仅拦截1枚，欧美防空库存告急，乌克兰怎么办？",
-          "url": "https://news.ifeng.com/c/8vYV6j8l7kg",
-          "heat": ""
-        },
-        {
-          "title": "泽连斯基声称收复745平方公里土地，“一切在计划中”",
-          "url": "https://news.ifeng.com/c/8vYbmXBfZZC",
-          "heat": ""
-        },
-        {
-          "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
-          "url": "https://news.ifeng.com/c/8vYj1925EKl",
-          "heat": ""
-        },
-        {
-          "title": "伊朗将正式加入金砖国家新开发银行",
-          "url": "https://news.ifeng.com/c/8vYalXCyC9Z",
-          "heat": ""
-        },
-        {
-          "title": "特朗普宣称美国“完全掌控”霍尔木兹海峡",
-          "url": "https://news.ifeng.com/c/8vYdZtyCxYa",
-          "heat": ""
-        },
-        {
-          "title": "被伊朗打成外交收缩？美驻中东使馆拟长期精简人员",
-          "url": "https://news.ifeng.com/c/8vYdi6QKWQt",
-          "heat": ""
-        },
-        {
-          "title": "太平洋的美军基地正在崩溃：坍塌，漏水和裂缝",
-          "url": "https://news.ifeng.com/c/8vYLpqdASbz",
-          "heat": ""
-        },
-        {
-          "title": "郑丽文连说四个“不再是”，炮轰司法沦为民进党的爪牙",
-          "url": "https://news.ifeng.com/c/8vYYII5EoTa",
-          "heat": ""
-        },
-        {
-          "title": "选情告急，民进党再炒作“大陆介选”",
-          "url": "https://news.ifeng.com/c/8vYsRokDUdD",
-          "heat": ""
-        },
-        {
-          "title": "规避抄袭率检测让AI改稿，化学论文竟推荐“屠杀一整个民族”？",
-          "url": "https://news.ifeng.com/c/8vYegkOgEUC",
-          "heat": ""
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "id": "toutiao",
@@ -1360,6 +1081,81 @@
       "count": 28,
       "items": [
         {
+          "title": "上半年算力金属大涨价 钽价飙升158%",
+          "url": "https://flash.jin10.com/detail/20260813202603158800",
+          "heat": false
+        },
+        {
+          "title": "DeepTalk：白银的历史性定价错误总得纠正，“暴走”行情即将到来？",
+          "url": "https://flash.jin10.com/detail/20260813202516105800",
+          "heat": "✰"
+        },
+        {
+          "title": "大华银行：预计美联储按兵不动至2026年底 2027年降息两次",
+          "url": "https://flash.jin10.com/detail/20260813202511129800",
+          "heat": false
+        },
+        {
+          "title": "中际旭创：拟17.47亿元受让北京中石伟业科技股份有限公司10.47%股份，后者从事高性能导热材料、EMI屏蔽材料的研发等",
+          "url": "https://flash.jin10.com/detail/20260813202406819800",
+          "heat": "✰"
+        },
+        {
+          "title": "“白海豚”残涡入海后或继续制造降雨 未来10天还将有台风生成",
+          "url": "https://flash.jin10.com/detail/20260813202338077800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：俄罗斯大使向日本外相解释说，俄罗斯总统普京在国内的出行是其主权决定，不会与外国商议。",
+          "url": "https://flash.jin10.com/detail/20260813202307539800",
+          "heat": false
+        },
+        {
+          "title": "渣打银行：英国GDP超预期难改利率前景",
+          "url": "https://flash.jin10.com/detail/20260813202306333800",
+          "heat": false
+        },
+        {
+          "title": "日本首相高市早苗：鉴于俄罗斯总统普京的动向，日本外务省召见了俄罗斯驻日大使尼古拉·诺兹德列夫。",
+          "url": "https://flash.jin10.com/detail/20260813202211047800",
+          "heat": false
+        },
+        {
+          "title": "技术刘Pro：金银高位密集区压顶，回踩下边缘表现决定短期走势",
+          "url": "https://flash.jin10.com/detail/20260813202158814800",
+          "heat": "✰"
+        },
+        {
+          "title": "新西兰联储公信力稳固 加息理由仍存",
+          "url": "https://flash.jin10.com/detail/20260813202153242800",
+          "heat": false
+        },
+        {
+          "title": "正在直播中",
+          "url": "https://flash.jin10.com/detail/20260813202143904800",
+          "heat": false
+        },
+        {
+          "title": "华测导航：2026年上半年净利润3.33亿元，同比增2.05%",
+          "url": "https://flash.jin10.com/detail/20260813202128286800",
+          "heat": false
+        },
+        {
+          "title": "塔塔汽车乘用车部门高管表示，电动车需求强劲，但行业无法完全满足需求。",
+          "url": "https://flash.jin10.com/detail/20260813202003794800",
+          "heat": false
+        },
+        {
+          "title": "美国至8月8日当周初请失业金人数、7月PPI月率及年率将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260813202000000800",
+          "heat": "✰"
+        },
+        {
+          "title": "针锋相对！伊朗新任军事高官反呛特朗普：霍尔木兹海峡在伊朗控制下",
+          "url": "https://flash.jin10.com/detail/20260813201917203800",
+          "heat": "✰"
+        },
+        {
           "title": "伊朗：未经批准 任何船只都不能安全通过霍尔木兹海峡",
           "url": "https://flash.jin10.com/detail/20260813201501848800",
           "heat": "✰"
@@ -1423,81 +1219,6 @@
           "title": "2026年FOMC票委、克利夫兰联储主席哈玛克将于十分钟后发表讲话。",
           "url": "https://flash.jin10.com/detail/20260813200500000800",
           "heat": "✰"
-        },
-        {
-          "title": "甲骨文(ORCL.N)和亚马逊云服务(AWS)深化战略合作。",
-          "url": "https://flash.jin10.com/detail/20260813200219945800",
-          "heat": false
-        },
-        {
-          "title": "甲骨文公司：基于Exasscale基础架构的Exadata数据库服务现已正式发布。",
-          "url": "https://flash.jin10.com/detail/20260813200156614800",
-          "heat": false
-        },
-        {
-          "title": "波罗的海干散货运价指数下跌3.23%，至2844点。",
-          "url": "https://flash.jin10.com/detail/20260813200119760800",
-          "heat": false
-        },
-        {
-          "title": "金十交易学院正在直播中",
-          "url": "https://flash.jin10.com/detail/20260813200059931800",
-          "heat": false
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 8月13日（周四）晚盘盘初下跌0.48%报949.2元/克；<br/>上海黄金交易所白银T+D 8月13日（周四）晚盘盘初下跌1.32%报15741.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260813200022698800",
-          "heat": false
-        },
-        {
-          "title": "秦安股份：公司主营业务不涉及人形机器人及零配件的生产制造",
-          "url": "https://flash.jin10.com/detail/20260813195544864800",
-          "heat": false
-        },
-        {
-          "title": "智利铜矿公司安托法加斯塔：预计下半年原材料价格环境将更加温和。",
-          "url": "https://flash.jin10.com/detail/20260813195518101800",
-          "heat": false
-        },
-        {
-          "title": "德赛西威：2026年上半年净利润12.45亿元，同比增长1.81%",
-          "url": "https://flash.jin10.com/detail/20260813195332889800",
-          "heat": false
-        },
-        {
-          "title": "据伊朗媒体Fars News：伊朗在霍尔木兹海峡的石油泄漏清理工作进入最后阶段。",
-          "url": "https://flash.jin10.com/detail/20260813195242338800",
-          "heat": "✰"
-        },
-        {
-          "title": "英国央行：AI泡沫破裂或使资金同时撤出美股美债 并对英国产生冲击",
-          "url": "https://flash.jin10.com/detail/20260813195222740800",
-          "heat": false
-        },
-        {
-          "title": "LG电子印度公司第一季度收入为723亿印度卢比，同比增长15%。",
-          "url": "https://flash.jin10.com/detail/20260813195217571800",
-          "heat": false
-        },
-        {
-          "title": "正在直播中",
-          "url": "https://flash.jin10.com/detail/20260813195006640800",
-          "heat": false
-        },
-        {
-          "title": "市场消息：英国央行估计，AI泡沫破裂将可能使资金同时撤出美股美债，对英国产生连带冲击。",
-          "url": "https://flash.jin10.com/detail/20260813195006068800",
-          "heat": false
-        },
-        {
-          "title": "京东二季度财报电话会将于十分钟后举行。",
-          "url": "https://flash.jin10.com/detail/20260813195000000800",
-          "heat": "✰"
-        },
-        {
-          "title": "据上交所官网显示，加特兰微电子科技（上海）股份有限公司科创板IPO审核状态变更为“已受理”。",
-          "url": "https://flash.jin10.com/detail/20260813194856142800",
-          "heat": false
         }
       ]
     }
