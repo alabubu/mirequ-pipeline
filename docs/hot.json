@@ -1,6 +1,6 @@
 {
-  "updated": "04:01:09",
-  "total": 242,
+  "updated": "04:05:36",
+  "total": 284,
   "platforms": [
     {
       "id": "zhihu",
@@ -426,8 +426,159 @@
     {
       "id": "bilibili-hot-search",
       "name": "B站",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "朱镕基同志逝世",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96",
+          "heat": ""
+        },
+        {
+          "title": "平陆运河实船试验启动",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3%E5%AE%9E%E8%88%B9%E8%AF%95%E9%AA%8C%E5%90%AF%E5%8A%A8",
+          "heat": ""
+        },
+        {
+          "title": "全球最大单体智算中心投产",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E5%8D%95%E4%BD%93%E6%99%BA%E7%AE%97%E4%B8%AD%E5%BF%83%E6%8A%95%E4%BA%A7",
+          "heat": ""
+        },
+        {
+          "title": "高中生自制蛛丝发射器",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E4%B8%AD%E7%94%9F%E8%87%AA%E5%88%B6%E8%9B%9B%E4%B8%9D%E5%8F%91%E5%B0%84%E5%99%A8",
+          "heat": ""
+        },
+        {
+          "title": "2026上海冠军赛主题曲预告",
+          "url": "https://search.bilibili.com/all?keyword=2026%E4%B8%8A%E6%B5%B7%E5%86%A0%E5%86%9B%E8%B5%9B%E4%B8%BB%E9%A2%98%E6%9B%B2%E9%A2%84%E5%91%8A",
+          "heat": ""
+        },
+        {
+          "title": "Falcons vs LGD TI国际邀请赛",
+          "url": "https://search.bilibili.com/all?keyword=Falcons%20LGD",
+          "heat": ""
+        },
+        {
+          "title": "邱文平聊欢迎来龙餐馆",
+          "url": "https://search.bilibili.com/all?keyword=%E9%82%B1%E6%96%87%E5%B9%B3%E8%81%8A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86",
+          "heat": ""
+        },
+        {
+          "title": "我国生态环境质量持续向好",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E5%9B%BD%E7%94%9F%E6%80%81%E7%8E%AF%E5%A2%83%E8%B4%A8%E9%87%8F%E6%8C%81%E7%BB%AD%E5%90%91%E5%A5%BD",
+          "heat": ""
+        },
+        {
+          "title": "高中生暑假在欢乐谷当NPC",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E4%B8%AD%E7%94%9F%E6%9A%91%E5%81%87%E5%9C%A8%E6%AC%A2%E4%B9%90%E8%B0%B7%E5%BD%93NPC",
+          "heat": ""
+        },
+        {
+          "title": "高燃混剪威少巅峰时刻",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E7%87%83%E6%B7%B7%E5%89%AA%E5%A8%81%E5%B0%91%E5%B7%85%E5%B3%B0%E6%97%B6%E5%88%BB",
+          "heat": ""
+        },
+        {
+          "title": "顽童戏老叟",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A1%BD%E7%AB%A5%E6%88%8F%E8%80%81%E5%8F%9F",
+          "heat": ""
+        },
+        {
+          "title": "新老同人环境的异同",
+          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E8%80%81%E5%90%8C%E4%BA%BA%E7%8E%AF%E5%A2%83%E7%9A%84%E5%BC%82%E5%90%8C",
+          "heat": ""
+        },
+        {
+          "title": "新剧花开锦绣好看吗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E5%89%A7%E8%8A%B1%E5%BC%80%E9%94%A6%E7%BB%A3%E5%A5%BD%E7%9C%8B%E5%90%97",
+          "heat": ""
+        },
+        {
+          "title": "复盘猎鹰首胜的协同配合",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E7%8C%8E%E9%B9%B0%E9%A6%96%E8%83%9C%E7%9A%84%E5%8D%8F%E5%90%8C%E9%85%8D%E5%90%88",
+          "heat": ""
+        },
+        {
+          "title": "哥伦比亚地震已致265人死亡",
+          "url": "https://search.bilibili.com/all?keyword=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4265%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+          "heat": ""
+        },
+        {
+          "title": "百花奖看点全复盘",
+          "url": "https://search.bilibili.com/all?keyword=%E7%99%BE%E8%8A%B1%E5%A5%96%E7%9C%8B%E7%82%B9%E5%85%A8%E5%A4%8D%E7%9B%98",
+          "heat": ""
+        },
+        {
+          "title": "小片片聊欢迎来龙餐馆",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%89%87%E7%89%87%E8%81%8A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86",
+          "heat": ""
+        },
+        {
+          "title": "威少宣布正式退役",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A8%81%E5%B0%91%E5%AE%A3%E5%B8%83%E6%AD%A3%E5%BC%8F%E9%80%80%E5%BD%B9",
+          "heat": ""
+        },
+        {
+          "title": "这盘棋分明是老叟戏顽童",
+          "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E7%9B%98%E6%A3%8B%E5%88%86%E6%98%8E%E6%98%AF%E8%80%81%E5%8F%9F%E6%88%8F%E9%A1%BD%E7%AB%A5",
+          "heat": ""
+        },
+        {
+          "title": "UP主重返母校聊海外教育",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%87%8D%E8%BF%94%E6%AF%8D%E6%A0%A1%E8%81%8A%E6%B5%B7%E5%A4%96%E6%95%99%E8%82%B2",
+          "heat": ""
+        },
+        {
+          "title": "UP主解读许昌胖东来闭店",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BB%E8%AE%B8%E6%98%8C%E8%83%96%E4%B8%9C%E6%9D%A5%E9%97%AD%E5%BA%97",
+          "heat": ""
+        },
+        {
+          "title": "如何看懂奥德赛",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E6%87%82%E5%A5%A5%E5%BE%B7%E8%B5%9B",
+          "heat": ""
+        },
+        {
+          "title": "深度拆解张雅琪中餐厅表现",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E6%8B%86%E8%A7%A3%E5%BC%A0%E9%9B%85%E7%90%AA%E4%B8%AD%E9%A4%90%E5%8E%85%E8%A1%A8%E7%8E%B0",
+          "heat": ""
+        },
+        {
+          "title": "日食记探访哔哩哔哩山歌小学",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E9%A3%9F%E8%AE%B0%E6%8E%A2%E8%AE%BF%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%B1%B1%E6%AD%8C%E5%B0%8F%E5%AD%A6",
+          "heat": ""
+        },
+        {
+          "title": "UP主谈甄子丹监制影之刃零",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%B0%88%E7%94%84%E5%AD%90%E4%B8%B9%E7%9B%91%E5%88%B6%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6",
+          "heat": ""
+        },
+        {
+          "title": "第一印象真的靠谱吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%B8%80%E5%8D%B0%E8%B1%A1%E7%9C%9F%E7%9A%84%E9%9D%A0%E8%B0%B1%E5%90%97",
+          "heat": ""
+        },
+        {
+          "title": "雪王出海为什么水土不服",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9B%AA%E7%8E%8B%E5%87%BA%E6%B5%B7%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B0%B4%E5%9C%9F%E4%B8%8D%E6%9C%8D",
+          "heat": ""
+        },
+        {
+          "title": "异环残虹角色PV",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BC%82%E7%8E%AF%E6%AE%8B%E8%99%B9%E8%A7%92%E8%89%B2PV",
+          "heat": ""
+        },
+        {
+          "title": "EWC CS小蜜蜂横扫100T",
+          "url": "https://search.bilibili.com/all?keyword=EWC%20CS%E5%B0%8F%E8%9C%9C%E8%9C%82%E6%A8%AA%E6%89%AB100T",
+          "heat": ""
+        },
+        {
+          "title": "百花奖票数结果争议盘点",
+          "url": "https://search.bilibili.com/all?keyword=%E7%99%BE%E8%8A%B1%E5%A5%96%E7%A5%A8%E6%95%B0%E7%BB%93%E6%9E%9C%E4%BA%89%E8%AE%AE%E7%9B%98%E7%82%B9",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "wallstreetcn-hot",
@@ -831,13 +982,13 @@
           "heat": ""
         },
         {
-          "title": "全球最大主权财富基金掌门人警告：别指望高回报能持续 未来投资环境或更艰难",
-          "url": "https://www.cls.cn/detail/2452803",
+          "title": "还在逼美联储加息？10年期美债发行收益率创金融危机以来最高！",
+          "url": "https://www.cls.cn/detail/2452988",
           "heat": ""
         },
         {
-          "title": "还在逼美联储加息？10年期美债发行收益率创金融危机以来最高！",
-          "url": "https://www.cls.cn/detail/2452988",
+          "title": "全球最大主权财富基金掌门人警告：别指望高回报能持续 未来投资环境或更艰难",
+          "url": "https://www.cls.cn/detail/2452803",
           "heat": ""
         },
         {
@@ -861,8 +1012,8 @@
           "heat": ""
         },
         {
-          "title": "特朗普声称掌控霍尔木兹、伊朗坚决否认 海峡通行量跌至三个月最低",
-          "url": "https://www.cls.cn/detail/2452937",
+          "title": "红杉中国1.5亿独家出资 张雪机车落地新融资 估值半年不到涨5倍至60亿",
+          "url": "https://www.cls.cn/detail/2453013",
           "heat": ""
         }
       ]
@@ -977,8 +1128,69 @@
     {
       "id": "ifeng",
       "name": "凤凰网",
-      "count": 0,
-      "items": []
+      "count": 12,
+      "items": [
+        {
+          "title": "朱镕基同志逝世",
+          "url": "https://news.ifeng.com/c/8vXGlDfywi9",
+          "heat": ""
+        },
+        {
+          "title": "浙江一家公司，收到美国政府2.62亿元关税退税",
+          "url": "https://news.ifeng.com/c/8vX3tTPDU9p",
+          "heat": ""
+        },
+        {
+          "title": "点名日本，普京亲自指挥演习期间发声",
+          "url": "https://news.ifeng.com/c/8vY3J1B9Lt1",
+          "heat": ""
+        },
+        {
+          "title": "美国拼凑41国“兴师问罪”，想吓住中国？",
+          "url": "https://news.ifeng.com/c/8vXZuNRVplI",
+          "heat": ""
+        },
+        {
+          "title": "伊朗目前经济状况如何？专家：正面临两大困境",
+          "url": "https://news.ifeng.com/c/8vXOuaWRIKP",
+          "heat": ""
+        },
+        {
+          "title": "美国人感觉要撤了，有三个小细节",
+          "url": "https://news.ifeng.com/c/8vY3J1B9Lt4",
+          "heat": ""
+        },
+        {
+          "title": "美国得州一架飞机坠毁，“事故非常惨烈”",
+          "url": "https://news.ifeng.com/c/8vY142g1E7T",
+          "heat": ""
+        },
+        {
+          "title": "性能诉求相似，技术分享存疑，印度加入能“救”法国六代机？",
+          "url": "https://news.ifeng.com/c/8vY2aspSFdw",
+          "heat": ""
+        },
+        {
+          "title": "美国海军推出首艘“无人机航母”，美媒泼冷水",
+          "url": "https://news.ifeng.com/c/8vY3J1B9LkF",
+          "heat": ""
+        },
+        {
+          "title": "中国和印尼首次在台岛以东联合军演，台当局气急败坏",
+          "url": "https://news.ifeng.com/c/8vY34OnOdcM",
+          "heat": ""
+        },
+        {
+          "title": "埃及暂不参与沙土巴联合防务协议，有两个原因",
+          "url": "https://news.ifeng.com/c/8vY63zOHaPP",
+          "heat": ""
+        },
+        {
+          "title": "踢开美国，“中东北约”横空出世，沙特为何不再相信美军？",
+          "url": "https://v.ifeng.com/c/8vWY82Q7HGB",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "toutiao",
@@ -1143,6 +1355,61 @@
       "count": 30,
       "items": [
         {
+          "title": "阿布扎比国家能源公司（TAQA）：受英国北海资产按计划退役影响，上半年油气产量下降。",
+          "url": "https://flash.jin10.com/detail/20260813120405178800",
+          "heat": false
+        },
+        {
+          "title": "阿布扎比国家能源公司（TAQA）：第二季度石油和天然气日均产量为92.5万桶油当量。",
+          "url": "https://flash.jin10.com/detail/20260813120343849800",
+          "heat": false
+        },
+        {
+          "title": "封锁之下，霍尔木兹海峡还有多少船在通行？",
+          "url": "https://flash.jin10.com/detail/20260813120338480800",
+          "heat": false
+        },
+        {
+          "title": "兴业银锡在互动平台表示，公司前期已开展盾构机应用评估论证工作，现阶段暂无相关实施计划。",
+          "url": "https://flash.jin10.com/detail/20260813115938109800",
+          "heat": false
+        },
+        {
+          "title": "财通福鑫定开混合：本基金将于2026年8月13日下午开盘起至当日收盘停牌。",
+          "url": "https://flash.jin10.com/detail/20260813115650184800",
+          "heat": false
+        },
+        {
+          "title": "兴业银锡在互动平台表示，大西洋锡业项目当前正推进炸药库建设、工程勘察及设备运输筹备等前期工作，施工队伍已进场开展前期准备工作，项目预计于四季度正式开工建设。",
+          "url": "https://flash.jin10.com/detail/20260813115513964800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-08-13）",
+          "url": "https://flash.jin10.com/detail/20260813115321665800",
+          "heat": "✰"
+        },
+        {
+          "title": "机构：第二季度中国平板电脑市场出货量796万台，同比下降4.4%",
+          "url": "https://flash.jin10.com/detail/20260813115126134800",
+          "heat": false
+        },
+        {
+          "title": "长飞光纤中标中国电信广东公司1.59亿元空芯光缆集采",
+          "url": "https://flash.jin10.com/detail/20260813114959889800",
+          "heat": false
+        },
+        {
+          "title": "沧州明珠在互动平台表示，公司具备生产5u超薄高强隔膜的能力。目前该类产品尚未形成批量供应、批量销售，针对客户尚处于小批量试用阶段。",
+          "url": "https://flash.jin10.com/detail/20260813114616186800",
+          "heat": false
+        },
+        {
+          "title": "川润股份：向特定对象发行股票申请获深交所受理",
+          "url": "https://flash.jin10.com/detail/20260813114605540800",
+          "heat": false
+        },
+        {
           "title": "美团骑手“等灯停表”功能已在北京试点路测",
           "url": "https://flash.jin10.com/detail/20260813114128404800",
           "heat": false
@@ -1235,61 +1502,6 @@
         {
           "title": "韩国政府加大住房供应 首都圈拟新增23万套住房",
           "url": "https://flash.jin10.com/detail/20260813111343256800",
-          "heat": false
-        },
-        {
-          "title": "沪深两市成交额连续第262个交易日突破1.5万亿元。",
-          "url": "https://flash.jin10.com/detail/20260813111205590800",
-          "heat": "✰"
-        },
-        {
-          "title": "印尼证券交易所首席执行官：MSCI的再平衡是一项定期措施，我们将继续与MSCI保持沟通。",
-          "url": "https://flash.jin10.com/detail/20260813111110198800",
-          "heat": false
-        },
-        {
-          "title": "高盛：日本坐拥万亿美元储备，干预“弹药”依然充足！",
-          "url": "https://flash.jin10.com/detail/20260813111018346800",
-          "heat": "✰"
-        },
-        {
-          "title": "梅利乌斯研究：将思科(CSCO.O)目标价从145美元上调至160美元。",
-          "url": "https://flash.jin10.com/detail/20260813110938248800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：2026年08月13日（周四）港A科技互联网公司市值排名TOP 50一览",
-          "url": "https://flash.jin10.com/detail/20260813110804814800",
-          "heat": false
-        },
-        {
-          "title": "CPI为美联储赢得更多观望时间，通胀或面临持续下行压力——新版发布",
-          "url": "https://flash.jin10.com/detail/20260813110752254800",
-          "heat": "✰"
-        },
-        {
-          "title": "主力资金流向前十大个股",
-          "url": "https://flash.jin10.com/detail/20260813110726294800",
-          "heat": false
-        },
-        {
-          "title": "金十数据整理：每日存储市场要闻速递（2026-08-13）",
-          "url": "https://flash.jin10.com/detail/20260813110705985800",
-          "heat": "✰"
-        },
-        {
-          "title": "机构预测成品油价格将迎年内第五次下调",
-          "url": "https://flash.jin10.com/detail/20260813110517267800",
-          "heat": false
-        },
-        {
-          "title": "隔夜shibor报1.3670%，下跌0.42个基点；7天shibor报1.3991%，上涨0.1个基点；3个月shibor报1.4300%，与上日持平。点击查看>>",
-          "url": "https://flash.jin10.com/detail/20260813110508503800",
-          "heat": false
-        },
-        {
-          "title": "新西兰联储调查：新西兰第三季度两年期平均通胀预期为2.34%。",
-          "url": "https://flash.jin10.com/detail/20260813110141143800",
           "heat": false
         }
       ]
