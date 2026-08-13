@@ -1,12 +1,113 @@
 {
-  "updated": "12:01:14",
-  "total": 205,
+  "updated": "12:05:28",
+  "total": 282,
   "platforms": [
     {
       "id": "zhihu",
       "name": "知乎",
-      "count": 0,
-      "items": []
+      "count": 20,
+      "items": [
+        {
+          "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
+          "url": "https://zhuanlan.zhihu.com/p/2070933430993414087",
+          "heat": "1309 万热度"
+        },
+        {
+          "title": "货拉拉司机中途加价被拒，带货跑 600 公里外，平台介入后仍拒不归还，怎么回事？暴露出平台哪些问题？",
+          "url": "https://www.zhihu.com/question/2070902073780953324",
+          "heat": "362 万热度"
+        },
+        {
+          "title": "为什么过去都说鱼翅和鲍鱼是顶级菜肴，而现在却很少人提了？",
+          "url": "https://www.zhihu.com/question/2069876191474012892",
+          "heat": "308 万热度"
+        },
+        {
+          "title": "当年为加入 WTO 做出的让步，今天看来到底有多值？",
+          "url": "https://www.zhihu.com/question/2070975451988587299",
+          "heat": "255 万热度"
+        },
+        {
+          "title": "中国成功用竹子造出无人机，这对航空材料和制造技术意味着什么？",
+          "url": "https://www.zhihu.com/question/2070132623079379116",
+          "heat": "226 万热度"
+        },
+        {
+          "title": "《寄生虫》里的豪宅，看起来没什么东西，豪在哪里？",
+          "url": "https://www.zhihu.com/question/2070215170526279459",
+          "heat": "188 万热度"
+        },
+        {
+          "title": "山西一医院实习护士晒患者隐私照，院方称将严肃处理，具体怎么回事？为什么这类事时有发生，问题出在哪？",
+          "url": "https://www.zhihu.com/question/2070271590869070734",
+          "heat": "185 万热度"
+        },
+        {
+          "title": "因长期在中东服役，多名水兵试图从美国海军「林肯」号跳海，为什么会这样？美国中东长期部署带来哪些问题？",
+          "url": "https://www.zhihu.com/question/2071169289697092854",
+          "heat": "184 万热度"
+        },
+        {
+          "title": "网传《欢迎来龙餐馆》男主角原定为徐峥，消息靠谱吗？如果是徐峥来演的话你认为效果会比沈腾好吗？",
+          "url": "https://www.zhihu.com/question/2070925244152246749",
+          "heat": "184 万热度"
+        },
+        {
+          "title": "为什么蚊子没有进化成像猫猫那样特别可爱的样子，让人不忍心拍死？",
+          "url": "https://www.zhihu.com/question/2059374956157329909",
+          "heat": "183 万热度"
+        },
+        {
+          "title": "如何看待 2026 年 8 月 13 日 A 股市场行情？跳空高开尾盘却突发跳水，发生了什么？",
+          "url": "https://www.zhihu.com/question/2067634093093818544",
+          "heat": "183 万热度"
+        },
+        {
+          "title": "唐朝女人头上插那么多金钗步摇，走路不累吗，她们到底图什么？",
+          "url": "https://www.zhihu.com/question/2070260620662924741",
+          "heat": "183 万热度"
+        },
+        {
+          "title": "上海一员工台风天请假 1 小时被罚近 1500 元，公司称其未提前一天申请，人社局表示处罚行为违规，怎样解读？",
+          "url": "https://www.zhihu.com/question/2071185842455032063",
+          "heat": "183 万热度"
+        },
+        {
+          "title": "苹果被曝正测试长鑫存储芯片，将用于在中国市场销售的设备，双方最终达成合作的可能性有多大？",
+          "url": "https://www.zhihu.com/question/2070073820929419121",
+          "heat": "177 万热度"
+        },
+        {
+          "title": "红米新品发布后，小米高管回应网友评论称「内存实在太贵了」，反映了当前手机行业哪些挑战？",
+          "url": "https://www.zhihu.com/question/2070707279855367104",
+          "heat": "146 万热度"
+        },
+        {
+          "title": "银行能办结婚证了，天津开放首个银行网点婚姻登记处，这事只是「多一个领证地」这么简单吗？银行有什么盘算？",
+          "url": "https://www.zhihu.com/question/2070960876790572338",
+          "heat": "143 万热度"
+        },
+        {
+          "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
+          "url": "https://www.zhihu.com/question/2071014727606703118",
+          "heat": "140 万热度"
+        },
+        {
+          "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
+          "url": "https://www.zhihu.com/question/2071189146777773055",
+          "heat": "139 万热度"
+        },
+        {
+          "title": "新规禁止居民楼开油烟餐饮，这类餐饮业未来将何去何从？居民区的「苍蝇馆子」以后会不会越来越少了？",
+          "url": "https://www.zhihu.com/question/2071182463498445493",
+          "heat": "135 万热度"
+        },
+        {
+          "title": "如何评价 9999 元起售的荣耀 RobotPhone，有哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2070972360027591854",
+          "heat": "118 万热度"
+        }
+      ]
     },
     {
       "id": "weibo",
@@ -886,13 +987,13 @@
           "heat": ""
         },
         {
-          "title": "从表态到实操！险资近一个月密集调研通信板块，科技产业增量成核心布局方向",
-          "url": "https://www.cls.cn/detail/2453116",
+          "title": "【每日收评】三大指数午后回落全线收跌， 全市场超4300股飘绿，医药股持续活跃",
+          "url": "https://www.cls.cn/detail/2453502",
           "heat": ""
         },
         {
-          "title": "【每日收评】三大指数午后回落全线收跌， 全市场超4300股飘绿，医药股持续活跃",
-          "url": "https://www.cls.cn/detail/2453502",
+          "title": "从表态到实操！险资近一个月密集调研通信板块，科技产业增量成核心布局方向",
+          "url": "https://www.cls.cn/detail/2453116",
           "heat": ""
         },
         {
@@ -901,13 +1002,13 @@
           "heat": ""
         },
         {
-          "title": "【焦点复盘】科创50高开低走跌超1%，两市成交额放大近4000亿，电力板块午后逆势拉升",
-          "url": "https://www.cls.cn/detail/2453548",
+          "title": "多晶硅连续两周无成交价 中游已“涨声”连连 光伏价格传导迎关键考验",
+          "url": "https://www.cls.cn/detail/2453703",
           "heat": ""
         },
         {
-          "title": "多晶硅连续两周无成交价 中游已“涨声”连连 光伏价格传导迎关键考验",
-          "url": "https://www.cls.cn/detail/2453703",
+          "title": "【焦点复盘】科创50高开低走跌超1%，两市成交额放大近4000亿，电力板块午后逆势拉升",
+          "url": "https://www.cls.cn/detail/2453548",
           "heat": ""
         },
         {
@@ -1099,14 +1200,301 @@
     {
       "id": "toutiao",
       "name": "今日头条",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "朱镕基同志逝世",
+          "url": "https://www.toutiao.com/trending/7672219414749793835/",
+          "heat": ""
+        },
+        {
+          "title": "手机价格全线暴涨",
+          "url": "https://www.toutiao.com/trending/7673341653165162550/",
+          "heat": ""
+        },
+        {
+          "title": "防汛防台一线筑牢安全堤坝",
+          "url": "https://www.toutiao.com/trending/7672852322434911798/",
+          "heat": ""
+        },
+        {
+          "title": "郭一鸣：A股尾盘为何突然跳水杀跌",
+          "url": "https://www.toutiao.com/trending/7673428562422009386/",
+          "heat": ""
+        },
+        {
+          "title": "胖东来许昌老店关闭周边商户发声",
+          "url": "https://www.toutiao.com/trending/7672215993464963123/",
+          "heat": ""
+        },
+        {
+          "title": "30岁新疆和田女干部遇山洪牺牲",
+          "url": "https://www.toutiao.com/trending/7672985041039015990/",
+          "heat": ""
+        },
+        {
+          "title": "美林肯号航母上多名水兵试图跳海自杀",
+          "url": "https://www.toutiao.com/trending/7672251953762238502/",
+          "heat": ""
+        },
+        {
+          "title": "明天末伏 再有10天伏天就过去了",
+          "url": "https://www.toutiao.com/trending/7672589534399512586/",
+          "heat": ""
+        },
+        {
+          "title": "长鑫科技成为中国市值最大上市公司",
+          "url": "https://www.toutiao.com/trending/7673430128885501476/",
+          "heat": ""
+        },
+        {
+          "title": "专家：A股为何早盘冲高午后跳水翻绿",
+          "url": "https://www.toutiao.com/trending/7673455893605780998/",
+          "heat": ""
+        },
+        {
+          "title": "女子爱生闷气乳腺癌去世 丈夫痛哭",
+          "url": "https://www.toutiao.com/trending/7673134486418178084/",
+          "heat": ""
+        },
+        {
+          "title": "免费领鸡蛋还能抽奖？警惕涉老诈骗",
+          "url": "https://www.toutiao.com/trending/7672008059765719082/",
+          "heat": ""
+        },
+        {
+          "title": "新规：禁止在居民楼开油烟餐饮",
+          "url": "https://www.toutiao.com/trending/7672900424688779318/",
+          "heat": ""
+        },
+        {
+          "title": "大巴车悄悄杀回来了吗",
+          "url": "https://www.toutiao.com/trending/7673372495625326121/",
+          "heat": ""
+        },
+        {
+          "title": "普京首次登上俄日争议岛屿",
+          "url": "https://www.toutiao.com/trending/7673075229438427190/",
+          "heat": ""
+        },
+        {
+          "title": "广东最新结婚数据公布",
+          "url": "https://www.toutiao.com/trending/7673387262018666547/",
+          "heat": ""
+        },
+        {
+          "title": "李雪健已完全听不见",
+          "url": "https://www.toutiao.com/trending/7673294932488048137/",
+          "heat": ""
+        },
+        {
+          "title": "手机的下一代交互样本来了",
+          "url": "https://www.toutiao.com/trending/7673350841218108969/",
+          "heat": ""
+        },
+        {
+          "title": "盖茨女儿初创企业被指控违规操纵业绩",
+          "url": "https://www.toutiao.com/trending/7672959274930765833/",
+          "heat": ""
+        },
+        {
+          "title": "中国印尼首次台岛以东联演有何深意",
+          "url": "https://www.toutiao.com/trending/7672677889229684779/",
+          "heat": ""
+        },
+        {
+          "title": "俄方：不了解泽连斯基结束冲突提议",
+          "url": "https://www.toutiao.com/trending/7673449574388891711/",
+          "heat": ""
+        },
+        {
+          "title": "美国为何盯上中国导弹试射",
+          "url": "https://www.toutiao.com/trending/7673159429856641033/",
+          "heat": ""
+        },
+        {
+          "title": "台学者称台湾沿海本就是中国领海",
+          "url": "https://www.toutiao.com/trending/7672547916657262655/",
+          "heat": ""
+        },
+        {
+          "title": "法国友人再向淞沪抗战纪念馆提交档案",
+          "url": "https://www.toutiao.com/trending/7673058875366178835/",
+          "heat": ""
+        },
+        {
+          "title": "苏州“我听交警的”案判了",
+          "url": "https://www.toutiao.com/trending/7672709267694911515/",
+          "heat": ""
+        },
+        {
+          "title": "一条差评隐藏着新型黑恶犯罪",
+          "url": "https://www.toutiao.com/trending/7673382478192001087/",
+          "heat": ""
+        },
+        {
+          "title": "美为何要千方百计遏制中国导弹试射",
+          "url": "https://www.toutiao.com/trending/7673409846674198042/",
+          "heat": ""
+        },
+        {
+          "title": "福安一船厂爆炸 1名消防员失联",
+          "url": "https://www.toutiao.com/trending/7673443240401440298/",
+          "heat": ""
+        },
+        {
+          "title": "银行能办结婚证了",
+          "url": "https://www.toutiao.com/trending/7673168461392445446/",
+          "heat": ""
+        },
+        {
+          "title": "博主：越南“迷你神盾舰”配12垂发",
+          "url": "https://www.toutiao.com/trending/7673441383696305674/",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 0,
-      "items": []
+      "count": 27,
+      "items": [
+        {
+          "title": "据伊朗媒体Fars News：伊朗在霍尔木兹海峡的石油泄漏清理工作进入最后阶段。",
+          "url": "https://flash.jin10.com/detail/20260813195242338800",
+          "heat": "✰"
+        },
+        {
+          "title": "英国央行：AI泡沫破裂或使资金同时撤出美股美债 并对英国产生冲击",
+          "url": "https://flash.jin10.com/detail/20260813195222740800",
+          "heat": false
+        },
+        {
+          "title": "LG电子印度公司第一季度收入为723亿印度卢比，同比增长15%。",
+          "url": "https://flash.jin10.com/detail/20260813195217571800",
+          "heat": false
+        },
+        {
+          "title": "正在直播中",
+          "url": "https://flash.jin10.com/detail/20260813195006640800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：英国央行估计，AI泡沫破裂将可能使资金同时撤出美股美债，对英国产生连带冲击。",
+          "url": "https://flash.jin10.com/detail/20260813195006068800",
+          "heat": false
+        },
+        {
+          "title": "京东二季度财报电话会将于十分钟后举行。",
+          "url": "https://flash.jin10.com/detail/20260813195000000800",
+          "heat": "✰"
+        },
+        {
+          "title": "据上交所官网显示，加特兰微电子科技（上海）股份有限公司科创板IPO审核状态变更为“已受理”。",
+          "url": "https://flash.jin10.com/detail/20260813194856142800",
+          "heat": false
+        },
+        {
+          "title": "德国大型能源公司莱茵集团（RWE）首席执行官：我们对收购Uniper没有兴趣。",
+          "url": "https://flash.jin10.com/detail/20260813194636883800",
+          "heat": false
+        },
+        {
+          "title": "智利铜矿公司安托法加斯塔：智利北部地区的运营未受降雨事件影响。",
+          "url": "https://flash.jin10.com/detail/20260813194615506800",
+          "heat": false
+        },
+        {
+          "title": "印度矿业部长：即将推出锂和镍加工激励政策。",
+          "url": "https://flash.jin10.com/detail/20260813194356890800",
+          "heat": false
+        },
+        {
+          "title": "澳门招商投资促进局：上半年接获近两百家企业投资计划",
+          "url": "https://flash.jin10.com/detail/20260813194213319800",
+          "heat": false
+        },
+        {
+          "title": "英国GDP超预期 镑美双向获支撑",
+          "url": "https://flash.jin10.com/detail/20260813194150971800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：土耳其费特希耶一艘载有100多名乘客的游船发生火灾。",
+          "url": "https://flash.jin10.com/detail/20260813194132076800",
+          "heat": false
+        },
+        {
+          "title": "外资机构席位·期货品种持仓一览（8月13日）",
+          "url": "https://flash.jin10.com/detail/20260813193844803800",
+          "heat": "✰"
+        },
+        {
+          "title": "布朗兄弟哈里曼银行：镑美仍无方向 市场静待下周通胀定音",
+          "url": "https://flash.jin10.com/detail/20260813193833828800",
+          "heat": false
+        },
+        {
+          "title": "野村：预计瑞典央行8月按兵不动",
+          "url": "https://flash.jin10.com/detail/20260813193701728800",
+          "heat": false
+        },
+        {
+          "title": "油市月报齐砍需求，空头只看对了一半！",
+          "url": "https://flash.jin10.com/detail/20260813193643337800",
+          "heat": false
+        },
+        {
+          "title": "直觉机器公司股价下跌幅度扩大至10%。",
+          "url": "https://flash.jin10.com/detail/20260813193638328800",
+          "heat": false
+        },
+        {
+          "title": "英分析人士：霍尔木兹“新现实”生变 美方指已输一局",
+          "url": "https://flash.jin10.com/detail/20260813193545073800",
+          "heat": false
+        },
+        {
+          "title": "荷兰鹿特丹港口发生爆炸，造成一人死亡，多人受伤。",
+          "url": "https://flash.jin10.com/detail/20260813193521744800",
+          "heat": false
+        },
+        {
+          "title": "美元回调难撑卢比 印度高油价依赖症拖累本币",
+          "url": "https://flash.jin10.com/detail/20260813193256856800",
+          "heat": false
+        },
+        {
+          "title": "正在直播中",
+          "url": "https://flash.jin10.com/detail/20260813193254470800",
+          "heat": false
+        },
+        {
+          "title": "皇岗口岸港方口岸区举行开通前首次大型演练",
+          "url": "https://flash.jin10.com/detail/20260813193248387800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：在薪资谈判陷入僵局之际，SK海力士韩国员工成立统一工会。",
+          "url": "https://flash.jin10.com/detail/20260813193214641800",
+          "heat": false
+        },
+        {
+          "title": "宏观环境支撑国际金价 LBMA年末预测分歧巨大 | Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260813192900073800",
+          "heat": "✰"
+        },
+        {
+          "title": "中富电路：上半年净利润3861.86万元，同比增长130.08%",
+          "url": "https://flash.jin10.com/detail/20260813192835942800",
+          "heat": false
+        },
+        {
+          "title": "“铁资源开发计划”国内铁矿项目开发专题座谈会召开",
+          "url": "https://flash.jin10.com/detail/20260813192818250800",
+          "heat": "✰"
+        }
+      ]
     }
   ]
 }
