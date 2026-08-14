@@ -1,6 +1,6 @@
 {
-  "updated": "22:03:12",
-  "total": 279,
+  "updated": "22:05:29",
+  "total": 281,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,43 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 24,
+      "count": 26,
       "items": [
+        {
+          "title": "市场消息：简街（Jane Street）称近期亏损促使公司对风险更加审慎，已关闭7月出现亏损的特定领域中的大部分风险头寸。",
+          "url": "https://flash.jin10.com/detail/20260815055326004800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：简街（Jane Street）表示，7月业绩表现不佳，交易收入自2016年以来首次出现月度亏损。",
+          "url": "https://flash.jin10.com/detail/20260815055128918800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：简街（JaneStreet）在周五致员工的一份备忘录中表示，2026年营收“较6月底峰值下降了约25%”。",
+          "url": "https://flash.jin10.com/detail/20260815054957553800",
+          "heat": false
+        },
+        {
+          "title": "巴西石油公司（Petrobras）：在亚马逊河口盆地FZA-M-59区块的一口勘探井中发现油气迹象。",
+          "url": "https://flash.jin10.com/detail/20260815054809698800",
+          "heat": false
+        },
+        {
+          "title": "巴克莱：维持2026年布伦特原油价格预测为96美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260815053953991800",
+          "heat": false
+        },
+        {
+          "title": "阿联酋阿布扎比国家石油公司ADNOC：我们的一艘船只于当地时间8月14日在霍尔木兹海峡航行时遭到袭击。事件中无人受伤，情况已得到控制。",
+          "url": "https://flash.jin10.com/detail/20260815053818380800",
+          "heat": false
+        },
+        {
+          "title": "据英国金融时报：简街（JaneStreet）在七月份录得约150亿美元的亏损。",
+          "url": "https://flash.jin10.com/detail/20260815053237241800",
+          "heat": false
+        },
         {
           "title": "消息人士：加拿大对美贸易部长告知咨询委员会，加美双方距离达成协议“相当遥远”。",
           "url": "https://flash.jin10.com/detail/20260815053153644800",
@@ -1452,31 +1487,6 @@
         {
           "title": "美国证券交易委员会文件显示，英伟达(NVDA.O)持有SpaceX(SPCX.O)1.228亿股A类普通股，估值约为210亿美元。",
           "url": "https://flash.jin10.com/detail/20260815043146488800",
-          "heat": false
-        },
-        {
-          "title": "美国总统特朗普：伊朗仍有导弹和无人机，但已经不多了。",
-          "url": "https://flash.jin10.com/detail/20260815042631790800",
-          "heat": false
-        },
-        {
-          "title": "美国总统特朗普：没人知道我们在伊朗有多成功。你知道谁最清楚我们做得有多好吗？伊朗。",
-          "url": "https://flash.jin10.com/detail/20260815042546976800",
-          "heat": false
-        },
-        {
-          "title": "美国总统特朗普：每周从委内瑞拉提取数百万桶石油。",
-          "url": "https://flash.jin10.com/detail/20260815042454997800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：2026年08月14日（周五）华尔街恐惧与贪婪指数（美盘后）",
-          "url": "https://flash.jin10.com/detail/20260815042228357800",
-          "heat": false
-        },
-        {
-          "title": "美国总统特朗普：美国有能力摧毁伊朗，但我们不想这样做。",
-          "url": "https://flash.jin10.com/detail/20260815042110296800",
           "heat": false
         }
       ]
