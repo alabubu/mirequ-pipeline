@@ -1,6 +1,6 @@
 {
-  "updated": "07:31:19",
-  "total": 199,
+  "updated": "07:35:29",
+  "total": 284,
   "platforms": [
     {
       "id": "zhihu",
@@ -797,14 +797,231 @@
     {
       "id": "baidu",
       "name": "百度",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "2026年最“炸裂”电影",
+          "url": "https://www.baidu.com/s?wd=2026%E5%B9%B4%E6%9C%80%E2%80%9C%E7%82%B8%E8%A3%82%E2%80%9D%E7%94%B5%E5%BD%B1",
+          "heat": ""
+        },
+        {
+          "title": "中国“救援航母”奔赴河南溃口现场",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E2%80%9C%E6%95%91%E6%8F%B4%E8%88%AA%E6%AF%8D%E2%80%9D%E5%A5%94%E8%B5%B4%E6%B2%B3%E5%8D%97%E6%BA%83%E5%8F%A3%E7%8E%B0%E5%9C%BA",
+          "heat": ""
+        },
+        {
+          "title": "这些硬核基建共同回答了一个问题",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E7%A1%AC%E6%A0%B8%E5%9F%BA%E5%BB%BA%E5%85%B1%E5%90%8C%E5%9B%9E%E7%AD%94%E4%BA%86%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98",
+          "heat": ""
+        },
+        {
+          "title": "国乒1天输6场外战",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%921%E5%A4%A9%E8%BE%936%E5%9C%BA%E5%A4%96%E6%88%98",
+          "heat": ""
+        },
+        {
+          "title": "油价今晚下调 加满一箱油少花9元",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B7%E4%BB%8A%E6%99%9A%E4%B8%8B%E8%B0%83+%E5%8A%A0%E6%BB%A1%E4%B8%80%E7%AE%B1%E6%B2%B9%E5%B0%91%E8%8A%B19%E5%85%83",
+          "heat": ""
+        },
+        {
+          "title": "借给朋友140万 对方离世钱要不回来",
+          "url": "https://www.baidu.com/s?wd=%E5%80%9F%E7%BB%99%E6%9C%8B%E5%8F%8B140%E4%B8%87+%E5%AF%B9%E6%96%B9%E7%A6%BB%E4%B8%96%E9%92%B1%E8%A6%81%E4%B8%8D%E5%9B%9E%E6%9D%A5",
+          "heat": ""
+        },
+        {
+          "title": "《牛来》 观众想哭",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B+%E8%A7%82%E4%BC%97%E6%83%B3%E5%93%AD",
+          "heat": ""
+        },
+        {
+          "title": "糖拌西红柿参赛给谢霆锋整不会了",
+          "url": "https://www.baidu.com/s?wd=%E7%B3%96%E6%8B%8C%E8%A5%BF%E7%BA%A2%E6%9F%BF%E5%8F%82%E8%B5%9B%E7%BB%99%E8%B0%A2%E9%9C%86%E9%94%8B%E6%95%B4%E4%B8%8D%E4%BC%9A%E4%BA%86",
+          "heat": ""
+        },
+        {
+          "title": "虎王发呆被游客吓得“虎躯一震”",
+          "url": "https://www.baidu.com/s?wd=%E8%99%8E%E7%8E%8B%E5%8F%91%E5%91%86%E8%A2%AB%E6%B8%B8%E5%AE%A2%E5%90%93%E5%BE%97%E2%80%9C%E8%99%8E%E8%BA%AF%E4%B8%80%E9%9C%87%E2%80%9D",
+          "heat": ""
+        },
+        {
+          "title": "浙江长兴山洪泥石流致1死3失联",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E9%95%BF%E5%85%B4%E5%B1%B1%E6%B4%AA%E6%B3%A5%E7%9F%B3%E6%B5%81%E8%87%B41%E6%AD%BB3%E5%A4%B1%E8%81%94",
+          "heat": ""
+        },
+        {
+          "title": "这些健康误区要远离",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%81%A5%E5%BA%B7%E8%AF%AF%E5%8C%BA%E8%A6%81%E8%BF%9C%E7%A6%BB",
+          "heat": ""
+        },
+        {
+          "title": "广东一地发现展翅约26cm蛇头蛾",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%9C%B0%E5%8F%91%E7%8E%B0%E5%B1%95%E7%BF%85%E7%BA%A626cm%E8%9B%87%E5%A4%B4%E8%9B%BE",
+          "heat": ""
+        },
+        {
+          "title": "五粮液不得低于800元抛售",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%94%E7%B2%AE%E6%B6%B2%E4%B8%8D%E5%BE%97%E4%BD%8E%E4%BA%8E800%E5%85%83%E6%8A%9B%E5%94%AE",
+          "heat": ""
+        },
+        {
+          "title": "221元酒店订单商家到手40.67元",
+          "url": "https://www.baidu.com/s?wd=221%E5%85%83%E9%85%92%E5%BA%97%E8%AE%A2%E5%8D%95%E5%95%86%E5%AE%B6%E5%88%B0%E6%89%8B40.67%E5%85%83",
+          "heat": ""
+        },
+        {
+          "title": "国防部：“台独”死局演不赢改不了",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%EF%BC%9A%E2%80%9C%E5%8F%B0%E7%8B%AC%E2%80%9D%E6%AD%BB%E5%B1%80%E6%BC%94%E4%B8%8D%E8%B5%A2%E6%94%B9%E4%B8%8D%E4%BA%86",
+          "heat": ""
+        },
+        {
+          "title": "东南亚榴莲价格为何“崩了”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%9C%E5%8D%97%E4%BA%9A%E6%A6%B4%E8%8E%B2%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E2%80%9C%E5%B4%A9%E4%BA%86%E2%80%9D",
+          "heat": ""
+        },
+        {
+          "title": "C罗婚后归队 换了新发型",
+          "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E5%A9%9A%E5%90%8E%E5%BD%92%E9%98%9F+%E6%8D%A2%E4%BA%86%E6%96%B0%E5%8F%91%E5%9E%8B",
+          "heat": ""
+        },
+        {
+          "title": "华为“天才少年”宁博宇回应离职",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E2%80%9C%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E2%80%9D%E5%AE%81%E5%8D%9A%E5%AE%87%E5%9B%9E%E5%BA%94%E7%A6%BB%E8%81%8C",
+          "heat": ""
+        },
+        {
+          "title": "《牛来》画面粗制滥造零物料",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E7%94%BB%E9%9D%A2%E7%B2%97%E5%88%B6%E6%BB%A5%E9%80%A0%E9%9B%B6%E7%89%A9%E6%96%99",
+          "heat": ""
+        },
+        {
+          "title": "电影《牛来》上映9天票房7169元",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E4%B8%8A%E6%98%A09%E5%A4%A9%E7%A5%A8%E6%88%BF7169%E5%85%83",
+          "heat": ""
+        },
+        {
+          "title": "周星驰经纪人 《龙餐馆》",
+          "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%98%9F%E9%A9%B0%E7%BB%8F%E7%BA%AA%E4%BA%BA+%E3%80%8A%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B",
+          "heat": ""
+        },
+        {
+          "title": "湖南一煤矿发生瓦斯突出事故 7人失联",
+          "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E4%B8%80%E7%85%A4%E7%9F%BF%E5%8F%91%E7%94%9F%E7%93%A6%E6%96%AF%E7%AA%81%E5%87%BA%E4%BA%8B%E6%95%85+7%E4%BA%BA%E5%A4%B1%E8%81%94",
+          "heat": ""
+        },
+        {
+          "title": "胖东来：郑州店拟招聘20名刑释人员",
+          "url": "https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%EF%BC%9A%E9%83%91%E5%B7%9E%E5%BA%97%E6%8B%9F%E6%8B%9B%E8%81%9820%E5%90%8D%E5%88%91%E9%87%8A%E4%BA%BA%E5%91%98",
+          "heat": ""
+        },
+        {
+          "title": "驻新西兰大使馆：中方绝不接受",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%BB%E6%96%B0%E8%A5%BF%E5%85%B0%E5%A4%A7%E4%BD%BF%E9%A6%86%EF%BC%9A%E4%B8%AD%E6%96%B9%E7%BB%9D%E4%B8%8D%E6%8E%A5%E5%8F%97",
+          "heat": ""
+        },
+        {
+          "title": "王希季遗体告别仪式20日在北京举行",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%B8%8C%E5%AD%A3%E9%81%97%E4%BD%93%E5%91%8A%E5%88%AB%E4%BB%AA%E5%BC%8F20%E6%97%A5%E5%9C%A8%E5%8C%97%E4%BA%AC%E4%B8%BE%E8%A1%8C",
+          "heat": ""
+        },
+        {
+          "title": "派出所所长4次横渡洪水救出一家三口",
+          "url": "https://www.baidu.com/s?wd=%E6%B4%BE%E5%87%BA%E6%89%80%E6%89%80%E9%95%BF4%E6%AC%A1%E6%A8%AA%E6%B8%A1%E6%B4%AA%E6%B0%B4%E6%95%91%E5%87%BA%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3",
+          "heat": ""
+        },
+        {
+          "title": "航拍河南贾鲁河堤坝溃口现场",
+          "url": "https://www.baidu.com/s?wd=%E8%88%AA%E6%8B%8D%E6%B2%B3%E5%8D%97%E8%B4%BE%E9%B2%81%E6%B2%B3%E5%A0%A4%E5%9D%9D%E6%BA%83%E5%8F%A3%E7%8E%B0%E5%9C%BA",
+          "heat": ""
+        },
+        {
+          "title": "两名儿童进洞窟拍照 景区：系废窟",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E5%90%8D%E5%84%BF%E7%AB%A5%E8%BF%9B%E6%B4%9E%E7%AA%9F%E6%8B%8D%E7%85%A7+%E6%99%AF%E5%8C%BA%EF%BC%9A%E7%B3%BB%E5%BA%9F%E7%AA%9F",
+          "heat": ""
+        },
+        {
+          "title": "广州地铁道歉",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E5%9C%B0%E9%93%81%E9%81%93%E6%AD%89",
+          "heat": ""
+        },
+        {
+          "title": "哈兰德头像被印在毒品包装上",
+          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%85%B0%E5%BE%B7%E5%A4%B4%E5%83%8F%E8%A2%AB%E5%8D%B0%E5%9C%A8%E6%AF%92%E5%93%81%E5%8C%85%E8%A3%85%E4%B8%8A",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "cls-hot",
       "name": "财联社",
-      "count": 0,
-      "items": []
+      "count": 13,
+      "items": [
+        {
+          "title": "【早报】高达100%，美国将对进口无人机及零部件征收关税；美存储股集体走强；原油、黄金双双下行",
+          "url": "https://www.cls.cn/detail/2454005",
+          "heat": ""
+        },
+        {
+          "title": "美股收盘：三大指数齐升标普收新高 存储板块走强闪迪涨逾13%",
+          "url": "https://www.cls.cn/detail/2453979",
+          "heat": ""
+        },
+        {
+          "title": "闪迪亮出财务蓝图：2030年前毛利率看向80% 投后剩余现金100%回馈股东",
+          "url": "https://www.cls.cn/detail/2453930",
+          "heat": ""
+        },
+        {
+          "title": "训练西迁、推理东沉，中国算力新版图正在形成|一线",
+          "url": "https://www.cls.cn/detail/2454285",
+          "heat": ""
+        },
+        {
+          "title": "加息还是观望？美联储内部鹰鸽对峙升级 华尔街大行分歧难消",
+          "url": "https://www.cls.cn/detail/2454140",
+          "heat": ""
+        },
+        {
+          "title": "272只基金持股突破“双十”限制，近期为何批量“时点破线”？",
+          "url": "https://www.cls.cn/detail/2454237",
+          "heat": ""
+        },
+        {
+          "title": "8月14日投资避雷针：5连板人气股澄清 主营业务不涉及人形机器人及零配件的生产制造",
+          "url": "https://www.cls.cn/detail/2454041",
+          "heat": ""
+        },
+        {
+          "title": "彻底松动了？交易员不再百分百定价美联储今年会加息……",
+          "url": "https://www.cls.cn/detail/2454065",
+          "heat": ""
+        },
+        {
+          "title": "美防长称可无限期封锁伊朗 美联储官员重申现在必须加息 | 环球市场",
+          "url": "https://www.cls.cn/detail/2454017",
+          "heat": ""
+        },
+        {
+          "title": "高达100% 美国将对进口无人机及零部件征收关税",
+          "url": "https://www.cls.cn/detail/2453989",
+          "heat": ""
+        },
+        {
+          "title": "直击中芯国际业绩会：Q2晶圆量价提升 算力配套芯片供不应求",
+          "url": "https://www.cls.cn/detail/2454218",
+          "heat": ""
+        },
+        {
+          "title": "【数读IPO】背靠宁德时代、比亚迪等，智能制造领域领军企业今日申购",
+          "url": "https://www.cls.cn/detail/2454007",
+          "heat": ""
+        },
+        {
+          "title": "上半年钽价飙升158% 机构称全球钽金属或持续供应短缺",
+          "url": "https://www.cls.cn/detail/2454022",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "thepaper",
@@ -916,14 +1133,226 @@
     {
       "id": "ifeng",
       "name": "凤凰网",
-      "count": 0,
-      "items": []
+      "count": 12,
+      "items": [
+        {
+          "title": "美媒突然爆料：新航母前往中东",
+          "url": "https://news.ifeng.com/c/8va7mdPisZL",
+          "heat": ""
+        },
+        {
+          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
+          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
+          "heat": ""
+        },
+        {
+          "title": "普京一出手，日本直跳脚",
+          "url": "https://news.ifeng.com/c/8vZiu7Hu1uU",
+          "heat": ""
+        },
+        {
+          "title": "英媒盯上美国左翼组织，妄称“中国资助英国抗议”",
+          "url": "https://news.ifeng.com/c/8vaBwOpAG8L",
+          "heat": ""
+        },
+        {
+          "title": "日本政府吹了个大牛，被BBC狠狠打脸",
+          "url": "https://news.ifeng.com/c/8vZ4PJWhJJu",
+          "heat": ""
+        },
+        {
+          "title": "高市早苗称普京登岛“不可接受”，梅德韦杰夫回击",
+          "url": "https://news.ifeng.com/c/8vZvLC2ypcS",
+          "heat": ""
+        },
+        {
+          "title": "最年轻新闻秘书，“弃特朗普而去”",
+          "url": "https://news.ifeng.com/c/8vYyzBPe3bZ",
+          "heat": ""
+        },
+        {
+          "title": "美防长称可“无限期”对伊朗进行海上封锁",
+          "url": "https://news.ifeng.com/c/8vZaxoRoYIe",
+          "heat": ""
+        },
+        {
+          "title": "爱立信没达标，西班牙运营商或放弃“全面替代华为”",
+          "url": "https://news.ifeng.com/c/8vaEIyv7P9j",
+          "heat": ""
+        },
+        {
+          "title": "特朗普下令美海军弃用电磁弹射系统，改回蒸汽弹射",
+          "url": "https://news.ifeng.com/c/8vZxGezuWmE",
+          "heat": ""
+        },
+        {
+          "title": "现场：意大利一座军工厂剧烈爆炸，为乌克兰生产弹药",
+          "url": "https://news.ifeng.com/c/8vZtXt8rgcj",
+          "heat": ""
+        },
+        {
+          "title": "美国卫生部长：特朗普专机上有多箱麦当劳，他出门怕食物中毒",
+          "url": "https://news.ifeng.com/c/8va6d6Ijs5m",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "toutiao",
       "name": "今日头条",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "国乒男女双全军覆没",
+          "url": "https://www.toutiao.com/trending/7673729998800293418/",
+          "heat": ""
+        },
+        {
+          "title": "加满一箱油将少花9元",
+          "url": "https://www.toutiao.com/trending/7673779151563673115/",
+          "heat": ""
+        },
+        {
+          "title": "我国全面推进美丽中国建设",
+          "url": "https://www.toutiao.com/trending/7672972233591095359/",
+          "heat": ""
+        },
+        {
+          "title": "特朗普专机上全是一箱又一箱麦当劳",
+          "url": "https://www.toutiao.com/trending/7673136089955352622/",
+          "heat": ""
+        },
+        {
+          "title": "浙江省博一周内两次道歉",
+          "url": "https://www.toutiao.com/trending/7672852322451459627/",
+          "heat": ""
+        },
+        {
+          "title": "广东河源发现翅展超26厘米蛇头蛾",
+          "url": "https://www.toutiao.com/trending/7673698236913696774/",
+          "heat": ""
+        },
+        {
+          "title": "“白海豚”送水为何强度大范围广",
+          "url": "https://www.toutiao.com/trending/7673723671097118246/",
+          "heat": ""
+        },
+        {
+          "title": "人民币为什么走出独立行情",
+          "url": "https://www.toutiao.com/trending/7672613591959765046/",
+          "heat": ""
+        },
+        {
+          "title": "电影《牛来》上映9天票房7169元",
+          "url": "https://www.toutiao.com/trending/7673370504196685860/",
+          "heat": ""
+        },
+        {
+          "title": "景区6只鸵鸟被大水冲入河道",
+          "url": "https://www.toutiao.com/trending/7673655098530250788/",
+          "heat": ""
+        },
+        {
+          "title": "网上花大钱买神药包治百病？假的",
+          "url": "https://www.toutiao.com/trending/7672702833787469834/",
+          "heat": ""
+        },
+        {
+          "title": "台湾首辆张雪机车820RR遭查扣封杀",
+          "url": "https://www.toutiao.com/trending/7673437207634100267/",
+          "heat": ""
+        },
+        {
+          "title": "大衣哥为消防安全代言分文不收",
+          "url": "https://www.toutiao.com/trending/7672949057648132123/",
+          "heat": ""
+        },
+        {
+          "title": "张雪机车车手德比斯说正在学习中文",
+          "url": "https://www.toutiao.com/trending/7672942214615400454/",
+          "heat": ""
+        },
+        {
+          "title": "两地两名副市长任上被查",
+          "url": "https://www.toutiao.com/trending/7673410511352119332/",
+          "heat": ""
+        },
+        {
+          "title": "“大衣哥”点燃日照文旅热潮",
+          "url": "https://www.toutiao.com/trending/7672950717330063414/",
+          "heat": ""
+        },
+        {
+          "title": "99岁新四军老战士叶道清逝世",
+          "url": "https://www.toutiao.com/trending/7673752248543952906/",
+          "heat": ""
+        },
+        {
+          "title": "7月新增新冠确诊52.2万例 死亡1例",
+          "url": "https://www.toutiao.com/trending/7673677788989099583/",
+          "heat": ""
+        },
+        {
+          "title": "男孩不慎剐蹭奔驰车 家长主动赔偿",
+          "url": "https://www.toutiao.com/trending/7673720833797865491/",
+          "heat": ""
+        },
+        {
+          "title": "河南一进村桥梁受损 无人机空投物资",
+          "url": "https://www.toutiao.com/trending/7673689124088430618/",
+          "heat": ""
+        },
+        {
+          "title": "交警柔性执法获游客点赞",
+          "url": "https://www.toutiao.com/trending/7673430786121007155/",
+          "heat": ""
+        },
+        {
+          "title": "美肯尼迪号航母能避开头舰踩过的坑吗",
+          "url": "https://www.toutiao.com/trending/7673748873805827620/",
+          "heat": ""
+        },
+        {
+          "title": "国产“空中重卡”开展极限测试",
+          "url": "https://www.toutiao.com/trending/7672692291202465846/",
+          "heat": ""
+        },
+        {
+          "title": "俩孩子将超市内几十种杂粮混掺",
+          "url": "https://www.toutiao.com/trending/7673335352706809899/",
+          "heat": ""
+        },
+        {
+          "title": "印度男孩没钱治病寄居池塘5年",
+          "url": "https://www.toutiao.com/trending/7673507307628380210/",
+          "heat": ""
+        },
+        {
+          "title": "评论员：美国对华负面声音触底反弹",
+          "url": "https://www.toutiao.com/trending/7673389531609251867/",
+          "heat": ""
+        },
+        {
+          "title": "华为WATCH GT 7开售",
+          "url": "https://www.toutiao.com/trending/7672946204554002475/",
+          "heat": ""
+        },
+        {
+          "title": "杭州首批梭子蟹上市价格如何",
+          "url": "https://www.toutiao.com/trending/7673000901006802995/",
+          "heat": ""
+        },
+        {
+          "title": "广东揭阳市医保局局长方锦屏被查",
+          "url": "https://www.toutiao.com/trending/7673737900739005993/",
+          "heat": ""
+        },
+        {
+          "title": "交警涉水推车40分钟送老人回家",
+          "url": "https://www.toutiao.com/trending/7673095021663567878/",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "jin10",
