@@ -1,18 +1,270 @@
 {
-  "updated": "16:01:48",
-  "total": 120,
+  "updated": "16:05:30",
+  "total": 281,
   "platforms": [
     {
       "id": "zhihu",
       "name": "知乎",
-      "count": 0,
-      "items": []
+      "count": 20,
+      "items": [
+        {
+          "title": "如何评价零宣发国产动画电影《牛来》上映，建模粗糙惊呆观众，9 天累计票房仅为 7169 元？",
+          "url": "https://www.zhihu.com/question/2068124989094733448",
+          "heat": "1541 万热度"
+        },
+        {
+          "title": "如何评价北京协和医院住院医用 AI 解决了困扰数学界的难题 Crouzeix 猜想？",
+          "url": "https://www.zhihu.com/question/2071486982732223991",
+          "heat": "894 万热度"
+        },
+        {
+          "title": "男子健身房指导女友被场馆教练认定为外来私教，要求看结婚证，否则就办理退卡，这合理吗？健身房有权核查吗？",
+          "url": "https://www.zhihu.com/question/2071379437682267339",
+          "heat": "381 万热度"
+        },
+        {
+          "title": "如何看待呼兰用三个月让开花俱乐部扭亏为盈，月亏最高 12 万变盈利 7 万？",
+          "url": "https://www.zhihu.com/question/2070560169344197783",
+          "heat": "233 万热度"
+        },
+        {
+          "title": "胖东来许昌 24 年老店将关闭，对周边商户和商圈发展有哪些影响？",
+          "url": "https://www.zhihu.com/question/2071164419271129079",
+          "heat": "214 万热度"
+        },
+        {
+          "title": "五粮液要求经销商不得低于 800 元卖酒，低价出货将遭处罚，这合法吗？控价政策会给经销商带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2071599755390444398",
+          "heat": "202 万热度"
+        },
+        {
+          "title": "智谱发布 GLM-5.3，如何评价前沿编程能力与涌现的网络安全能力?",
+          "url": "https://www.zhihu.com/question/2071591447367770456",
+          "heat": "193 万热度"
+        },
+        {
+          "title": "纳斯达克即将开启 23 小时连续交易，对投资者是好事还是坏事？",
+          "url": "https://www.zhihu.com/question/2070634579422196628",
+          "heat": "192 万热度"
+        },
+        {
+          "title": "男子好想来买 111 元零食复称仅 64 元，店员退钱但拒绝道歉，零食店频繁出现少称现象，暴露哪些问题？",
+          "url": "https://www.zhihu.com/question/2071284209222510012",
+          "heat": "182 万热度"
+        },
+        {
+          "title": "围棋与境界、修养之类的东西毫无关系，能赢是因为计算力强，这么明显的道理在 AI 以前人们怎么不懂？",
+          "url": "https://www.zhihu.com/question/2068917345393940011",
+          "heat": "170 万热度"
+        },
+        {
+          "title": "如何看待段永平「我敢抱着茅台跟任何基金赌一个亿」的言论？",
+          "url": "https://www.zhihu.com/question/2071536115983410411",
+          "heat": "166 万热度"
+        },
+        {
+          "title": "小伙为控体重改喝 「0 糖」「无糖」饮料一年多，体重不降反增血脂也升高了，这是什么原因？",
+          "url": "https://www.zhihu.com/question/2071242924139067094",
+          "heat": "163 万热度"
+        },
+        {
+          "title": "沈腾回应 0 影帝「重要也不重要」，是个演员都有奖项期待，未必能做到让观众和业内都喜欢，如何看待这一回应？",
+          "url": "https://www.zhihu.com/question/2071537931798274400",
+          "heat": "157 万热度"
+        },
+        {
+          "title": "如何看待周星驰经纪人内涵《欢迎来龙餐馆》偷票房《功夫女足》，《龙餐馆》回应系影院操作失误?",
+          "url": "https://www.zhihu.com/question/2071540861712721478",
+          "heat": "125 万热度"
+        },
+        {
+          "title": "比格披萨创始人评论「看你照片破戒了」引发争议，后回应称开玩笑，作为品牌创始人他这一发言合适吗？",
+          "url": "https://www.zhihu.com/question/2071198330508648836",
+          "heat": "121 万热度"
+        },
+        {
+          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
+          "url": "https://www.zhihu.com/question/2070813507499643585",
+          "heat": "118 万热度"
+        },
+        {
+          "title": "西南医科大回应「舍不得买教材就退学」，称教材自愿购买，网友扒出该校曾涉禁买二手书争议，到底咋回事？",
+          "url": "https://www.zhihu.com/question/2071677617145472973",
+          "heat": "116 万热度"
+        },
+        {
+          "title": "胖东来生活广场店将关闭，周围商户称超市赚钱房东才涨租，于东来称无论钱多钱少，公平正义是底线，如何解读？",
+          "url": "https://www.zhihu.com/question/2071247677271040582",
+          "heat": "116 万热度"
+        },
+        {
+          "title": "奇瑞高管说汽车不是快消品有些时间不敢省，岚图董事长说开发时间短不等于速成车，谁来定义一辆车的开发周期？",
+          "url": "https://www.zhihu.com/question/2070990061332607838",
+          "heat": "89 万热度"
+        },
+        {
+          "title": "2026 WTT 瑞典大满贯，林诗栋 2-3 再次不敌艾利克斯·勒布伦，无缘 8 强，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2071714744893956265",
+          "heat": "84 万热度"
+        }
+      ]
     },
     {
       "id": "weibo",
       "name": "微博",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "台风白海豚",
+          "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A&t=31&band_rank=1&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "旺旺都不好卖了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%BA%E6%97%BA%E9%83%BD%E4%B8%8D%E5%A5%BD%E5%8D%96%E4%BA%86%23&t=31&band_rank=2&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "前7月我国邮政寄递量超1200亿件",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%89%8D7%E6%9C%88%E6%88%91%E5%9B%BD%E9%82%AE%E6%94%BF%E5%AF%84%E9%80%92%E9%87%8F%E8%B6%851200%E4%BA%BF%E4%BB%B6%23&t=31&band_rank=3&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "王传君体脂率25.5%",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BC%A0%E5%90%9B%E4%BD%93%E8%84%82%E7%8E%8725.5%25%23&t=31&band_rank=4&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "EWC 食物中毒",
+          "url": "https://s.weibo.com/weibo?q=EWC%20%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92&t=31&band_rank=5&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "曾辉扛住了内娱镜头",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%BE%89%E6%89%9B%E4%BD%8F%E4%BA%86%E5%86%85%E5%A8%B1%E9%95%9C%E5%A4%B4%23&t=31&band_rank=6&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "湖州暴雨",
+          "url": "https://s.weibo.com/weibo?q=%E6%B9%96%E5%B7%9E%E6%9A%B4%E9%9B%A8&t=31&band_rank=7&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "胖东来房东逻辑",
+          "url": "https://s.weibo.com/weibo?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%88%BF%E4%B8%9C%E9%80%BB%E8%BE%91&t=31&band_rank=8&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "林诗栋2比3A勒布伦",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B2%E6%AF%943A%E5%8B%92%E5%B8%83%E4%BC%A6%23&t=31&band_rank=9&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "皇阿玛披哥送考五阿哥",
+          "url": "https://s.weibo.com/weibo?q=%E7%9A%87%E9%98%BF%E7%8E%9B%E6%8A%AB%E5%93%A5%E9%80%81%E8%80%83%E4%BA%94%E9%98%BF%E5%93%A5&t=31&band_rank=10&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "全民进入纯过日子时代",
+          "url": "https://s.weibo.com/weibo?q=%E5%85%A8%E6%B0%91%E8%BF%9B%E5%85%A5%E7%BA%AF%E8%BF%87%E6%97%A5%E5%AD%90%E6%97%B6%E4%BB%A3&t=31&band_rank=11&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "文黛黛假死",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%87%E9%BB%9B%E9%BB%9B%E5%81%87%E6%AD%BB%23&t=31&band_rank=12&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "迪丽热巴又心软撤诉了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%8F%88%E5%BF%83%E8%BD%AF%E6%92%A4%E8%AF%89%E4%BA%86%23&t=31&band_rank=13&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "曹骏好瘦",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%B9%E9%AA%8F%E5%A5%BD%E7%98%A6%23&t=31&band_rank=14&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "公司该缴的社保 个人承担",
+          "url": "https://s.weibo.com/weibo?q=%E5%85%AC%E5%8F%B8%E8%AF%A5%E7%BC%B4%E7%9A%84%E7%A4%BE%E4%BF%9D%20%E4%B8%AA%E4%BA%BA%E6%89%BF%E6%8B%85&t=31&band_rank=15&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "刘昊然为王传君拼了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E6%98%8A%E7%84%B6%E4%B8%BA%E7%8E%8B%E4%BC%A0%E5%90%9B%E6%8B%BC%E4%BA%86%23&t=31&band_rank=16&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "披哥最累的是沈梦辰",
+          "url": "https://s.weibo.com/weibo?q=%E6%8A%AB%E5%93%A5%E6%9C%80%E7%B4%AF%E7%9A%84%E6%98%AF%E6%B2%88%E6%A2%A6%E8%BE%B0&t=31&band_rank=17&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "恋与深空 敷衍",
+          "url": "https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%20%E6%95%B7%E8%A1%8D&t=31&band_rank=18&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "日本暴雨中国游客无奈地铁站过夜",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9A%B4%E9%9B%A8%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%97%A0%E5%A5%88%E5%9C%B0%E9%93%81%E7%AB%99%E8%BF%87%E5%A4%9C%23&t=31&band_rank=19&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "朋友圈永远不会有二次编辑功能",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%B0%B8%E8%BF%9C%E4%B8%8D%E4%BC%9A%E6%9C%89%E4%BA%8C%E6%AC%A1%E7%BC%96%E8%BE%91%E5%8A%9F%E8%83%BD%23&t=31&band_rank=20&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "曝王嘉尔宋雨琦恋情",
+          "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E7%8E%8B%E5%98%89%E5%B0%94%E5%AE%8B%E9%9B%A8%E7%90%A6%E6%81%8B%E6%83%85&t=31&band_rank=21&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "张雅琪 湖南卫视下场",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%85%E7%90%AA%20%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E4%B8%8B%E5%9C%BA&t=31&band_rank=22&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "TTG八连胜七场零封",
+          "url": "https://s.weibo.com/weibo?q=%23TTG%E5%85%AB%E8%BF%9E%E8%83%9C%E4%B8%83%E5%9C%BA%E9%9B%B6%E5%B0%81%23&t=31&band_rank=23&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "王橹杰陈思罕合唱黑苹果",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E9%99%88%E6%80%9D%E7%BD%95%E5%90%88%E5%94%B1%E9%BB%91%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=24&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "天魔 黑苹果",
+          "url": "https://s.weibo.com/weibo?q=%E5%A4%A9%E9%AD%94%20%E9%BB%91%E8%8B%B9%E6%9E%9C&t=31&band_rank=25&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "税务部门回应社保实缴问题",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A8%8E%E5%8A%A1%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%94%E7%A4%BE%E4%BF%9D%E5%AE%9E%E7%BC%B4%E9%97%AE%E9%A2%98%23&t=31&band_rank=26&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "中央汇金证金公司集体清仓贵州茅台",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E6%B1%87%E9%87%91%E8%AF%81%E9%87%91%E5%85%AC%E5%8F%B8%E9%9B%86%E4%BD%93%E6%B8%85%E4%BB%93%E8%B4%B5%E5%B7%9E%E8%8C%85%E5%8F%B0%23&t=31&band_rank=27&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "英伟达CPO交换机全面量产",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BECPO%E4%BA%A4%E6%8D%A2%E6%9C%BA%E5%85%A8%E9%9D%A2%E9%87%8F%E4%BA%A7%23&t=31&band_rank=28&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "宋雨琦纹身",
+          "url": "https://s.weibo.com/weibo?q=%E5%AE%8B%E9%9B%A8%E7%90%A6%E7%BA%B9%E8%BA%AB&t=31&band_rank=29&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "一起告慰抗战先烈",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B5%B7%E5%91%8A%E6%85%B0%E6%8A%97%E6%88%98%E5%85%88%E7%83%88%23&t=31&band_rank=30&Refer=top",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "douyin",
@@ -331,8 +583,59 @@
     {
       "id": "wallstreetcn-hot",
       "name": "华尔街见闻",
-      "count": 0,
-      "items": []
+      "count": 10,
+      "items": [
+        {
+          "title": "这个投资者日，闪迪的“炸裂数字”震撼市场",
+          "url": "https://wallstreetcn.com/articles/3779397",
+          "heat": ""
+        },
+        {
+          "title": "华尔街见闻早餐FM-Radio | 2026年8月14日",
+          "url": "https://wallstreetcn.com/articles/3779412",
+          "heat": ""
+        },
+        {
+          "title": "美PPI数据再缓加息压力，标普新高，美存储股大涨，闪迪飙涨近14%，原油结束连涨",
+          "url": "https://wallstreetcn.com/articles/3779338",
+          "heat": ""
+        },
+        {
+          "title": "英伟达CPO交换机全面量产，AI数据中心迈入“硅光时代”！",
+          "url": "https://wallstreetcn.com/articles/3779448",
+          "heat": ""
+        },
+        {
+          "title": "高盛点评闪迪“炸裂投资者日”：长期财务指引远超预期，100%超额自由现金流回馈股东",
+          "url": "https://wallstreetcn.com/articles/3779419",
+          "heat": ""
+        },
+        {
+          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
+          "url": "https://wallstreetcn.com/articles/3779403",
+          "heat": ""
+        },
+        {
+          "title": "中国7月新增社融1.41万亿元，人民币贷款减少3400亿，M2同比增长7.7%",
+          "url": "https://wallstreetcn.com/articles/3779446",
+          "heat": ""
+        },
+        {
+          "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
+          "url": "https://wallstreetcn.com/articles/3779418",
+          "heat": ""
+        },
+        {
+          "title": "美疲弱零售销售数据再挫加息预期，美股涨跌互现，存储芯片股普涨，闪迪涨约7%，金涨油跌",
+          "url": "https://wallstreetcn.com/articles/3779437",
+          "heat": ""
+        },
+        {
+          "title": "段永平抛出1亿元“十年之约”：重仓茅台挑战国内基金",
+          "url": "https://wallstreetcn.com/articles/3779440",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "tieba",
@@ -651,32 +954,542 @@
     {
       "id": "cls-hot",
       "name": "财联社",
-      "count": 0,
-      "items": []
+      "count": 13,
+      "items": [
+        {
+          "title": "4家A股公司公告：终止资产重组事项",
+          "url": "https://www.cls.cn/detail/2454846",
+          "heat": ""
+        },
+        {
+          "title": "央行将发行江泽民诞辰100周年纪念币",
+          "url": "https://www.cls.cn/detail/2454813",
+          "heat": ""
+        },
+        {
+          "title": "英伟达官宣CPO交换机全面量产！硅光新时代来了？",
+          "url": "https://www.cls.cn/detail/2454461",
+          "heat": ""
+        },
+        {
+          "title": "一图看懂 | 半年报“报喜”，已有9家A股公司净利暴增超10倍",
+          "url": "https://www.cls.cn/detail/2454642",
+          "heat": ""
+        },
+        {
+          "title": "【图解牛熊股】本周最牛股暴涨逾148%，医药股霸屏牛股榜",
+          "url": "https://www.cls.cn/detail/2454516",
+          "heat": ""
+        },
+        {
+          "title": "7月金融数据出炉：社融规模存量同比增长7.4% 直接融资对市场支持作用继续加强",
+          "url": "https://www.cls.cn/detail/2454635",
+          "heat": ""
+        },
+        {
+          "title": "中行落地全国首个算力“Token贷”，算力金融跨入应用层企业，上下游联动成未来方向",
+          "url": "https://www.cls.cn/detail/2454822",
+          "heat": ""
+        },
+        {
+          "title": "美联储加息前景愈发渺茫 存储妖股继续走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2454866",
+          "heat": ""
+        },
+        {
+          "title": "研报违规，交易所罕见对两券商口头警示，业绩预测出问题？",
+          "url": "https://www.cls.cn/detail/2454915",
+          "heat": ""
+        },
+        {
+          "title": "发力中国市场！据称苹果训练了一款“中国定制”大模型，开启AI双轨布局",
+          "url": "https://www.cls.cn/detail/2454596",
+          "heat": ""
+        },
+        {
+          "title": "【每日收评】三大指数探底回升全线收红，两市成交额萎缩超4000亿，高位人气股批量跌停",
+          "url": "https://www.cls.cn/detail/2454593",
+          "heat": ""
+        },
+        {
+          "title": "【焦点复盘】创业板指强势收复30日线，算力租赁概念再度爆发，光通信人气股录得20cm五连板",
+          "url": "https://www.cls.cn/detail/2454650",
+          "heat": ""
+        },
+        {
+          "title": "倒计时半个月！半年报“大考”密集来袭，哪些权重股仍在“盲盒”中？",
+          "url": "https://www.cls.cn/detail/2454648",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "thepaper",
       "name": "澎湃新闻",
-      "count": 0,
-      "items": []
+      "count": 20,
+      "items": [
+        {
+          "title": "罕见风雨之后，这里忙碌未停",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33777840",
+          "heat": ""
+        },
+        {
+          "title": "荐股骗局调查①丨2724人的炒股群除了自己全是托！骗子直播间设伏引流，假冒券商分析师上阵",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33694482",
+          "heat": ""
+        },
+        {
+          "title": "甘肃省委常委、副省长程晓波主动投案，正接受审查调查",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33783320",
+          "heat": ""
+        },
+        {
+          "title": "五粮液“挺价”新措施：经销商不得低于800元抛售第八代五粮液，批价月内已明显上涨",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33778388",
+          "heat": ""
+        },
+        {
+          "title": "澎湃回声｜中阳残存明城墙遭“拆旧建新”续：山西文物局专家组抵达开展调查",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33781604",
+          "heat": ""
+        },
+        {
+          "title": "国家体育总局：坚决反对任何形式“追私”行为",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33783985",
+          "heat": ""
+        },
+        {
+          "title": "男子驾车回地库碾到横卧醉汉致其死亡，检察院作出不起诉决定",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33780723",
+          "heat": ""
+        },
+        {
+          "title": "“走在多瑙河上”：一场大旱如何冲击欧洲生态、航运与能源安全",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33775848",
+          "heat": ""
+        },
+        {
+          "title": "马上评｜城管私收罚款，不能单靠行车记录仪曝光",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33781653",
+          "heat": ""
+        },
+        {
+          "title": "宁德福安一船厂发生火灾，23岁消防员池坷杰不幸牺牲",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33780632",
+          "heat": ""
+        },
+        {
+          "title": "山西一医院通报实习护士晒患者隐私照：终止其实习资格，问责科室责任人",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33784353",
+          "heat": ""
+        },
+        {
+          "title": "郭德纲即兴改编被举报后，西安浐灞保利大剧院：麒麟剧社巡演西安站取消正退票\n",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33784423",
+          "heat": ""
+        },
+        {
+          "title": "湖北省文旅厅：协调处置“郭德纲被举报未报备改编红歌”事件",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33784773",
+          "heat": ""
+        },
+        {
+          "title": "跨越海峡的亲情纽带，在泸沽湖畔一次偶遇之后重新系紧",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33782979",
+          "heat": ""
+        },
+        {
+          "title": "被举报与他人妻子保持不正当关系，涉事“章所长”回应“公务软件不雅聊天记录”称不清楚",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33781657",
+          "heat": ""
+        },
+        {
+          "title": "中国人民银行定于2026年8月17日起陆续发行江泽民诞辰100周年纪念币",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33785137",
+          "heat": ""
+        },
+        {
+          "title": "书店如何变身“城市会客厅” ？上海书展邀请20家实体店现场作答",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33778060",
+          "heat": ""
+        },
+        {
+          "title": "国际油市涨跌交错，国内油价如期下调：加满一箱油少花9元",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33782771",
+          "heat": ""
+        },
+        {
+          "title": "国防部：“台独”死局演不赢、改不了",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33783003",
+          "heat": ""
+        },
+        {
+          "title": "对话卡内基梅隆大学教授鲁斯兰（下）：AI时代，我们站在怎样的分岔口？",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33737938",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "ifeng",
       "name": "凤凰网",
-      "count": 0,
-      "items": []
+      "count": 12,
+      "items": [
+        {
+          "title": "中俄驻日大使联合发声：反对歪曲否定二战胜利成果",
+          "url": "https://news.ifeng.com/c/8vaipZl1HBM",
+          "heat": ""
+        },
+        {
+          "title": "普京首登俄日争议岛屿，中方回应",
+          "url": "https://news.ifeng.com/c/8vabkOQepCV",
+          "heat": ""
+        },
+        {
+          "title": "俄外长：说“见到你太高兴了”就是日本所谓的讨论双边关系",
+          "url": "https://news.ifeng.com/c/8vaD3kx26ZW",
+          "heat": ""
+        },
+        {
+          "title": "中国AI把价格打下来，美国巨头一口气降80%",
+          "url": "https://news.ifeng.com/c/8vaN8Ao6xPg",
+          "heat": ""
+        },
+        {
+          "title": "麻烦缠身的“林肯”号航母换岗，美军还能维持无限期封锁吗？",
+          "url": "https://news.ifeng.com/c/8vaVMv29xqD",
+          "heat": ""
+        },
+        {
+          "title": "事关特朗普与马斯克，美媒最新爆料",
+          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
+          "heat": ""
+        },
+        {
+          "title": "俄军医戴头盔穿防弹衣实施手术，取出卡在士兵手臂的未爆弹",
+          "url": "https://v.ifeng.com/c/8vW4Ky9QQs8",
+          "heat": ""
+        },
+        {
+          "title": "马科斯：没想疏远中国，看好经济合作",
+          "url": "https://news.ifeng.com/c/8vaSjYUOLg5",
+          "heat": ""
+        },
+        {
+          "title": "反复发作、生不如死，日本遗留化武受害者的人生有多苦？",
+          "url": "https://news.ifeng.com/c/8vaLDR3wVa0",
+          "heat": ""
+        },
+        {
+          "title": "日本“和平塔”，压着从中国抢来的238块石头！",
+          "url": "https://v.ifeng.com/c/8vabIMWQYoS",
+          "heat": ""
+        },
+        {
+          "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
+          "url": "https://news.ifeng.com/c/8vaHkh2o1IS",
+          "heat": ""
+        },
+        {
+          "title": "文莱苏丹剥夺一儿媳王室头衔，认为其“有失王室成员配偶身份”",
+          "url": "https://news.ifeng.com/c/8vaDJHtDhSo",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "toutiao",
       "name": "今日头条",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "台风白海豚杀了个“回马枪”",
+          "url": "https://www.toutiao.com/trending/7673088324894015529/",
+          "heat": ""
+        },
+        {
+          "title": "江泽民诞辰100周年纪念币将发行",
+          "url": "https://www.toutiao.com/trending/7673478082126741555/",
+          "heat": ""
+        },
+        {
+          "title": "人工智能激活力 “新”意盎然促发展",
+          "url": "https://www.toutiao.com/trending/7673797019718598698/",
+          "heat": ""
+        },
+        {
+          "title": "林诗栋惜败出局 国乒男单仅剩独苗",
+          "url": "https://www.toutiao.com/trending/7673889428871319086/",
+          "heat": ""
+        },
+        {
+          "title": "河南郏县溃口完成封堵",
+          "url": "https://www.toutiao.com/trending/7673858052822650395/",
+          "heat": ""
+        },
+        {
+          "title": "郭德纲西安演出取消",
+          "url": "https://www.toutiao.com/trending/7673748036275486774/",
+          "heat": ""
+        },
+        {
+          "title": "我们为什么要控制体重",
+          "url": "https://www.toutiao.com/trending/7672968815567962155/",
+          "heat": ""
+        },
+        {
+          "title": "浙江省博一周内两次道歉",
+          "url": "https://www.toutiao.com/trending/7672852322451459627/",
+          "heat": ""
+        },
+        {
+          "title": "伊朗方面的最新表态传递出哪些信号",
+          "url": "https://www.toutiao.com/trending/7673859930650054186/",
+          "heat": ""
+        },
+        {
+          "title": "台湾岛内出现有利于统一的三个变化",
+          "url": "https://www.toutiao.com/trending/7672990049248722953/",
+          "heat": ""
+        },
+        {
+          "title": "洪水泡过的饮料擦干净就能喝不实",
+          "url": "https://www.toutiao.com/trending/7673858248382139913/",
+          "heat": ""
+        },
+        {
+          "title": "郭麒麟瘦到认不出",
+          "url": "https://www.toutiao.com/trending/7673795223364911147/",
+          "heat": ""
+        },
+        {
+          "title": "专访2034杯重庆足球小将团队",
+          "url": "https://www.toutiao.com/trending/7673151955581812790/",
+          "heat": ""
+        },
+        {
+          "title": "男子酒醉回家摔倒致重度颅脑损伤",
+          "url": "https://www.toutiao.com/trending/7673834948830330899/",
+          "heat": ""
+        },
+        {
+          "title": "演员李心艾瘦成皮包骨",
+          "url": "https://www.toutiao.com/trending/7673767314696798234/",
+          "heat": ""
+        },
+        {
+          "title": "武磊时隔650天重返联赛首发",
+          "url": "https://www.toutiao.com/trending/7673755529952477225/",
+          "heat": ""
+        },
+        {
+          "title": "宁德时代：维修电池我们是三甲医院",
+          "url": "https://www.toutiao.com/trending/7673834555819769898/",
+          "heat": ""
+        },
+        {
+          "title": "无锡暂停城区范围内外卖配送",
+          "url": "https://www.toutiao.com/trending/7673862963681300010/",
+          "heat": ""
+        },
+        {
+          "title": "国乒男女双全军覆没",
+          "url": "https://www.toutiao.com/trending/7673729998800293418/",
+          "heat": ""
+        },
+        {
+          "title": "国防部：菲应尽快拖走非法坐滩军舰",
+          "url": "https://www.toutiao.com/trending/7672680919022567466/",
+          "heat": ""
+        },
+        {
+          "title": "小酒窝也开始戴眼镜了",
+          "url": "https://www.toutiao.com/trending/7672914027001053220/",
+          "heat": ""
+        },
+        {
+          "title": "从“龙餐馆”看中国电影工业产业链",
+          "url": "https://www.toutiao.com/trending/7673556442691534875/",
+          "heat": ""
+        },
+        {
+          "title": "小孩哥凑钱鼓励生意不好的店主",
+          "url": "https://www.toutiao.com/trending/7673684785730125867/",
+          "heat": ""
+        },
+        {
+          "title": "媒体：不怕台风 怕的是“不怕”",
+          "url": "https://www.toutiao.com/trending/7672959138514681899/",
+          "heat": ""
+        },
+        {
+          "title": "浙江淳安暴雨 高山村连夜转移81人",
+          "url": "https://www.toutiao.com/trending/7673734069473230857/",
+          "heat": ""
+        },
+        {
+          "title": "乌军为何能4小时摧毁俄装甲集群",
+          "url": "https://www.toutiao.com/trending/7673711940689989163/",
+          "heat": ""
+        },
+        {
+          "title": "萌娃偷吃大哥冰淇淋 大哥直接送",
+          "url": "https://www.toutiao.com/trending/7673876153573130286/",
+          "heat": ""
+        },
+        {
+          "title": "C罗婚后首露面一头金发",
+          "url": "https://www.toutiao.com/trending/7673727363691056676/",
+          "heat": ""
+        },
+        {
+          "title": "伊朗回应格什姆岛沿岸遭石油污染",
+          "url": "https://www.toutiao.com/trending/7673512167672840235/",
+          "heat": ""
+        },
+        {
+          "title": "《披荆斩棘2026》展示哥哥们体脂率",
+          "url": "https://www.toutiao.com/trending/7673360886064840714/",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 0,
-      "items": []
+      "count": 26,
+      "items": [
+        {
+          "title": "英国长期国债收益率上升至三周高点，20年和30年期收益率当天均上涨10个基点。",
+          "url": "https://flash.jin10.com/detail/20260814235600359800",
+          "heat": false
+        },
+        {
+          "title": "美国法官将联合健康CEO枪杀案嫌疑人路易吉·曼吉奥内的判刑时间定在12月18日。",
+          "url": "https://flash.jin10.com/detail/20260814234432796800",
+          "heat": false
+        },
+        {
+          "title": "联合健康前CEO布莱恩·汤普森枪杀案的嫌疑人路易吉·曼吉奥内正式就联邦指控认罪。",
+          "url": "https://flash.jin10.com/detail/20260814234321229800",
+          "heat": false
+        },
+        {
+          "title": "联合健康CEO枪杀案嫌疑人路易吉·曼吉奥内：我开枪打了联合健康原CEO布赖恩·汤普森。前往纽约的目的是要杀死汤普森。",
+          "url": "https://flash.jin10.com/detail/20260814234138407800",
+          "heat": false
+        },
+        {
+          "title": "阿里巴巴宣布：今天正式开源Qwen3.8系列模型",
+          "url": "https://flash.jin10.com/detail/20260814233839304800",
+          "heat": false
+        },
+        {
+          "title": "美国财经媒体Semafor：菲利普斯66与马拉松的合并谈判破裂。",
+          "url": "https://flash.jin10.com/detail/20260814233217628800",
+          "heat": false
+        },
+        {
+          "title": "美国财经媒体Semafor：能源公司菲利普斯66与马拉松在今年早些时候进行了合并谈判。",
+          "url": "https://flash.jin10.com/detail/20260814233208296800",
+          "heat": false
+        },
+        {
+          "title": "法国10年期国债收益率上升10个基点，达到4.04%，为2009年以来最高水平。",
+          "url": "https://flash.jin10.com/detail/20260814233116960800",
+          "heat": "✰"
+        },
+        {
+          "title": "秘鲁总统：燃料补贴将持续三个月。",
+          "url": "https://flash.jin10.com/detail/20260814232733066800",
+          "heat": false
+        },
+        {
+          "title": "秘鲁经济部长：燃料补贴将于周六开始，适用于特定区域和类型的驾驶员。",
+          "url": "https://flash.jin10.com/detail/20260814232634703800",
+          "heat": false
+        },
+        {
+          "title": "美国司法部：亚马逊同意支付225万美元和解金，并接受禁令，以解决涉嫌违反《公平信用报告法》的问题。",
+          "url": "https://flash.jin10.com/detail/20260814232559287800",
+          "heat": false
+        },
+        {
+          "title": "秘鲁总统：因燃油价格上涨，宣布对运输司机提供15%至20%的补贴。",
+          "url": "https://flash.jin10.com/detail/20260814232217070800",
+          "heat": false
+        },
+        {
+          "title": "德国30年期国债收益率上升8个基点，达到3.72%，为2011年以来最高水平。",
+          "url": "https://flash.jin10.com/detail/20260814232029967800",
+          "heat": "✰"
+        },
+        {
+          "title": "路易吉·曼乔内在法庭听证会上表示，他打算就杀害联合健康保险公司CEO一案认罪。",
+          "url": "https://flash.jin10.com/detail/20260814231822312800",
+          "heat": false
+        },
+        {
+          "title": "SK集团会长崔泰源不服9440亿韩元离婚案判决 再次提出上诉",
+          "url": "https://flash.jin10.com/detail/20260814231717309800",
+          "heat": false
+        },
+        {
+          "title": "一周热榜精选：美联储加息预期骤降，通胀降温为何救不了长债？",
+          "url": "https://flash.jin10.com/detail/20260814231339157800",
+          "heat": "✰"
+        },
+        {
+          "title": "美国贸易代表格里尔：加拿大对美国酒类的禁令必须得到解决。",
+          "url": "https://flash.jin10.com/detail/20260814231332310800",
+          "heat": false
+        },
+        {
+          "title": "美国贸易代表格里尔：加拿大希望采取更具和解性的方式。",
+          "url": "https://flash.jin10.com/detail/20260814231214926800",
+          "heat": false
+        },
+        {
+          "title": "美高官表态凸显白宫日益聚焦中期选举",
+          "url": "https://flash.jin10.com/detail/20260814231201041800",
+          "heat": false
+        },
+        {
+          "title": "苏州市水务局14日22时升级发布京杭运河苏州段洪水红色预警。",
+          "url": "https://flash.jin10.com/detail/20260814231112998800",
+          "heat": false
+        },
+        {
+          "title": "澳元兑美元AUD/USD日内涨幅扩大至0.50%，现报0.7093。",
+          "url": "https://flash.jin10.com/detail/20260814230439834800",
+          "heat": false
+        },
+        {
+          "title": "巴西总统卢拉：我希望与美国保持良好关系，不想发生冲突。",
+          "url": "https://flash.jin10.com/detail/20260814230437653800",
+          "heat": false
+        },
+        {
+          "title": "韩联社：SK集团会长崔泰源就天价离婚案判决提出上诉。",
+          "url": "https://flash.jin10.com/detail/20260814230403459800",
+          "heat": "✰"
+        },
+        {
+          "title": "巴西总统卢拉：我希望与美国保持良好关系，但不幸的是，他们正在对巴西散布谣言。",
+          "url": "https://flash.jin10.com/detail/20260814230121768800",
+          "heat": false
+        },
+        {
+          "title": "韩国海关数据显示，7月份进口原油1220万桶，去年同期为1130万桶。",
+          "url": "https://flash.jin10.com/detail/20260814230112609800",
+          "heat": false
+        },
+        {
+          "title": "美参议员沃伦质询贝森特：必须披露干预日元的全部内幕！",
+          "url": "https://flash.jin10.com/detail/20260814230103110800",
+          "heat": "✰"
+        }
+      ]
     }
   ]
 }
