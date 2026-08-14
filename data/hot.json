@@ -1,6 +1,6 @@
 {
-  "updated": "16:32:32",
-  "total": 281,
+  "updated": "16:35:30",
+  "total": 280,
   "platforms": [
     {
       "id": "zhihu",
@@ -982,23 +982,23 @@
           "heat": ""
         },
         {
-          "title": "7月金融数据出炉：社融规模存量同比增长7.4% 直接融资对市场支持作用继续加强",
-          "url": "https://www.cls.cn/detail/2454635",
-          "heat": ""
-        },
-        {
           "title": "中行落地全国首个算力“Token贷”，算力金融跨入应用层企业，上下游联动成未来方向",
           "url": "https://www.cls.cn/detail/2454822",
           "heat": ""
         },
         {
-          "title": "美联储加息前景愈发渺茫 存储妖股继续走强 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2454866",
+          "title": "7月金融数据出炉：社融规模存量同比增长7.4% 直接融资对市场支持作用继续加强",
+          "url": "https://www.cls.cn/detail/2454635",
           "heat": ""
         },
         {
           "title": "研报违规，交易所罕见对两券商口头警示，业绩预测出问题？",
           "url": "https://www.cls.cn/detail/2454915",
+          "heat": ""
+        },
+        {
+          "title": "美联储加息前景愈发渺茫 存储妖股继续走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2454866",
           "heat": ""
         },
         {
@@ -1357,8 +1357,78 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 26,
+      "count": 25,
       "items": [
+        {
+          "title": "据沙特媒体哈达斯（Alhadath）：胡塞武装导弹袭击麦赫港后，港口发生火灾。",
+          "url": "https://flash.jin10.com/detail/20260815003130518800",
+          "heat": false
+        },
+        {
+          "title": "据沙特媒体哈达斯（Alhadath）：也门政府军表示，胡塞武装再次用导弹袭击麦赫港。",
+          "url": "https://flash.jin10.com/detail/20260815003016732800",
+          "heat": "✰"
+        },
+        {
+          "title": "美国证券交易委员会（SEC）文件显示，软银集团将其在台积电(TSM.N)的股份减少71.5%，降至56.5万份存托凭证。",
+          "url": "https://flash.jin10.com/detail/20260815002827575800",
+          "heat": "✰"
+        },
+        {
+          "title": "罗马尼亚国防部：在与乌克兰接壤的国境附近发现第二架无人机。",
+          "url": "https://flash.jin10.com/detail/20260815002734092800",
+          "heat": false
+        },
+        {
+          "title": "据塔斯尼姆通讯社：以色列军队再次侵入叙利亚领土。",
+          "url": "https://flash.jin10.com/detail/20260815002314447800",
+          "heat": false
+        },
+        {
+          "title": "美联合健康集团高管枪杀案嫌疑人就联邦指控认罪",
+          "url": "https://flash.jin10.com/detail/20260815002236161800",
+          "heat": false
+        },
+        {
+          "title": "黎巴嫩真主党领导人纳伊姆·卡西姆：黎巴嫩政府应承担重建南部和保障流离失所者安全的责任。",
+          "url": "https://flash.jin10.com/detail/20260815001522968800",
+          "heat": false
+        },
+        {
+          "title": "黎巴嫩真主党领导人纳伊姆·卡西姆：绝不会屈服于以色列政权的压力和侵略。",
+          "url": "https://flash.jin10.com/detail/20260815001512412800",
+          "heat": false
+        },
+        {
+          "title": "联合健康前CEO枪杀案检察官称，将主张对曼吉奥内处以无期徒刑。",
+          "url": "https://flash.jin10.com/detail/20260815001347400800",
+          "heat": false
+        },
+        {
+          "title": "美国中央司令部：截至8月14日，美军中央司令部部队已迫使62艘商船改道，使3艘船只失去行动能力，并登临检查2艘船只，以确保其遵守封锁规定。",
+          "url": "https://flash.jin10.com/detail/20260815000901791800",
+          "heat": false
+        },
+        {
+          "title": "联合健康前CEO枪杀案嫌疑人曼吉奥内的律师称，因当事人已达成联邦认罪协议，已动议撤销纽约州谋杀指控。",
+          "url": "https://flash.jin10.com/detail/20260815000711822800",
+          "heat": false
+        },
+        {
+          "title": "法国和德国10年期国债收益率利差收窄至84个基点，达到去年10月以来最宽水平。",
+          "url": "https://flash.jin10.com/detail/20260815000552739800",
+          "heat": false
+        },
+        {
+          "title": "赞比亚选举委员会恢复计票工作。",
+          "url": "https://flash.jin10.com/detail/20260815000338217800",
+          "heat": false
+        },
+        {
+          "title": "据塔斯社：俄罗斯表示农民拥有充足燃料用于收割作业。",
+          "url": "https://flash.jin10.com/detail/20260815000236211800",
+          "heat": false
+        },
         {
           "title": "英国长期国债收益率上升至三周高点，20年和30年期收益率当天均上涨10个基点。",
           "url": "https://flash.jin10.com/detail/20260814235600359800",
@@ -1413,81 +1483,6 @@
           "title": "美国司法部：亚马逊同意支付225万美元和解金，并接受禁令，以解决涉嫌违反《公平信用报告法》的问题。",
           "url": "https://flash.jin10.com/detail/20260814232559287800",
           "heat": false
-        },
-        {
-          "title": "秘鲁总统：因燃油价格上涨，宣布对运输司机提供15%至20%的补贴。",
-          "url": "https://flash.jin10.com/detail/20260814232217070800",
-          "heat": false
-        },
-        {
-          "title": "德国30年期国债收益率上升8个基点，达到3.72%，为2011年以来最高水平。",
-          "url": "https://flash.jin10.com/detail/20260814232029967800",
-          "heat": "✰"
-        },
-        {
-          "title": "路易吉·曼乔内在法庭听证会上表示，他打算就杀害联合健康保险公司CEO一案认罪。",
-          "url": "https://flash.jin10.com/detail/20260814231822312800",
-          "heat": false
-        },
-        {
-          "title": "SK集团会长崔泰源不服9440亿韩元离婚案判决 再次提出上诉",
-          "url": "https://flash.jin10.com/detail/20260814231717309800",
-          "heat": false
-        },
-        {
-          "title": "一周热榜精选：美联储加息预期骤降，通胀降温为何救不了长债？",
-          "url": "https://flash.jin10.com/detail/20260814231339157800",
-          "heat": "✰"
-        },
-        {
-          "title": "美国贸易代表格里尔：加拿大对美国酒类的禁令必须得到解决。",
-          "url": "https://flash.jin10.com/detail/20260814231332310800",
-          "heat": false
-        },
-        {
-          "title": "美国贸易代表格里尔：加拿大希望采取更具和解性的方式。",
-          "url": "https://flash.jin10.com/detail/20260814231214926800",
-          "heat": false
-        },
-        {
-          "title": "美高官表态凸显白宫日益聚焦中期选举",
-          "url": "https://flash.jin10.com/detail/20260814231201041800",
-          "heat": false
-        },
-        {
-          "title": "苏州市水务局14日22时升级发布京杭运河苏州段洪水红色预警。",
-          "url": "https://flash.jin10.com/detail/20260814231112998800",
-          "heat": false
-        },
-        {
-          "title": "澳元兑美元AUD/USD日内涨幅扩大至0.50%，现报0.7093。",
-          "url": "https://flash.jin10.com/detail/20260814230439834800",
-          "heat": false
-        },
-        {
-          "title": "巴西总统卢拉：我希望与美国保持良好关系，不想发生冲突。",
-          "url": "https://flash.jin10.com/detail/20260814230437653800",
-          "heat": false
-        },
-        {
-          "title": "韩联社：SK集团会长崔泰源就天价离婚案判决提出上诉。",
-          "url": "https://flash.jin10.com/detail/20260814230403459800",
-          "heat": "✰"
-        },
-        {
-          "title": "巴西总统卢拉：我希望与美国保持良好关系，但不幸的是，他们正在对巴西散布谣言。",
-          "url": "https://flash.jin10.com/detail/20260814230121768800",
-          "heat": false
-        },
-        {
-          "title": "韩国海关数据显示，7月份进口原油1220万桶，去年同期为1130万桶。",
-          "url": "https://flash.jin10.com/detail/20260814230112609800",
-          "heat": false
-        },
-        {
-          "title": "美参议员沃伦质询贝森特：必须披露干预日元的全部内幕！",
-          "url": "https://flash.jin10.com/detail/20260814230103110800",
-          "heat": "✰"
         }
       ]
     }
