@@ -1,12 +1,113 @@
 {
-  "updated": "14:31:16",
-  "total": 203,
+  "updated": "14:35:27",
+  "total": 276,
   "platforms": [
     {
       "id": "zhihu",
       "name": "知乎",
-      "count": 0,
-      "items": []
+      "count": 20,
+      "items": [
+        {
+          "title": "如何评价零宣发国产动画电影《牛来》上映，建模粗糙惊呆观众，9 天累计票房仅为 7169 元？",
+          "url": "https://www.zhihu.com/question/2068124989094733448",
+          "heat": "1226 万热度"
+        },
+        {
+          "title": "如何评价北京协和医院住院医用 AI 解决了困扰数学界的难题 Crouzeix 猜想？",
+          "url": "https://www.zhihu.com/question/2071486982732223991",
+          "heat": "651 万热度"
+        },
+        {
+          "title": "小伙为控体重改喝 「0 糖」「无糖」饮料一年多，体重不降反增血脂也升高了，这是什么原因？",
+          "url": "https://www.zhihu.com/question/2071242924139067094",
+          "heat": "337 万热度"
+        },
+        {
+          "title": "男子健身房指导女友被场馆教练认定为外来私教，要求看结婚证，否则就办理退卡，这合理吗？健身房有权核查吗？",
+          "url": "https://www.zhihu.com/question/2071379437682267339",
+          "heat": "289 万热度"
+        },
+        {
+          "title": "智谱发布 GLM-5.3，如何评价前沿编程能力与涌现的网络安全能力?",
+          "url": "https://www.zhihu.com/question/2071591447367770456",
+          "heat": "255 万热度"
+        },
+        {
+          "title": "如何看待呼兰用三个月让开花俱乐部扭亏为盈，月亏最高 12 万变盈利 7 万？",
+          "url": "https://www.zhihu.com/question/2070560169344197783",
+          "heat": "189 万热度"
+        },
+        {
+          "title": "如何看待段永平「我敢抱着茅台跟任何基金赌一个亿」的言论？",
+          "url": "https://www.zhihu.com/question/2071536115983410411",
+          "heat": "177 万热度"
+        },
+        {
+          "title": "男子好想来买 111 元零食复称仅 64 元，店员退钱但拒绝道歉，零食店频繁出现少称现象，暴露哪些问题？",
+          "url": "https://www.zhihu.com/question/2071284209222510012",
+          "heat": "169 万热度"
+        },
+        {
+          "title": "五粮液要求经销商不得低于 800 元卖酒，低价出货将遭处罚，这合法吗？控价政策会给经销商带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2071599755390444398",
+          "heat": "169 万热度"
+        },
+        {
+          "title": "什么胶水可以把木头和木头粘一起，我的古筝散架了，要自己弄，用 502 稀稀的就渗到木头里了，粘不住？",
+          "url": "https://www.zhihu.com/question/24288433",
+          "heat": "168 万热度"
+        },
+        {
+          "title": "纳斯达克即将开启 23 小时连续交易，对投资者是好事还是坏事？",
+          "url": "https://www.zhihu.com/question/2070634579422196628",
+          "heat": "166 万热度"
+        },
+        {
+          "title": "沈腾回应 0 影帝「重要也不重要」，是个演员都有奖项期待，未必能做到让观众和业内都喜欢，如何看待这一回应？",
+          "url": "https://www.zhihu.com/question/2071537931798274400",
+          "heat": "156 万热度"
+        },
+        {
+          "title": "胖东来许昌 24 年老店将关闭，对周边商户和商圈发展有哪些影响？",
+          "url": "https://www.zhihu.com/question/2071164419271129079",
+          "heat": "144 万热度"
+        },
+        {
+          "title": "胖东来生活广场店将关闭，周围商户称超市赚钱房东才涨租，于东来称无论钱多钱少，公平正义是底线，如何解读？",
+          "url": "https://www.zhihu.com/question/2071247677271040582",
+          "heat": "108 万热度"
+        },
+        {
+          "title": "中国有什么成语或者典故可以对应「奥德赛」这个词呢？",
+          "url": "https://www.zhihu.com/question/489874919",
+          "heat": "105 万热度"
+        },
+        {
+          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
+          "url": "https://www.zhihu.com/question/2070813507499643585",
+          "heat": "103 万热度"
+        },
+        {
+          "title": "39 岁程序员厕所猝死后未被认定为工伤，妻子申请行政复议，目前工伤认定的难点有哪些？这起悲剧根源出在哪？",
+          "url": "https://www.zhihu.com/question/2071302836269343055",
+          "heat": "101 万热度"
+        },
+        {
+          "title": "比格披萨创始人评论「看你照片破戒了」引发争议，后回应称开玩笑，作为品牌创始人他这一发言合适吗？",
+          "url": "https://www.zhihu.com/question/2071198330508648836",
+          "heat": "98 万热度"
+        },
+        {
+          "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
+          "url": "https://www.zhihu.com/question/2071361705183899939",
+          "heat": "98 万热度"
+        },
+        {
+          "title": "足坛有哪些球员堪称人生赢家？",
+          "url": "https://www.zhihu.com/question/32329034",
+          "heat": "91 万热度"
+        }
+      ]
     },
     {
       "id": "weibo",
@@ -482,14 +583,216 @@
     {
       "id": "wallstreetcn-hot",
       "name": "华尔街见闻",
-      "count": 0,
-      "items": []
+      "count": 10,
+      "items": [
+        {
+          "title": "这个投资者日，闪迪的“炸裂数字”震撼市场",
+          "url": "https://wallstreetcn.com/articles/3779397",
+          "heat": ""
+        },
+        {
+          "title": "华尔街见闻早餐FM-Radio | 2026年8月14日",
+          "url": "https://wallstreetcn.com/articles/3779412",
+          "heat": ""
+        },
+        {
+          "title": "美PPI数据再缓加息压力，标普新高，美存储股大涨，闪迪飙涨近14%，原油结束连涨",
+          "url": "https://wallstreetcn.com/articles/3779338",
+          "heat": ""
+        },
+        {
+          "title": "高盛点评闪迪“炸裂投资者日”：长期财务指引远超预期，100%超额自由现金流回馈股东",
+          "url": "https://wallstreetcn.com/articles/3779419",
+          "heat": ""
+        },
+        {
+          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
+          "url": "https://wallstreetcn.com/articles/3779403",
+          "heat": ""
+        },
+        {
+          "title": "韩国股市暴涨22%，但几乎“无人持仓”",
+          "url": "https://wallstreetcn.com/articles/3779396",
+          "heat": ""
+        },
+        {
+          "title": "英伟达CPO交换机全面量产，AI数据中心迈入“硅光时代”！",
+          "url": "https://wallstreetcn.com/articles/3779448",
+          "heat": ""
+        },
+        {
+          "title": "油价下跌、通胀降温，市场不再完全押注美联储年内加息",
+          "url": "https://wallstreetcn.com/articles/3779394",
+          "heat": ""
+        },
+        {
+          "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
+          "url": "https://wallstreetcn.com/articles/3779418",
+          "heat": ""
+        },
+        {
+          "title": "中国7月新增社融1.41万亿元，人民币贷款减少3400亿，M2同比增长7.7%",
+          "url": "https://wallstreetcn.com/articles/3779446",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "tieba",
       "name": "贴吧",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "旺旺净利润暴跌,情怀卖不动了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357488&amp;topic_name=%E6%97%BA%E6%97%BA%E5%87%80%E5%88%A9%E6%B6%A6%E6%9A%B4%E8%B7%8C%2C%E6%83%85%E6%80%80%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86",
+          "heat": ""
+        },
+        {
+          "title": "TES遭WE速通,小天盲僧逆天",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357509&amp;topic_name=TES%E9%81%ADWE%E9%80%9F%E9%80%9A%2C%E5%B0%8F%E5%A4%A9%E7%9B%B2%E5%83%A7%E9%80%86%E5%A4%A9",
+          "heat": ""
+        },
+        {
+          "title": "武侠新游扩圈删后宫,玩家炸了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357452&amp;topic_name=%E6%AD%A6%E4%BE%A0%E6%96%B0%E6%B8%B8%E6%89%A9%E5%9C%88%E5%88%A0%E5%90%8E%E5%AE%AB%2C%E7%8E%A9%E5%AE%B6%E7%82%B8%E4%BA%86",
+          "heat": ""
+        },
+        {
+          "title": "Bin成接头暗号,恋综男女看对眼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357469&amp;topic_name=Bin%E6%88%90%E6%8E%A5%E5%A4%B4%E6%9A%97%E5%8F%B7%2C%E6%81%8B%E7%BB%BC%E7%94%B7%E5%A5%B3%E7%9C%8B%E5%AF%B9%E7%9C%BC",
+          "heat": ""
+        },
+        {
+          "title": "俱往矣!DeepSeek大幅涨价",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
+          "heat": ""
+        },
+        {
+          "title": "TI开赛!参与赛事预测赢好礼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357480&amp;topic_name=TI%E5%BC%80%E8%B5%9B%21%E5%8F%82%E4%B8%8E%E8%B5%9B%E4%BA%8B%E9%A2%84%E6%B5%8B%E8%B5%A2%E5%A5%BD%E7%A4%BC",
+          "heat": ""
+        },
+        {
+          "title": "想逃?左手疑阳性休赛被拒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357503&amp;topic_name=%E6%83%B3%E9%80%83%3F%E5%B7%A6%E6%89%8B%E7%96%91%E9%98%B3%E6%80%A7%E4%BC%91%E8%B5%9B%E8%A2%AB%E6%8B%92",
+          "heat": ""
+        },
+        {
+          "title": "以网友挑衅中国文化遭群嘲",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357498&amp;topic_name=%E4%BB%A5%E7%BD%91%E5%8F%8B%E6%8C%91%E8%A1%85%E4%B8%AD%E5%9B%BD%E6%96%87%E5%8C%96%E9%81%AD%E7%BE%A4%E5%98%B2",
+          "heat": ""
+        },
+        {
+          "title": "一步到位,银行能领结婚证",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357454&amp;topic_name=%E4%B8%80%E6%AD%A5%E5%88%B0%E4%BD%8D%2C%E9%93%B6%E8%A1%8C%E8%83%BD%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81",
+          "heat": ""
+        },
+        {
+          "title": "表现惊艳,glm5.3稳胜DSpro",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357516&amp;topic_name=%E8%A1%A8%E7%8E%B0%E6%83%8A%E8%89%B3%2Cglm5.3%E7%A8%B3%E8%83%9CDSpro",
+          "heat": ""
+        },
+        {
+          "title": "重归蒸汽,美航母弃用电磁弹射",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357481&amp;topic_name=%E9%87%8D%E5%BD%92%E8%92%B8%E6%B1%BD%2C%E7%BE%8E%E8%88%AA%E6%AF%8D%E5%BC%83%E7%94%A8%E7%94%B5%E7%A3%81%E5%BC%B9%E5%B0%84",
+          "heat": ""
+        },
+        {
+          "title": "星爷经纪人内涵龙餐馆偷票房",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357479&amp;topic_name=%E6%98%9F%E7%88%B7%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%86%85%E6%B6%B5%E9%BE%99%E9%A4%90%E9%A6%86%E5%81%B7%E7%A5%A8%E6%88%BF",
+          "heat": ""
+        },
+        {
+          "title": "输个大的!TES爆冷负LGD",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357384&amp;topic_name=%E8%BE%93%E4%B8%AA%E5%A4%A7%E7%9A%84%21TES%E7%88%86%E5%86%B7%E8%B4%9FLGD",
+          "heat": ""
+        },
+        {
+          "title": "舒服了,BLG零封TT晋级S赛",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357389&amp;topic_name=%E8%88%92%E6%9C%8D%E4%BA%86%2CBLG%E9%9B%B6%E5%B0%81TT%E6%99%8B%E7%BA%A7S%E8%B5%9B",
+          "heat": ""
+        },
+        {
+          "title": "AI给假网,吧友中招银狐病毒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357340&amp;topic_name=AI%E7%BB%99%E5%81%87%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E4%B8%AD%E6%8B%9B%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92",
+          "heat": ""
+        },
+        {
+          "title": "砸钱30万,中考生700分上职校",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357458&amp;topic_name=%E7%A0%B8%E9%92%B130%E4%B8%87%2C%E4%B8%AD%E8%80%83%E7%94%9F700%E5%88%86%E4%B8%8A%E8%81%8C%E6%A0%A1",
+          "heat": ""
+        },
+        {
+          "title": "开摆?曝登峰强队有人想休息",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357408&amp;topic_name=%E5%BC%80%E6%91%86%3F%E6%9B%9D%E7%99%BB%E5%B3%B0%E5%BC%BA%E9%98%9F%E6%9C%89%E4%BA%BA%E6%83%B3%E4%BC%91%E6%81%AF",
+          "heat": ""
+        },
+        {
+          "title": "哭晕,博士高杠杆买房亏惨",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357348&amp;topic_name=%E5%93%AD%E6%99%95%2C%E5%8D%9A%E5%A3%AB%E9%AB%98%E6%9D%A0%E6%9D%86%E4%B9%B0%E6%88%BF%E4%BA%8F%E6%83%A8",
+          "heat": ""
+        },
+        {
+          "title": "真铁粉!up主喵仙人力挺Bin",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357342&amp;topic_name=%E7%9C%9F%E9%93%81%E7%B2%89%21up%E4%B8%BB%E5%96%B5%E4%BB%99%E4%BA%BA%E5%8A%9B%E6%8C%BABin",
+          "heat": ""
+        },
+        {
+          "title": "NIP登骑士之路,WBG陷入绝境",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357365&amp;topic_name=NIP%E7%99%BB%E9%AA%91%E5%A3%AB%E4%B9%8B%E8%B7%AF%2CWBG%E9%99%B7%E5%85%A5%E7%BB%9D%E5%A2%83",
+          "heat": ""
+        },
+        {
+          "title": "雪王代工星巴克,小资傻眼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357359&amp;topic_name=%E9%9B%AA%E7%8E%8B%E4%BB%A3%E5%B7%A5%E6%98%9F%E5%B7%B4%E5%85%8B%2C%E5%B0%8F%E8%B5%84%E5%82%BB%E7%9C%BC",
+          "heat": ""
+        },
+        {
+          "title": "BLG惨败,Viper四国语言道歉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357341&amp;topic_name=BLG%E6%83%A8%E8%B4%A5%2CViper%E5%9B%9B%E5%9B%BD%E8%AF%AD%E8%A8%80%E9%81%93%E6%AD%89",
+          "heat": ""
+        },
+        {
+          "title": "仗义喜羊羊!病毒吧主火出圈",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357317&amp;topic_name=%E4%BB%97%E4%B9%89%E5%96%9C%E7%BE%8A%E7%BE%8A%21%E7%97%85%E6%AF%92%E5%90%A7%E4%B8%BB%E7%81%AB%E5%87%BA%E5%9C%88",
+          "heat": ""
+        },
+        {
+          "title": "粉丝要签名被coser挂网上骂",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357376&amp;topic_name=%E7%B2%89%E4%B8%9D%E8%A6%81%E7%AD%BE%E5%90%8D%E8%A2%ABcoser%E6%8C%82%E7%BD%91%E4%B8%8A%E9%AA%82",
+          "heat": ""
+        },
+        {
+          "title": "龙餐馆原型火线捞金308万",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357369&amp;topic_name=%E9%BE%99%E9%A4%90%E9%A6%86%E5%8E%9F%E5%9E%8B%E7%81%AB%E7%BA%BF%E6%8D%9E%E9%87%91308%E4%B8%87",
+          "heat": ""
+        },
+        {
+          "title": "游客坐台阶歇脚遭路人驱赶",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357347&amp;topic_name=%E6%B8%B8%E5%AE%A2%E5%9D%90%E5%8F%B0%E9%98%B6%E6%AD%87%E8%84%9A%E9%81%AD%E8%B7%AF%E4%BA%BA%E9%A9%B1%E8%B5%B6",
+          "heat": ""
+        },
+        {
+          "title": "画面灾难,劣质动画电影上映圈钱",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357311&amp;topic_name=%E7%94%BB%E9%9D%A2%E7%81%BE%E9%9A%BE%2C%E5%8A%A3%E8%B4%A8%E5%8A%A8%E7%94%BB%E7%94%B5%E5%BD%B1%E4%B8%8A%E6%98%A0%E5%9C%88%E9%92%B1",
+          "heat": ""
+        },
+        {
+          "title": "DS新模型口碑翻车,官网秒撤",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357357&amp;topic_name=DS%E6%96%B0%E6%A8%A1%E5%9E%8B%E5%8F%A3%E7%A2%91%E7%BF%BB%E8%BD%A6%2C%E5%AE%98%E7%BD%91%E7%A7%92%E6%92%A4",
+          "heat": ""
+        },
+        {
+          "title": "赔光3亿积蓄,邹市明重返拳台",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357326&amp;topic_name=%E8%B5%94%E5%85%893%E4%BA%BF%E7%A7%AF%E8%93%84%2C%E9%82%B9%E5%B8%82%E6%98%8E%E9%87%8D%E8%BF%94%E6%8B%B3%E5%8F%B0",
+          "heat": ""
+        },
+        {
+          "title": "泪目,护林夫妻深山相守12年",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357339&amp;topic_name=%E6%B3%AA%E7%9B%AE%2C%E6%8A%A4%E6%9E%97%E5%A4%AB%E5%A6%BB%E6%B7%B1%E5%B1%B1%E7%9B%B8%E5%AE%8812%E5%B9%B4",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "baidu",
@@ -651,8 +954,74 @@
     {
       "id": "cls-hot",
       "name": "财联社",
-      "count": 0,
-      "items": []
+      "count": 13,
+      "items": [
+        {
+          "title": "训练西迁、推理东沉，中国算力新版图正在形成|一线",
+          "url": "https://www.cls.cn/detail/2454285",
+          "heat": ""
+        },
+        {
+          "title": "4家A股公司公告：终止资产重组事项",
+          "url": "https://www.cls.cn/detail/2454846",
+          "heat": ""
+        },
+        {
+          "title": "英伟达官宣CPO交换机全面量产！硅光新时代来了？",
+          "url": "https://www.cls.cn/detail/2454461",
+          "heat": ""
+        },
+        {
+          "title": "一图看懂 | 半年报“报喜”，已有9家A股公司净利暴增超10倍",
+          "url": "https://www.cls.cn/detail/2454642",
+          "heat": ""
+        },
+        {
+          "title": "央行将发行江泽民诞辰100周年纪念币",
+          "url": "https://www.cls.cn/detail/2454813",
+          "heat": ""
+        },
+        {
+          "title": "7月金融数据出炉：社融规模存量同比增长7.4% 直接融资对市场支持作用继续加强",
+          "url": "https://www.cls.cn/detail/2454635",
+          "heat": ""
+        },
+        {
+          "title": "【图解牛熊股】本周最牛股暴涨逾148%，医药股霸屏牛股榜",
+          "url": "https://www.cls.cn/detail/2454516",
+          "heat": ""
+        },
+        {
+          "title": "美联储加息前景愈发渺茫 存储妖股继续走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2454866",
+          "heat": ""
+        },
+        {
+          "title": "发力中国市场！据称苹果训练了一款“中国定制”大模型，开启AI双轨布局",
+          "url": "https://www.cls.cn/detail/2454596",
+          "heat": ""
+        },
+        {
+          "title": "中行落地全国首个算力“Token贷”，算力金融跨入应用层企业，上下游联动成未来方向",
+          "url": "https://www.cls.cn/detail/2454822",
+          "heat": ""
+        },
+        {
+          "title": "【每日收评】三大指数探底回升全线收红，两市成交额萎缩超4000亿，高位人气股批量跌停",
+          "url": "https://www.cls.cn/detail/2454593",
+          "heat": ""
+        },
+        {
+          "title": "【焦点复盘】创业板指强势收复30日线，算力租赁概念再度爆发，光通信人气股录得20cm五连板",
+          "url": "https://www.cls.cn/detail/2454650",
+          "heat": ""
+        },
+        {
+          "title": "研报违规，交易所罕见对两券商口头警示，业绩预测出问题？",
+          "url": "https://www.cls.cn/detail/2454915",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "thepaper",
