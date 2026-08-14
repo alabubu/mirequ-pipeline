@@ -1,6 +1,6 @@
 {
-  "updated": "18:31:34",
-  "total": 281,
+  "updated": "18:35:28",
+  "total": 280,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,53 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 26,
+      "count": 25,
       "items": [
+        {
+          "title": "美国原油期货结算价为每桶82.40美元，上涨1.15美元，涨幅1.42%。",
+          "url": "https://flash.jin10.com/detail/20260815023158928800",
+          "heat": false
+        },
+        {
+          "title": "夜盘主力合约收盘",
+          "url": "https://flash.jin10.com/detail/20260815023108785800",
+          "heat": false
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 8月14日（周五）晚盘收盘上涨0.99%报948.91元/克；<br/>上海黄金交易所白银T+D 8月14日（周五）晚盘收盘上涨1.06%报15780.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260815023016767800",
+          "heat": false
+        },
+        {
+          "title": "德国农民协会：高温干旱或致部分地区农作物减产甚至绝收",
+          "url": "https://flash.jin10.com/detail/20260815021937925800",
+          "heat": false
+        },
+        {
+          "title": "白宫新闻秘书莱维特：我们还有更多施压伊朗的手段。美国可以继续惩罚伊朗并削弱其经济。",
+          "url": "https://flash.jin10.com/detail/20260815021403053800",
+          "heat": "✰"
+        },
+        {
+          "title": "软银大幅减持台积电 新买入第一资本金融",
+          "url": "https://flash.jin10.com/detail/20260815021235560800",
+          "heat": false
+        },
+        {
+          "title": "乌克兰总统泽连斯基：与埃及总统讨论了黑海局势。",
+          "url": "https://flash.jin10.com/detail/20260815021000702800",
+          "heat": false
+        },
+        {
+          "title": "博通(AVGO.O)扩大跌幅至6.85%，触及盘中低点，创下自6月5日以来的最大单日跌幅。",
+          "url": "https://flash.jin10.com/detail/20260815020848659800",
+          "heat": false
+        },
+        {
+          "title": "英国政府发布关于野火风险的严重警报，称发生野火的风险极高。",
+          "url": "https://flash.jin10.com/detail/20260815020823923800",
+          "heat": false
+        },
         {
           "title": "消息人士：智利国有铜业公司Codelco任命副总裁负责埃尔特尼恩特矿。",
           "url": "https://flash.jin10.com/detail/20260815015947792800",
@@ -1437,56 +1482,6 @@
         {
           "title": "俄罗斯国防部：过去12小时内，俄防空系统在多个州及黑海、亚速海区域击落221架乌军固定翼无人机。",
           "url": "https://flash.jin10.com/detail/20260815012237626800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：2026年08月14日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260815011957438800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：2026年08月14日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260815011719410800",
-          "heat": false
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了1个对手方的2.5亿美元。",
-          "url": "https://flash.jin10.com/detail/20260815011624416800",
-          "heat": false
-        },
-        {
-          "title": "市场消息：美国总统特朗普抵达马里兰州安德鲁斯联合基地。",
-          "url": "https://flash.jin10.com/detail/20260815011448541800",
-          "heat": false
-        },
-        {
-          "title": "也门胡塞武装控制的萨巴通讯社援引消息称，胡塞武装使用无人机袭击了沙特阿美公司位于沙特阿拉伯南部奈季兰省的设施。",
-          "url": "https://flash.jin10.com/detail/20260815011405681800",
-          "heat": "✰"
-        },
-        {
-          "title": "市场消息：美国司法部和商品期货交易委员会正在调查铁矿石交易商Radiant World的交易。",
-          "url": "https://flash.jin10.com/detail/20260815011017096800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：贝克休斯油服钻井数据亮点一览",
-          "url": "https://flash.jin10.com/detail/20260815010909422800",
-          "heat": false
-        },
-        {
-          "title": "贝克休斯：美国油气钻井平台数量上升至2025年3月以来的最高水平。",
-          "url": "https://flash.jin10.com/detail/20260815010525336800",
-          "heat": false
-        },
-        {
-          "title": "贝克休斯：美国能源公司在三周内第二次增加钻井平台。",
-          "url": "https://flash.jin10.com/detail/20260815010332795800",
-          "heat": false
-        },
-        {
-          "title": "美国至8月14日当周天然气钻井总数 128口，前值124口。",
-          "url": "https://flash.jin10.com/detail/20260815010152744800",
           "heat": false
         }
       ]
