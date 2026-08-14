@@ -1,12 +1,113 @@
 {
-  "updated": "00:00:58",
-  "total": 193,
+  "updated": "00:05:28",
+  "total": 280,
   "platforms": [
     {
       "id": "zhihu",
       "name": "知乎",
-      "count": 0,
-      "items": []
+      "count": 20,
+      "items": [
+        {
+          "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
+          "url": "https://www.zhihu.com/question/2071335529577239335",
+          "heat": "1065 万热度"
+        },
+        {
+          "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
+          "url": "https://www.zhihu.com/question/2071318356477662328",
+          "heat": "750 万热度"
+        },
+        {
+          "title": "45 岁邹市明宣布年底重返拳击赛场，怎样看待他的决定？他的复出能解决目前的财务困境吗？",
+          "url": "https://www.zhihu.com/question/2071196839705932590",
+          "heat": "482 万热度"
+        },
+        {
+          "title": "如何看待娱乐圈大部分明星失业？",
+          "url": "https://www.zhihu.com/question/2055941945738933824",
+          "heat": "333 万热度"
+        },
+        {
+          "title": "胖东来、腾讯都曾因涨租金而搬离，有人说房东会视盈利情况涨租，这样做合理吗？对他们有什么影响？",
+          "url": "https://www.zhihu.com/question/2070920779663767010",
+          "heat": "202 万热度"
+        },
+        {
+          "title": "铃木、雷诺、 Jeep 、三菱退出中国市场，如今雪佛兰也退出中国市场，说明了什么？",
+          "url": "https://www.zhihu.com/question/2069970060106527911",
+          "heat": "144 万热度"
+        },
+        {
+          "title": "新规禁止居民楼开油烟餐饮，这类餐饮业未来将何去何从？居民区的「苍蝇馆子」以后会不会越来越少了？",
+          "url": "https://www.zhihu.com/question/2071182463498445493",
+          "heat": "116 万热度"
+        },
+        {
+          "title": "如何看待 4 月 4 日清明出生、高考 444 分的考生被殡葬专业录取引发热议？殡葬专业真实就业前景如何？",
+          "url": "https://www.zhihu.com/question/2070804607966470578",
+          "heat": "101 万热度"
+        },
+        {
+          "title": "10 岁女孩每天「拼豆」三四小时，眼轴增长速度是正常的两倍，这对孩子视力的影响有多大？怎么缓解？",
+          "url": "https://www.zhihu.com/question/2070208110300608458",
+          "heat": "95 万热度"
+        },
+        {
+          "title": "红米新品发布后，小米高管回应网友评论称「内存实在太贵了」，反映了当前手机行业哪些挑战？",
+          "url": "https://www.zhihu.com/question/2070707279855367104",
+          "heat": "80 万热度"
+        },
+        {
+          "title": "婚外胚胎案男方已撤销离婚，撤销离婚是否意味此事就此结束？还存在哪些疑点吗？",
+          "url": "https://www.zhihu.com/question/2071327029220172908",
+          "heat": "79 万热度"
+        },
+        {
+          "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
+          "url": "https://www.zhihu.com/question/2071189146777773055",
+          "heat": "78 万热度"
+        },
+        {
+          "title": "如何评价 9999 元起售的荣耀 RobotPhone，有哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2070972360027591854",
+          "heat": "76 万热度"
+        },
+        {
+          "title": "为什么认知高的人最终都会走向金融市场？",
+          "url": "https://www.zhihu.com/question/2047298291281422231",
+          "heat": "67 万热度"
+        },
+        {
+          "title": "面对不确定性，管理者如何做出有效决策？",
+          "url": "https://www.zhihu.com/question/1959938144523776359",
+          "heat": "65 万热度"
+        },
+        {
+          "title": "如何看待 10 年期、 30 年期美债中标利率都达到 2007 年全球金融危机以来最高水平？",
+          "url": "https://www.zhihu.com/question/2071179550575124530",
+          "heat": "64 万热度"
+        },
+        {
+          "title": "月薪三万多，和老公都太忙，都没时间照顾孩子，老公让我回家照顾孩子几年先，如果是你该怎么选？",
+          "url": "https://www.zhihu.com/question/2068859762461169652",
+          "heat": "63 万热度"
+        },
+        {
+          "title": "因长期在中东服役，多名水兵试图从美国海军「林肯」号跳海，为什么会这样？美国中东长期部署带来哪些问题？",
+          "url": "https://www.zhihu.com/question/2071169289697092854",
+          "heat": "59 万热度"
+        },
+        {
+          "title": "《寄生虫》里的豪宅，看起来没什么东西，豪在哪里？",
+          "url": "https://www.zhihu.com/question/2070215170526279459",
+          "heat": "59 万热度"
+        },
+        {
+          "title": "网传《欢迎来龙餐馆》男主角原定为徐峥，消息靠谱吗？如果是徐峥来演的话你认为效果会比沈腾好吗？",
+          "url": "https://www.zhihu.com/question/2070925244152246749",
+          "heat": "59 万热度"
+        }
+      ]
     },
     {
       "id": "weibo",
@@ -1032,20 +1133,358 @@
     {
       "id": "ifeng",
       "name": "凤凰网",
-      "count": 0,
-      "items": []
+      "count": 12,
+      "items": [
+        {
+          "title": "高达100%，美国将对进口无人机及零部件征关税",
+          "url": "https://news.ifeng.com/c/8vZY2OnvOcY",
+          "heat": ""
+        },
+        {
+          "title": "美军启动组建首支多国无人机特遣部队",
+          "url": "https://news.ifeng.com/c/8vZYw6o6uvx",
+          "heat": ""
+        },
+        {
+          "title": "被伊朗打成外交收缩？美驻中东使馆拟长期精简人员",
+          "url": "https://news.ifeng.com/c/8vYdi6QKWQt",
+          "heat": ""
+        },
+        {
+          "title": "美媒爆猛料：美军演习主力被乌克兰“全歼”",
+          "url": "https://news.ifeng.com/c/8vZChLZs7T3",
+          "heat": ""
+        },
+        {
+          "title": "伊朗：将以持久战消耗美国",
+          "url": "https://news.ifeng.com/c/8vYfWkn57YW",
+          "heat": ""
+        },
+        {
+          "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
+          "url": "https://news.ifeng.com/c/8vYj1925EKl",
+          "heat": ""
+        },
+        {
+          "title": "特朗普秘密“换机”返美，除赫格塞思外的3名亲信都是谁？",
+          "url": "https://news.ifeng.com/c/8vYQf5wseR7",
+          "heat": ""
+        },
+        {
+          "title": "“数字护照”发到巴拿马，美国的手伸得太长了",
+          "url": "https://news.ifeng.com/c/8vZCMgMo93p",
+          "heat": ""
+        },
+        {
+          "title": "普京首登“北方四岛”羞辱日本，俄日关系深跌",
+          "url": "https://news.ifeng.com/c/8vZF7rgKM48",
+          "heat": ""
+        },
+        {
+          "title": "郑丽文连说四个“不再是”，炮轰司法沦为民进党的爪牙",
+          "url": "https://news.ifeng.com/c/8vYYII5EoTa",
+          "heat": ""
+        },
+        {
+          "title": "选情告急，民进党再炒作“大陆介选”",
+          "url": "https://news.ifeng.com/c/8vYsRokDUdD",
+          "heat": ""
+        },
+        {
+          "title": "“再不猛干就要被中国追上”，韩国两部长激辩要不要搞996",
+          "url": "https://news.ifeng.com/c/8vZ8EFHbgar",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "toutiao",
       "name": "今日头条",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "国内多晶硅市场连续两周无成交",
+          "url": "https://www.toutiao.com/trending/7673453285441306675/",
+          "heat": ""
+        },
+        {
+          "title": "普京在俄日争议岛大口品尝鱼子酱",
+          "url": "https://www.toutiao.com/trending/7673436109265633321/",
+          "heat": ""
+        },
+        {
+          "title": "今年以来我国生态环境质量持续向好",
+          "url": "https://www.toutiao.com/trending/7673491095824666163/",
+          "heat": ""
+        },
+        {
+          "title": "二手豪华车为啥卖不动了",
+          "url": "https://www.toutiao.com/trending/7672771776690929691/",
+          "heat": ""
+        },
+        {
+          "title": "为什么胖东来关店比开店还可怕",
+          "url": "https://www.toutiao.com/trending/7673515574487748150/",
+          "heat": ""
+        },
+        {
+          "title": "白宫发言人辞职真相是什么",
+          "url": "https://www.toutiao.com/trending/7673322226909560873/",
+          "heat": ""
+        },
+        {
+          "title": "WTT欧洲大满贯国乒男双独苗无缘四强",
+          "url": "https://www.toutiao.com/trending/7673515029358182419/",
+          "heat": ""
+        },
+        {
+          "title": "胖东来许昌老店关闭周边商户发声",
+          "url": "https://www.toutiao.com/trending/7672215993464963123/",
+          "heat": ""
+        },
+        {
+          "title": "俄演习同时朝鲜发射导弹是巧合吗",
+          "url": "https://www.toutiao.com/trending/7673533492373753407/",
+          "heat": ""
+        },
+        {
+          "title": "2027年最后一批“00后”也将成年",
+          "url": "https://www.toutiao.com/trending/7673117692782346249/",
+          "heat": ""
+        },
+        {
+          "title": "史上最大IPO或将易主",
+          "url": "https://www.toutiao.com/trending/7673140928302940196/",
+          "heat": ""
+        },
+        {
+          "title": "河南近期这些涉汛传言都是假的",
+          "url": "https://www.toutiao.com/trending/7673100593367859242/",
+          "heat": ""
+        },
+        {
+          "title": "大巴车悄悄杀回来了吗",
+          "url": "https://www.toutiao.com/trending/7673372495625326121/",
+          "heat": ""
+        },
+        {
+          "title": "为什么娱乐圈这么多人得强直性脊柱炎",
+          "url": "https://www.toutiao.com/trending/7673404486446006326/",
+          "heat": ""
+        },
+        {
+          "title": "日本强降雨致女子被困车内心肺停止",
+          "url": "https://www.toutiao.com/trending/7672911942889082410/",
+          "heat": ""
+        },
+        {
+          "title": "中国印尼首次台岛以东联演有何深意",
+          "url": "https://www.toutiao.com/trending/7672677889229684779/",
+          "heat": ""
+        },
+        {
+          "title": "朱老六：选举朱先明为公司董事长",
+          "url": "https://www.toutiao.com/trending/7673491050297819142/",
+          "heat": ""
+        },
+        {
+          "title": "天然气公司要求壁挂炉满8年必须换",
+          "url": "https://www.toutiao.com/trending/7673115215432515594/",
+          "heat": ""
+        },
+        {
+          "title": "美国老师崩溃痛哭：高中生不会读写",
+          "url": "https://www.toutiao.com/trending/7673322961486495780/",
+          "heat": ""
+        },
+        {
+          "title": "银行能办结婚证了",
+          "url": "https://www.toutiao.com/trending/7673168461392445446/",
+          "heat": ""
+        },
+        {
+          "title": "世界最小鸭子首次现身河北",
+          "url": "https://www.toutiao.com/trending/7673430976168525887/",
+          "heat": ""
+        },
+        {
+          "title": "苏州“我听交警的”案判了",
+          "url": "https://www.toutiao.com/trending/7672709267694911515/",
+          "heat": ""
+        },
+        {
+          "title": "雷佳音自曝因功利心才演陈俊生",
+          "url": "https://www.toutiao.com/trending/7672762018034352134/",
+          "heat": ""
+        },
+        {
+          "title": "女子乳腺癌去世丈夫痛哭",
+          "url": "https://www.toutiao.com/trending/7673134486418178084/",
+          "heat": ""
+        },
+        {
+          "title": "“腿梗”到底有多凶险",
+          "url": "https://www.toutiao.com/trending/7673435090646515754/",
+          "heat": ""
+        },
+        {
+          "title": "哪些房子正失去变现价值",
+          "url": "https://www.toutiao.com/trending/7673463083896933907/",
+          "heat": ""
+        },
+        {
+          "title": "39度高温物业管家喊话全楼关空调",
+          "url": "https://www.toutiao.com/trending/7673436100526424115/",
+          "heat": ""
+        },
+        {
+          "title": "宇树科技遭弃购8734股",
+          "url": "https://www.toutiao.com/trending/7673094694310805555/",
+          "heat": ""
+        },
+        {
+          "title": "梁家辉人民日报撰文",
+          "url": "https://www.toutiao.com/trending/7672628203659329590/",
+          "heat": ""
+        },
+        {
+          "title": "美林肯号航母上多名水兵试图跳海自杀",
+          "url": "https://www.toutiao.com/trending/7672251953762238502/",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 0,
-      "items": []
+      "count": 25,
+      "items": [
+        {
+          "title": "日经225指数8月14日（周五）开盘上涨438.23点，涨幅0.64%，报68746.82点。",
+          "url": "https://flash.jin10.com/detail/20260814080132693800",
+          "heat": false
+        },
+        {
+          "title": "韩股开盘，韩国KOSPI指数涨2.68%，三星电子涨2%，海力士涨6%。",
+          "url": "https://flash.jin10.com/detail/20260814080045358800",
+          "heat": "✰"
+        },
+        {
+          "title": "日本10年期国债收益率下跌2.5个基点，至2.845%。",
+          "url": "https://flash.jin10.com/detail/20260814075958066800",
+          "heat": false
+        },
+        {
+          "title": "中信证券：下阶段央行或继续加大金融对于实体经济的支持力度",
+          "url": "https://flash.jin10.com/detail/20260814075957390800",
+          "heat": false
+        },
+        {
+          "title": "金十数据中心工具",
+          "url": "https://flash.jin10.com/detail/20260814075218199800",
+          "heat": false
+        },
+        {
+          "title": "日本至8月7日当周外资买进日债 -587亿日元，前值5589亿日元。",
+          "url": "https://flash.jin10.com/detail/20260814075041932800",
+          "heat": false
+        },
+        {
+          "title": "日本至8月7日当周买进外国股票 9635亿日元，前值-2764亿日元。",
+          "url": "https://flash.jin10.com/detail/20260814075035735800",
+          "heat": false
+        },
+        {
+          "title": "据阿拉比亚电视台：国际联盟的防空系统已在伊拉克的埃尔比勒启动。伊拉克消息人士称，对埃尔比勒的无人机袭击来自尼尼微省。",
+          "url": "https://flash.jin10.com/detail/20260814075025625800",
+          "heat": false
+        },
+        {
+          "title": "日本至8月7日当周买进外国债券 16294亿日元，前值4779亿日元。",
+          "url": "https://flash.jin10.com/detail/20260814075002689800",
+          "heat": false
+        },
+        {
+          "title": "日本至8月7日当周外资买进日股 -3685亿日元，前值-3925亿日元。",
+          "url": "https://flash.jin10.com/detail/20260814075002691800",
+          "heat": false
+        },
+        {
+          "title": "美国中央司令部：过去48小时内，多家媒体报道了与“亚伯拉罕·林肯”号航空母舰（CVN 72）中东部署相关的多项虚假信息。其中一篇报道称，七名水兵在航母上发生斗殴身亡；另一些报道则暗示舰上自杀倾向激增。这些报道均为不实信息。",
+          "url": "https://flash.jin10.com/detail/20260814074918950800",
+          "heat": false
+        },
+        {
+          "title": "美财长称将对伊朗实施前所未见措施",
+          "url": "https://flash.jin10.com/detail/20260814074810143800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（8月14日）",
+          "url": "https://flash.jin10.com/detail/20260814074729713800",
+          "heat": false
+        },
+        {
+          "title": "美媒：美军对伊战事损失至少45架“死神” 总价超13亿美元",
+          "url": "https://flash.jin10.com/detail/20260814074216839800",
+          "heat": false
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260814073857634800",
+          "heat": "✰"
+        },
+        {
+          "title": "美国财长贝森特：我们将继续对伊朗经济实施制裁，并在霍尔木兹海峡保持持续的封锁。我们将禁止任何物品进出伊朗港口。",
+          "url": "https://flash.jin10.com/detail/20260814073702603800",
+          "heat": false
+        },
+        {
+          "title": "现货价格",
+          "url": "https://flash.jin10.com/detail/20260814073646626800",
+          "heat": false
+        },
+        {
+          "title": "现货价格",
+          "url": "https://flash.jin10.com/detail/20260814073642681800",
+          "heat": false
+        },
+        {
+          "title": "美国财长贝森特：我们正在针对伊朗的全球银行账户实施最大力度的施压，我们采取的施压行动使伊朗银行业崩溃。",
+          "url": "https://flash.jin10.com/detail/20260814073516828800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：每日期货市场要闻速递（2026-08-14）",
+          "url": "https://flash.jin10.com/detail/20260814073234699800",
+          "heat": "✰"
+        },
+        {
+          "title": "据阿拉比亚电视台：伊拉克库尔德斯坦首府埃尔比勒上空有无人机被击落。",
+          "url": "https://flash.jin10.com/detail/20260814072826236800",
+          "heat": false
+        },
+        {
+          "title": "据阿拉比亚电视台：伊拉克埃尔比勒传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260814072700267800",
+          "heat": false
+        },
+        {
+          "title": "澳洲联储主席布洛克将于十分钟后出席众议院经济常设委员会听证会。",
+          "url": "https://flash.jin10.com/detail/20260814072000001800",
+          "heat": "✰"
+        },
+        {
+          "title": "最高100%关税！特朗普突然对无人机下狠手，俄乌冲突让美国警醒",
+          "url": "https://flash.jin10.com/detail/20260814071926003800",
+          "heat": "✰"
+        },
+        {
+          "title": "美国财长贝森特：我们将针对伊朗采取前所未有的措施。",
+          "url": "https://flash.jin10.com/detail/20260814071558616800",
+          "heat": false
+        }
+      ]
     }
   ]
 }
