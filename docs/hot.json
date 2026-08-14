@@ -1,6 +1,6 @@
 {
-  "updated": "15:01:29",
-  "total": 223,
+  "updated": "15:05:35",
+  "total": 280,
   "platforms": [
     {
       "id": "zhihu",
@@ -954,8 +954,74 @@
     {
       "id": "cls-hot",
       "name": "财联社",
-      "count": 0,
-      "items": []
+      "count": 13,
+      "items": [
+        {
+          "title": "4家A股公司公告：终止资产重组事项",
+          "url": "https://www.cls.cn/detail/2454846",
+          "heat": ""
+        },
+        {
+          "title": "训练西迁、推理东沉，中国算力新版图正在形成|一线",
+          "url": "https://www.cls.cn/detail/2454285",
+          "heat": ""
+        },
+        {
+          "title": "央行将发行江泽民诞辰100周年纪念币",
+          "url": "https://www.cls.cn/detail/2454813",
+          "heat": ""
+        },
+        {
+          "title": "英伟达官宣CPO交换机全面量产！硅光新时代来了？",
+          "url": "https://www.cls.cn/detail/2454461",
+          "heat": ""
+        },
+        {
+          "title": "一图看懂 | 半年报“报喜”，已有9家A股公司净利暴增超10倍",
+          "url": "https://www.cls.cn/detail/2454642",
+          "heat": ""
+        },
+        {
+          "title": "7月金融数据出炉：社融规模存量同比增长7.4% 直接融资对市场支持作用继续加强",
+          "url": "https://www.cls.cn/detail/2454635",
+          "heat": ""
+        },
+        {
+          "title": "【图解牛熊股】本周最牛股暴涨逾148%，医药股霸屏牛股榜",
+          "url": "https://www.cls.cn/detail/2454516",
+          "heat": ""
+        },
+        {
+          "title": "中行落地全国首个算力“Token贷”，算力金融跨入应用层企业，上下游联动成未来方向",
+          "url": "https://www.cls.cn/detail/2454822",
+          "heat": ""
+        },
+        {
+          "title": "美联储加息前景愈发渺茫 存储妖股继续走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2454866",
+          "heat": ""
+        },
+        {
+          "title": "发力中国市场！据称苹果训练了一款“中国定制”大模型，开启AI双轨布局",
+          "url": "https://www.cls.cn/detail/2454596",
+          "heat": ""
+        },
+        {
+          "title": "研报违规，交易所罕见对两券商口头警示，业绩预测出问题？",
+          "url": "https://www.cls.cn/detail/2454915",
+          "heat": ""
+        },
+        {
+          "title": "【每日收评】三大指数探底回升全线收红，两市成交额萎缩超4000亿，高位人气股批量跌停",
+          "url": "https://www.cls.cn/detail/2454593",
+          "heat": ""
+        },
+        {
+          "title": "【焦点复盘】创业板指强势收复30日线，算力租赁概念再度爆发，光通信人气股录得20cm五连板",
+          "url": "https://www.cls.cn/detail/2454650",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "thepaper",
@@ -1067,20 +1133,297 @@
     {
       "id": "ifeng",
       "name": "凤凰网",
-      "count": 0,
-      "items": []
+      "count": 12,
+      "items": [
+        {
+          "title": "中俄驻日大使联合发声：反对歪曲否定二战胜利成果",
+          "url": "https://news.ifeng.com/c/8vaipZl1HBM",
+          "heat": ""
+        },
+        {
+          "title": "普京首登俄日争议岛屿，中方回应",
+          "url": "https://news.ifeng.com/c/8vabkOQepCV",
+          "heat": ""
+        },
+        {
+          "title": "俄外长：说“见到你太高兴了”就是日本所谓的讨论双边关系",
+          "url": "https://news.ifeng.com/c/8vaD3kx26ZW",
+          "heat": ""
+        },
+        {
+          "title": "中国AI把价格打下来，美国巨头一口气降80%",
+          "url": "https://news.ifeng.com/c/8vaN8Ao6xPg",
+          "heat": ""
+        },
+        {
+          "title": "麻烦缠身的“林肯”号航母换岗，美军还能维持无限期封锁吗？",
+          "url": "https://news.ifeng.com/c/8vaVMv29xqD",
+          "heat": ""
+        },
+        {
+          "title": "事关特朗普与马斯克，美媒最新爆料",
+          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
+          "heat": ""
+        },
+        {
+          "title": "俄军医戴头盔穿防弹衣实施手术，取出卡在士兵手臂的未爆弹",
+          "url": "https://v.ifeng.com/c/8vW4Ky9QQs8",
+          "heat": ""
+        },
+        {
+          "title": "马科斯：没想疏远中国，看好经济合作",
+          "url": "https://news.ifeng.com/c/8vaSjYUOLg5",
+          "heat": ""
+        },
+        {
+          "title": "反复发作、生不如死，日本遗留化武受害者的人生有多苦？",
+          "url": "https://news.ifeng.com/c/8vaLDR3wVa0",
+          "heat": ""
+        },
+        {
+          "title": "日本“和平塔”，压着从中国抢来的238块石头！",
+          "url": "https://v.ifeng.com/c/8vabIMWQYoS",
+          "heat": ""
+        },
+        {
+          "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
+          "url": "https://news.ifeng.com/c/8vaHkh2o1IS",
+          "heat": ""
+        },
+        {
+          "title": "文莱苏丹剥夺一儿媳王室头衔，认为其“有失王室成员配偶身份”",
+          "url": "https://news.ifeng.com/c/8vaDJHtDhSo",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "toutiao",
       "name": "今日头条",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "台风白海豚杀了个“回马枪”",
+          "url": "https://www.toutiao.com/trending/7673088324894015529/",
+          "heat": ""
+        },
+        {
+          "title": "江泽民诞辰100周年纪念币将发行",
+          "url": "https://www.toutiao.com/trending/7673478082126741555/",
+          "heat": ""
+        },
+        {
+          "title": "人工智能激活力 “新”意盎然促发展",
+          "url": "https://www.toutiao.com/trending/7673797019718598698/",
+          "heat": ""
+        },
+        {
+          "title": "林诗栋惜败出局 国乒男单仅剩独苗",
+          "url": "https://www.toutiao.com/trending/7673889428871319086/",
+          "heat": ""
+        },
+        {
+          "title": "河南郏县溃口完成封堵",
+          "url": "https://www.toutiao.com/trending/7673858052822650395/",
+          "heat": ""
+        },
+        {
+          "title": "明天起禁用这类塑料制品",
+          "url": "https://www.toutiao.com/trending/7673117255916044307/",
+          "heat": ""
+        },
+        {
+          "title": "郭德纲西安演出取消",
+          "url": "https://www.toutiao.com/trending/7673748036275486774/",
+          "heat": ""
+        },
+        {
+          "title": "伊朗方面的最新表态传递出哪些信号",
+          "url": "https://www.toutiao.com/trending/7673859930650054186/",
+          "heat": ""
+        },
+        {
+          "title": "浙江省博一周内两次道歉",
+          "url": "https://www.toutiao.com/trending/7672852322451459627/",
+          "heat": ""
+        },
+        {
+          "title": "台湾岛内出现有利于统一的三个变化",
+          "url": "https://www.toutiao.com/trending/7672990049248722953/",
+          "heat": ""
+        },
+        {
+          "title": "洪水泡过的饮料擦干净就能喝不实",
+          "url": "https://www.toutiao.com/trending/7673858248382139913/",
+          "heat": ""
+        },
+        {
+          "title": "郭麒麟瘦到认不出",
+          "url": "https://www.toutiao.com/trending/7673795223364911147/",
+          "heat": ""
+        },
+        {
+          "title": "无锡暂停城区范围内外卖配送",
+          "url": "https://www.toutiao.com/trending/7673862963681300010/",
+          "heat": ""
+        },
+        {
+          "title": "专访2034杯重庆足球小将团队",
+          "url": "https://www.toutiao.com/trending/7673151955581812790/",
+          "heat": ""
+        },
+        {
+          "title": "演员李心艾瘦成皮包骨",
+          "url": "https://www.toutiao.com/trending/7673767314696798234/",
+          "heat": ""
+        },
+        {
+          "title": "国乒男女双全军覆没",
+          "url": "https://www.toutiao.com/trending/7673729998800293418/",
+          "heat": ""
+        },
+        {
+          "title": "男子刷到“自己猝死”视频后报警",
+          "url": "https://www.toutiao.com/trending/7673476970500833286/",
+          "heat": ""
+        },
+        {
+          "title": "国防部：菲应尽快拖走非法坐滩军舰",
+          "url": "https://www.toutiao.com/trending/7672680919022567466/",
+          "heat": ""
+        },
+        {
+          "title": "外交部：敦促日方遵守二战后国际秩序",
+          "url": "https://www.toutiao.com/trending/7673854824987770922/",
+          "heat": ""
+        },
+        {
+          "title": "胖东来郑州店招刑释人员引争议",
+          "url": "https://www.toutiao.com/trending/7673799622594154011/",
+          "heat": ""
+        },
+        {
+          "title": "小孩哥凑钱鼓励生意不好的店主",
+          "url": "https://www.toutiao.com/trending/7673684785730125867/",
+          "heat": ""
+        },
+        {
+          "title": "宁德时代：维修电池我们是三甲医院",
+          "url": "https://www.toutiao.com/trending/7673834555819769898/",
+          "heat": ""
+        },
+        {
+          "title": "C罗婚后首露面一头金发",
+          "url": "https://www.toutiao.com/trending/7673727363691056676/",
+          "heat": ""
+        },
+        {
+          "title": "今日进入末伏",
+          "url": "https://www.toutiao.com/trending/7673292712359182382/",
+          "heat": ""
+        },
+        {
+          "title": "乌军为何能4小时摧毁俄装甲集群",
+          "url": "https://www.toutiao.com/trending/7673711940689989163/",
+          "heat": ""
+        },
+        {
+          "title": "内塔尼亚胡公开讽刺英国",
+          "url": "https://www.toutiao.com/trending/7673366066302828598/",
+          "heat": ""
+        },
+        {
+          "title": "小酒窝也开始戴眼镜了",
+          "url": "https://www.toutiao.com/trending/7672914027001053220/",
+          "heat": ""
+        },
+        {
+          "title": "男子占他人车位忘挪四车门全坏了",
+          "url": "https://www.toutiao.com/trending/7673699574226321434/",
+          "heat": ""
+        },
+        {
+          "title": "报告显示美年轻人普遍不支持对华强硬",
+          "url": "https://www.toutiao.com/trending/7673432792923504676/",
+          "heat": ""
+        },
+        {
+          "title": "谢霆锋二儿子近照曝光",
+          "url": "https://www.toutiao.com/trending/7673762001812324371/",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 23,
+      "count": 25,
       "items": [
+        {
+          "title": "巴西总统卢拉：我希望与美国保持良好关系，但不幸的是，他们正在对巴西散布谣言。",
+          "url": "https://flash.jin10.com/detail/20260814230121768800",
+          "heat": false
+        },
+        {
+          "title": "韩国海关数据显示，7月份进口原油1220万桶，去年同期为1130万桶。",
+          "url": "https://flash.jin10.com/detail/20260814230112609800",
+          "heat": false
+        },
+        {
+          "title": "美参议员沃伦质询贝森特：必须披露干预日元的全部内幕！",
+          "url": "https://flash.jin10.com/detail/20260814230103110800",
+          "heat": "✰"
+        },
+        {
+          "title": "美国证交会文件：沙特公共投资基金（PIF）披露持有SpaceX(SPCX.O)1.541亿股A类股。",
+          "url": "https://flash.jin10.com/detail/20260814230043360800",
+          "heat": false
+        },
+        {
+          "title": "加息降温压不下收益率，40万亿美债要付出什么代价？",
+          "url": "https://flash.jin10.com/detail/20260814230024749800",
+          "heat": false
+        },
+        {
+          "title": "巴西总统卢拉：我们还没有确定日期，但会安排的。",
+          "url": "https://flash.jin10.com/detail/20260814225951240800",
+          "heat": false
+        },
+        {
+          "title": "巴西总统卢拉说特朗普一直对他很好，很尊重他。",
+          "url": "https://flash.jin10.com/detail/20260814225853406800",
+          "heat": false
+        },
+        {
+          "title": "巴西总统卢拉：我正在努力与特朗普对话，希望能与他保持联系，进行一对一的谈话。",
+          "url": "https://flash.jin10.com/detail/20260814225840596800",
+          "heat": false
+        },
+        {
+          "title": "巴西总统卢拉：美国基于谎言对待巴西。",
+          "url": "https://flash.jin10.com/detail/20260814225733880800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：欧盘美盘重要新闻汇总（2026-08-14）",
+          "url": "https://flash.jin10.com/detail/20260814225404001800",
+          "heat": "✰"
+        },
+        {
+          "title": "OpenAI首席财务官弗莱尔今日将召开投资者会议。",
+          "url": "https://flash.jin10.com/detail/20260814225245934800",
+          "heat": "✰"
+        },
+        {
+          "title": "波罗的海干散货运价指数周线下跌，因海岬和巴拿马型船走疲",
+          "url": "https://flash.jin10.com/detail/20260814225122767800",
+          "heat": false
+        },
+        {
+          "title": "美国证交会文件显示，阿联酋穆巴达拉投资公司将其持有的吉利德科学(GILD.O)股份减持19.9%至29,623股。",
+          "url": "https://flash.jin10.com/detail/20260814224749452800",
+          "heat": false
+        },
         {
           "title": "美国证交会文件显示，阿联酋穆巴达拉投资公司将其持有的美光科技(MU.O)股份增持3.0%至45,451股。",
           "url": "https://flash.jin10.com/detail/20260814224635950800",
@@ -1140,61 +1483,6 @@
           "title": "据BBC：英国交通警察正在对埃塞克斯郡一列火车部分脱轨的报告作出反应。",
           "url": "https://flash.jin10.com/detail/20260814223109080800",
           "heat": false
-        },
-        {
-          "title": "美元有望连跌六周 加息预期降温成主因",
-          "url": "https://flash.jin10.com/detail/20260814222818436800",
-          "heat": false
-        },
-        {
-          "title": "SpaceX大手笔布局AI编码；高盛警示AI普涨行情已然终结 | Plus日报",
-          "url": "https://flash.jin10.com/detail/20260814222730845800",
-          "heat": false
-        },
-        {
-          "title": "零售数据疲软打压加息预期 短期美债应声上涨",
-          "url": "https://flash.jin10.com/detail/20260814222728376800",
-          "heat": false
-        },
-        {
-          "title": "广州苏州扬州公积金有大变化",
-          "url": "https://flash.jin10.com/detail/20260814222311118800",
-          "heat": false
-        },
-        {
-          "title": "美股三大股指均转跌。",
-          "url": "https://flash.jin10.com/detail/20260814222241849800",
-          "heat": false
-        },
-        {
-          "title": "俄罗斯方面表示已袭击乌克兰的敖德萨和皮夫登尼港口。",
-          "url": "https://flash.jin10.com/detail/20260814222050957800",
-          "heat": false
-        },
-        {
-          "title": "博通(AVGO.O)股价下跌5%，成为标普500成分股中跌幅最大的股票。",
-          "url": "https://flash.jin10.com/detail/20260814221957011800",
-          "heat": false
-        },
-        {
-          "title": "美国资深议员要求贝森特说明干预日元的依据",
-          "url": "https://flash.jin10.com/detail/20260814221940230800",
-          "heat": false
-        },
-        {
-          "title": "高温推升燃气需求 美国气价小幅走高",
-          "url": "https://flash.jin10.com/detail/20260814221602175800",
-          "heat": false
-        },
-        {
-          "title": "浙江嘉兴发布暴雨红色预警",
-          "url": "https://flash.jin10.com/detail/20260814221554336800",
-          "heat": false
-        },
-        {
-          "title": "碳酸锂基本面：碳酸锂强势反弹，成本支撑逻辑再度强化？",
-          "url": "https://flash.jin10.com/detail/20260814221537711800",
-          "heat": "✰"
         }
       ]
     }
