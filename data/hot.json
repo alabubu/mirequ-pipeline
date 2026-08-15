@@ -1,12 +1,113 @@
 {
-  "updated": "02:30:48",
-  "total": 235,
+  "updated": "02:35:32",
+  "total": 285,
   "platforms": [
     {
       "id": "zhihu",
       "name": "知乎",
-      "count": 0,
-      "items": []
+      "count": 20,
+      "items": [
+        {
+          "title": "旺旺董事长发内部信，直言遭遇重大经营危机，没有贡献的员工要被淘汰，这种方式能救企业吗？",
+          "url": "https://www.zhihu.com/question/2071625579925869050",
+          "heat": "1080 万热度"
+        },
+        {
+          "title": "河南平顶山汝河民堤、周口贾鲁河堤坝、许昌清潩河三地发生溃口，这些溃口是如何发生的？目前情况如何？",
+          "url": "https://www.zhihu.com/question/2071527887660737785",
+          "heat": "419 万热度"
+        },
+        {
+          "title": "如何看待周星驰经纪人内涵《欢迎来龙餐馆》偷票房《功夫女足》，《龙餐馆》回应系影院操作失误?",
+          "url": "https://www.zhihu.com/question/2071540861712721478",
+          "heat": "288 万热度"
+        },
+        {
+          "title": "2026 年 wtt 瑞典大满贯赛，松岛辉空 3：2 险胜 97 年出生的老将周启豪晋级 8 强，怎么评价这一场比赛？",
+          "url": "https://www.zhihu.com/question/2071768976066188952",
+          "heat": "193 万热度"
+        },
+        {
+          "title": "胖东来郑州店招 100 名边防军人 +20 名刑释人员：企业兜底「社会融合」职能，是进步还是错位？",
+          "url": "https://www.zhihu.com/question/2071601572484748503",
+          "heat": "155 万热度"
+        },
+        {
+          "title": "胖东来生活广场店将关闭，周围商户称超市赚钱房东才涨租，于东来称无论钱多钱少，公平正义是底线，如何解读？",
+          "url": "https://www.zhihu.com/question/2071247677271040582",
+          "heat": "138 万热度"
+        },
+        {
+          "title": "美国将对进口无人机及零部件征收最高 100% 关税，将如何影响全球产业？",
+          "url": "https://www.zhihu.com/question/2071487809492456110",
+          "heat": "135 万热度"
+        },
+        {
+          "title": "如何评价零宣发国产动画电影《牛来》上映，建模粗糙惊呆观众，9 天累计票房仅为 7169 元？",
+          "url": "https://www.zhihu.com/question/2068124989094733448",
+          "heat": "133 万热度"
+        },
+        {
+          "title": "为什么大家公认天坑专业是土木而不是化工？",
+          "url": "https://www.zhihu.com/question/2066494113734828774",
+          "heat": "132 万热度"
+        },
+        {
+          "title": "同样面对负面舆论，为什么《八仙！》的票房预计能达到 20 亿，而《雄狮少年》系列的票房加一起才 3 亿多？",
+          "url": "https://www.zhihu.com/question/2066512309485319903",
+          "heat": "129 万热度"
+        },
+        {
+          "title": "《影之刃零》预售开启，162 万愿望单的它能复刻《黑神话：悟空》的奇迹吗？",
+          "url": "https://www.zhihu.com/question/2070877827172513729",
+          "heat": "126 万热度"
+        },
+        {
+          "title": "家长花上万元送孩子进「吃苦夏令营」，孩子进山砍柴、喂猪、挖土豆，这种教育方式是否可取？真能纠正陋习吗？",
+          "url": "https://www.zhihu.com/question/2071625519641146760",
+          "heat": "117 万热度"
+        },
+        {
+          "title": "《明末：渊虚之羽》竟然在 China Joy 当选 2026 年度游戏，时过境迁，你对这游戏的看法有反转么？",
+          "url": "https://www.zhihu.com/question/2067599698400171580",
+          "heat": "113 万热度"
+        },
+        {
+          "title": "有没有可能，地球才是宇宙的中心？",
+          "url": "https://www.zhihu.com/question/2070938404129454013",
+          "heat": "112 万热度"
+        },
+        {
+          "title": "山西医科大学第一医院通报「实习护士晒患者隐私照」，终止当事人实习资格，你认为这一处罚合理吗？",
+          "url": "https://www.zhihu.com/question/2071674218391889319",
+          "heat": "111 万热度"
+        },
+        {
+          "title": "如何评价动画《BanG Dream! YUME∞MITA》第 9 集？",
+          "url": "https://www.zhihu.com/question/2068784488012943904",
+          "heat": "110 万热度"
+        },
+        {
+          "title": "普京首次登上南千岛群岛视察民生产业，高市早苗激烈抗议，称是日本固有领土，俄方强硬回击，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2071637658586165819",
+          "heat": "110 万热度"
+        },
+        {
+          "title": "贾平凹的废都算是低俗小说吗？",
+          "url": "https://www.zhihu.com/question/1925130890524221640",
+          "heat": "109 万热度"
+        },
+        {
+          "title": "闪迪抛出「毛利率看 80% 、投后剩余现金 100% 回馈股东」目标，从哪来的底气？如何解读背后的战略逻辑？",
+          "url": "https://www.zhihu.com/question/2071527599503663177",
+          "heat": "109 万热度"
+        },
+        {
+          "title": "比格披萨创始人评论「看你照片破戒了」引发争议，后回应称开玩笑，作为品牌创始人他这一发言合适吗？",
+          "url": "https://www.zhihu.com/question/2071198330508648836",
+          "heat": "107 万热度"
+        }
+      ]
     },
     {
       "id": "weibo",
@@ -1256,8 +1357,159 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "中信证券：二季度基金拉久期的交易特征在此后仍有延续，但超长端的风险收益比已发生边际变化",
+          "url": "https://flash.jin10.com/detail/20260815102843452800",
+          "heat": false
+        },
+        {
+          "title": "中消协发布绿色消费指南 涵盖四大领域50条行动建议",
+          "url": "https://flash.jin10.com/detail/20260815100258090800",
+          "heat": false
+        },
+        {
+          "title": "以媒：伊朗导弹库存恢复速度令以色列方面感到震惊",
+          "url": "https://flash.jin10.com/detail/20260815100007836800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（8月15日）",
+          "url": "https://flash.jin10.com/detail/20260815094700190800",
+          "heat": "✰"
+        },
+        {
+          "title": "阿联酋称一船只在霍尔木兹海峡遭袭",
+          "url": "https://flash.jin10.com/detail/20260815094024458800",
+          "heat": false
+        },
+        {
+          "title": "印尼地震已造成1人死亡",
+          "url": "https://flash.jin10.com/detail/20260815093251455800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（8月15日）",
+          "url": "https://flash.jin10.com/detail/20260815093023644800",
+          "heat": false
+        },
+        {
+          "title": "伊朗回应特朗普涉霍尔木兹海峡言论",
+          "url": "https://flash.jin10.com/detail/20260815092948437800",
+          "heat": false
+        },
+        {
+          "title": "最新的Quaest民调显示，巴西总统卢拉在模拟的决选中以43%对40%领先弗拉维奥·博尔索纳罗，显示出总统选举差距正在缩小。",
+          "url": "https://flash.jin10.com/detail/20260815092713668800",
+          "heat": false
+        },
+        {
+          "title": "以色列对黎巴嫩南部城镇阿尔曼苏里发起新一轮空袭。",
+          "url": "https://flash.jin10.com/detail/20260815091952066800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：中东局势跟踪（8月15日）",
+          "url": "https://flash.jin10.com/detail/20260815091720593800",
+          "heat": "✰"
+        },
+        {
+          "title": "特朗普敦促美国人接受更高油价",
+          "url": "https://flash.jin10.com/detail/20260815091119294800",
+          "heat": false
+        },
+        {
+          "title": "据悉英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
+          "url": "https://flash.jin10.com/detail/20260815090110907800",
+          "heat": false
+        },
+        {
+          "title": "原油ETF持仓报告：美、布两油纷纷增持，规模有何变化？",
+          "url": "https://flash.jin10.com/detail/20260815084615172800",
+          "heat": false
+        },
+        {
+          "title": "印度尼西亚地球物理局：解除在7.7级地震后发出的海啸警报。",
+          "url": "https://flash.jin10.com/detail/20260815084423079800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：昨日今晨重要新闻汇总（2026-08-15）",
+          "url": "https://flash.jin10.com/detail/20260815084240554800",
+          "heat": "✰"
+        },
+        {
+          "title": "消息人士：Anthropic预计2028年收入将达到1900亿至2000亿美元",
+          "url": "https://flash.jin10.com/detail/20260815083816255800",
+          "heat": false
+        },
+        {
+          "title": "消息人士称，Anthropic预计2028年收入将达到1900亿至2000亿美元。",
+          "url": "https://flash.jin10.com/detail/20260815081946244800",
+          "heat": "✰"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少23.9吨，当前持仓量为15312.13吨。欢迎点击查看数据中心",
+          "url": "https://flash.jin10.com/detail/20260815081848459800",
+          "heat": "✰"
+        },
+        {
+          "title": "美国总统特朗普周六日程一览",
+          "url": "https://flash.jin10.com/detail/20260815081700535800",
+          "heat": false
+        },
+        {
+          "title": "印尼发生7.7级地震并引发海啸预警",
+          "url": "https://flash.jin10.com/detail/20260815081423339800",
+          "heat": false
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加0.285吨，当前持仓量为1023.528吨。",
+          "url": "https://flash.jin10.com/detail/20260815081312547800",
+          "heat": "✰"
+        },
+        {
+          "title": "特朗普证实部署中东的“林肯”号航母将被替换",
+          "url": "https://flash.jin10.com/detail/20260815081235064800",
+          "heat": false
+        },
+        {
+          "title": "据华尔街日报：消息人士称，英伟达(NVDA.O)与OpenAI已修订在俄亥俄州10千兆瓦数据中心项目的交易提议结构。英伟达将保证5吉瓦的项目，将担保金额从2500亿美元降低至不足1200亿美元。",
+          "url": "https://flash.jin10.com/detail/20260815080428529800",
+          "heat": false
+        },
+        {
+          "title": "美联储9月维持利率不变的概率为67.5%",
+          "url": "https://flash.jin10.com/detail/20260815060949810800",
+          "heat": false
+        },
+        {
+          "title": "欧洲地中海地震中心：将印度尼西亚弗洛勒斯地区地震震级从7.4级修订至6.9级。",
+          "url": "https://flash.jin10.com/detail/20260815060713633800",
+          "heat": false
+        },
+        {
+          "title": "欧洲地中海地震中心：印度尼西亚弗洛勒斯地区发生7.4级地震。",
+          "url": "https://flash.jin10.com/detail/20260815060509869800",
+          "heat": false
+        },
+        {
+          "title": "美国防务巨头竞相研发廉价导弹",
+          "url": "https://flash.jin10.com/detail/20260815060326105800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：简街（Jane Street）称近期亏损促使公司对风险更加审慎，已关闭7月出现亏损的特定领域中的大部分风险头寸。",
+          "url": "https://flash.jin10.com/detail/20260815055326004800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：简街（Jane Street）表示，7月业绩表现不佳，交易收入自2016年以来首次出现月度亏损。",
+          "url": "https://flash.jin10.com/detail/20260815055128918800",
+          "heat": false
+        }
+      ]
     }
   ]
 }
