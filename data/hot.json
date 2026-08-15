@@ -1,6 +1,6 @@
 {
-  "updated": "01:30:50",
-  "total": 255,
+  "updated": "01:35:31",
+  "total": 285,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,159 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "印尼地震已造成1人死亡",
+          "url": "https://flash.jin10.com/detail/20260815093251455800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（8月15日）",
+          "url": "https://flash.jin10.com/detail/20260815093023644800",
+          "heat": false
+        },
+        {
+          "title": "伊朗回应特朗普涉霍尔木兹海峡言论",
+          "url": "https://flash.jin10.com/detail/20260815092948437800",
+          "heat": false
+        },
+        {
+          "title": "最新的Quaest民调显示，巴西总统卢拉在模拟的决选中以43%对40%领先弗拉维奥·博尔索纳罗，显示出总统选举差距正在缩小。",
+          "url": "https://flash.jin10.com/detail/20260815092713668800",
+          "heat": false
+        },
+        {
+          "title": "以色列对黎巴嫩南部城镇阿尔曼苏里发起新一轮空袭。",
+          "url": "https://flash.jin10.com/detail/20260815091952066800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：中东局势跟踪（8月15日）",
+          "url": "https://flash.jin10.com/detail/20260815091720593800",
+          "heat": "✰"
+        },
+        {
+          "title": "特朗普敦促美国人接受更高油价",
+          "url": "https://flash.jin10.com/detail/20260815091119294800",
+          "heat": false
+        },
+        {
+          "title": "英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
+          "url": "https://flash.jin10.com/detail/20260815090110907800",
+          "heat": false
+        },
+        {
+          "title": "原油ETF持仓报告：美、布两油纷纷增持，规模有何变化？",
+          "url": "https://flash.jin10.com/detail/20260815084615172800",
+          "heat": false
+        },
+        {
+          "title": "印度尼西亚地球物理局：解除在7.7级地震后发出的海啸警报。",
+          "url": "https://flash.jin10.com/detail/20260815084423079800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：昨日今晨重要新闻汇总（2026-08-15）",
+          "url": "https://flash.jin10.com/detail/20260815084240554800",
+          "heat": "✰"
+        },
+        {
+          "title": "消息人士：Anthropic预计2028年收入将达到1900亿至2000亿美元",
+          "url": "https://flash.jin10.com/detail/20260815083816255800",
+          "heat": false
+        },
+        {
+          "title": "消息人士称，Anthropic预计2028年收入将达到1900亿至2000亿美元。",
+          "url": "https://flash.jin10.com/detail/20260815081946244800",
+          "heat": "✰"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少23.9吨，当前持仓量为15312.13吨。欢迎点击查看数据中心",
+          "url": "https://flash.jin10.com/detail/20260815081848459800",
+          "heat": "✰"
+        },
+        {
+          "title": "美国总统特朗普周六日程一览",
+          "url": "https://flash.jin10.com/detail/20260815081700535800",
+          "heat": false
+        },
+        {
+          "title": "印尼发生7.7级地震并引发海啸预警",
+          "url": "https://flash.jin10.com/detail/20260815081423339800",
+          "heat": false
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加0.285吨，当前持仓量为1023.528吨。",
+          "url": "https://flash.jin10.com/detail/20260815081312547800",
+          "heat": "✰"
+        },
+        {
+          "title": "特朗普证实部署中东的“林肯”号航母将被替换",
+          "url": "https://flash.jin10.com/detail/20260815081235064800",
+          "heat": false
+        },
+        {
+          "title": "据华尔街日报：消息人士称，英伟达(NVDA.O)与OpenAI已修订在俄亥俄州10千兆瓦数据中心项目的交易提议结构。英伟达将保证5吉瓦的项目，将担保金额从2500亿美元降低至不足1200亿美元。",
+          "url": "https://flash.jin10.com/detail/20260815080428529800",
+          "heat": false
+        },
+        {
+          "title": "美联储9月维持利率不变的概率为67.5%",
+          "url": "https://flash.jin10.com/detail/20260815060949810800",
+          "heat": false
+        },
+        {
+          "title": "欧洲地中海地震中心：将印度尼西亚弗洛勒斯地区地震震级从7.4级修订至6.9级。",
+          "url": "https://flash.jin10.com/detail/20260815060713633800",
+          "heat": false
+        },
+        {
+          "title": "欧洲地中海地震中心：印度尼西亚弗洛勒斯地区发生7.4级地震。",
+          "url": "https://flash.jin10.com/detail/20260815060509869800",
+          "heat": false
+        },
+        {
+          "title": "美国防务巨头竞相研发廉价导弹",
+          "url": "https://flash.jin10.com/detail/20260815060326105800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：简街（Jane Street）称近期亏损促使公司对风险更加审慎，已关闭7月出现亏损的特定领域中的大部分风险头寸。",
+          "url": "https://flash.jin10.com/detail/20260815055326004800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：简街（Jane Street）表示，7月业绩表现不佳，交易收入自2016年以来首次出现月度亏损。",
+          "url": "https://flash.jin10.com/detail/20260815055128918800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：简街（JaneStreet）在周五致员工的一份备忘录中表示，2026年营收“较6月底峰值下降了约25%”。",
+          "url": "https://flash.jin10.com/detail/20260815054957553800",
+          "heat": false
+        },
+        {
+          "title": "巴西石油公司（Petrobras）：在亚马逊河口盆地FZA-M-59区块的一口勘探井中发现油气迹象。",
+          "url": "https://flash.jin10.com/detail/20260815054809698800",
+          "heat": false
+        },
+        {
+          "title": "巴克莱：维持2026年布伦特原油价格预测为96美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260815053953991800",
+          "heat": false
+        },
+        {
+          "title": "阿联酋阿布扎比国家石油公司ADNOC：我们的一艘船只于当地时间8月14日在霍尔木兹海峡航行时遭到袭击。事件中无人受伤，情况已得到控制。",
+          "url": "https://flash.jin10.com/detail/20260815053818380800",
+          "heat": false
+        },
+        {
+          "title": "据英国金融时报：简街（JaneStreet）在七月份录得约150亿美元的亏损。",
+          "url": "https://flash.jin10.com/detail/20260815053237241800",
+          "heat": false
+        }
+      ]
     }
   ]
 }
