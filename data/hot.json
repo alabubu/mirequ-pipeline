@@ -1,6 +1,6 @@
 {
-  "updated": "01:00:58",
-  "total": 255,
+  "updated": "01:05:31",
+  "total": 284,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,154 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 0,
-      "items": []
+      "count": 29,
+      "items": [
+        {
+          "title": "英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
+          "url": "https://flash.jin10.com/detail/20260815090110907800",
+          "heat": false
+        },
+        {
+          "title": "原油ETF持仓报告：美、布两油纷纷增持，规模有何变化？",
+          "url": "https://flash.jin10.com/detail/20260815084615172800",
+          "heat": false
+        },
+        {
+          "title": "印度尼西亚地球物理局：解除在7.7级地震后发出的海啸警报。",
+          "url": "https://flash.jin10.com/detail/20260815084423079800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：昨日今晨重要新闻汇总（2026-08-15）",
+          "url": "https://flash.jin10.com/detail/20260815084240554800",
+          "heat": "✰"
+        },
+        {
+          "title": "消息人士：Anthropic预计2028年收入将达到1900亿至2000亿美元",
+          "url": "https://flash.jin10.com/detail/20260815083816255800",
+          "heat": false
+        },
+        {
+          "title": "消息人士称，Anthropic预计2028年收入将达到1900亿至2000亿美元。",
+          "url": "https://flash.jin10.com/detail/20260815081946244800",
+          "heat": "✰"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少23.9吨，当前持仓量为15312.13吨。欢迎点击查看数据中心",
+          "url": "https://flash.jin10.com/detail/20260815081848459800",
+          "heat": "✰"
+        },
+        {
+          "title": "美国总统特朗普周六日程一览",
+          "url": "https://flash.jin10.com/detail/20260815081700535800",
+          "heat": false
+        },
+        {
+          "title": "印尼发生7.7级地震并引发海啸预警",
+          "url": "https://flash.jin10.com/detail/20260815081423339800",
+          "heat": false
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加0.285吨，当前持仓量为1023.528吨。",
+          "url": "https://flash.jin10.com/detail/20260815081312547800",
+          "heat": "✰"
+        },
+        {
+          "title": "特朗普证实部署中东的“林肯”号航母将被替换",
+          "url": "https://flash.jin10.com/detail/20260815081235064800",
+          "heat": false
+        },
+        {
+          "title": "据华尔街日报：消息人士称，英伟达(NVDA.O)与OpenAI已修订在俄亥俄州10千兆瓦数据中心项目的交易提议结构。英伟达将保证5吉瓦的项目，将担保金额从2500亿美元降低至不足1200亿美元。",
+          "url": "https://flash.jin10.com/detail/20260815080428529800",
+          "heat": false
+        },
+        {
+          "title": "美联储9月维持利率不变的概率为67.5%",
+          "url": "https://flash.jin10.com/detail/20260815060949810800",
+          "heat": false
+        },
+        {
+          "title": "欧洲地中海地震中心：将印度尼西亚弗洛勒斯地区地震震级从7.4级修订至6.9级。",
+          "url": "https://flash.jin10.com/detail/20260815060713633800",
+          "heat": false
+        },
+        {
+          "title": "欧洲地中海地震中心：印度尼西亚弗洛勒斯地区发生7.4级地震。",
+          "url": "https://flash.jin10.com/detail/20260815060509869800",
+          "heat": false
+        },
+        {
+          "title": "美国防务巨头竞相研发廉价导弹",
+          "url": "https://flash.jin10.com/detail/20260815060326105800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：简街（Jane Street）称近期亏损促使公司对风险更加审慎，已关闭7月出现亏损的特定领域中的大部分风险头寸。",
+          "url": "https://flash.jin10.com/detail/20260815055326004800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：简街（Jane Street）表示，7月业绩表现不佳，交易收入自2016年以来首次出现月度亏损。",
+          "url": "https://flash.jin10.com/detail/20260815055128918800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：简街（JaneStreet）在周五致员工的一份备忘录中表示，2026年营收“较6月底峰值下降了约25%”。",
+          "url": "https://flash.jin10.com/detail/20260815054957553800",
+          "heat": false
+        },
+        {
+          "title": "巴西石油公司（Petrobras）：在亚马逊河口盆地FZA-M-59区块的一口勘探井中发现油气迹象。",
+          "url": "https://flash.jin10.com/detail/20260815054809698800",
+          "heat": false
+        },
+        {
+          "title": "巴克莱：维持2026年布伦特原油价格预测为96美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260815053953991800",
+          "heat": false
+        },
+        {
+          "title": "阿联酋阿布扎比国家石油公司ADNOC：我们的一艘船只于当地时间8月14日在霍尔木兹海峡航行时遭到袭击。事件中无人受伤，情况已得到控制。",
+          "url": "https://flash.jin10.com/detail/20260815053818380800",
+          "heat": false
+        },
+        {
+          "title": "据英国金融时报：简街（JaneStreet）在七月份录得约150亿美元的亏损。",
+          "url": "https://flash.jin10.com/detail/20260815053237241800",
+          "heat": false
+        },
+        {
+          "title": "消息人士：加拿大对美贸易部长告知咨询委员会，加美双方距离达成协议“相当遥远”。",
+          "url": "https://flash.jin10.com/detail/20260815053153644800",
+          "heat": false
+        },
+        {
+          "title": "Anthropic二季度营收超115亿美元 较去年同期增长至少14倍",
+          "url": "https://flash.jin10.com/detail/20260815053103557800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：Anthropic在2026年第二季度初步营收超过115亿美元，较上年同期至少增长了14倍，同时报告实现调整后营业利润为正。",
+          "url": "https://flash.jin10.com/detail/20260815051457331800",
+          "heat": "✰"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊朗外长阿拉格齐表示，尚未决定是否恢复与美国谈判。卡塔尔和巴基斯坦作为协调方正在与伊朗交换信息，但这并不意味着美伊已进入谈判。",
+          "url": "https://flash.jin10.com/detail/20260815050929790800",
+          "heat": "✰"
+        },
+        {
+          "title": "惠誉：英国首相在工党内部地位更为稳固，支持率上升，这将有助于本届议会剩余任期内政治局势保持稳定。",
+          "url": "https://flash.jin10.com/detail/20260815050542171800",
+          "heat": false
+        },
+        {
+          "title": "惠誉：英国政府总体债务占GDP比重到2028年底将升至106%。",
+          "url": "https://flash.jin10.com/detail/20260815050517907800",
+          "heat": false
+        }
+      ]
     }
   ]
 }
