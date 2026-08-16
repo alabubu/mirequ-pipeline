@@ -1,6 +1,6 @@
 {
-  "updated": "02:40:36",
-  "total": 281,
+  "updated": "02:45:36",
+  "total": 282,
   "platforms": [
     {
       "id": "zhihu",
@@ -987,6 +987,11 @@
           "heat": ""
         },
         {
+          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+          "url": "https://www.cls.cn/detail/2455237",
+          "heat": ""
+        },
+        {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
           "url": "https://www.cls.cn/detail/2455058",
           "heat": ""
@@ -1002,23 +1007,18 @@
           "heat": ""
         },
         {
-          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
-          "url": "https://www.cls.cn/detail/2455237",
-          "heat": ""
-        },
-        {
           "title": "中行落地全国首个算力“Token贷”，算力金融跨入应用层企业，上下游联动成未来方向",
           "url": "https://www.cls.cn/detail/2454822",
           "heat": ""
         },
         {
-          "title": "研报违规，交易所罕见对两券商口头警示，业绩预测出问题？",
-          "url": "https://www.cls.cn/detail/2454915",
+          "title": "《欢迎来龙餐馆》中东城95%国内造",
+          "url": "https://www.cls.cn/detail/2455140",
           "heat": ""
         },
         {
-          "title": "《欢迎来龙餐馆》中东城95%国内造",
-          "url": "https://www.cls.cn/detail/2455140",
+          "title": "研报违规，交易所罕见对两券商口头警示，业绩预测出问题？",
+          "url": "https://www.cls.cn/detail/2454915",
           "heat": ""
         }
       ]
@@ -1357,8 +1357,18 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 26,
+      "count": 27,
       "items": [
+        {
+          "title": "美国总统特朗普：参议院必须尽快投票通过《不再改变时钟法案》。白天多些阳光总是好的（还能打击犯罪！），但更重要的，别再每年两次荒唐地来回拨时钟和手表了，又混乱又麻烦。赶紧把它搞定！",
+          "url": "https://flash.jin10.com/detail/20260816102212922800",
+          "heat": false
+        },
+        {
+          "title": "一周展望：美联储纪要携手PMI来袭，霍尔木兹海峡局势能否取得突破？",
+          "url": "https://flash.jin10.com/detail/20260816102015972800",
+          "heat": "✰"
+        },
         {
           "title": "芯片股反弹难消忧虑，韩国市场做空规模持续攀升",
           "url": "https://flash.jin10.com/detail/20260816100530763800",
@@ -1482,11 +1492,6 @@
         {
           "title": "SpaceX(SPCX.O)：“猎鹰9号”火箭已在佛罗里达州和加利福尼亚州竖立就位，准备迎接今天即将进行的发射任务。",
           "url": "https://flash.jin10.com/detail/20260816054148763800",
-          "heat": false
-        },
-        {
-          "title": "厄瓜多尔总统诺沃亚抵达北京 开启访华行程",
-          "url": "https://flash.jin10.com/detail/20260816052608235800",
           "heat": false
         }
       ]
