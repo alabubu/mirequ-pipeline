@@ -1,6 +1,6 @@
 {
-  "updated": "11:31:01",
-  "total": 200,
+  "updated": "11:31:37",
+  "total": 282,
   "platforms": [
     {
       "id": "zhihu",
@@ -954,8 +954,74 @@
     {
       "id": "cls-hot",
       "name": "财联社",
-      "count": 0,
-      "items": []
+      "count": 13,
+      "items": [
+        {
+          "title": "国产算力迎扩张浪潮：大厂“超预期”加码投资 产业链多环节开启扩产",
+          "url": "https://www.cls.cn/detail/2455214",
+          "heat": ""
+        },
+        {
+          "title": "固态变压器从 “实验室概念” 走向 “千亿赛道”|SST产业化元年",
+          "url": "https://www.cls.cn/detail/2455134",
+          "heat": ""
+        },
+        {
+          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+          "url": "https://www.cls.cn/detail/2455237",
+          "heat": ""
+        },
+        {
+          "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
+          "url": "https://www.cls.cn/detail/2455147",
+          "heat": ""
+        },
+        {
+          "title": "CRO八月跑赢CPO，“光宗”之后是“药祖”行情？",
+          "url": "https://www.cls.cn/detail/2454492",
+          "heat": ""
+        },
+        {
+          "title": "【早报】中行落地全国首个算力“Token贷”；贵州茅台、生益科技发布半年报；美存储板块走强",
+          "url": "https://www.cls.cn/detail/2455045",
+          "heat": ""
+        },
+        {
+          "title": "太炸裂！Anthropic二季度营收达逾115亿美元 同比实现14倍暴涨",
+          "url": "https://www.cls.cn/detail/2455064",
+          "heat": ""
+        },
+        {
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
+          "url": "https://www.cls.cn/detail/2455058",
+          "heat": ""
+        },
+        {
+          "title": "美股收盘：三大指数小幅收低 存储概念逆市走强 闪迪周涨逾35%",
+          "url": "https://www.cls.cn/detail/2455043",
+          "heat": ""
+        },
+        {
+          "title": "《欢迎来龙餐馆》中东城95%国内造",
+          "url": "https://www.cls.cn/detail/2455140",
+          "heat": ""
+        },
+        {
+          "title": "600亿美元科技收购落地 马斯克正式杀入“Vibe Coding”战场",
+          "url": "https://www.cls.cn/detail/2455019",
+          "heat": ""
+        },
+        {
+          "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
+          "url": "https://www.cls.cn/detail/2455252",
+          "heat": ""
+        },
+        {
+          "title": "存储超级周期下半场：长协封顶消费承压 2027或现分水岭",
+          "url": "https://www.cls.cn/detail/2455354",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "thepaper",
@@ -1067,20 +1133,368 @@
     {
       "id": "ifeng",
       "name": "凤凰网",
-      "count": 0,
-      "items": []
+      "count": 12,
+      "items": [
+        {
+          "title": "伊朗高层换血，革命卫队更强势了？",
+          "url": "https://news.ifeng.com/c/8vdiSOXc8hN",
+          "heat": ""
+        },
+        {
+          "title": "舰上丑闻不断后，美军高官登上“林肯”号航母给士兵鼓劲",
+          "url": "https://news.ifeng.com/c/8vdi4uE27V5",
+          "heat": ""
+        },
+        {
+          "title": "伊朗三大权力机构负责人举行会晤",
+          "url": "https://news.ifeng.com/c/8vd393ITLzT",
+          "heat": ""
+        },
+        {
+          "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
+          "url": "https://news.ifeng.com/c/8vd6r6o7WHm",
+          "heat": ""
+        },
+        {
+          "title": "数名朝鲜军人“越线”，韩军鸣枪警告",
+          "url": "https://news.ifeng.com/c/8vdllvyBCC4",
+          "heat": ""
+        },
+        {
+          "title": "日媒：普京罕见乘军舰而非飞机登岛，或为俄领导人首次",
+          "url": "https://news.ifeng.com/c/8vdcMcDuFU0",
+          "heat": ""
+        },
+        {
+          "title": "韩国重启亲日韩奸财产追缴工作",
+          "url": "https://news.ifeng.com/c/8vdfK4dg8up",
+          "heat": ""
+        },
+        {
+          "title": "人在莫斯科，死刑“从天降”",
+          "url": "https://news.ifeng.com/c/8vdOb2BXaAm",
+          "heat": ""
+        },
+        {
+          "title": "剑桥最年轻黑人教授深陷造假风波后死亡，英首相：别妄下结论",
+          "url": "https://news.ifeng.com/c/8vd5N6y8esf",
+          "heat": ""
+        },
+        {
+          "title": "纽约市长秀中文：演出现场见",
+          "url": "https://v.ifeng.com/c/8vdfK4dg8zY",
+          "heat": ""
+        },
+        {
+          "title": "30多吨黑胡椒存入冷库后“凭空消失”，价值150多万",
+          "url": "https://news.ifeng.com/c/8vcROpNjdQj",
+          "heat": ""
+        },
+        {
+          "title": "男子称买到2027年的“早产饮料”，东鹏特饮回应",
+          "url": "https://news.ifeng.com/c/8vddV8qaEg1",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "toutiao",
       "name": "今日头条",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "朱镕基同志遗体18日火化",
+          "url": "https://www.toutiao.com/trending/7673402891508908042/",
+          "heat": ""
+        },
+        {
+          "title": "央视曝光近150人组团夜爬封禁山峰",
+          "url": "https://www.toutiao.com/trending/7674494013226893362/",
+          "heat": ""
+        },
+        {
+          "title": "厚植中国式现代化的绿色底色",
+          "url": "https://www.toutiao.com/trending/7673520930697936902/",
+          "heat": ""
+        },
+        {
+          "title": "韩军鸣枪警告越界朝鲜军人",
+          "url": "https://www.toutiao.com/trending/7674567838773808703/",
+          "heat": ""
+        },
+        {
+          "title": "《新闻联播》正在直播",
+          "url": "https://www.toutiao.com/trending/7673727363703836179/",
+          "heat": ""
+        },
+        {
+          "title": "俄火箭航天中心遭乌军袭击起火",
+          "url": "https://www.toutiao.com/trending/7674565681299607078/",
+          "heat": ""
+        },
+        {
+          "title": "侵华日军家信：每天杀两三千中国人",
+          "url": "https://www.toutiao.com/trending/7673792086998548522/",
+          "heat": ""
+        },
+        {
+          "title": "胖东来将闭门老店28个收银口排长龙",
+          "url": "https://www.toutiao.com/trending/7674460027406798362/",
+          "heat": ""
+        },
+        {
+          "title": "广东东莞土地案最新进展",
+          "url": "https://www.toutiao.com/trending/7674289174497214510/",
+          "heat": ""
+        },
+        {
+          "title": "独库公路抛物被扔回 男子劝阻获赞",
+          "url": "https://www.toutiao.com/trending/7674044414113497124/",
+          "heat": ""
+        },
+        {
+          "title": "两人为博眼球发布不实信息被处罚",
+          "url": "https://www.toutiao.com/trending/7674048234083368996/",
+          "heat": ""
+        },
+        {
+          "title": "台当局查扣首辆张雪机车在怕什么",
+          "url": "https://www.toutiao.com/trending/7673863415043997759/",
+          "heat": ""
+        },
+        {
+          "title": "梭子蟹大量上市 中医提醒",
+          "url": "https://www.toutiao.com/trending/7674237819607121929/",
+          "heat": ""
+        },
+        {
+          "title": "女子泼水到别人门前 回去时摔倒了",
+          "url": "https://www.toutiao.com/trending/7674439079534133257/",
+          "heat": ""
+        },
+        {
+          "title": "新加坡老人轻拍女童头部被家长撂倒",
+          "url": "https://www.toutiao.com/trending/7674458401706983460/",
+          "heat": ""
+        },
+        {
+          "title": "A股反弹还能走多远",
+          "url": "https://www.toutiao.com/trending/7674559573931331126/",
+          "heat": ""
+        },
+        {
+          "title": "陕西志丹接连发生两起原油泄漏事件",
+          "url": "https://www.toutiao.com/trending/7673674742520528959/",
+          "heat": ""
+        },
+        {
+          "title": "张本美和早田希娜女双夺冠",
+          "url": "https://www.toutiao.com/trending/7673935326909513764/",
+          "heat": ""
+        },
+        {
+          "title": "日本民众集会高喊：高市早苗下台",
+          "url": "https://www.toutiao.com/trending/7673450471734198291/",
+          "heat": ""
+        },
+        {
+          "title": "39岁儿科医生去世 多人缅怀",
+          "url": "https://www.toutiao.com/trending/7674528804517219891/",
+          "heat": ""
+        },
+        {
+          "title": "31名青岛学子奔赴清华大学",
+          "url": "https://www.toutiao.com/trending/7674510267339194378/",
+          "heat": ""
+        },
+        {
+          "title": "学胖东来的超市养活了一批调改师",
+          "url": "https://www.toutiao.com/trending/7674543348983533119/",
+          "heat": ""
+        },
+        {
+          "title": "学者：美航母后撤也难逃东风导弹一击",
+          "url": "https://www.toutiao.com/trending/7674529221057711659/",
+          "heat": ""
+        },
+        {
+          "title": "孙楠回应体重只有128斤",
+          "url": "https://www.toutiao.com/trending/7674436527586492470/",
+          "heat": ""
+        },
+        {
+          "title": "请3天假连休13天",
+          "url": "https://www.toutiao.com/trending/7673849414997671982/",
+          "heat": ""
+        },
+        {
+          "title": "渤海海峡黄海北部连续14天禁入",
+          "url": "https://www.toutiao.com/trending/7673613116982394923/",
+          "heat": ""
+        },
+        {
+          "title": "女子产后抑郁离世父母与丈夫争夺财产",
+          "url": "https://www.toutiao.com/trending/7674416714771873846/",
+          "heat": ""
+        },
+        {
+          "title": "00后女儿和80后妈妈前后脚生娃",
+          "url": "https://www.toutiao.com/trending/7674453421857685540/",
+          "heat": ""
+        },
+        {
+          "title": "台湾岛内为何在“8·15”如此安静",
+          "url": "https://www.toutiao.com/trending/7674526138861207571/",
+          "heat": ""
+        },
+        {
+          "title": "肌肉是人体“硬铠甲”",
+          "url": "https://www.toutiao.com/trending/7674203362782691364/",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 0,
-      "items": []
+      "count": 27,
+      "items": [
+        {
+          "title": "伊朗陆军总司令：俘获或击毙美军可获3万美元悬赏",
+          "url": "https://flash.jin10.com/detail/20260816190924554800",
+          "heat": false
+        },
+        {
+          "title": "以媒：美方施压之下，以色列对真主党和哈马斯的回应空间有限",
+          "url": "https://flash.jin10.com/detail/20260816185554457800",
+          "heat": false
+        },
+        {
+          "title": "中信证券：恒生科技指数的调整具有显著事件效应",
+          "url": "https://flash.jin10.com/detail/20260816184629113800",
+          "heat": false
+        },
+        {
+          "title": "紫金黄金国际：上半年矿产金产量同比增长44%至约27.3吨",
+          "url": "https://flash.jin10.com/detail/20260816184007933800",
+          "heat": false
+        },
+        {
+          "title": "乌称袭击俄重要军工企业 俄称一日击落近1500架乌无人机",
+          "url": "https://flash.jin10.com/detail/20260816183216812800",
+          "heat": false
+        },
+        {
+          "title": "美伊谈判内幕遭美媒曝光 特朗普政府曾绕过伊朗谈判代表接触革命卫队",
+          "url": "https://flash.jin10.com/detail/20260816182514064800",
+          "heat": "✰"
+        },
+        {
+          "title": "据沙特媒体援引也门武装部队称，对胡塞目标进行了打击，覆盖了接触线的各个方向。也门武装部队还表示，有能力和准备去打击胡塞的威胁源并使其失效，对胡塞目标的打击摧毁了数十台设备和武器库。",
+          "url": "https://flash.jin10.com/detail/20260816181032705800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-16）",
+          "url": "https://flash.jin10.com/detail/20260816180839464800",
+          "heat": "✰"
+        },
+        {
+          "title": "韩军向越过东部军事分界线朝鲜军人鸣枪警告",
+          "url": "https://flash.jin10.com/detail/20260816180132072800",
+          "heat": false
+        },
+        {
+          "title": "据沙特阿拉伯阿拉比亚电视台：也门武装部队称，过去24小时内，对胡塞武装目标及威胁源发动了181次军事行动。",
+          "url": "https://flash.jin10.com/detail/20260816175449588800",
+          "heat": false
+        },
+        {
+          "title": "印尼7.7级地震已造成53人死亡",
+          "url": "https://flash.jin10.com/detail/20260816174940267800",
+          "heat": false
+        },
+        {
+          "title": "哈马斯：代表团在开罗的会议旨在确保占领者对与和平委员会达成的路线图的承诺。",
+          "url": "https://flash.jin10.com/detail/20260816174643180800",
+          "heat": false
+        },
+        {
+          "title": "哈马斯：代表团在开罗的会议是与调解方持续沟通的一部分，目的是向他们通报以色列的违规行为。",
+          "url": "https://flash.jin10.com/detail/20260816174608303800",
+          "heat": false
+        },
+        {
+          "title": "哈马斯：代表团已抵达开罗，即将开始会议讨论加沙局势。",
+          "url": "https://flash.jin10.com/detail/20260816174546740800",
+          "heat": false
+        },
+        {
+          "title": "纳指ETF广发：8月17日开市起至10:30停牌",
+          "url": "https://flash.jin10.com/detail/20260816174145455800",
+          "heat": false
+        },
+        {
+          "title": "伊朗革命卫队：科威特在关于四名被拘留的伊朗人命运方面向德黑兰隐瞒了信息。",
+          "url": "https://flash.jin10.com/detail/20260816174041507800",
+          "heat": false
+        },
+        {
+          "title": "俄罗斯国防部：部队已占领乌克兰顿涅茨克地区的佩尔肖马里夫卡村和哈尔科夫地区的库迪伊夫卡。",
+          "url": "https://flash.jin10.com/detail/20260816173202655800",
+          "heat": false
+        },
+        {
+          "title": "乌克兰军方：乌克兰已对俄罗斯罗斯托夫地区的一处导弹燃料生产设施进行了打击。",
+          "url": "https://flash.jin10.com/detail/20260816173142981800",
+          "heat": false
+        },
+        {
+          "title": "据沙特媒体哈达斯（Alhadath）：消息人士称，特朗普特使库什纳将与哈马斯代表会面，届时将有埃及、土耳其和卡塔尔的调解人出席，库什纳与哈马斯的会晤旨在防止加沙协议的崩溃。",
+          "url": "https://flash.jin10.com/detail/20260816172332854800",
+          "heat": false
+        },
+        {
+          "title": "欧洲地中海地震中心：印尼弗洛雷斯地区发生了4.2级地震；震源深度5公里。",
+          "url": "https://flash.jin10.com/detail/20260816172317053800",
+          "heat": false
+        },
+        {
+          "title": "据沙特阿拉伯阿拉比亚电视台：也门军队称，胡塞武装向摩卡发射了6枚弹道导弹和6架无人机，防空系统击落了两架胡塞无人机。",
+          "url": "https://flash.jin10.com/detail/20260816171823947800",
+          "heat": false
+        },
+        {
+          "title": "纳指科技ETF景顺：二级市场价格溢价 8月17日停牌后复牌",
+          "url": "https://flash.jin10.com/detail/20260816171319345800",
+          "heat": false
+        },
+        {
+          "title": "以军称打死真主党一名高级指挥官",
+          "url": "https://flash.jin10.com/detail/20260816170334896800",
+          "heat": false
+        },
+        {
+          "title": "2026暑期档票房超100亿",
+          "url": "https://flash.jin10.com/detail/20260816170202324800",
+          "heat": "✰"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗梅赫兰市市长称，几分钟前在梅赫兰听到的爆炸声是由于在伊拉克境内销毁战争遗留弹药的操作所致。",
+          "url": "https://flash.jin10.com/detail/20260816165308429800",
+          "heat": false
+        },
+        {
+          "title": "电影《牛来》实时票房破500万",
+          "url": "https://flash.jin10.com/detail/20260816164340516800",
+          "heat": false
+        },
+        {
+          "title": "乌克兰总统泽连斯基：欧洲的拦截弹不能被困在仓库中。",
+          "url": "https://flash.jin10.com/detail/20260816162156684800",
+          "heat": false
+        }
+      ]
     }
   ]
 }
