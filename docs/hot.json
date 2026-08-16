@@ -1,6 +1,6 @@
 {
-  "updated": "06:45:32",
-  "total": 284,
+  "updated": "06:50:34",
+  "total": 283,
   "platforms": [
     {
       "id": "zhihu",
@@ -606,11 +606,6 @@
           "heat": ""
         },
         {
-          "title": "“AI版金融创新”：博通大跌背后的AI芯片“卖方担保”模式",
-          "url": "https://wallstreetcn.com/articles/3779508",
-          "heat": ""
-        },
-        {
           "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
           "url": "https://wallstreetcn.com/articles/3779521",
           "heat": ""
@@ -626,13 +621,18 @@
           "heat": ""
         },
         {
-          "title": "520元/股！宇树科技，未上市先疯抢！场外“暗盘”兴起，谁在豪赌？",
-          "url": "https://wallstreetcn.com/articles/3779509",
+          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
+          "url": "https://wallstreetcn.com/articles/3779527",
           "heat": ""
         },
         {
           "title": "博通暴跌20% 市场在怕什么？",
           "url": "https://wallstreetcn.com/premium/articles/3779502?layout=wscn-layout",
+          "heat": ""
+        },
+        {
+          "title": "520元/股！宇树科技，未上市先疯抢！场外“暗盘”兴起，谁在豪赌？",
+          "url": "https://wallstreetcn.com/articles/3779509",
           "heat": ""
         }
       ]
@@ -1357,8 +1357,18 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 29,
+      "count": 28,
       "items": [
+        {
+          "title": "伊朗外交部强烈谴责以色列对黎袭击",
+          "url": "https://flash.jin10.com/detail/20260816144217334800",
+          "heat": false
+        },
+        {
+          "title": "固德威与深算院达成战略合作 共建AI+智慧能源联合创新中心",
+          "url": "https://flash.jin10.com/detail/20260816142707893800",
+          "heat": false
+        },
         {
           "title": "美印第安纳州暴雨洪水致6人死亡",
           "url": "https://flash.jin10.com/detail/20260816141505230800",
@@ -1487,21 +1497,6 @@
         {
           "title": "通胀预期锚定上行空间，空头退潮助力金银携手突围",
           "url": "https://flash.jin10.com/detail/20260816104416878800",
-          "heat": "✰"
-        },
-        {
-          "title": "美国肯塔基州发生枪击事件致1死4伤",
-          "url": "https://flash.jin10.com/detail/20260816104408904800",
-          "heat": false
-        },
-        {
-          "title": "美国总统特朗普：参议院必须尽快投票通过《不再改变时钟法案》。白天多些阳光总是好的（还能打击犯罪！），但更重要的，别再每年两次荒唐地来回拨时钟和手表了，又混乱又麻烦。赶紧把它搞定！",
-          "url": "https://flash.jin10.com/detail/20260816102212922800",
-          "heat": false
-        },
-        {
-          "title": "一周展望：美联储纪要携手PMI来袭，霍尔木兹海峡局势能否取得突破？",
-          "url": "https://flash.jin10.com/detail/20260816102015972800",
           "heat": "✰"
         }
       ]
