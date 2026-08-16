@@ -1,6 +1,6 @@
 {
-  "updated": "06:15:32",
-  "total": 283,
+  "updated": "06:20:35",
+  "total": 284,
   "platforms": [
     {
       "id": "zhihu",
@@ -621,6 +621,11 @@
           "heat": ""
         },
         {
+          "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
+          "url": "https://wallstreetcn.com/articles/3779526",
+          "heat": ""
+        },
+        {
           "title": "520元/股！宇树科技，未上市先疯抢！场外“暗盘”兴起，谁在豪赌？",
           "url": "https://wallstreetcn.com/articles/3779509",
           "heat": ""
@@ -628,11 +633,6 @@
         {
           "title": "博通暴跌20% 市场在怕什么？",
           "url": "https://wallstreetcn.com/premium/articles/3779502?layout=wscn-layout",
-          "heat": ""
-        },
-        {
-          "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
-          "url": "https://wallstreetcn.com/articles/3779526",
           "heat": ""
         }
       ]
@@ -962,11 +962,6 @@
           "heat": ""
         },
         {
-          "title": "4家A股公司公告：终止资产重组事项",
-          "url": "https://www.cls.cn/detail/2454846",
-          "heat": ""
-        },
-        {
           "title": "固态变压器从 “实验室概念” 走向 “千亿赛道”|SST产业化元年",
           "url": "https://www.cls.cn/detail/2455134",
           "heat": ""
@@ -1019,6 +1014,11 @@
         {
           "title": "600亿美元科技收购落地 马斯克正式杀入“Vibe Coding”战场",
           "url": "https://www.cls.cn/detail/2455019",
+          "heat": ""
+        },
+        {
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
+          "url": "https://www.cls.cn/detail/2455050",
           "heat": ""
         }
       ]
@@ -1357,8 +1357,23 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 28,
+      "count": 29,
       "items": [
+        {
+          "title": "美印第安纳州暴雨洪水致6人死亡",
+          "url": "https://flash.jin10.com/detail/20260816141505230800",
+          "heat": false
+        },
+        {
+          "title": "美媒：美海军在意大利最大基地内发现无人机，并采取全基地安全措施",
+          "url": "https://flash.jin10.com/detail/20260816135846536800",
+          "heat": false
+        },
+        {
+          "title": "小摩：超强厄尔尼诺即将来袭 明年或爆发全球粮食危机",
+          "url": "https://flash.jin10.com/detail/20260816135533159800",
+          "heat": false
+        },
         {
           "title": "我国成功发射卫星互联网低轨24组卫星",
           "url": "https://flash.jin10.com/detail/20260816134835994800",
@@ -1488,16 +1503,6 @@
           "title": "一周展望：美联储纪要携手PMI来袭，霍尔木兹海峡局势能否取得突破？",
           "url": "https://flash.jin10.com/detail/20260816102015972800",
           "heat": "✰"
-        },
-        {
-          "title": "芯片股反弹难消忧虑，韩国市场做空规模持续攀升",
-          "url": "https://flash.jin10.com/detail/20260816100530763800",
-          "heat": false
-        },
-        {
-          "title": "利比亚一发电站附近爆炸 首都等多地停电",
-          "url": "https://flash.jin10.com/detail/20260816095528218800",
-          "heat": false
         }
       ]
     }
