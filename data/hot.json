@@ -1,6 +1,6 @@
 {
-  "updated": "22:45:35",
-  "total": 283,
+  "updated": "22:50:32",
+  "total": 284,
   "platforms": [
     {
       "id": "zhihu",
@@ -596,7 +596,7 @@
           "heat": ""
         },
         {
-          "title": "地缘风险推高油价，美股三大指数两连跌，存储芯片、光通信逆势大涨，黄金涨回4400",
+          "title": "地缘风险推高油价和美债收益率，美股三大指数两连跌，存储芯片、光通信逆势大涨",
           "url": "https://wallstreetcn.com/articles/3779603",
           "heat": ""
         },
@@ -631,8 +631,8 @@
           "heat": ""
         },
         {
-          "title": "7月70城房价：一线城市二手房价环比涨幅继续回落至0.2%，各线城市房价同比降幅再收窄",
-          "url": "https://wallstreetcn.com/articles/3779596",
+          "title": "Anthropic估值有多激进？华尔街押注：2028年收入狂飙至2000亿美元",
+          "url": "https://wallstreetcn.com/articles/3779618",
           "heat": ""
         }
       ]
@@ -1002,6 +1002,11 @@
           "heat": ""
         },
         {
+          "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
+          "url": "https://www.cls.cn/detail/2456558",
+          "heat": ""
+        },
+        {
           "title": "注意！低于100元现金、无证券资产的股票账户要被“休眠”处理了",
           "url": "https://www.cls.cn/detail/2456272",
           "heat": ""
@@ -1014,11 +1019,6 @@
         {
           "title": "黄金再度挑动投资情绪，黄金ETF月内吸金超80亿",
           "url": "https://www.cls.cn/detail/2456202",
-          "heat": ""
-        },
-        {
-          "title": "【VIP日报】半导体概念震荡反弹 栏目解读材料细分领域 提及2家公司双双连板",
-          "url": "https://www.cls.cn/detail/2456063",
           "heat": ""
         }
       ]
@@ -1357,8 +1357,63 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 28,
+      "count": 29,
       "items": [
+        {
+          "title": "必和必拓：由于中东冲突，成本环境“发生了重大变化”。",
+          "url": "https://flash.jin10.com/detail/20260818064455305800",
+          "heat": false
+        },
+        {
+          "title": "必和必拓表示，铜是推动其增长的引擎，预计仅铜的需求就将从目前约3400万吨/年增长至2050年的5000万吨以上。",
+          "url": "https://flash.jin10.com/detail/20260818064200907800",
+          "heat": false
+        },
+        {
+          "title": "必和必拓财年收入587.6亿美元，同比增长15%。必和必拓财年资本及勘探支出为102.6亿美元，同比增长5%。",
+          "url": "https://flash.jin10.com/detail/20260818063857721800",
+          "heat": false
+        },
+        {
+          "title": "必和必拓财年净利润98.3亿美元，同比增长9%。必和必拓财年基础利润为132亿美元，同比增长30%，超过市场预期的126.6亿美元。",
+          "url": "https://flash.jin10.com/detail/20260818063635071800",
+          "heat": false
+        },
+        {
+          "title": "特朗普拒绝延长美伊停火协议，警告阿曼别“挡路”，否则将遭轰炸",
+          "url": "https://flash.jin10.com/detail/20260818063446465800",
+          "heat": "✰"
+        },
+        {
+          "title": "金十数据整理：昨日今晨重要新闻汇总（2026-08-18）",
+          "url": "https://flash.jin10.com/detail/20260818063021322800",
+          "heat": "✰"
+        },
+        {
+          "title": "民调显示特朗普支持率创第二任期内新低",
+          "url": "https://flash.jin10.com/detail/20260818062651085800",
+          "heat": false
+        },
+        {
+          "title": "亚洲股市料低开，油价和债券收益率或构成逆风",
+          "url": "https://flash.jin10.com/detail/20260818062626083800",
+          "heat": false
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加7.132吨，为6月18日以来最大增持幅度，当前持仓量为1030.66吨。",
+          "url": "https://flash.jin10.com/detail/20260818062249371800",
+          "heat": "✰"
+        },
+        {
+          "title": "美国与伊朗继续僵持，油价上涨",
+          "url": "https://flash.jin10.com/detail/20260818062100594800",
+          "heat": false
+        },
+        {
+          "title": "Meta天价索赔案将于周二开庭",
+          "url": "https://flash.jin10.com/detail/20260818061721532800",
+          "heat": false
+        },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少39.35吨，当前持仓量为15272.78吨。欢迎点击查看数据中心…",
           "url": "https://flash.jin10.com/detail/20260818060303181800",
@@ -1448,56 +1503,6 @@
           "title": "美国航空航天局（NASA）：选定四家企业为任务有效载荷提供处理设施服务。入选企业包括蓝色起源、萤火虫航空及L3Harris等。该合同总价值最高可达1亿美元。",
           "url": "https://flash.jin10.com/detail/20260818044223812800",
           "heat": false
-        },
-        {
-          "title": "据阿联酋通讯社：阿联酋外交部长与科威特外交大臣通话，双方讨论了地区最新局势以及为加强中东地区安全与稳定所作的努力。",
-          "url": "https://flash.jin10.com/detail/20260818043715916800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：2026年08月17日（周一）华尔街恐惧与贪婪指数（美盘后）",
-          "url": "https://flash.jin10.com/detail/20260818041655309800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：2026年08月17日（周一）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260818041650936800",
-          "heat": false
-        },
-        {
-          "title": "道琼斯指数8月17日（周一）收盘下跌272.39点，跌幅0.51%，报53460.02点；<br/>标普500指数8月17日（周一）收盘下跌40.39点，跌幅0.52%，报7745.37点；<br/>纳斯达克综合指数8月17日（周一）收盘下跌84.25点，跌幅0.32%，报26644.91点。",
-          "url": "https://flash.jin10.com/detail/20260818041648294800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：2026年08月17日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260818041647203800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：2026年08月17日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260818041644628800",
-          "heat": false
-        },
-        {
-          "title": "Anthropic年化营收在IPO前突破650亿美元",
-          "url": "https://flash.jin10.com/detail/20260818041457232800",
-          "heat": false
-        },
-        {
-          "title": "FIFA解雇批评因凡蒂诺的首席运营官",
-          "url": "https://flash.jin10.com/detail/20260818041237379800",
-          "heat": false
-        },
-        {
-          "title": "中英日在6月均减持美债",
-          "url": "https://flash.jin10.com/detail/20260818041001621800",
-          "heat": "✰"
-        },
-        {
-          "title": "美股收盘：三大股指收跌 存储概念再走强",
-          "url": "https://flash.jin10.com/detail/20260818040234156800",
-          "heat": "✰"
         }
       ]
     }
