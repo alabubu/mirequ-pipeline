@@ -1,6 +1,6 @@
 {
-  "updated": "22:15:30",
-  "total": 282,
+  "updated": "22:20:32",
+  "total": 283,
   "platforms": [
     {
       "id": "zhihu",
@@ -596,7 +596,7 @@
           "heat": ""
         },
         {
-          "title": "美联储加息预期降温，AI情绪回暖，美股指涨跌互现，存储芯片股普涨，金油齐涨",
+          "title": "地缘风险推高油价，美股三大指数两连跌，存储芯片、光通信逆势大涨，黄金涨回4400",
           "url": "https://wallstreetcn.com/articles/3779603",
           "heat": ""
         },
@@ -977,13 +977,13 @@
           "heat": ""
         },
         {
-          "title": "股价重返千元！CPO龙头5天回升16%，5只千元股再次同框，融资客动向如何？",
-          "url": "https://www.cls.cn/detail/2456145",
+          "title": "铜冠铜箔董事会秘书兼财务负责人王俊林因病逝世，年仅56岁",
+          "url": "https://www.cls.cn/detail/2456298",
           "heat": ""
         },
         {
-          "title": "铜冠铜箔董事会秘书兼财务负责人王俊林因病逝世，年仅56岁",
-          "url": "https://www.cls.cn/detail/2456298",
+          "title": "股价重返千元！CPO龙头5天回升16%，5只千元股再次同框，融资客动向如何？",
+          "url": "https://www.cls.cn/detail/2456145",
           "heat": ""
         },
         {
@@ -1357,8 +1357,28 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 27,
+      "count": 28,
       "items": [
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少39.35吨，当前持仓量为15272.78吨。欢迎点击查看数据中心…",
+          "url": "https://flash.jin10.com/detail/20260818060303181800",
+          "heat": "✰"
+        },
+        {
+          "title": "美联储9月维持利率不变的概率为65%",
+          "url": "https://flash.jin10.com/detail/20260818060116446800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月18日（周二）各大货币对表现",
+          "url": "https://flash.jin10.com/detail/20260818060031825800",
+          "heat": false
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊拉克库尔德斯坦自治区苏莱曼尼亚发生燃料罐起火及爆炸事件。",
+          "url": "https://flash.jin10.com/detail/20260818055647896800",
+          "heat": false
+        },
         {
           "title": "据悉美加正努力弥合潜在汽车关税削减的分歧",
           "url": "https://flash.jin10.com/detail/20260818054003054800",
@@ -1478,21 +1498,6 @@
           "title": "美股收盘：三大股指收跌 存储概念再走强",
           "url": "https://flash.jin10.com/detail/20260818040234156800",
           "heat": "✰"
-        },
-        {
-          "title": "美国6月长期资本净流入 1727亿美元，前值由2327亿美元修正为2312亿美元。",
-          "url": "https://flash.jin10.com/detail/20260818040002802800",
-          "heat": false
-        },
-        {
-          "title": "美国6月外资净买入美国公债 68亿美元，前值566亿美元。",
-          "url": "https://flash.jin10.com/detail/20260818040002776800",
-          "heat": false
-        },
-        {
-          "title": "美国6月国际资本净流入 1335亿美元，前值由1322亿美元修正为1315亿美元。",
-          "url": "https://flash.jin10.com/detail/20260818040002411800",
-          "heat": false
         }
       ]
     }
