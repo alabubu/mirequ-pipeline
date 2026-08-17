@@ -1,6 +1,6 @@
 {
-  "updated": "23:15:36",
-  "total": 284,
+  "updated": "23:20:31",
+  "total": 285,
   "platforms": [
     {
       "id": "zhihu",
@@ -586,17 +586,12 @@
       "count": 10,
       "items": [
         {
-          "title": "华尔街见闻早餐FM-Radio | 2026年8月17日",
-          "url": "https://wallstreetcn.com/articles/3779504",
-          "heat": ""
-        },
-        {
           "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
           "url": "https://wallstreetcn.com/articles/3779560",
           "heat": ""
         },
         {
-          "title": "地缘风险推高油价和美债收益率，美股三大指数两连跌，存储芯片、光通信逆势大涨",
+          "title": "中东风险推高油价，美股美债齐跌，存储芯片、光通信逆势大涨，黄金涨回4400",
           "url": "https://wallstreetcn.com/articles/3779603",
           "heat": ""
         },
@@ -616,13 +611,13 @@
           "heat": ""
         },
         {
-          "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
-          "url": "https://wallstreetcn.com/articles/3779562",
+          "title": "投资大佬德鲁肯米勒两年来首次买入中概股，大举加仓亚马逊和AMD，清仓博通、英特尔、美光",
+          "url": "https://wallstreetcn.com/articles/3779608",
           "heat": ""
         },
         {
-          "title": "投资大佬德鲁肯米勒两年来首次买入中概股，大举加仓亚马逊和AMD，清仓博通、英特尔、美光",
-          "url": "https://wallstreetcn.com/articles/3779608",
+          "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
+          "url": "https://wallstreetcn.com/articles/3779562",
           "heat": ""
         },
         {
@@ -633,6 +628,11 @@
         {
           "title": "Anthropic估值有多激进？华尔街押注：2028年收入狂飙至2000亿美元",
           "url": "https://wallstreetcn.com/articles/3779618",
+          "heat": ""
+        },
+        {
+          "title": "7月70城房价：一线城市二手房价环比涨幅继续回落至0.2%，各线城市房价同比降幅再收窄",
+          "url": "https://wallstreetcn.com/articles/3779596",
           "heat": ""
         }
       ]
@@ -1357,8 +1357,28 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 29,
+      "count": 30,
       "items": [
+        {
+          "title": "0.01个百分点的信号 银行业净息差迎来阶段性修复",
+          "url": "https://flash.jin10.com/detail/20260818071503220800",
+          "heat": false
+        },
+        {
+          "title": "6月日本大幅减持美债，策略师：料不会再减持",
+          "url": "https://flash.jin10.com/detail/20260818070552627800",
+          "heat": false
+        },
+        {
+          "title": "金十数据全球财经早餐 | 2026年8月18日",
+          "url": "https://flash.jin10.com/detail/20260818065750194800",
+          "heat": "✰"
+        },
+        {
+          "title": "今日重点关注的财经数据与事件：2026年8月18日 周二",
+          "url": "https://flash.jin10.com/detail/20260818065000001800",
+          "heat": "✰"
+        },
         {
           "title": "必和必拓：由于中东冲突，成本环境“发生了重大变化”。",
           "url": "https://flash.jin10.com/detail/20260818064455305800",
@@ -1487,21 +1507,6 @@
         {
           "title": "库什纳称美伊双方尚未达成共识",
           "url": "https://flash.jin10.com/detail/20260818050604180800",
-          "heat": false
-        },
-        {
-          "title": "委内瑞拉临时总统罗德里格斯：委内瑞拉地震死亡人数上升至6,438人。",
-          "url": "https://flash.jin10.com/detail/20260818050248841800",
-          "heat": false
-        },
-        {
-          "title": "美国司法部计划部署1000名监督员监督中期选举。",
-          "url": "https://flash.jin10.com/detail/20260818044807392800",
-          "heat": false
-        },
-        {
-          "title": "美国航空航天局（NASA）：选定四家企业为任务有效载荷提供处理设施服务。入选企业包括蓝色起源、萤火虫航空及L3Harris等。该合同总价值最高可达1亿美元。",
-          "url": "https://flash.jin10.com/detail/20260818044223812800",
           "heat": false
         }
       ]
