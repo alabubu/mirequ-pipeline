@@ -1,6 +1,6 @@
 {
-  "updated": "07:15:36",
-  "total": 285,
+  "updated": "07:20:32",
+  "total": 281,
   "platforms": [
     {
       "id": "zhihu",
@@ -606,6 +606,11 @@
           "heat": ""
         },
         {
+          "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
+          "url": "https://wallstreetcn.com/articles/3779560",
+          "heat": ""
+        },
+        {
           "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
           "url": "https://wallstreetcn.com/articles/3779545",
           "heat": ""
@@ -616,23 +621,18 @@
           "heat": ""
         },
         {
-          "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
-          "url": "https://wallstreetcn.com/articles/3779560",
-          "heat": ""
-        },
-        {
           "title": "OpenAI内部动荡加剧：重组不断，员工疲惫，高管离职潮持续，上市计划悄然推迟",
           "url": "https://wallstreetcn.com/articles/3779533",
           "heat": ""
         },
         {
-          "title": "华尔街多头信心大振：标普500盈利增速创30年新高",
-          "url": "https://wallstreetcn.com/articles/3779530",
+          "title": "\"有钱也买不到\"！供需失衡加剧，磷化铟掀史上最大涨价潮",
+          "url": "https://wallstreetcn.com/articles/3779558",
           "heat": ""
         },
         {
-          "title": "\"有钱也买不到\"！供需失衡加剧，磷化铟掀史上最大涨价潮",
-          "url": "https://wallstreetcn.com/articles/3779558",
+          "title": "创业板涨超2%，长鑫大涨10%市值超4.07万亿创新高，贵州茅台跌超4%，恒科指涨超2%",
+          "url": "https://wallstreetcn.com/articles/3779568",
           "heat": ""
         }
       ]
@@ -1357,156 +1357,136 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 30,
+      "count": 26,
       "items": [
         {
-          "title": "集邦咨询：液冷散热成高端AI基础设施标配 预估2026年渗透率可达53%",
-          "url": "https://flash.jin10.com/detail/20260817145657760800",
+          "title": "蚂蚁集团CEO韩歆毅：智能体商业将在6至12个月内爆发",
+          "url": "https://flash.jin10.com/detail/20260817151744481800",
           "heat": false
         },
         {
-          "title": "东莞1宗涉宅用地32.66亿元成交",
-          "url": "https://flash.jin10.com/detail/20260817145626869800",
+          "title": "美元兑瑞郎USD/CHF失守0.81，日内跌幅0.40%。",
+          "url": "https://flash.jin10.com/detail/20260817151714632800",
           "heat": false
         },
         {
-          "title": "科创50指数涨超4%，半导体设备股走强；成分股中，中科飞测涨超12%。",
-          "url": "https://flash.jin10.com/detail/20260817145142743800",
+          "title": "国债期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20260817151645172800",
+          "heat": false
+        },
+        {
+          "title": "国家统计局：下阶段要加大逆周期调节力度，加力扩大内需",
+          "url": "https://flash.jin10.com/detail/20260817151527842800",
+          "heat": false
+        },
+        {
+          "title": "美联储短债持仓创新高，算不算放水？",
+          "url": "https://flash.jin10.com/detail/20260817151431395800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月17日（周一）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260817151316878800",
+          "heat": false
+        },
+        {
+          "title": "贵金属宏观顺风正在积聚 美联储会议纪要成关键变量！| Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260817151131789800",
           "heat": "✰"
         },
         {
-          "title": "中国7月规模以上工业增加值同比、社会消费品零售总额同比、70个大中城市住宅销售价格月度报告将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260817145000001800",
+          "title": "国家统计局：7月汽车制造业增加值增长8.7%",
+          "url": "https://flash.jin10.com/detail/20260817151127144800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月17日（周一）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20260817151116369800",
+          "heat": false
+        },
+        {
+          "title": "国家能源局：加快推进大型风电光伏基地项目建设工作",
+          "url": "https://flash.jin10.com/detail/20260817151047812800",
+          "heat": false
+        },
+        {
+          "title": "华为小艺、vivo蓝心小V、荣耀YOYO将接入支付宝阿宝",
+          "url": "https://flash.jin10.com/detail/20260817150954189800",
+          "heat": false
+        },
+        {
+          "title": "国家统计局：1-7月份，3D打印设备、锂离子电池、工业机器人产品产量同比分别增长52.3%、40.2%、28.5%",
+          "url": "https://flash.jin10.com/detail/20260817150911933800",
+          "heat": false
+        },
+        {
+          "title": "智利外长佩雷斯将访华",
+          "url": "https://flash.jin10.com/detail/20260817150857274800",
+          "heat": false
+        },
+        {
+          "title": "挂单报告：国际金再度上探4400 美日逼近空单集中区",
+          "url": "https://flash.jin10.com/detail/20260817150828398800",
           "heat": "✰"
         },
         {
-          "title": "金十数据整理：每日电动车行业动态汇总（2026-08-17）",
-          "url": "https://flash.jin10.com/detail/20260817144935427800",
-          "heat": "✰"
-        },
-        {
-          "title": "阿斯利康终止肺癌药物试验",
-          "url": "https://flash.jin10.com/detail/20260817144840532800",
+          "title": "国家统计局：1-7月份，高技术产业投资同比增长5.0%，其中信息服务业，航空、航天器及设备制造业，电子及通信设备制造业投资分别增长19.2%、12.3%、7.1%。",
+          "url": "https://flash.jin10.com/detail/20260817150824467800",
           "heat": false
         },
         {
-          "title": "创业板指尾盘涨超3%，深证成指涨2.3%，沪指涨1.3%，全市场超4200只个股上涨，芯片股走强，先进封装、CPO概念、光纤概念涨幅居前。",
-          "url": "https://flash.jin10.com/detail/20260817144756457800",
-          "heat": "✰"
-        },
-        {
-          "title": "人民币对美元汇率升破6.74，创三年半新高",
-          "url": "https://flash.jin10.com/detail/20260817144549070800",
+          "title": "金十图示：2026年08月17日（周一）富时中国A50指数成分股今日收盘行情一览：半导体、通信设备、消费电子板块收高，白酒板块表现疲软，银行板块涨跌不一",
+          "url": "https://flash.jin10.com/detail/20260817150756105800",
           "heat": false
         },
         {
-          "title": "长鑫科技成交额超300亿元，现涨10.15%。",
-          "url": "https://flash.jin10.com/detail/20260817144546669800",
+          "title": "7月份一线城市商品住宅销售价格环比总体上涨，二三线城市环比下降",
+          "url": "https://flash.jin10.com/detail/20260817150756036800",
           "heat": false
         },
         {
-          "title": "WTI冲85美元赔率64.5%，10月加息仅38%｜市场赔率数据表",
-          "url": "https://flash.jin10.com/detail/20260817144439933800",
-          "heat": "✰"
-        },
-        {
-          "title": "钉钉全球商业总裁杨猛将离任，下一站蚂蚁集团",
-          "url": "https://flash.jin10.com/detail/20260817144141720800",
+          "title": "国家统计局：1-7月房地产开发企业到位资金45748亿元，同比下降20.3%",
+          "url": "https://flash.jin10.com/detail/20260817150753876800",
           "heat": false
         },
         {
-          "title": "Plus精选图表",
-          "url": "https://flash.jin10.com/detail/20260817143907660800",
+          "title": "国家统计局：1-7月新建商品房销售面积45021万平方米，同比下降11.8%",
+          "url": "https://flash.jin10.com/detail/20260817150739147800",
           "heat": false
         },
         {
-          "title": "海通国际：哔哩哔哩内容价值优势显现 目标价上调至26美元",
-          "url": "https://flash.jin10.com/detail/20260817143445285800",
+          "title": "国家统计局：北京7月二手住宅价格环比+0%（前值+0.1%），同比-4.5%（前值-5.5%）。",
+          "url": "https://flash.jin10.com/detail/20260817150719815800",
           "heat": false
         },
         {
-          "title": "日经225指数8月17日（周一）收盘上涨506.45点，涨幅0.74%，报69220.25点。",
-          "url": "https://flash.jin10.com/detail/20260817143433441800",
+          "title": "国家统计局：上海7月二手住宅价格环比+0.3%（前值+0.4%），同比-2.0%（前值-3.2%）。",
+          "url": "https://flash.jin10.com/detail/20260817150716049800",
           "heat": false
         },
         {
-          "title": "伊朗农业部长：粮食安全无虞 一切尽在掌控",
-          "url": "https://flash.jin10.com/detail/20260817143305617800",
+          "title": "国家统计局：广州7月二手住宅价格环比+0.4%（前值+0.4%），同比-4.7%（前值-6.1%）。",
+          "url": "https://flash.jin10.com/detail/20260817150711146800",
           "heat": false
         },
         {
-          "title": "伊朗农业部长：农业部门大部分事务已纳入智能系统并处于全面管控之下，我们之所以断言粮食安全完备无缺，正是基于对信息系统的全面掌握，并以此为依据。",
-          "url": "https://flash.jin10.com/detail/20260817143139490800",
+          "title": "国家统计局：深圳7月二手住宅价格环比+0.2%（前值+0.3%），同比-3.6%（前值-4.7%）。",
+          "url": "https://flash.jin10.com/detail/20260817150708168800",
           "heat": false
         },
         {
-          "title": "伊朗农业部长：过去数月民众未出现恐慌性购买，凭借过去14个月积累的信誉，以及政府与各权力层级所采取的预案和前瞻性安排，粮食安全将持续稳固。",
-          "url": "https://flash.jin10.com/detail/20260817143131671800",
+          "title": "国家统计局：1-7月房地产开发企业房屋施工面积557572万平方米，同比下降12.7%",
+          "url": "https://flash.jin10.com/detail/20260817150706931800",
           "heat": false
         },
         {
-          "title": "霍尔木兹还没通，油价却不慌了？真正的危机正在后面",
-          "url": "https://flash.jin10.com/detail/20260817143124598800",
-          "heat": "✰"
-        },
-        {
-          "title": "伊朗农业部长：尽管过去数月面临诸多问题与困难，但粮食安全不存在任何隐患，敌人在这一领域已感到绝望。",
-          "url": "https://flash.jin10.com/detail/20260817143121875800",
+          "title": "国家统计局：上海7月新建商品住宅价格环比+0.2%（前值+0.3%），同比+3.0%（前值+3.1%）。",
+          "url": "https://flash.jin10.com/detail/20260817150653316800",
           "heat": false
         },
         {
-          "title": "真正的品牌影响，不在喧哗之中，而在认同之间。点击探索金十「卓识」伙伴计划。<font class=\"important-text\"></font>",
-          "url": "https://flash.jin10.com/detail/20260817143034047800",
-          "heat": false
-        },
-        {
-          "title": "美联储加息预期降温 新兴市场货币升至历史新高",
-          "url": "https://flash.jin10.com/detail/20260817142811591800",
-          "heat": false
-        },
-        {
-          "title": "中国地震台网正式测定：08月17日14时15分在甘肃陇南市礼县（北纬33.92度，东经104.95度）发生2.5级地震，震源深度10千米。",
-          "url": "https://flash.jin10.com/detail/20260817142742418800",
-          "heat": false
-        },
-        {
-          "title": "地方证监局调研中小公募基金公司差异化、特色化发展情况",
-          "url": "https://flash.jin10.com/detail/20260817142720368800",
-          "heat": false
-        },
-        {
-          "title": "亚洲炼油商要求避开红海，在埃及港口接收沙特原油",
-          "url": "https://flash.jin10.com/detail/20260817142152934800",
-          "heat": false
-        },
-        {
-          "title": "澳大利亚S&P/ASX200指数8月17日（周一）收盘下跌49.90点，跌幅0.55%，报9065.30点。",
-          "url": "https://flash.jin10.com/detail/20260817142105891800",
-          "heat": false
-        },
-        {
-          "title": "阿斯利康宣布泰适卓正式在华上市",
-          "url": "https://flash.jin10.com/detail/20260817142029254800",
-          "heat": false
-        },
-        {
-          "title": "沪深两市成交额连续第10个交易日突破2万亿元。",
-          "url": "https://flash.jin10.com/detail/20260817141601320800",
-          "heat": "✰"
-        },
-        {
-          "title": "集运指数（欧线）2610日内涨幅达10.89%，最新报1763点，日内增仓超2700手，持仓变化明显。",
-          "url": "https://flash.jin10.com/detail/20260817141515513800",
-          "heat": "✰"
-        },
-        {
-          "title": "金十数据整理：每日全球外汇市场要闻速递（2026-08-17）",
-          "url": "https://flash.jin10.com/detail/20260817141327333800",
-          "heat": "✰"
-        },
-        {
-          "title": "主力资金流向前十大个股",
-          "url": "https://flash.jin10.com/detail/20260817141134570800",
+          "title": "国家统计局：广州7月新建商品住宅价格环比+0.1%（前值+0.2%），同比-2.2%（前值-2.6%）。",
+          "url": "https://flash.jin10.com/detail/20260817150646126800",
           "heat": false
         }
       ]
