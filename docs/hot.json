@@ -1,24 +1,427 @@
 {
-  "updated": "11:30:48",
-  "total": 160,
+  "updated": "11:35:26",
+  "total": 285,
   "platforms": [
     {
       "id": "zhihu",
       "name": "知乎",
-      "count": 0,
-      "items": []
+      "count": 20,
+      "items": [
+        {
+          "title": "东莞 17 亿元全额付款土地被无偿收回，官方公告称已解除出让合同，怎样从法律角度解读？",
+          "url": "https://www.zhihu.com/question/2072365745934005252",
+          "heat": "812 万热度"
+        },
+        {
+          "title": "比亚迪国内销量骤降 35.6%，吉利重启销冠之争，如何看待新能源汽车市场竞争格局？",
+          "url": "https://www.zhihu.com/question/2071644037833135057",
+          "heat": "460 万热度"
+        },
+        {
+          "title": "女儿交了一个保洁员家庭的朋友，我该不该「适度引导」？",
+          "url": "https://www.zhihu.com/question/2070952313695555812",
+          "heat": "437 万热度"
+        },
+        {
+          "title": "胖东来被涨租逼走，为啥它不直接涨入驻商户的租金来平摊？这一权衡背后有啥考量吗？",
+          "url": "https://www.zhihu.com/question/2072622434356651944",
+          "heat": "364 万热度"
+        },
+        {
+          "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
+          "url": "https://www.zhihu.com/question/2061136311206073648",
+          "heat": "274 万热度"
+        },
+        {
+          "title": "多地严查社保缴纳，要求提高夯实率，有职员反映工资被下调，该如何理解？",
+          "url": "https://www.zhihu.com/question/2071533345910022775",
+          "heat": "270 万热度"
+        },
+        {
+          "title": "蔚来武汉换电站资产全面转由国资持有，其背后的商业考量是什么？",
+          "url": "https://www.zhihu.com/question/2070987118307029732",
+          "heat": "266 万热度"
+        },
+        {
+          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
+          "url": "https://www.zhihu.com/question/2072598571090538898",
+          "heat": "262 万热度"
+        },
+        {
+          "title": "辣条业务已不足卫龙总营收三分之一，卫龙的辣条卖不动了吗？蔬菜制品收入大涨，反映了品牌哪些趋势？",
+          "url": "https://www.zhihu.com/question/2072225642448249024",
+          "heat": "226 万热度"
+        },
+        {
+          "title": "吴艳妮以 13 秒 12 夺得全锦赛女子 100 米栏冠军，成就三连冠和六冠王，如何评价她的表现？",
+          "url": "https://www.zhihu.com/question/2072440886320019399",
+          "heat": "203 万热度"
+        },
+        {
+          "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
+          "url": "https://www.zhihu.com/question/2072617673721226019",
+          "heat": "183 万热度"
+        },
+        {
+          "title": "新规明确厨余垃圾不能直接喂猪，背后出于什么考量？会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2072615174142255425",
+          "heat": "164 万热度"
+        },
+        {
+          "title": "为什么说「围棋已死」而没有「象棋已死」的说法？",
+          "url": "https://www.zhihu.com/question/624290604",
+          "heat": "160 万热度"
+        },
+        {
+          "title": "9 岁女童确诊性早熟，骨龄超实际年龄近 3 岁，长期大量摄入高碳水、经常熬夜是主要原因吗？怎样预防性早熟？",
+          "url": "https://www.zhihu.com/question/2067878677702866490",
+          "heat": "142 万热度"
+        },
+        {
+          "title": "诺兰在影史上的地位会超越斯皮尔伯格和马丁斯科塞斯吗？",
+          "url": "https://www.zhihu.com/question/620380333",
+          "heat": "137 万热度"
+        },
+        {
+          "title": "为什么我国人民接触不到俄罗斯的汽车？",
+          "url": "https://www.zhihu.com/question/26465203",
+          "heat": "132 万热度"
+        },
+        {
+          "title": "如何评价 Xiaohai（曾卓君）在 2026 美国 CEO 大赛《饿狼传说》项目中成功卫冕？",
+          "url": "https://www.zhihu.com/question/2072607943191696624",
+          "heat": "123 万热度"
+        },
+        {
+          "title": "《欢迎来龙餐馆》中，为什么所有对主角徐福好的人都死了？",
+          "url": "https://www.zhihu.com/question/2071900200952665710",
+          "heat": "114 万热度"
+        },
+        {
+          "title": "为什么现在小区车位，越来越卖不动了？",
+          "url": "https://www.zhihu.com/question/2050150582917259779",
+          "heat": "109 万热度"
+        },
+        {
+          "title": "炫神山泥若连麦曝 Bin 疑似不想打比赛了，这对他的职业生涯意味着什么？",
+          "url": "https://www.zhihu.com/question/2071620148323264290",
+          "heat": "101 万热度"
+        }
+      ]
     },
     {
       "id": "weibo",
       "name": "微博",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "女孩顺风车内暴晒2小时向家人求救",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%A1%BA%E9%A3%8E%E8%BD%A6%E5%86%85%E6%9A%B4%E6%99%922%E5%B0%8F%E6%97%B6%E5%90%91%E5%AE%B6%E4%BA%BA%E6%B1%82%E6%95%91%23&t=31&band_rank=1&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "员工23次上班迟到17次被AI解雇",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%91%98%E5%B7%A523%E6%AC%A1%E4%B8%8A%E7%8F%AD%E8%BF%9F%E5%88%B017%E6%AC%A1%E8%A2%ABAI%E8%A7%A3%E9%9B%87%23&t=31&band_rank=2&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "第一视角体验非遗文旅",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E4%BD%93%E9%AA%8C%E9%9D%9E%E9%81%97%E6%96%87%E6%97%85%23&t=31&band_rank=3&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "博尔特不再是世界第一了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%9A%E5%B0%94%E7%89%B9%E4%B8%8D%E5%86%8D%E6%98%AF%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E4%BA%86%23&t=31&band_rank=4&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "宇树发布超人机器人",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%B6%85%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%23&t=31&band_rank=5&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "泡面不健康不是因为防腐剂",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%A1%E9%9D%A2%E4%B8%8D%E5%81%A5%E5%BA%B7%E4%B8%8D%E6%98%AF%E5%9B%A0%E4%B8%BA%E9%98%B2%E8%85%90%E5%89%82%23&t=31&band_rank=6&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "今天市场暴涨原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E5%B8%82%E5%9C%BA%E6%9A%B4%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "协和医生破解22年数学难题论文被扒",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%8F%E5%92%8C%E5%8C%BB%E7%94%9F%E7%A0%B4%E8%A7%A322%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98%E8%AE%BA%E6%96%87%E8%A2%AB%E6%89%92&t=31&band_rank=8&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "花开锦绣",
+          "url": "https://s.weibo.com/weibo?q=%E8%8A%B1%E5%BC%80%E9%94%A6%E7%BB%A3&t=31&band_rank=9&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "四川巴中3999万资金等待认领",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%B7%B4%E4%B8%AD3999%E4%B8%87%E8%B5%84%E9%87%91%E7%AD%89%E5%BE%85%E8%AE%A4%E9%A2%86%23&t=31&band_rank=10&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "胖东来被指招强奸犯",
+          "url": "https://s.weibo.com/weibo?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%A2%AB%E6%8C%87%E6%8B%9B%E5%BC%BA%E5%A5%B8%E7%8A%AF&t=31&band_rank=11&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "桃黑黑 录音",
+          "url": "https://s.weibo.com/weibo?q=%E6%A1%83%E9%BB%91%E9%BB%91%20%E5%BD%95%E9%9F%B3&t=31&band_rank=12&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "王菲基因发力了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%E5%9F%BA%E5%9B%A0%E5%8F%91%E5%8A%9B%E4%BA%86%23&t=31&band_rank=13&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "吉利汽车宣布管理层调整",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%90%89%E5%88%A9%E6%B1%BD%E8%BD%A6%E5%AE%A3%E5%B8%83%E7%AE%A1%E7%90%86%E5%B1%82%E8%B0%83%E6%95%B4%23&t=31&band_rank=14&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "王奕告别丝芭传媒",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%A5%95%E5%91%8A%E5%88%AB%E4%B8%9D%E8%8A%AD%E4%BC%A0%E5%AA%92%23&t=31&band_rank=15&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "AG狼队竟然联手了",
+          "url": "https://s.weibo.com/weibo?q=%23AG%E7%8B%BC%E9%98%9F%E7%AB%9F%E7%84%B6%E8%81%94%E6%89%8B%E4%BA%86%23&t=31&band_rank=16&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "丁禹兮给结婚粉丝送黄金",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E7%BB%99%E7%BB%93%E5%A9%9A%E7%B2%89%E4%B8%9D%E9%80%81%E9%BB%84%E9%87%91%23&t=31&band_rank=17&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "Jennie不得不用头发遮挡",
+          "url": "https://s.weibo.com/weibo?q=%23Jennie%E4%B8%8D%E5%BE%97%E4%B8%8D%E7%94%A8%E5%A4%B4%E5%8F%91%E9%81%AE%E6%8C%A1%23&t=31&band_rank=18&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "3孩非亲生父亲谈婚外胚胎案",
+          "url": "https://s.weibo.com/weibo?q=%233%E5%AD%A9%E9%9D%9E%E4%BA%B2%E7%94%9F%E7%88%B6%E4%BA%B2%E8%B0%88%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%E6%A1%88%23&t=31&band_rank=19&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "胡军让陈哲远粉丝先去吃饭",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%86%9B%E8%AE%A9%E9%99%88%E5%93%B2%E8%BF%9C%E7%B2%89%E4%B8%9D%E5%85%88%E5%8E%BB%E5%90%83%E9%A5%AD%23&t=31&band_rank=20&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "宇树超人能原地跳高2米",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E8%B6%85%E4%BA%BA%E8%83%BD%E5%8E%9F%E5%9C%B0%E8%B7%B3%E9%AB%982%E7%B1%B3%23&t=31&band_rank=21&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "黄山一猴子误触高压电身亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%B1%B1%E4%B8%80%E7%8C%B4%E5%AD%90%E8%AF%AF%E8%A7%A6%E9%AB%98%E5%8E%8B%E7%94%B5%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=22&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "蓝盈莹承认恋情",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%93%9D%E7%9B%88%E8%8E%B9%E6%89%BF%E8%AE%A4%E6%81%8B%E6%83%85%23&t=31&band_rank=23&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "球场上穿利刃7的狠人",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%90%83%E5%9C%BA%E4%B8%8A%E7%A9%BF%E5%88%A9%E5%88%837%E7%9A%84%E7%8B%A0%E4%BA%BA%23&t=31&band_rank=24&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "孙颖莎王曼昱仅差708分",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%BB%85%E5%B7%AE708%E5%88%86%23&t=31&band_rank=25&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "小欢喜未播出镜头",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%AC%A2%E5%96%9C%E6%9C%AA%E6%92%AD%E5%87%BA%E9%95%9C%E5%A4%B4%23&t=31&band_rank=26&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "原来排卵期一直被误解了",
+          "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%8E%92%E5%8D%B5%E6%9C%9F%E4%B8%80%E7%9B%B4%E8%A2%AB%E8%AF%AF%E8%A7%A3%E4%BA%86&t=31&band_rank=27&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "一款韩奸祖先查询器在韩国走红",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%AC%BE%E9%9F%A9%E5%A5%B8%E7%A5%96%E5%85%88%E6%9F%A5%E8%AF%A2%E5%99%A8%E5%9C%A8%E9%9F%A9%E5%9B%BD%E8%B5%B0%E7%BA%A2%23&t=31&band_rank=28&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "张真源吃饭戴围兜",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9C%9F%E6%BA%90%E5%90%83%E9%A5%AD%E6%88%B4%E5%9B%B4%E5%85%9C%23&t=31&band_rank=29&Refer=top",
+          "heat": ""
+        },
+        {
+          "title": "父子在海拔4000米高原发现塔黄",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B6%E5%AD%90%E5%9C%A8%E6%B5%B7%E6%8B%944000%E7%B1%B3%E9%AB%98%E5%8E%9F%E5%8F%91%E7%8E%B0%E5%A1%94%E9%BB%84%23&t=31&band_rank=30&Refer=top",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "douyin",
       "name": "抖音",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "开渔后第一顿海鲜有多鲜",
+          "url": "https://www.douyin.com/hot/2613020",
+          "heat": ""
+        },
+        {
+          "title": "服装博主的秋天第一件自留款",
+          "url": "https://www.douyin.com/hot/2612537",
+          "heat": ""
+        },
+        {
+          "title": "世界级船舶海工产业集群有多强",
+          "url": "https://www.douyin.com/hot/2613226",
+          "heat": ""
+        },
+        {
+          "title": "预演一下七夕穿搭",
+          "url": "https://www.douyin.com/hot/2612558",
+          "heat": ""
+        },
+        {
+          "title": "贪恋这抹果晕腮红",
+          "url": "https://www.douyin.com/hot/2612756",
+          "heat": ""
+        },
+        {
+          "title": "演员海顿潘妮蒂尔去世",
+          "url": "https://www.douyin.com/hot/2612841",
+          "heat": ""
+        },
+        {
+          "title": "塞尔比：中国公开赛夺冠感觉很棒",
+          "url": "https://www.douyin.com/hot/2612552",
+          "heat": ""
+        },
+        {
+          "title": "长鑫科技涨超10%",
+          "url": "https://www.douyin.com/hot/2612949",
+          "heat": ""
+        },
+        {
+          "title": "做一碗徐福烩饭",
+          "url": "https://www.douyin.com/hot/2612315",
+          "heat": ""
+        },
+        {
+          "title": "三角洲行动9月4日上线新干员旅人",
+          "url": "https://www.douyin.com/hot/2612971",
+          "heat": ""
+        },
+        {
+          "title": "金球先生罗德里将加盟巴萨",
+          "url": "https://www.douyin.com/hot/2612356",
+          "heat": ""
+        },
+        {
+          "title": "师兄太稳健定档0819",
+          "url": "https://www.douyin.com/hot/2612659",
+          "heat": ""
+        },
+        {
+          "title": "并不是每个女孩都想变得很可爱",
+          "url": "https://www.douyin.com/hot/2613078",
+          "heat": ""
+        },
+        {
+          "title": "用一篇长文记录我的爱情故事",
+          "url": "https://www.douyin.com/hot/2612611",
+          "heat": ""
+        },
+        {
+          "title": "这是酷狗音乐吗",
+          "url": "https://www.douyin.com/hot/2612791",
+          "heat": ""
+        },
+        {
+          "title": "欢迎来龙餐馆票房破九亿",
+          "url": "https://www.douyin.com/hot/2612259",
+          "heat": ""
+        },
+        {
+          "title": "“胆子真是肥嘟嘟的啊”是什么梗",
+          "url": "https://www.douyin.com/hot/2612801",
+          "heat": ""
+        },
+        {
+          "title": "三角洲s11新赛季前瞻爆料",
+          "url": "https://www.douyin.com/hot/2612902",
+          "heat": ""
+        },
+        {
+          "title": "想起你轻柔的话语 曾打湿我眼眶",
+          "url": "https://www.douyin.com/hot/2611699",
+          "heat": ""
+        },
+        {
+          "title": "差一步美满反差转场",
+          "url": "https://www.douyin.com/hot/2612941",
+          "heat": ""
+        },
+        {
+          "title": "七夕送你一捧炸鸡花",
+          "url": "https://www.douyin.com/hot/2612890",
+          "heat": ""
+        },
+        {
+          "title": "和鹿晗一起看极光",
+          "url": "https://www.douyin.com/hot/2612948",
+          "heat": ""
+        },
+        {
+          "title": "邓紫棋会拥有很多很多的爱",
+          "url": "https://www.douyin.com/hot/2612959",
+          "heat": ""
+        },
+        {
+          "title": "谁懂黄景瑜在伤感什么",
+          "url": "https://www.douyin.com/hot/2613353",
+          "heat": ""
+        },
+        {
+          "title": "4399致小大人们的一封信",
+          "url": "https://www.douyin.com/hot/2612910",
+          "heat": ""
+        },
+        {
+          "title": "花式过七夕大赛",
+          "url": "https://www.douyin.com/hot/2613203",
+          "heat": ""
+        },
+        {
+          "title": "一人一道村驴必吃榜",
+          "url": "https://www.douyin.com/hot/2612955",
+          "heat": ""
+        },
+        {
+          "title": "戴上网纱面具秒变高级脸",
+          "url": "https://www.douyin.com/hot/2612812",
+          "heat": ""
+        },
+        {
+          "title": "我的七夕礼物比烟花闪",
+          "url": "https://www.douyin.com/hot/2612639",
+          "heat": ""
+        },
+        {
+          "title": "谁的青春没有一本盗墓笔记",
+          "url": "https://www.douyin.com/hot/2612663",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "bilibili-hot-search",
@@ -477,13 +880,8 @@
           "heat": ""
         },
         {
-          "title": "名校父母劝692.5分女儿读中本贯通",
-          "url": "https://www.baidu.com/s?wd=%E5%90%8D%E6%A0%A1%E7%88%B6%E6%AF%8D%E5%8A%9D692.5%E5%88%86%E5%A5%B3%E5%84%BF%E8%AF%BB%E4%B8%AD%E6%9C%AC%E8%B4%AF%E9%80%9A",
-          "heat": ""
-        },
-        {
-          "title": "爸爸带14岁厌学儿子三伏天送外卖",
-          "url": "https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%B8%A614%E5%B2%81%E5%8E%8C%E5%AD%A6%E5%84%BF%E5%AD%90%E4%B8%89%E4%BC%8F%E5%A4%A9%E9%80%81%E5%A4%96%E5%8D%96",
+          "title": "“你父母在家吗”他被问后报了警",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BD%A0%E7%88%B6%E6%AF%8D%E5%9C%A8%E5%AE%B6%E5%90%97%E2%80%9D%E4%BB%96%E8%A2%AB%E9%97%AE%E5%90%8E%E6%8A%A5%E4%BA%86%E8%AD%A6",
           "heat": ""
         },
         {
@@ -492,13 +890,13 @@
           "heat": ""
         },
         {
-          "title": "“你父母在家吗”他被问后报了警",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BD%A0%E7%88%B6%E6%AF%8D%E5%9C%A8%E5%AE%B6%E5%90%97%E2%80%9D%E4%BB%96%E8%A2%AB%E9%97%AE%E5%90%8E%E6%8A%A5%E4%BA%86%E8%AD%A6",
+          "title": "名校父母劝692.5分女儿读中本贯通",
+          "url": "https://www.baidu.com/s?wd=%E5%90%8D%E6%A0%A1%E7%88%B6%E6%AF%8D%E5%8A%9D692.5%E5%88%86%E5%A5%B3%E5%84%BF%E8%AF%BB%E4%B8%AD%E6%9C%AC%E8%B4%AF%E9%80%9A",
           "heat": ""
         },
         {
-          "title": "哥哥病危弟弟请假遭拒 奔丧后被辞退",
-          "url": "https://www.baidu.com/s?wd=%E5%93%A5%E5%93%A5%E7%97%85%E5%8D%B1%E5%BC%9F%E5%BC%9F%E8%AF%B7%E5%81%87%E9%81%AD%E6%8B%92+%E5%A5%94%E4%B8%A7%E5%90%8E%E8%A2%AB%E8%BE%9E%E9%80%80",
+          "title": "爸爸带14岁厌学儿子三伏天送外卖",
+          "url": "https://www.baidu.com/s?wd=%E7%88%B8%E7%88%B8%E5%B8%A614%E5%B2%81%E5%8E%8C%E5%AD%A6%E5%84%BF%E5%AD%90%E4%B8%89%E4%BC%8F%E5%A4%A9%E9%80%81%E5%A4%96%E5%8D%96",
           "heat": ""
         },
         {
@@ -522,18 +920,23 @@
           "heat": ""
         },
         {
+          "title": "哥哥病危弟弟请假遭拒 奔丧后被辞退",
+          "url": "https://www.baidu.com/s?wd=%E5%93%A5%E5%93%A5%E7%97%85%E5%8D%B1%E5%BC%9F%E5%BC%9F%E8%AF%B7%E5%81%87%E9%81%AD%E6%8B%92+%E5%A5%94%E4%B8%A7%E5%90%8E%E8%A2%AB%E8%BE%9E%E9%80%80",
+          "heat": ""
+        },
+        {
           "title": "宇树科技发布“超人”",
           "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%8F%91%E5%B8%83%E2%80%9C%E8%B6%85%E4%BA%BA%E2%80%9D",
           "heat": ""
         },
         {
-          "title": "弟弟举报哥哥顶替上大学 2人系双胞胎",
-          "url": "https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E4%B8%BE%E6%8A%A5%E5%93%A5%E5%93%A5%E9%A1%B6%E6%9B%BF%E4%B8%8A%E5%A4%A7%E5%AD%A6+2%E4%BA%BA%E7%B3%BB%E5%8F%8C%E8%83%9E%E8%83%8E",
+          "title": "大妈扛着家中遗留长枪进派出所上交",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E6%89%9B%E7%9D%80%E5%AE%B6%E4%B8%AD%E9%81%97%E7%95%99%E9%95%BF%E6%9E%AA%E8%BF%9B%E6%B4%BE%E5%87%BA%E6%89%80%E4%B8%8A%E4%BA%A4",
           "heat": ""
         },
         {
-          "title": "《龙餐馆》原型：美国士兵常打酱油喝",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%E5%8E%9F%E5%9E%8B%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%A3%AB%E5%85%B5%E5%B8%B8%E6%89%93%E9%85%B1%E6%B2%B9%E5%96%9D",
+          "title": "榴莲价格彻底崩了",
+          "url": "https://www.baidu.com/s?wd=%E6%A6%B4%E8%8E%B2%E4%BB%B7%E6%A0%BC%E5%BD%BB%E5%BA%95%E5%B4%A9%E4%BA%86",
           "heat": ""
         },
         {
@@ -542,8 +945,8 @@
           "heat": ""
         },
         {
-          "title": "大妈扛着家中遗留长枪进派出所上交",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E6%89%9B%E7%9D%80%E5%AE%B6%E4%B8%AD%E9%81%97%E7%95%99%E9%95%BF%E6%9E%AA%E8%BF%9B%E6%B4%BE%E5%87%BA%E6%89%80%E4%B8%8A%E4%BA%A4",
+          "title": "弟弟举报哥哥顶替上大学 2人系双胞胎",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%9F%E5%BC%9F%E4%B8%BE%E6%8A%A5%E5%93%A5%E5%93%A5%E9%A1%B6%E6%9B%BF%E4%B8%8A%E5%A4%A7%E5%AD%A6+2%E4%BA%BA%E7%B3%BB%E5%8F%8C%E8%83%9E%E8%83%8E",
           "heat": ""
         }
       ]
@@ -551,20 +954,248 @@
     {
       "id": "cls-hot",
       "name": "财联社",
-      "count": 0,
-      "items": []
+      "count": 13,
+      "items": [
+        {
+          "title": "上海硅巷13小时激辩：当算力重返增长快车道 产业下一站锚定何方？",
+          "url": "https://www.cls.cn/detail/2455700",
+          "heat": ""
+        },
+        {
+          "title": "1—7月份国民经济保持总体平稳、向新向优发展态势",
+          "url": "https://www.cls.cn/detail/2455903",
+          "heat": ""
+        },
+        {
+          "title": "监管接连重拳整治“变相返佣”，证券业感受“山雨欲来”",
+          "url": "https://www.cls.cn/detail/2456153",
+          "heat": ""
+        },
+        {
+          "title": "长鑫科技股价再创新高 市值重回4万亿以上 机构：三重利好共振打开业绩空间",
+          "url": "https://www.cls.cn/detail/2455825",
+          "heat": ""
+        },
+        {
+          "title": "哪些券商的Skills率先在work buddy上线了？AI竞争换了战场",
+          "url": "https://www.cls.cn/detail/2455726",
+          "heat": ""
+        },
+        {
+          "title": "伦铜逼近历史高位！现货升水幅度创2021年逼仓风暴以来之最",
+          "url": "https://www.cls.cn/detail/2455848",
+          "heat": ""
+        },
+        {
+          "title": "股价重返千元！CPO龙头5天回升16%，5只千元股再次同框，融资客动向如何？",
+          "url": "https://www.cls.cn/detail/2456145",
+          "heat": ""
+        },
+        {
+          "title": "【焦点复盘】存储、光通信产业链合力做多，沪指放量中阳收复年线，全市场超150股涨超10%",
+          "url": "https://www.cls.cn/detail/2456074",
+          "heat": ""
+        },
+        {
+          "title": "【每日收评】创业板指震荡走高涨超3%，全市场逾百股涨停，半导体、算力硬件等科技赛道爆发",
+          "url": "https://www.cls.cn/detail/2456053",
+          "heat": ""
+        },
+        {
+          "title": "宇树科技发布“超人” 突破全人类极限",
+          "url": "https://www.cls.cn/detail/2455841",
+          "heat": ""
+        },
+        {
+          "title": "国家统计局：7月份一二三线城市商品住宅销售价格同比降幅总体继续收窄",
+          "url": "https://www.cls.cn/detail/2455912",
+          "heat": ""
+        },
+        {
+          "title": "我国在稀土检测关键技术领域取得重要进展",
+          "url": "https://www.cls.cn/detail/2455699",
+          "heat": ""
+        },
+        {
+          "title": "【午报】科创50指数涨超3%，半导体产业链震荡走强，长鑫科技市值重回4万亿",
+          "url": "https://www.cls.cn/detail/2455748",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "thepaper",
       "name": "澎湃新闻",
-      "count": 0,
-      "items": []
+      "count": 20,
+      "items": [
+        {
+          "title": "纪念江泽民同志诞辰100周年大会在京隆重举行，习近平发表重要讲话",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33798526",
+          "heat": ""
+        },
+        {
+          "title": "视频丨习近平：江泽民同志的一生，是光辉的一生、战斗的一生",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33797606",
+          "heat": ""
+        },
+        {
+          "title": "《江泽民》第12集《大道行歌》",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33795275",
+          "heat": ""
+        },
+        {
+          "title": "《江泽民》第11集《人民情怀》",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33794969",
+          "heat": ""
+        },
+        {
+          "title": "“如是书院”违法经营已被关停，赖某明等3人虐待学员被刑拘",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33795018",
+          "heat": ""
+        },
+        {
+          "title": "央视财经曝光暑期游乱象：999元低价游，一段行程更换5家旅行社",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33795012",
+          "heat": ""
+        },
+        {
+          "title": "活力中国调研行｜一座挂在瀑布上的千年古镇，如何成为入境游新热门目的地",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33794563",
+          "heat": ""
+        },
+        {
+          "title": "谁打造的“凹公酒”？厂家否认贾平凹题名授权，贾平凹文学艺术馆馆长牵涉其中",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33795077",
+          "heat": ""
+        },
+        {
+          "title": "我们的家园｜定日震后回访：废墟之上，“长”出新模样",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33792384",
+          "heat": ""
+        },
+        {
+          "title": "胖东来再启刑释人员招聘，专家称“不宜神化但提供了现实样本”",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33795425",
+          "heat": ""
+        },
+        {
+          "title": "马上评｜航司挣钱不能总靠“浅灰色小字”",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33797864",
+          "heat": ""
+        },
+        {
+          "title": "捏造新剧和明星“负面信息”等实施敲诈，3起影视领域舆情敲诈案被破获",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33797253",
+          "heat": ""
+        },
+        {
+          "title": "与保姆再婚难离、财产难守，一份遗嘱能否解七旬老人困局？",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33797579",
+          "heat": ""
+        },
+        {
+          "title": "以色列极右翼部长称把加沙人称为人已很慷慨：“每晚都应杀掉加沙数十人”",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33795752",
+          "heat": ""
+        },
+        {
+          "title": "观察｜一场欧洲大满贯，照出国乒的上限与下限",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33797649",
+          "heat": ""
+        },
+        {
+          "title": "游客称一家三口遭遇网约车司机尾随威胁，阳光出行：司机账号永久下线",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33797914",
+          "heat": ""
+        },
+        {
+          "title": "段永平最新调仓出炉：减持苹果、英伟达、谷歌，买回阿里",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33794674",
+          "heat": ""
+        },
+        {
+          "title": "严禁臆造“非遗大师”，福建惠安呼吁石雕从业者摒弃靠虚假噱头博流量",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33795211",
+          "heat": ""
+        },
+        {
+          "title": "周末两天入场人次近16万！都在感慨出版业“遇冷”，为何上海书展人山人海",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33794929",
+          "heat": ""
+        },
+        {
+          "title": "十大券商看后市｜本轮反弹仍有纵深空间，聚焦业绩主线结构性机会",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33797239",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "ifeng",
       "name": "凤凰网",
-      "count": 0,
-      "items": []
+      "count": 12,
+      "items": [
+        {
+          "title": "“中国这套打法，亚洲多国开始学了”",
+          "url": "https://news.ifeng.com/c/8velqu3HC1v",
+          "heat": ""
+        },
+        {
+          "title": "特朗普向朝韩发出强烈信号，信息量很大",
+          "url": "https://news.ifeng.com/c/8vehnvg4TOJ",
+          "heat": ""
+        },
+        {
+          "title": "伊朗悬赏美军：但凡俘虏或击毙一人，奖励三万美元",
+          "url": "https://news.ifeng.com/c/8vdsEgwcxZU",
+          "heat": ""
+        },
+        {
+          "title": "埃及、巴基斯坦、沙特、土耳其等八国发表联合声明",
+          "url": "https://news.ifeng.com/c/8vecPrGWZsk",
+          "heat": ""
+        },
+        {
+          "title": "韩国民众举行抗议，“这是对朝鲜开战的预演，应完全停止”",
+          "url": "https://news.ifeng.com/c/8vfCOuQGyrs",
+          "heat": ""
+        },
+        {
+          "title": "欧盟又要对俄罗斯下手了",
+          "url": "https://news.ifeng.com/c/8vfFK0CoDIt",
+          "heat": ""
+        },
+        {
+          "title": "涉及英阿马岛主权争端，美方最新表态",
+          "url": "https://news.ifeng.com/c/8vePJfTaX3j",
+          "heat": ""
+        },
+        {
+          "title": "《波茨坦公告》第八条不可逾越！俄方严厉驳斥日方",
+          "url": "https://news.ifeng.com/c/8ve6EwXSJyQ",
+          "heat": ""
+        },
+        {
+          "title": "菲日沮丧得想哭：美军这是不管西太平洋了",
+          "url": "https://news.ifeng.com/c/8veFLR5AQaZ",
+          "heat": ""
+        },
+        {
+          "title": "口气挺大，“受够了中国车，又不是火箭，墨西哥能自己造”",
+          "url": "https://news.ifeng.com/c/8velwF0zdiR",
+          "heat": ""
+        },
+        {
+          "title": "李书福辞任吉利汽车董事会主席",
+          "url": "https://finance.ifeng.com/c/8vfKTIPSDaP",
+          "heat": ""
+        },
+        {
+          "title": "东航率先松绑“退改签”，其他航司会跟进吗？",
+          "url": "https://news.ifeng.com/c/8vfQvPHdQEz",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "toutiao",
@@ -729,6 +1360,91 @@
       "count": 30,
       "items": [
         {
+          "title": "沙特主权财富基金（PIF）年度报告：自愿景实现计划（VRP）成立以来，PIF股东总回报率年化为5.8%。",
+          "url": "https://flash.jin10.com/detail/20260817193129068800",
+          "heat": false
+        },
+        {
+          "title": "沙特主权财富基金（PIF）年度报告：2025年股东总回报率下降4.2%。",
+          "url": "https://flash.jin10.com/detail/20260817193044778800",
+          "heat": false
+        },
+        {
+          "title": "泰恩康：签署MSCohi-O镜片项目独家商业推广服务协议",
+          "url": "https://flash.jin10.com/detail/20260817193004726800",
+          "heat": false
+        },
+        {
+          "title": "据国际文传电讯社：俄罗斯外长拉夫罗夫表示，俄罗斯传召日本使节，但东京方面表示该使节无法出席。",
+          "url": "https://flash.jin10.com/detail/20260817192947596800",
+          "heat": false
+        },
+        {
+          "title": "据国际文传电讯社：阿塞拜疆1月至7月石油产量同比下降3%。",
+          "url": "https://flash.jin10.com/detail/20260817192912587800",
+          "heat": false
+        },
+        {
+          "title": "特朗普称与伊朗伊斯兰革命卫队存在秘密沟通渠道",
+          "url": "https://flash.jin10.com/detail/20260817192811411800",
+          "heat": false
+        },
+        {
+          "title": "巴西央行调查：经济学家预计巴西未来12个月通胀率为4.32%，此前预测为4.24%。经济学家预计巴西2026年通胀率为5.02%，此前预测为5.02%。经济学家预计巴西2026年年底Selic利率为13.75%，此前预测为13.75%。",
+          "url": "https://flash.jin10.com/detail/20260817192622581800",
+          "heat": false
+        },
+        {
+          "title": "西域旅游：上半年归母净利润367.91万元 同比下降67.23%",
+          "url": "https://flash.jin10.com/detail/20260817192405036800",
+          "heat": false
+        },
+        {
+          "title": "据路透社：贸易消息人士称，印度8月豆油进口量预计将跃升至创纪录的62万吨。印度已签约进口140万吨豆油，用于9月至12月装运。受俄乌冲突影响，运往印度的约15万吨葵花籽油船货出现延误。",
+          "url": "https://flash.jin10.com/detail/20260817192318105800",
+          "heat": false
+        },
+        {
+          "title": "神思电子：2026年上半年净利润亏损3111.45万元，同比减亏47.10%",
+          "url": "https://flash.jin10.com/detail/20260817192241620800",
+          "heat": false
+        },
+        {
+          "title": "海信家电：上半年净利润16.58亿元 同比下降20.16%",
+          "url": "https://flash.jin10.com/detail/20260817192224332800",
+          "heat": false
+        },
+        {
+          "title": "德商银行：日本经济稳健增长或将支撑日元",
+          "url": "https://flash.jin10.com/detail/20260817192221820800",
+          "heat": false
+        },
+        {
+          "title": "仲景食品：2026年上半年净利润1.08亿元同比增7.75%",
+          "url": "https://flash.jin10.com/detail/20260817192152160800",
+          "heat": false
+        },
+        {
+          "title": "信质集团：2026年上半年净利润5044.39万元，同比增长0.76%",
+          "url": "https://flash.jin10.com/detail/20260817192126051800",
+          "heat": false
+        },
+        {
+          "title": "远东传动：2026年半年度计提资产减值准备合计947.69万元",
+          "url": "https://flash.jin10.com/detail/20260817192115826800",
+          "heat": false
+        },
+        {
+          "title": "跃岭股份：拟转让中石光芯5%股权，转让价款1.1亿元",
+          "url": "https://flash.jin10.com/detail/20260817192100103800",
+          "heat": false
+        },
+        {
+          "title": "紫光股份：拟定增募资不超54.1亿元，收购新华三6.98%股权",
+          "url": "https://flash.jin10.com/detail/20260817192031822800",
+          "heat": "✰"
+        },
+        {
           "title": "Snap(SNAP.N)盘前跌幅收窄至9.4%。",
           "url": "https://flash.jin10.com/detail/20260817191940809800",
           "heat": false
@@ -792,91 +1508,6 @@
           "title": "日丰股份：拟投资7亿元建设年产300吨光纤预制棒、1000万芯公里光纤项目",
           "url": "https://flash.jin10.com/detail/20260817191026828800",
           "heat": "✰"
-        },
-        {
-          "title": "据福克斯新闻：特朗普谈及伊朗问题时表示，他“不着急”。",
-          "url": "https://flash.jin10.com/detail/20260817191005202800",
-          "heat": false
-        },
-        {
-          "title": "据福克斯新闻：美国总统特朗普表示，与伊朗伊斯兰革命卫队官员之间存在秘密沟通渠道。",
-          "url": "https://flash.jin10.com/detail/20260817190947776800",
-          "heat": false
-        },
-        {
-          "title": "路透调查：104名经济学家中有94名预计美联储将在9月维持联邦基金利率在3.50%-3.75%区间不变（7月调查中95名持此观点）。104名经济学家中有80名预计美联储将在2026年维持联邦基金利率在3.50%-3.75%区间不变（7月调查中78名持此观点）。",
-          "url": "https://flash.jin10.com/detail/20260817190603110800",
-          "heat": false
-        },
-        {
-          "title": "高能环境：2026年上半年净利润10.22亿元，同比增长103.37%",
-          "url": "https://flash.jin10.com/detail/20260817190241527800",
-          "heat": false
-        },
-        {
-          "title": "梦百合：美国东部工厂发生火灾事故 对公司利润的影响需待保险公司核损赔偿后确认",
-          "url": "https://flash.jin10.com/detail/20260817190205172800",
-          "heat": false
-        },
-        {
-          "title": "消息人士：沙特阿美向部分亚洲炼油商提供位于霍尔木兹海峡以外的阿拉伯中质原油和阿拉伯重质原油。",
-          "url": "https://flash.jin10.com/detail/20260817190126347800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：2026年08月17日（周一）欧盘市场行情一览",
-          "url": "https://flash.jin10.com/detail/20260817190108239800",
-          "heat": false
-        },
-        {
-          "title": "美国地质勘探局：印度尼西亚鲁滕北部81公里处发生5.2级地震。",
-          "url": "https://flash.jin10.com/detail/20260817185950520800",
-          "heat": false
-        },
-        {
-          "title": "四环生物：拟1.6亿元现金收购长源药业80%股权",
-          "url": "https://flash.jin10.com/detail/20260817185906965800",
-          "heat": false
-        },
-        {
-          "title": "瑞鹄模具：2026年上半年净利润2.41亿元，同比增6.15%",
-          "url": "https://flash.jin10.com/detail/20260817185703647800",
-          "heat": false
-        },
-        {
-          "title": "众生药业：收购控股子公司众生睿创12.06%股权",
-          "url": "https://flash.jin10.com/detail/20260817185641151800",
-          "heat": false
-        },
-        {
-          "title": "消息人士：俄罗斯黑海新罗西斯克港在上周五因无人机袭击暂停原油装载后，已于上周日恢复装载作业。",
-          "url": "https://flash.jin10.com/detail/20260817185524853800",
-          "heat": false
-        },
-        {
-          "title": "振石股份：四个募投项目延期至2027年9月",
-          "url": "https://flash.jin10.com/detail/20260817185325424800",
-          "heat": false
-        },
-        {
-          "title": "国晟科技：下属公司逾期债务本金合计5775万元 占公司最近一期净资产的18.58%",
-          "url": "https://flash.jin10.com/detail/20260817185301930800",
-          "heat": false
-        },
-        {
-          "title": "振石股份：2026年上半年营收3.82亿元 净利同比增15.07%",
-          "url": "https://flash.jin10.com/detail/20260817185208853800",
-          "heat": false
-        },
-        {
-          "title": "复旦微电：2026年上半年营收22.25亿元 同比增21.03%",
-          "url": "https://flash.jin10.com/detail/20260817185111475800",
-          "heat": false
-        },
-        {
-          "title": "Snap(SNAP.N)盘前跌幅扩大至15%。",
-          "url": "https://flash.jin10.com/detail/20260817185030796800",
-          "heat": false
         }
       ]
     }
