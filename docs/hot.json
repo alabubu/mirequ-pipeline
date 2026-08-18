@@ -1,6 +1,6 @@
 {
-  "updated": "14:10:35",
-  "total": 280,
+  "updated": "14:15:42",
+  "total": 277,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,98 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 25,
+      "count": 22,
       "items": [
+        {
+          "title": "美国食品药品监督管理局（FDA） 将10月19日设为针对生成式人工智能医疗设备框架征求意见的截止日期。",
+          "url": "https://flash.jin10.com/detail/20260818221436232800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：美国食品药品监督管理局（FDA） 正在征求公众对生成性人工智能医疗设备监管的意见。",
+          "url": "https://flash.jin10.com/detail/20260818221330052800",
+          "heat": false
+        },
+        {
+          "title": "马斯克：星舰第13次飞行任务正在从海上回收。",
+          "url": "https://flash.jin10.com/detail/20260818221319005800",
+          "heat": false
+        },
+        {
+          "title": "美智库研判伊朗战后走向，美国“围堵”策略恐适得其反",
+          "url": "https://flash.jin10.com/detail/20260818221210697800",
+          "heat": false
+        },
+        {
+          "title": "据报道，俄罗斯总统助理乌沙科夫称，俄罗斯排除沿接触线冻结俄乌冲突的可能性。",
+          "url": "https://flash.jin10.com/detail/20260818221117960800",
+          "heat": false
+        },
+        {
+          "title": "土耳其外交部呼吁国际社会对以色列违反国际法的行为追究责任。",
+          "url": "https://flash.jin10.com/detail/20260818221039374800",
+          "heat": false
+        },
+        {
+          "title": "土耳其外交部强烈谴责以色列对叙利亚基地的空袭。",
+          "url": "https://flash.jin10.com/detail/20260818220950154800",
+          "heat": false
+        },
+        {
+          "title": "期货交易夜读 | 交易的“完美主义陷阱”：接受瑕疵，才能拥抱利润",
+          "url": "https://flash.jin10.com/detail/20260818220111918800",
+          "heat": false
+        },
+        {
+          "title": "美国7月未季调成屋签约销售指数年率 -2.5%，前值2.30%。",
+          "url": "https://flash.jin10.com/detail/20260818220014826800",
+          "heat": false
+        },
+        {
+          "title": "美国7月成屋签约销售指数 71.2，前值由72.5修正为72.9。",
+          "url": "https://flash.jin10.com/detail/20260818220002110800",
+          "heat": false
+        },
+        {
+          "title": "美国7月成屋签约销售指数月率 -2.3%，预期0.3%，前值由-5.40%修正为-4.8%。",
+          "url": "https://flash.jin10.com/detail/20260818220002093800",
+          "heat": "✰"
+        },
+        {
+          "title": "惠誉评级：资源限制加大美国水务公司的网络风险。",
+          "url": "https://flash.jin10.com/detail/20260818215848986800",
+          "heat": false
+        },
+        {
+          "title": "费城半导体指数下跌5%，迈威尔科技(MRVL.O)跌超7%，Arm(ARM.O)、英特尔(INTC.O)跌近7%，美光科技(MU.O)跌5.7%，英伟达(NVDA.O)跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260818215554693800",
+          "heat": "✰"
+        },
+        {
+          "title": "伊朗声称既赢了战争也赢了外交，条件满足前绝不开放霍尔木兹",
+          "url": "https://flash.jin10.com/detail/20260818215021593800",
+          "heat": "✰"
+        },
+        {
+          "title": "标普500医疗板块创下历史新高，最新上涨1.8%。",
+          "url": "https://flash.jin10.com/detail/20260818215018493800",
+          "heat": false
+        },
+        {
+          "title": "美国7月成屋签约销售指数月率将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260818215000000800",
+          "heat": "✰"
+        },
+        {
+          "title": "现货钯金跌破1300美元/盎司，日内跌2.07%。",
+          "url": "https://flash.jin10.com/detail/20260818214851738800",
+          "heat": false
+        },
+        {
+          "title": "伊朗媒体18日报道，伊朗最高领袖即将在德黑兰主持一场宗教活动。",
+          "url": "https://flash.jin10.com/detail/20260818214614506800",
+          "heat": "✰"
+        },
         {
           "title": "阿根廷七月初级预算盈余为2.960万亿阿根廷比索。",
           "url": "https://flash.jin10.com/detail/20260818214442694800",
@@ -1377,111 +1467,6 @@
         {
           "title": "惠誉：预测哥伦比亚2026年经济增长2.7%。",
           "url": "https://flash.jin10.com/detail/20260818214012958800",
-          "heat": false
-        },
-        {
-          "title": "据沙特阿拉比亚电视台：消息人士称，以色列要求哈马斯提供地道地图，以确认其与以方掌握的信息是否一致。",
-          "url": "https://flash.jin10.com/detail/20260818214004173800",
-          "heat": false
-        },
-        {
-          "title": "惠誉：哥伦比亚的财政赤字将在2026年接近GDP的7%。",
-          "url": "https://flash.jin10.com/detail/20260818213413894800",
-          "heat": false
-        },
-        {
-          "title": "叙利亚外交部长：将致力于提供必要条件以处理这些材料并安全存储。",
-          "url": "https://flash.jin10.com/detail/20260818213352095800",
-          "heat": false
-        },
-        {
-          "title": "叙利亚外交部长：强调叙利亚有权将核能用于民用和和平目的。",
-          "url": "https://flash.jin10.com/detail/20260818213340128800",
-          "heat": false
-        },
-        {
-          "title": "道琼斯指数8月18日（周二）开盘下跌133.56点，跌幅0.25%，报53326.22点；<br/>纳斯达克综合指数8月18日（周二）开盘下跌286.81点，跌幅1.08%，报26358.1点；<br/>标普500指数8月18日（周二）开盘下跌34.63点，跌幅0.45%，报7710.76点。",
-          "url": "https://flash.jin10.com/detail/20260818213323011800",
-          "heat": false
-        },
-        {
-          "title": "现货黄金短线走低近20美元后迅速回升。",
-          "url": "https://flash.jin10.com/detail/20260818213311211800",
-          "heat": false
-        },
-        {
-          "title": "高盛分析智谱核心护城河，看好长期商业化但估值不便宜",
-          "url": "https://flash.jin10.com/detail/20260818213254972800",
-          "heat": false
-        },
-        {
-          "title": "叙利亚外交部长：核材料将继续由叙利亚保管，并接受国际原子能机构的保障监督。",
-          "url": "https://flash.jin10.com/detail/20260818213235601800",
-          "heat": false
-        },
-        {
-          "title": "百度(BIDU.O)跌10%，创自6月5日以来最大跌幅。",
-          "url": "https://flash.jin10.com/detail/20260818213226466800",
-          "heat": false
-        },
-        {
-          "title": "费城半导体指数下跌3.7%，为7月29日以来最大跌幅。",
-          "url": "https://flash.jin10.com/detail/20260818213203614800",
-          "heat": "✰"
-        },
-        {
-          "title": "特朗普：与伊朗没有任何谈判正在进行，海军封锁仍全面有效",
-          "url": "https://flash.jin10.com/detail/20260818213128590800",
-          "heat": "✰"
-        },
-        {
-          "title": "美股开盘，道指跌0.2%，标普500指数跌0.5%，纳指跌1.1%。存储板块普跌，闪迪(SNDK.O)跌5%，美光科技(MU.O)跌4.6%。明星科技股多数下滑，Meta Platforms(META.O)跌1.9%，公司周二面临天价索赔案庭审。百度(BIDU.O)绩后下跌9%，小马智行(PONY.O)跌7%，爱奇艺(IQ.O)跌3.7%。",
-          "url": "https://flash.jin10.com/detail/20260818213050100800",
-          "heat": "✰"
-        },
-        {
-          "title": "意大利10年期国债收益率上升至4.097%，为3月以来最高水平。",
-          "url": "https://flash.jin10.com/detail/20260818212852701800",
-          "heat": false
-        },
-        {
-          "title": "国际原子能机构说扎波罗热核电站遭遇“最严重事件”",
-          "url": "https://flash.jin10.com/detail/20260818212617127800",
-          "heat": false
-        },
-        {
-          "title": "家得宝(HD.N)高管：公司在第二季度获得了7.3亿美元的关税退款。",
-          "url": "https://flash.jin10.com/detail/20260818212557275800",
-          "heat": false
-        },
-        {
-          "title": "据阿联酋通讯社：特朗普讨论了阿联酋与美国之间的合作以及进一步加强关系以支持共同利益的方式。",
-          "url": "https://flash.jin10.com/detail/20260818212543370800",
-          "heat": false
-        },
-        {
-          "title": "美国国家飓风中心：Lala在中太平洋重新增强为飓风。",
-          "url": "https://flash.jin10.com/detail/20260818212445965800",
-          "heat": false
-        },
-        {
-          "title": "正在直播中",
-          "url": "https://flash.jin10.com/detail/20260818212121446800",
-          "heat": false
-        },
-        {
-          "title": "分析师：债券抛售由通胀风险、政府借贷和资本竞争共同驱动",
-          "url": "https://flash.jin10.com/detail/20260818212115007800",
-          "heat": false
-        },
-        {
-          "title": "据阿联酋通讯社：阿联酋总统与美国总统特朗普通话，讨论地区事务。",
-          "url": "https://flash.jin10.com/detail/20260818211953595800",
-          "heat": false
-        },
-        {
-          "title": "家得宝(HD.N)高管：收到的《国际紧急经济权力法》关税退款使第二季度销售成本减少了6.85亿美元。",
-          "url": "https://flash.jin10.com/detail/20260818211849400800",
           "heat": false
         }
       ]
