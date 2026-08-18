@@ -1,6 +1,6 @@
 {
-  "updated": "04:31:00",
-  "total": 255,
+  "updated": "04:35:27",
+  "total": 285,
   "platforms": [
     {
       "id": "zhihu",
@@ -992,6 +992,11 @@
           "heat": ""
         },
         {
+          "title": "汽车促消费政策“升级” 多地将二手车纳入补贴范围、单台至高4000元",
+          "url": "https://www.cls.cn/detail/2456833",
+          "heat": ""
+        },
+        {
           "title": "美债抛售潮加剧！30年期美债收益率创2007年以来最高",
           "url": "https://www.cls.cn/detail/2456636",
           "heat": ""
@@ -1002,23 +1007,18 @@
           "heat": ""
         },
         {
-          "title": "汽车促消费政策“升级” 多地将二手车纳入补贴范围、单台至高4000元",
-          "url": "https://www.cls.cn/detail/2456833",
-          "heat": ""
-        },
-        {
           "title": "法拉利首辆纯电车，拍出4000万美元天价",
           "url": "https://www.cls.cn/detail/2456516",
           "heat": ""
         },
         {
-          "title": "ChatGPT将变“购物车”？零售商专属信用卡发行商携手OpenAI推进AI内购",
-          "url": "https://www.cls.cn/detail/2456537",
+          "title": "费半重返牛市及存储股强势反弹 谁是背后推手？一文读懂",
+          "url": "https://www.cls.cn/detail/2456773",
           "heat": ""
         },
         {
-          "title": "锂资源板块迎来业绩集体修复 融捷股份上半年净利润同比增长逾10倍|财报解读",
-          "url": "https://www.cls.cn/detail/2456476",
+          "title": "ChatGPT将变“购物车”？零售商专属信用卡发行商携手OpenAI推进AI内购",
+          "url": "https://www.cls.cn/detail/2456537",
           "heat": ""
         }
       ]
@@ -1357,8 +1357,159 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "利比亚寻求高达400亿美元资金以开发油气资源",
+          "url": "https://flash.jin10.com/detail/20260818120943150800",
+          "heat": false
+        },
+        {
+          "title": "阿里云韩国第三座数据中心上线",
+          "url": "https://flash.jin10.com/detail/20260818120906093800",
+          "heat": false
+        },
+        {
+          "title": "现货黄金跌破4390美元/盎司，日内跌0.60%。",
+          "url": "https://flash.jin10.com/detail/20260818120855100800",
+          "heat": false
+        },
+        {
+          "title": "预告：交通运输部定于8月20日就“人工智能+交通运输”典型应用场景创新行动举行专题新闻发布会",
+          "url": "https://flash.jin10.com/detail/20260818120807749800",
+          "heat": false
+        },
+        {
+          "title": "港股午评：科指跌近2% 智谱跌超16%",
+          "url": "https://flash.jin10.com/detail/20260818120546300800",
+          "heat": "✰"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-08-18）",
+          "url": "https://flash.jin10.com/detail/20260818120355231800",
+          "heat": "✰"
+        },
+        {
+          "title": "日本加息救得了日元吗？两笔巨额资金都在等答案！",
+          "url": "https://flash.jin10.com/detail/20260818120337413800",
+          "heat": "✰"
+        },
+        {
+          "title": "据英国金融时报：利比亚寻求高达400亿美元资金以开发石油资源。",
+          "url": "https://flash.jin10.com/detail/20260818120326853800",
+          "heat": false
+        },
+        {
+          "title": "日本五年期国债发行需求创2025年6月以来新高",
+          "url": "https://flash.jin10.com/detail/20260818120258933800",
+          "heat": false
+        },
+        {
+          "title": "力巡一号太空“摆渡车”完成重要试验 明年首飞",
+          "url": "https://flash.jin10.com/detail/20260818120114695800",
+          "heat": false
+        },
+        {
+          "title": "“新债王”发出见顶警告：华尔街押注AI芯片资产化，风险正在累积",
+          "url": "https://flash.jin10.com/detail/20260818115859416800",
+          "heat": "✰"
+        },
+        {
+          "title": "Plus精选图表",
+          "url": "https://flash.jin10.com/detail/20260818115846931800",
+          "heat": false
+        },
+        {
+          "title": "瑞银将迈威尔科技(MRVL.O)的目标价从340美元下调至300美元，维持“买入”评级。",
+          "url": "https://flash.jin10.com/detail/20260818115741304800",
+          "heat": false
+        },
+        {
+          "title": "民德电子：晶圆厂产能预计今年四季度和明年上半年开始会有明显释放",
+          "url": "https://flash.jin10.com/detail/20260818115646012800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月18日（周二）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260818115257478800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月18日（周二）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260818115254880800",
+          "heat": false
+        },
+        {
+          "title": "民德电子：上游硅片厂商四季度有涨价意愿 广芯微电子将视情况跟进",
+          "url": "https://flash.jin10.com/detail/20260818115020794800",
+          "heat": false
+        },
+        {
+          "title": "启明星辰8月18日在互动平台表示，公司目前尚未与英伟达开展合作。",
+          "url": "https://flash.jin10.com/detail/20260818114919598800",
+          "heat": false
+        },
+        {
+          "title": "北京经开区出台专项行动方案 打造适配新质生产力国际一流营商环境",
+          "url": "https://flash.jin10.com/detail/20260818114219511800",
+          "heat": false
+        },
+        {
+          "title": "库什纳：加沙或30天内开始“去军事化”，以色列应小步测试哈马斯诚意",
+          "url": "https://flash.jin10.com/detail/20260818114105627800",
+          "heat": "✰"
+        },
+        {
+          "title": "国内金饰克价较昨日上涨约7元",
+          "url": "https://flash.jin10.com/detail/20260818114050587800",
+          "heat": false
+        },
+        {
+          "title": "垣信卫星完成近70亿元增资",
+          "url": "https://flash.jin10.com/detail/20260818114020088800",
+          "heat": false
+        },
+        {
+          "title": "期货盯盘神器专属文章",
+          "url": "https://flash.jin10.com/detail/20260818113637111800",
+          "heat": "✰"
+        },
+        {
+          "title": "深圳市与中国电信签署战略合作框架协议",
+          "url": "https://flash.jin10.com/detail/20260818113549382800",
+          "heat": false
+        },
+        {
+          "title": "金价压力“暗线”浮现！市场终于担忧长债收益率走高",
+          "url": "https://flash.jin10.com/detail/20260818113452095800",
+          "heat": "✰"
+        },
+        {
+          "title": "全球长债收益率重返2008，危机来了吗？",
+          "url": "https://flash.jin10.com/detail/20260818113444888800",
+          "heat": false
+        },
+        {
+          "title": "A股午评：创业板指半日跌1.3% 粮食概念延续涨势",
+          "url": "https://flash.jin10.com/detail/20260818113435819800",
+          "heat": "✰"
+        },
+        {
+          "title": "荷兰国际银行：美伊停火协议到期，美债市场“偏空基调”还将延续",
+          "url": "https://flash.jin10.com/detail/20260818113355527800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月18日（周二）富时中国A50指数成分股午盘收盘行情一览：成分股走势分化，保险、证券、消费电子板块飘绿",
+          "url": "https://flash.jin10.com/detail/20260818113346670800",
+          "heat": false
+        },
+        {
+          "title": "北京：1-7月，全市市场总消费额同比增长1.8%",
+          "url": "https://flash.jin10.com/detail/20260818113310026800",
+          "heat": false
+        }
+      ]
     }
   ]
 }
