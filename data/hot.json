@@ -1,6 +1,6 @@
 {
-  "updated": "02:30:52",
-  "total": 210,
+  "updated": "02:35:31",
+  "total": 285,
   "platforms": [
     {
       "id": "zhihu",
@@ -269,8 +269,159 @@
     {
       "id": "douyin",
       "name": "抖音",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "天安门下半旗悼念朱镕基同志",
+          "url": "https://www.douyin.com/hot/2613756",
+          "heat": ""
+        },
+        {
+          "title": "宇树科技8月19日上市",
+          "url": "https://www.douyin.com/hot/2613555",
+          "heat": ""
+        },
+        {
+          "title": "未来5年我国能源蓝图划重点",
+          "url": "https://www.douyin.com/hot/2613533",
+          "heat": ""
+        },
+        {
+          "title": "10后给00后的一封信",
+          "url": "https://www.douyin.com/hot/2613543",
+          "heat": ""
+        },
+        {
+          "title": "开渔后第一顿海鲜有多鲜",
+          "url": "https://www.douyin.com/hot/2613020",
+          "heat": ""
+        },
+        {
+          "title": "人类对鸡蛋的开发不足万分之一",
+          "url": "https://www.douyin.com/hot/2613005",
+          "heat": ""
+        },
+        {
+          "title": "童年动漫照见00后的青春底色",
+          "url": "https://www.douyin.com/hot/2613494",
+          "heat": ""
+        },
+        {
+          "title": "罗德里抵达巴塞罗那",
+          "url": "https://www.douyin.com/hot/2613782",
+          "heat": ""
+        },
+        {
+          "title": "交换一张徒步背影照",
+          "url": "https://www.douyin.com/hot/2613153",
+          "heat": ""
+        },
+        {
+          "title": "爱丽家居复牌",
+          "url": "https://www.douyin.com/hot/2613830",
+          "heat": ""
+        },
+        {
+          "title": "石宇奇止步世锦赛男单首轮",
+          "url": "https://www.douyin.com/hot/2613758",
+          "heat": ""
+        },
+        {
+          "title": "小孩曾卓君CEO夺冠",
+          "url": "https://www.douyin.com/hot/2613748",
+          "heat": ""
+        },
+        {
+          "title": "多人因编造涉企谣言被罚",
+          "url": "https://www.douyin.com/hot/2613841",
+          "heat": ""
+        },
+        {
+          "title": "两个新台风指向我国东南沿海",
+          "url": "https://www.douyin.com/hot/2612706",
+          "heat": ""
+        },
+        {
+          "title": "沈腾说演龙餐馆一辈子眼泪流完了",
+          "url": "https://www.douyin.com/hot/2613635",
+          "heat": ""
+        },
+        {
+          "title": "这是酷狗音乐吗",
+          "url": "https://www.douyin.com/hot/2612791",
+          "heat": ""
+        },
+        {
+          "title": "我们的少年时代2招新看我的",
+          "url": "https://www.douyin.com/hot/2612650",
+          "heat": ""
+        },
+        {
+          "title": "中国U17女足6:0拜仁U17女足",
+          "url": "https://www.douyin.com/hot/2613419",
+          "heat": ""
+        },
+        {
+          "title": "看完暑期档我想说",
+          "url": "https://www.douyin.com/hot/2612303",
+          "heat": ""
+        },
+        {
+          "title": "我意气风发像偷了你的年华",
+          "url": "https://www.douyin.com/hot/2612710",
+          "heat": ""
+        },
+        {
+          "title": "吴艳妮回应全锦赛6冠王",
+          "url": "https://www.douyin.com/hot/2612723",
+          "heat": ""
+        },
+        {
+          "title": "服装博主的秋天第一件自留款",
+          "url": "https://www.douyin.com/hot/2612537",
+          "heat": ""
+        },
+        {
+          "title": "CORTIS出道一周年",
+          "url": "https://www.douyin.com/hot/2613723",
+          "heat": ""
+        },
+        {
+          "title": "和鹿晗一起看极光",
+          "url": "https://www.douyin.com/hot/2612948",
+          "heat": ""
+        },
+        {
+          "title": "热身赛中国男篮77:84不敌新西兰",
+          "url": "https://www.douyin.com/hot/2613610",
+          "heat": ""
+        },
+        {
+          "title": "欢迎来龙餐馆票房破十亿",
+          "url": "https://www.douyin.com/hot/2613722",
+          "heat": ""
+        },
+        {
+          "title": "徐艺洋又被黄子韬气到了",
+          "url": "https://www.douyin.com/hot/2613458",
+          "heat": ""
+        },
+        {
+          "title": "因为我已明白那全是为了爱",
+          "url": "https://www.douyin.com/hot/2613362",
+          "heat": ""
+        },
+        {
+          "title": "花式过七夕大赛",
+          "url": "https://www.douyin.com/hot/2613203",
+          "heat": ""
+        },
+        {
+          "title": "用特效体验沉浸式试妆",
+          "url": "https://www.douyin.com/hot/2613295",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "bilibili-hot-search",
@@ -803,20 +954,248 @@
     {
       "id": "cls-hot",
       "name": "财联社",
-      "count": 0,
-      "items": []
+      "count": 13,
+      "items": [
+        {
+          "title": "【早报】美股AI板块逆势走强；原油、黄金双双上行；一线城市二手房价格连续5个月上涨",
+          "url": "https://www.cls.cn/detail/2456585",
+          "heat": ""
+        },
+        {
+          "title": "特朗普威胁：若阿曼阻碍美伊和平协议 将对其发动轰炸",
+          "url": "https://www.cls.cn/detail/2456389",
+          "heat": ""
+        },
+        {
+          "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
+          "url": "https://www.cls.cn/detail/2456558",
+          "heat": ""
+        },
+        {
+          "title": "一签赚55万，A股诞生新纪录",
+          "url": "https://www.cls.cn/detail/2456739",
+          "heat": ""
+        },
+        {
+          "title": "【数读IPO】年内最贵新股，今日上市",
+          "url": "https://www.cls.cn/detail/2456599",
+          "heat": ""
+        },
+        {
+          "title": "半年翻7倍！Anthropic“年化营收”据传已突破650亿美元",
+          "url": "https://www.cls.cn/detail/2456549",
+          "heat": ""
+        },
+        {
+          "title": "商务部等九部门：支持县域消费渠道升级，加快存量商业设施更新",
+          "url": "https://www.cls.cn/detail/2456646",
+          "heat": ""
+        },
+        {
+          "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2456385",
+          "heat": ""
+        },
+        {
+          "title": "8月18日投资避雷针：4连板人气股公告 上半年净利润同比下降23.42%",
+          "url": "https://www.cls.cn/detail/2456627",
+          "heat": ""
+        },
+        {
+          "title": "券商晨会精华：算存光共驱，封测产业价值重估",
+          "url": "https://www.cls.cn/detail/2456623",
+          "heat": ""
+        },
+        {
+          "title": "法拉利首辆纯电车，拍出4000万美元天价",
+          "url": "https://www.cls.cn/detail/2456516",
+          "heat": ""
+        },
+        {
+          "title": "美债抛售潮加剧！30年期美债收益率创2007年以来最高",
+          "url": "https://www.cls.cn/detail/2456636",
+          "heat": ""
+        },
+        {
+          "title": "锂资源板块迎来业绩集体修复 融捷股份上半年净利润同比增长逾10倍|财报解读",
+          "url": "https://www.cls.cn/detail/2456476",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "thepaper",
       "name": "澎湃新闻",
-      "count": 0,
-      "items": []
+      "count": 20,
+      "items": [
+        {
+          "title": "纪念江泽民同志诞辰100周年大会在京隆重举行，习近平发表重要讲话",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33798526",
+          "heat": ""
+        },
+        {
+          "title": "天安门下半旗悼念朱镕基同志",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33803521",
+          "heat": ""
+        },
+        {
+          "title": "一线城市二手房价格连续5个月环比上涨",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33799536",
+          "heat": ""
+        },
+        {
+          "title": "宇树科技发布新品机器人“超人”：超人类原地跳高和奔跑速度纪录",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33798806",
+          "heat": ""
+        },
+        {
+          "title": "“甯”还是“寧”？东北大学回应疑似写错老校长宁恩承姓氏：会核实情况",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33800436",
+          "heat": ""
+        },
+        {
+          "title": "商场外墙广告“C位”让给科学家：从山东开始，内蒙古、安徽多地跟进",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33799676",
+          "heat": ""
+        },
+        {
+          "title": "马上评｜航司挣钱不能总靠“浅灰色小字”",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33797864",
+          "heat": ""
+        },
+        {
+          "title": "新闻蒸馏器｜拆西墙补东墙，美军在西太平洋留下“航母真空”",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33797607",
+          "heat": ""
+        },
+        {
+          "title": "与保姆再婚难离、财产难守，一份遗嘱能否解七旬老人困局？",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33797579",
+          "heat": ""
+        },
+        {
+          "title": "曾经顶流｜对话杨臣刚：不羡慕刀郎依然爆火，人各有命不强求",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33668492",
+          "heat": ""
+        },
+        {
+          "title": "观察｜一场欧洲大满贯，照出国乒的上限与下限",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33797649",
+          "heat": ""
+        },
+        {
+          "title": "游客称一家三口遭遇网约车司机尾随威胁，阳光出行：司机账号永久下线",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33797914",
+          "heat": ""
+        },
+        {
+          "title": "9部门发文活跃县域消费",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33803518",
+          "heat": ""
+        },
+        {
+          "title": "“男子结婚8年3孩均非亲生”案将择期宣判，男方：妻子当庭承认出轨，双方就孩子归女方达成共识",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33800378",
+          "heat": ""
+        },
+        {
+          "title": "导游带团时将鸭、猪肉干冒充牦牛肉干卖给游客，大理市监局责令改正并罚款",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33797915",
+          "heat": ""
+        },
+        {
+          "title": "强降雨致太湖水位持续上涨，苏州多地内涝严重，记者实探积水抽排现场",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33799401",
+          "heat": ""
+        },
+        {
+          "title": "水葫芦泛滥围困货船？阜阳交通局：货船系台风天在航道就地泊锚避险",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33798551",
+          "heat": ""
+        },
+        {
+          "title": "马上评｜随地吐痰最高罚千元，让屡教不改者“肉痛”",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33799580",
+          "heat": ""
+        },
+        {
+          "title": "浙江将启动国有博物馆展陈内容专项排查，进一步规范审核管理",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33800248",
+          "heat": ""
+        },
+        {
+          "title": "河南周口：消防三班倒连夜加急排涝，多处阻断道路逐步具备通行条件",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33800210",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "ifeng",
       "name": "凤凰网",
-      "count": 0,
-      "items": []
+      "count": 12,
+      "items": [
+        {
+          "title": "特朗普最新支持率公布",
+          "url": "https://news.ifeng.com/c/8vgNsInzDsl",
+          "heat": ""
+        },
+        {
+          "title": "伊朗将重拳出击，霍尔木兹海峡上演猫鼠游戏",
+          "url": "https://v.ifeng.com/c/8vfiQsf50xA",
+          "heat": ""
+        },
+        {
+          "title": "航母抽调中东，美军在西太平洋出现“航母空窗”",
+          "url": "https://news.ifeng.com/c/8vgM71M0NLr",
+          "heat": ""
+        },
+        {
+          "title": "为向伊朗革命卫队传话，美国找了谁？",
+          "url": "https://news.ifeng.com/c/8vfjQXLe7At",
+          "heat": ""
+        },
+        {
+          "title": "60天期限已到，特朗普威胁阿曼，伊朗称将“全面进攻”",
+          "url": "https://news.ifeng.com/c/8vgLjEXesPE",
+          "heat": ""
+        },
+        {
+          "title": "牛弹琴：南海又让美军狼狈不堪",
+          "url": "https://news.ifeng.com/c/8vgNAbiv0RV",
+          "heat": ""
+        },
+        {
+          "title": "比利时、荷兰、德国，联合扑救",
+          "url": "https://news.ifeng.com/c/8vgYtUlNx7o",
+          "heat": ""
+        },
+        {
+          "title": "印度航空又有两名飞行员涉嫌“毒驾”",
+          "url": "https://news.ifeng.com/c/8vfhkZkglgH",
+          "heat": ""
+        },
+        {
+          "title": "重镇红利曼战线局势反转！乌军大反击，俄军多处失守",
+          "url": "https://news.ifeng.com/c/8vgUwqSTqjr",
+          "heat": ""
+        },
+        {
+          "title": "特朗普：金正恩已回应其对话请求",
+          "url": "https://news.ifeng.com/c/8vgIS66EJvG",
+          "heat": ""
+        },
+        {
+          "title": "加拿大逾20万请愿，要求驱逐美国大使",
+          "url": "https://news.ifeng.com/c/8vfhkZkglj7",
+          "heat": ""
+        },
+        {
+          "title": "中国北极航线订单爆火，西方一些人酸溜溜",
+          "url": "https://news.ifeng.com/c/8vgGwIweU0S",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "toutiao",
