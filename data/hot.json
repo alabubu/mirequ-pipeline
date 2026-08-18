@@ -1,6 +1,6 @@
 {
-  "updated": "09:35:40",
-  "total": 279,
+  "updated": "09:40:34",
+  "total": 282,
   "platforms": [
     {
       "id": "zhihu",
@@ -967,11 +967,6 @@
           "heat": ""
         },
         {
-          "title": "商务部等九部门：支持县域消费渠道升级，加快存量商业设施更新",
-          "url": "https://www.cls.cn/detail/2456646",
-          "heat": ""
-        },
-        {
           "title": "汽车促消费政策“升级” 多地将二手车纳入补贴范围、单台至高4000元",
           "url": "https://www.cls.cn/detail/2456833",
           "heat": ""
@@ -987,23 +982,18 @@
           "heat": ""
         },
         {
-          "title": "费半重返牛市及存储股强势反弹 谁是背后推手？一文读懂",
-          "url": "https://www.cls.cn/detail/2456773",
-          "heat": ""
-        },
-        {
           "title": "功率半导体又酝酿涨价？AI用电拉动需求 部分企业或10月行动",
           "url": "https://www.cls.cn/detail/2457030",
           "heat": ""
         },
         {
-          "title": "英伟达到处给人“兜底融资”？“新债王”冈拉克：预示市场或见顶！",
-          "url": "https://www.cls.cn/detail/2456814",
+          "title": "费半重返牛市及存储股强势反弹 谁是背后推手？一文读懂",
+          "url": "https://www.cls.cn/detail/2456773",
           "heat": ""
         },
         {
-          "title": "警方公告：谁的3999.577万元资金，快来认领 公告期满无人认领将上缴国库",
-          "url": "https://www.cls.cn/detail/2456628",
+          "title": "英伟达到处给人“兜底融资”？“新债王”冈拉克：预示市场或见顶！",
+          "url": "https://www.cls.cn/detail/2456814",
           "heat": ""
         },
         {
@@ -1019,6 +1009,16 @@
         {
           "title": "特朗普支持率降至任内新低 八成美国人料美伊战事长期持续",
           "url": "https://www.cls.cn/detail/2456808",
+          "heat": ""
+        },
+        {
+          "title": "散户成为新增量，科技ETF遭个人抢购，多只被买走九成以上份额",
+          "url": "https://www.cls.cn/detail/2456709",
+          "heat": ""
+        },
+        {
+          "title": "特朗普：吞并霍尔木兹海峡，这主意不错",
+          "url": "https://www.cls.cn/detail/2456977",
           "heat": ""
         }
       ]
@@ -1357,126 +1357,141 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 24,
+      "count": 27,
       "items": [
         {
-          "title": "世卫组织官员：（被问及三个月内扭转埃博拉疫情的计划）如果我们拥有资源，这是可能的。",
-          "url": "https://flash.jin10.com/detail/20260818170823961800",
+          "title": "澳门三五规划明确八大目标",
+          "url": "https://flash.jin10.com/detail/20260818173851777800",
           "heat": false
         },
         {
-          "title": "百度：二季度AI原生营销服务收入26亿元",
-          "url": "https://flash.jin10.com/detail/20260818170807087800",
+          "title": "穆迪：澳洲发行人评级维持在AAA不变，评级展望稳定。",
+          "url": "https://flash.jin10.com/detail/20260818173830036800",
           "heat": false
         },
         {
-          "title": "谷歌(GOOG.O)：与英国政府及航空业领导者合作，利用人工智能帮助航空公司避免在北大西洋上空产生凝结尾迹。",
-          "url": "https://flash.jin10.com/detail/20260818170806668800",
+          "title": "穆迪：尽管全球关税以及中东冲突导致油价上涨，澳大利亚经济依然保持韧性。",
+          "url": "https://flash.jin10.com/detail/20260818173813340800",
           "heat": false
         },
         {
-          "title": "4400美元金价背后：1月以来最强资金潮来袭，期权市场惊现逆转",
-          "url": "https://flash.jin10.com/detail/20260818170703473800",
+          "title": "据Axios：美国食品药品监督管理局（FDA）正在考虑采用类似医生评估方式的“基于能力的方法”，对采用生成式人工智能技术的医疗器械进行评估。",
+          "url": "https://flash.jin10.com/detail/20260818173748302800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：过去两小时内，有三架北约侦察机从波兰和立陶宛方向靠近加里宁格勒地区被发现。",
+          "url": "https://flash.jin10.com/detail/20260818173642527800",
+          "heat": false
+        },
+        {
+          "title": "小米集团：在OpenRouter平台上，Xiaomi MiMo-V2.5周调用量3位 列第一",
+          "url": "https://flash.jin10.com/detail/20260818173614517800",
+          "heat": false
+        },
+        {
+          "title": "乌官员称哈尔科夫州遭导弹袭击致10死8伤",
+          "url": "https://flash.jin10.com/detail/20260818173556025800",
+          "heat": false
+        },
+        {
+          "title": "据也门方面报道：也门导弹袭击沙特雇佣军总部。也门消息人士称，也门军队和胡塞武装向驻扎在马里卜省、隶属于利雅得的部队营地发动导弹袭击后，该省发生剧烈爆炸。",
+          "url": "https://flash.jin10.com/detail/20260818173527252800",
+          "heat": false
+        },
+        {
+          "title": "英国天然气电力市场办公室（Ofgem）：英国天然气公司（British Gas）获得有限豁免，可推出降低固定费用的试点资费，客户可在8月11日至2027年8月10日期间选择加入。",
+          "url": "https://flash.jin10.com/detail/20260818173429213800",
+          "heat": false
+        },
+        {
+          "title": "小米集团：2026年第二季度手机×AIoT分部收入为人民币840亿元",
+          "url": "https://flash.jin10.com/detail/20260818173412879800",
+          "heat": false
+        },
+        {
+          "title": "印度石油天然气公司（ONGC）：关于委内瑞拉资产后续行动的框架协议正在讨论中。",
+          "url": "https://flash.jin10.com/detail/20260818173411848800",
+          "heat": false
+        },
+        {
+          "title": "印度石油天然气公司（ONGC）：澄清有关“ONGC获美国许可恢复在委内瑞拉的全面运营，并寻求运营商资格”的报道。所需的美国政府批准已于2026年7月获得。",
+          "url": "https://flash.jin10.com/detail/20260818173315161800",
+          "heat": false
+        },
+        {
+          "title": "据俄新社：俄罗斯国防部称，8月17日晚，攻击无人机打击了敖德萨港内用于乌军的燃料储罐。",
+          "url": "https://flash.jin10.com/detail/20260818173240272800",
+          "heat": false
+        },
+        {
+          "title": "南向资金今日大幅净买入140.02亿元。港股通（沪）方面，盈富基金、阿里巴巴-W分别获净买入25.19亿港元、22.82亿港元；净卖出额居首，金额为4.04亿港元；港股通（深）方面，盈富基金、中芯国际分别获净买入9.89亿港元、5.73亿港元；腾讯控股净卖出额居首，金额为3.74亿港元。",
+          "url": "https://flash.jin10.com/detail/20260818173125557800",
+          "heat": false
+        },
+        {
+          "title": "中国联通：2026年上半年净利润41.39亿元，同比降34.8%",
+          "url": "https://flash.jin10.com/detail/20260818173121184800",
           "heat": "✰"
         },
         {
-          "title": "谷歌(GOOG.O)：启动“蓝天行动”（Operation Blue Skies），开展首个由政府支持的海洋航线尾迹规避试验。",
-          "url": "https://flash.jin10.com/detail/20260818170637784800",
+          "title": "据华尔街日报：人工智能芯片初创公司Etched在由Jane Street领投的一轮融资中筹集7亿美元，使公司估值达到210亿美元。Etched已签署Jane Street作为首个客户，并已开始出货芯片。",
+          "url": "https://flash.jin10.com/detail/20260818173104007800",
           "heat": false
         },
         {
-          "title": "欧元区8月ZEW经济现况指数 -21.5，前值-37.7。",
-          "url": "https://flash.jin10.com/detail/20260818170515538800",
+          "title": "小米集团(01810.HK)：2026年第二季度经调整净利润62.19亿元，同比下降42.6%。",
+          "url": "https://flash.jin10.com/detail/20260818173032414800",
+          "heat": "✰"
+        },
+        {
+          "title": "南非商会：南非七月商业信心指数从六月的123.5上升至125.4。",
+          "url": "https://flash.jin10.com/detail/20260818173029211800",
           "heat": false
         },
         {
-          "title": "百度Q2财报：总营收313亿元 AI业务收入占比连续过半",
-          "url": "https://flash.jin10.com/detail/20260818170514047800",
-          "heat": "✰"
-        },
-        {
-          "title": "国务院：住房公积金的存、贷利率由国务院决定",
-          "url": "https://flash.jin10.com/detail/20260818170500459800",
-          "heat": "✰"
-        },
-        {
-          "title": "国务院：明确个体工商户、非全日制从业人员以及其他灵活就业人员可以自愿缴存住房公积金",
-          "url": "https://flash.jin10.com/detail/20260818170408448800",
-          "heat": "✰"
-        },
-        {
-          "title": "国务院：实现住房公积金缴存记录等全国范围内互信互认",
-          "url": "https://flash.jin10.com/detail/20260818170336906800",
+          "title": "据俄新社：俄罗斯国防部称，部队在乌克兰顿涅茨克地区夺取两个定居点。",
+          "url": "https://flash.jin10.com/detail/20260818172928576800",
           "heat": false
         },
         {
-          "title": "60天窗口正式失效，布油重新冲上91美元｜原油头条",
-          "url": "https://flash.jin10.com/detail/20260818170315963800",
+          "title": "小米集团(01810.HK)：2026年上半年经调整净利润122.91亿元，同比下降42.8%。",
+          "url": "https://flash.jin10.com/detail/20260818172819581800",
           "heat": "✰"
         },
         {
-          "title": "小马智行(02026.HK)：2026年第二季度收入总额同比增长68.8%至3620万美元，自动驾驶出行服务收入同比增长691.2%至1210万美元。",
-          "url": "https://flash.jin10.com/detail/20260818170303349800",
+          "title": "小米集团(01810.HK)：2026年上半年营收2080.63亿元人民币，同比减少8.4%。",
+          "url": "https://flash.jin10.com/detail/20260818172715745800",
           "heat": "✰"
         },
         {
-          "title": "德国智库ZEW：尽管莱茵河水位创历史新低，给经济活动带来额外的急性风险，但经济仍继续受益于政府的基础设施项目。",
-          "url": "https://flash.jin10.com/detail/20260818170301601800",
+          "title": "小米集团(01810.HK)2026年Q2营收1089亿元，上年同期1159.6亿元，同比下降6.1%。",
+          "url": "https://flash.jin10.com/detail/20260818172552334800",
+          "heat": "✰"
+        },
+        {
+          "title": "利安隆：公司电子级PI材料主要应用于柔性OLED显示屏幕、柔性电路板(FPC)、芯片封装、新能源汽车等材料产业。",
+          "url": "https://flash.jin10.com/detail/20260818172517222800",
           "heat": false
         },
         {
-          "title": "国务院：对提取住房公积金支付房租，不再设置房租超过家庭工资收入规定比例的门槛限制",
-          "url": "https://flash.jin10.com/detail/20260818170256933800",
-          "heat": "✰"
-        },
-        {
-          "title": "德国智库ZEW：8月份预期的积极趋势进一步巩固，这可能与良好的季度业绩和近期高水平的出口有关。",
-          "url": "https://flash.jin10.com/detail/20260818170252645800",
+          "title": "冰山冷热：公司积极推进磁悬浮冷水机组的研发，开发过程存在不确定性，可以投入商用时间暂不确定。",
+          "url": "https://flash.jin10.com/detail/20260818172504501800",
           "heat": false
         },
         {
-          "title": "百度(BIDU.O)2026年Q2营收313亿元，上年同期327.13亿元。",
-          "url": "https://flash.jin10.com/detail/20260818170233617800",
-          "heat": "✰"
-        },
-        {
-          "title": "加拿大7月成屋销售月率 0.5%，前值0.50%。",
-          "url": "https://flash.jin10.com/detail/20260818170227057800",
+          "title": "卓兆点胶：2026年上半年净利润1734.68万元，同比下降35.23%",
+          "url": "https://flash.jin10.com/detail/20260818172350072800",
           "heat": false
         },
         {
-          "title": "金十图示：2026年08月18日（周二）上海黄金交易所市场行情",
-          "url": "https://flash.jin10.com/detail/20260818170212153800",
+          "title": "西藏珠峰：上半年归母净利润3.55亿元 同比增长18.03%",
+          "url": "https://flash.jin10.com/detail/20260818172337914800",
           "heat": false
         },
         {
-          "title": "国务院发布关于修改《住房公积金管理条例》的决定，本决定自2026年9月20日起施行。",
-          "url": "https://flash.jin10.com/detail/20260818170118217800",
-          "heat": "✰"
-        },
-        {
-          "title": "欧元区8月ZEW经济景气指数 31.4，前值23.4。",
-          "url": "https://flash.jin10.com/detail/20260818170103384800",
-          "heat": "✰"
-        },
-        {
-          "title": "市场上调2026年英国央行加息预期",
-          "url": "https://flash.jin10.com/detail/20260818170041378800",
-          "heat": false
-        },
-        {
-          "title": "贝克微：2026年上半年净利润介乎于人民币1.003亿元至1.0801亿元 同比增长约30%至40%",
-          "url": "https://flash.jin10.com/detail/20260818170003222800",
-          "heat": false
-        },
-        {
-          "title": "德国8月ZEW经济景气指数 34.2，预期30，前值26.3。",
-          "url": "https://flash.jin10.com/detail/20260818170002535800",
-          "heat": "✰"
-        },
-        {
-          "title": "德国8月ZEW经济现况指数 -61.1，预期-69.5，前值-77.6。",
-          "url": "https://flash.jin10.com/detail/20260818170002537800",
+          "title": "春秋电子：控股股东持股比例因可转债转股被动稀释至29.08%",
+          "url": "https://flash.jin10.com/detail/20260818172317991800",
           "heat": false
         }
       ]
