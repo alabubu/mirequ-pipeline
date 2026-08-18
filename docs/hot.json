@@ -1,6 +1,6 @@
 {
-  "updated": "14:40:35",
-  "total": 277,
+  "updated": "14:45:36",
+  "total": 280,
   "platforms": [
     {
       "id": "zhihu",
@@ -1002,13 +1002,13 @@
           "heat": ""
         },
         {
-          "title": "油价与通胀担忧推升美债收益率 美股三大期指集体走低 芯片股回调 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2457477",
+          "title": "网传“连坐”停药再敲警钟！新规落地叠加案例频发 医药合规“挤水分”进入深水区",
+          "url": "https://www.cls.cn/detail/2457539",
           "heat": ""
         },
         {
-          "title": "网传“连坐”停药再敲警钟！新规落地叠加案例频发 医药合规“挤水分”进入深水区",
-          "url": "https://www.cls.cn/detail/2457539",
+          "title": "油价与通胀担忧推升美债收益率 美股三大期指集体走低 芯片股回调 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2457477",
           "heat": ""
         },
         {
@@ -1357,8 +1357,113 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 22,
+      "count": 25,
       "items": [
+        {
+          "title": "扎波罗热核电站的俄罗斯管理方确认，用于核电站工作人员通勤的公交车站遭到袭击。",
+          "url": "https://flash.jin10.com/detail/20260818224504825800",
+          "heat": false
+        },
+        {
+          "title": "以色列央行行长：我们刚刚发布了非常强劲的GDP数据，但有一些警示。",
+          "url": "https://flash.jin10.com/detail/20260818224444451800",
+          "heat": false
+        },
+        {
+          "title": "VinSpace：宣布与SpaceX签署发射合同，标志着越南航天产业迈入新里程碑。计划于2027年开发并将首批卫星发射进入轨道。",
+          "url": "https://flash.jin10.com/detail/20260818224031470800",
+          "heat": false
+        },
+        {
+          "title": "沪银主力合约日内跌幅达2.00%，现报15773.00元/千克。",
+          "url": "https://flash.jin10.com/detail/20260818224015472800",
+          "heat": "✰"
+        },
+        {
+          "title": "现货白银日内跌幅达2%，现报64.46美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260818224010625800",
+          "heat": "✰"
+        },
+        {
+          "title": "乌军用英制无人机袭俄？俄罗斯警告英国“蓄意升级”，后者坚挺乌克兰",
+          "url": "https://flash.jin10.com/detail/20260818223912238800",
+          "heat": "✰"
+        },
+        {
+          "title": "市场消息：美国法官允许特朗普政府终止对超过5000名埃塞俄比亚人的驱逐保护。",
+          "url": "https://flash.jin10.com/detail/20260818223442941800",
+          "heat": false
+        },
+        {
+          "title": "爱沙尼亚总理：正在调查与俄罗斯有关的国防制造商火灾事件。",
+          "url": "https://flash.jin10.com/detail/20260818223309282800",
+          "heat": false
+        },
+        {
+          "title": "人工智能平台Behavox在米兰开设地区总部。",
+          "url": "https://flash.jin10.com/detail/20260818223205233800",
+          "heat": false
+        },
+        {
+          "title": "法国预算部长：法国税务局将进行人工智能网络攻击测试。",
+          "url": "https://flash.jin10.com/detail/20260818222907249800",
+          "heat": false
+        },
+        {
+          "title": "“美联储传声筒”Nick Timiraos：克利夫兰联储调查的企业高管预计，未来一年CPI通胀率为3.3%，较第二季度的3.7%略有下降。他们预计工资增长（未来一年为2.8%，去年调查为2.9%）和就业水平不会出现明显变化。预计研发支出增速将放缓，未来一年预计为2.0%，低于去年调查中的3.1%。",
+          "url": "https://flash.jin10.com/detail/20260818222745008800",
+          "heat": false
+        },
+        {
+          "title": "英国海事贸易组织：船只右舷受损，一名船员伤亡。目前没有环境影响报告。有关当局正在调查。",
+          "url": "https://flash.jin10.com/detail/20260818222624597800",
+          "heat": false
+        },
+        {
+          "title": "波罗的海干散货运价指数下滑至逾两周低位",
+          "url": "https://flash.jin10.com/detail/20260818222606330800",
+          "heat": false
+        },
+        {
+          "title": "英国海事贸易组织：收到一份关于8月15日霍尔木兹海峡发生事件的报告。第三方报告称一艘散货船遭到抛射物袭击。",
+          "url": "https://flash.jin10.com/detail/20260818222532530800",
+          "heat": false
+        },
+        {
+          "title": "欧盟提议将以色列国家安全部长列入制裁名单",
+          "url": "https://flash.jin10.com/detail/20260818222432841800",
+          "heat": false
+        },
+        {
+          "title": "法国预算部长在税务数据泄露后发表讲话，称法国将于下周通知公司数据泄露情况。",
+          "url": "https://flash.jin10.com/detail/20260818222401299800",
+          "heat": false
+        },
+        {
+          "title": "Meta Platforms(META.O)股价触及两周低点，最新下跌3.8%。",
+          "url": "https://flash.jin10.com/detail/20260818222304470800",
+          "heat": false
+        },
+        {
+          "title": "家得宝(HD.N)股价上涨1%，第二季度业绩超出预期。",
+          "url": "https://flash.jin10.com/detail/20260818222154436800",
+          "heat": false
+        },
+        {
+          "title": "大众安徽第10万辆智能电动汽车在合肥下线",
+          "url": "https://flash.jin10.com/detail/20260818221805642800",
+          "heat": false
+        },
+        {
+          "title": "文件显示，厄瓜多尔外交官Ivonne Baki被提名为联合国秘书长候选人。",
+          "url": "https://flash.jin10.com/detail/20260818221759794800",
+          "heat": false
+        },
+        {
+          "title": "据外媒报道，黑石支持的QTS Realty Trust旗下实体启动了一笔高评级债券发行，以帮助为与微软相关的数据中心建设提供资金。由于投资者在债务发行激增后对购买对象变得更加挑剔，该公司通过提供较高收益率来吸引投资者需求。",
+          "url": "https://flash.jin10.com/detail/20260818221737469800",
+          "heat": false
+        },
         {
           "title": "美国食品药品监督管理局（FDA） 将10月19日设为针对生成式人工智能医疗设备框架征求意见的截止日期。",
           "url": "https://flash.jin10.com/detail/20260818221436232800",
@@ -1377,96 +1482,6 @@
         {
           "title": "美智库研判伊朗战后走向，美国“围堵”策略恐适得其反",
           "url": "https://flash.jin10.com/detail/20260818221210697800",
-          "heat": false
-        },
-        {
-          "title": "据报道，俄罗斯总统助理乌沙科夫称，俄罗斯排除沿接触线冻结俄乌冲突的可能性。",
-          "url": "https://flash.jin10.com/detail/20260818221117960800",
-          "heat": false
-        },
-        {
-          "title": "土耳其外交部呼吁国际社会对以色列违反国际法的行为追究责任。",
-          "url": "https://flash.jin10.com/detail/20260818221039374800",
-          "heat": false
-        },
-        {
-          "title": "土耳其外交部强烈谴责以色列对叙利亚基地的空袭。",
-          "url": "https://flash.jin10.com/detail/20260818220950154800",
-          "heat": false
-        },
-        {
-          "title": "期货交易夜读 | 交易的“完美主义陷阱”：接受瑕疵，才能拥抱利润",
-          "url": "https://flash.jin10.com/detail/20260818220111918800",
-          "heat": false
-        },
-        {
-          "title": "美国7月未季调成屋签约销售指数年率 -2.5%，前值2.30%。",
-          "url": "https://flash.jin10.com/detail/20260818220014826800",
-          "heat": false
-        },
-        {
-          "title": "美国7月成屋签约销售指数 71.2，前值由72.5修正为72.9。",
-          "url": "https://flash.jin10.com/detail/20260818220002110800",
-          "heat": false
-        },
-        {
-          "title": "美国7月成屋签约销售指数月率 -2.3%，预期0.3%，前值由-5.40%修正为-4.8%。",
-          "url": "https://flash.jin10.com/detail/20260818220002093800",
-          "heat": "✰"
-        },
-        {
-          "title": "惠誉评级：资源限制加大美国水务公司的网络风险。",
-          "url": "https://flash.jin10.com/detail/20260818215848986800",
-          "heat": false
-        },
-        {
-          "title": "费城半导体指数下跌5%，迈威尔科技(MRVL.O)跌超7%，Arm(ARM.O)、英特尔(INTC.O)跌近7%，美光科技(MU.O)跌5.7%，英伟达(NVDA.O)跌超2%。",
-          "url": "https://flash.jin10.com/detail/20260818215554693800",
-          "heat": "✰"
-        },
-        {
-          "title": "伊朗声称既赢了战争也赢了外交，条件满足前绝不开放霍尔木兹",
-          "url": "https://flash.jin10.com/detail/20260818215021593800",
-          "heat": "✰"
-        },
-        {
-          "title": "标普500医疗板块创下历史新高，最新上涨1.8%。",
-          "url": "https://flash.jin10.com/detail/20260818215018493800",
-          "heat": false
-        },
-        {
-          "title": "美国7月成屋签约销售指数月率将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260818215000000800",
-          "heat": "✰"
-        },
-        {
-          "title": "现货钯金跌破1300美元/盎司，日内跌2.07%。",
-          "url": "https://flash.jin10.com/detail/20260818214851738800",
-          "heat": false
-        },
-        {
-          "title": "伊朗媒体18日报道，伊朗最高领袖即将在德黑兰主持一场宗教活动。",
-          "url": "https://flash.jin10.com/detail/20260818214614506800",
-          "heat": "✰"
-        },
-        {
-          "title": "阿根廷七月初级预算盈余为2.960万亿阿根廷比索。",
-          "url": "https://flash.jin10.com/detail/20260818214442694800",
-          "heat": false
-        },
-        {
-          "title": "正在直播中",
-          "url": "https://flash.jin10.com/detail/20260818214237258800",
-          "heat": false
-        },
-        {
-          "title": "瑞银：将Snowflake(SNOW.N)目标价从370美元上调至425美元。",
-          "url": "https://flash.jin10.com/detail/20260818214030037800",
-          "heat": false
-        },
-        {
-          "title": "惠誉：预测哥伦比亚2026年经济增长2.7%。",
-          "url": "https://flash.jin10.com/detail/20260818214012958800",
           "heat": false
         }
       ]
