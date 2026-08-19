@@ -1,6 +1,6 @@
 {
-  "updated": "19:30:51",
-  "total": 255,
+  "updated": "19:35:31",
+  "total": 280,
   "platforms": [
     {
       "id": "zhihu",
@@ -1069,6 +1069,11 @@
           "heat": ""
         },
         {
+          "title": "接连有博物馆展览文字出错，国家文物局：即知即改、审核不得外包",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33812178",
+          "heat": ""
+        },
+        {
           "title": "财晓得｜市值3417亿元，宇树撑得起吗？",
           "url": "https://www.thepaper.cn/newsDetail_forward_33768776",
           "heat": ""
@@ -1076,11 +1081,6 @@
         {
           "title": "教师招聘笔试前13名落选、后5名进体检名单？佛山通报",
           "url": "https://www.thepaper.cn/newsDetail_forward_33810219",
-          "heat": ""
-        },
-        {
-          "title": "接连有博物馆展览文字出错，国家文物局：即知即改、审核不得外包",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33812178",
           "heat": ""
         },
         {
@@ -1119,13 +1119,13 @@
           "heat": ""
         },
         {
-          "title": "游客称在洪崖洞周边拍照遭商拍驱赶，重庆渝中：对商拍霸占机位“零容忍”",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33808105",
+          "title": "中国妇女报评杭州酒局事件：整治畸形酒桌文化尚须久久为功",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33808264",
           "heat": ""
         },
         {
-          "title": "中国妇女报评杭州酒局事件：整治畸形酒桌文化尚须久久为功",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33808264",
+          "title": "游客称在洪崖洞周边拍照遭商拍驱赶，重庆渝中：对商拍霸占机位“零容忍”",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33808105",
           "heat": ""
         }
       ]
@@ -1357,8 +1357,134 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 0,
-      "items": []
+      "count": 25,
+      "items": [
+        {
+          "title": "现货白银日内暴涨3美元，现报66.32美元/盎司，涨幅4.74%。",
+          "url": "https://flash.jin10.com/detail/20260820031250301800",
+          "heat": false
+        },
+        {
+          "title": "美国总统特朗普：非常希望利率能够下降。",
+          "url": "https://flash.jin10.com/detail/20260820031215458800",
+          "heat": "✰"
+        },
+        {
+          "title": "消息人士：美加贸易协议预计将把美国对加拿大钢铁和铝制品的关税税率下调至25%，但同时也会包含一些配额安排。",
+          "url": "https://flash.jin10.com/detail/20260820031148293800",
+          "heat": "✰"
+        },
+        {
+          "title": "消息人士：美加贸易协议预计将把美国对加拿大汽车的最高关税税率削减至15%。",
+          "url": "https://flash.jin10.com/detail/20260820031045243800",
+          "heat": "✰"
+        },
+        {
+          "title": "现货黄金站上4500美元",
+          "url": "https://flash.jin10.com/detail/20260820030928706800",
+          "heat": "✰"
+        },
+        {
+          "title": "市场消息：SpaceX(SPCX.O)曾尝试收购AI编程初创公司Cognition。",
+          "url": "https://flash.jin10.com/detail/20260820030826832800",
+          "heat": false
+        },
+        {
+          "title": "据以色列第12频道：以色列将开始建立用于战斗机的智能炸弹生产线。",
+          "url": "https://flash.jin10.com/detail/20260820030620285800",
+          "heat": false
+        },
+        {
+          "title": "算力公司Alpha Compute：7月游戏业务及Alpha-01英伟达GPU 集群现金收入达157万美元，较2026年4月总收入增长约35倍。",
+          "url": "https://flash.jin10.com/detail/20260820030533730800",
+          "heat": false
+        },
+        {
+          "title": "以色列国防军：明天将在纳哈里亚市附近举行军事演习，属2026年训练计划安排，不涉及安全事件。",
+          "url": "https://flash.jin10.com/detail/20260820030316146800",
+          "heat": false
+        },
+        {
+          "title": "恒指期货夜盘收涨0.94%，报25699点，高水204点。",
+          "url": "https://flash.jin10.com/detail/20260820030130852800",
+          "heat": false
+        },
+        {
+          "title": "伊朗央行行长：伊朗已提议在金砖国家内部建立金融走廊，以减少对其他货币的依赖。",
+          "url": "https://flash.jin10.com/detail/20260820030027393800",
+          "heat": false
+        },
+        {
+          "title": "据相关信件：美国将为加沙维和部队提供2.06亿美元资金。",
+          "url": "https://flash.jin10.com/detail/20260820025846105800",
+          "heat": false
+        },
+        {
+          "title": "AI芯片初创公司Fractile获Anthropic订单后寻求65亿美元估值",
+          "url": "https://flash.jin10.com/detail/20260820025810849800",
+          "heat": false
+        },
+        {
+          "title": "伊朗央行行长：目前尚未有任何被冻结的资金解冻",
+          "url": "https://flash.jin10.com/detail/20260820025453450800",
+          "heat": false
+        },
+        {
+          "title": "伊朗央行行长：未来几周内伊朗与伊拉克银行问题将得到解决。伊拉克已同意以伊朗在伊拉克银行资产为担保，为伊朗承包商提供担保函，加快两国经济合作。",
+          "url": "https://flash.jin10.com/detail/20260820025124029800",
+          "heat": false
+        },
+        {
+          "title": "美联储会议纪要：通胀预测与6月预测相似，但经济展望略显疲软",
+          "url": "https://flash.jin10.com/detail/20260820025006306800",
+          "heat": false
+        },
+        {
+          "title": "伊朗央行行长：截至目前协议框架下被冻结的资产仍未有任何资金获解冻。",
+          "url": "https://flash.jin10.com/detail/20260820024856372800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：英国愿与美国讨论数字服务税问题，称对科技公司的征税只是临时措施，直到达成全球解决方案。",
+          "url": "https://flash.jin10.com/detail/20260820024559309800",
+          "heat": false
+        },
+        {
+          "title": "布伦特原油期货结算价为每桶91.62美元，上涨60美分，涨幅0.66%。",
+          "url": "https://flash.jin10.com/detail/20260820024448796800",
+          "heat": false
+        },
+        {
+          "title": "美联储会议纪要警示AI股票风险 提及国债波动风险",
+          "url": "https://flash.jin10.com/detail/20260820024430570800",
+          "heat": "✰"
+        },
+        {
+          "title": "市场消息：AI芯片初创公司Fractile将向Anthropic出售价值约2.5亿美元的芯片。交易完成后，Fractile计划寻求约65亿美元估值。",
+          "url": "https://flash.jin10.com/detail/20260820024126474800",
+          "heat": false
+        },
+        {
+          "title": "美联储会议纪要：支持加息者认为此举可能避免未来进一步加息",
+          "url": "https://flash.jin10.com/detail/20260820023222309800",
+          "heat": false
+        },
+        {
+          "title": "夜盘主力合约收盘",
+          "url": "https://flash.jin10.com/detail/20260820023105757800",
+          "heat": false
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 8月19日（周三）晚盘收盘上涨2.44%报966.97元/克；<br/>上海黄金交易所白银T+D 8月19日（周三）晚盘收盘上涨3.54%报15956.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260820023051776800",
+          "heat": false
+        },
+        {
+          "title": "美国原油期货结算价为每桶85.83美元，上涨89美分，涨幅1.05%。",
+          "url": "https://flash.jin10.com/detail/20260820023048536800",
+          "heat": false
+        }
+      ]
     }
   ]
 }
