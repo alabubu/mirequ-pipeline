@@ -1,6 +1,6 @@
 {
-  "updated": "05:35:31",
-  "total": 281,
+  "updated": "05:40:34",
+  "total": 283,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,58 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 26,
+      "count": 28,
       "items": [
+        {
+          "title": "华润啤酒(00291.HK)绩后跌5.5%，消息面上，公司2026年上半年股东应占溢利为人民币51.69亿元，去年同期为57.89亿元。",
+          "url": "https://flash.jin10.com/detail/20260819133413260800",
+          "heat": false
+        },
+        {
+          "title": "韩国对华乙酸乙酯启动反倾销调查",
+          "url": "https://flash.jin10.com/detail/20260819133254107800",
+          "heat": false
+        },
+        {
+          "title": "国家统计局发布2026年7月份分年龄组失业率数据",
+          "url": "https://flash.jin10.com/detail/20260819133131510800",
+          "heat": false
+        },
+        {
+          "title": "中国地震台网正式测定：08月19日13时22分在青海海西州直辖区（北纬37.84度，东经95.62度）发生3.7级地震，震源深度10千米。",
+          "url": "https://flash.jin10.com/detail/20260819132950167800",
+          "heat": false
+        },
+        {
+          "title": "王毅同智利外长佩雷斯会谈",
+          "url": "https://flash.jin10.com/detail/20260819132843975800",
+          "heat": false
+        },
+        {
+          "title": "8月18日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260819132324425800",
+          "heat": false
+        },
+        {
+          "title": "8月18日芝加哥商业交易所（CME）金属类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260819132319473800",
+          "heat": false
+        },
+        {
+          "title": "8月18日芝加哥商业交易所（CME）外汇类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260819132317895800",
+          "heat": false
+        },
+        {
+          "title": "据阿拉比亚电视台：伊朗议会议长卡利巴夫抵达巴格达，将会见伊拉克官员。",
+          "url": "https://flash.jin10.com/detail/20260819132245321800",
+          "heat": false
+        },
+        {
+          "title": "丹斯克银行：预计美联储可能加息两次",
+          "url": "https://flash.jin10.com/detail/20260819132241531800",
+          "heat": false
+        },
         {
           "title": "周三160亿美元20年期美债拍卖，收益率会否再创新高？",
           "url": "https://flash.jin10.com/detail/20260819131552974800",
@@ -1372,7 +1422,7 @@
         {
           "title": "沪指失守3900点，日内跌超2.3%。",
           "url": "https://flash.jin10.com/detail/20260819131501854800",
-          "heat": false
+          "heat": "✰"
         },
         {
           "title": "北京火箭大街商业航天智能测运控中心正式启用",
@@ -1447,46 +1497,6 @@
         {
           "title": "沪指午后跌超2%，深证成指跌4.1%，创业板指跌5.18%，全市场超4900只个股下跌。",
           "url": "https://flash.jin10.com/detail/20260819130102098800",
-          "heat": false
-        },
-        {
-          "title": "日本20年期国债收益率下降6个基点，至3.785%。日本2年期国债收益率下降2.0个基点，报1.665%。",
-          "url": "https://flash.jin10.com/detail/20260819130051358800",
-          "heat": false
-        },
-        {
-          "title": "新加坡金管局：措施旨在鼓励资产管理公司将业务和人才扎根新加坡。",
-          "url": "https://flash.jin10.com/detail/20260819130046571800",
-          "heat": false
-        },
-        {
-          "title": "新加坡金管局：措施包括对基金经理的税收减免。",
-          "url": "https://flash.jin10.com/detail/20260819130041653800",
-          "heat": false
-        },
-        {
-          "title": "新加坡金管局：计划提升新加坡作为资产管理中心的地位。",
-          "url": "https://flash.jin10.com/detail/20260819130020682800",
-          "heat": false
-        },
-        {
-          "title": "伊朗：没有美军基地的国家更安全",
-          "url": "https://flash.jin10.com/detail/20260819125544077800",
-          "heat": false
-        },
-        {
-          "title": "期货盯盘神器专属文章",
-          "url": "https://flash.jin10.com/detail/20260819124926687800",
-          "heat": "✰"
-        },
-        {
-          "title": "俄罗斯官方表示，乌法工业区内无人机坠落后，相关部门正努力扑灭小火。",
-          "url": "https://flash.jin10.com/detail/20260819124748576800",
-          "heat": false
-        },
-        {
-          "title": "汇丰：日本央行或将于9月加息支撑日元",
-          "url": "https://flash.jin10.com/detail/20260819124604387800",
           "heat": false
         }
       ]
