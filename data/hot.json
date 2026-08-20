@@ -1,6 +1,6 @@
 {
-  "updated": "17:30:54",
-  "total": 267,
+  "updated": "17:35:33",
+  "total": 280,
   "platforms": [
     {
       "id": "zhihu",
@@ -954,8 +954,74 @@
     {
       "id": "cls-hot",
       "name": "财联社",
-      "count": 0,
-      "items": []
+      "count": 13,
+      "items": [
+        {
+          "title": "东材科技、四川黄金、北方稀土半年报披露，章建平退出前十大股东名单",
+          "url": "https://www.cls.cn/detail/2459790",
+          "heat": ""
+        },
+        {
+          "title": "美财政部回购效应消退 美债收益率回升 美股期指走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2459896",
+          "heat": ""
+        },
+        {
+          "title": "总市值迈入5000亿！“CXO一哥”续创历史新高，医药板块热度攀升，这些股录天量成交",
+          "url": "https://www.cls.cn/detail/2459613",
+          "heat": ""
+        },
+        {
+          "title": "Meta被曝每周消耗数万亿Token 悄然成为微软AI大客户",
+          "url": "https://www.cls.cn/detail/2459905",
+          "heat": ""
+        },
+        {
+          "title": "上海再出楼市“组合拳”：首次推出购房贷款补贴 外环外二套房首付比例降至15%",
+          "url": "https://www.cls.cn/detail/2459738",
+          "heat": ""
+        },
+        {
+          "title": "【焦点复盘】沪指缩量十字星收复3900点，两市成交额萎缩超4300亿，多只疫苗股20cm涨停",
+          "url": "https://www.cls.cn/detail/2459577",
+          "heat": ""
+        },
+        {
+          "title": "贝森特大举干预美国长债市场 华尔街共识最大受害者将是美元",
+          "url": "https://www.cls.cn/detail/2459542",
+          "heat": ""
+        },
+        {
+          "title": "美股年内恐回调10%-20%？资深策略师捕捉到“五大逆风”……",
+          "url": "https://www.cls.cn/detail/2459378",
+          "heat": ""
+        },
+        {
+          "title": "芯片商“吃肉”设备商“喝汤” 新益昌H1业绩涨超17倍",
+          "url": "https://www.cls.cn/detail/2460020",
+          "heat": ""
+        },
+        {
+          "title": "拓荆科技上半年归母净利增长13倍 累计出货超3800个反应腔 三维集成设备新品持续拓展",
+          "url": "https://www.cls.cn/detail/2459844",
+          "heat": ""
+        },
+        {
+          "title": "【VIP日报】医药生物板块集体爆发 栏目解读海外映射 提及相关公司大涨超17%",
+          "url": "https://www.cls.cn/detail/2459540",
+          "heat": ""
+        },
+        {
+          "title": "将给美国带来更大的失败！伊朗多位官员回应特朗普“经济战”言论",
+          "url": "https://www.cls.cn/detail/2459793",
+          "heat": ""
+        },
+        {
+          "title": "一波基金跌成了五毛基、四毛基，踩坑的基民怎么办？",
+          "url": "https://www.cls.cn/detail/2459937",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "thepaper",
@@ -973,13 +1039,13 @@
           "heat": ""
         },
         {
-          "title": "“外滩亮灯”时刻，为何成为上海最新的“落地签”？",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33815528",
+          "title": "上海出台楼市“沪八条”，精准施策促进合理购房需求积极释放",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33816779",
           "heat": ""
         },
         {
-          "title": "上海出台楼市“沪八条”，精准施策促进合理购房需求积极释放",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33816779",
+          "title": "“外滩亮灯”时刻，为何成为上海最新的“落地签”？",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33815528",
           "heat": ""
         },
         {
@@ -993,8 +1059,18 @@
           "heat": ""
         },
         {
+          "title": "“成都27岁女子遇害案”被害人母亲起诉网暴者获法院立案：想知道恶意从何而来",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33818955",
+          "heat": ""
+        },
+        {
           "title": "河北秦皇岛一底商发生火灾致8死3伤",
           "url": "https://www.thepaper.cn/newsDetail_forward_33815785",
+          "heat": ""
+        },
+        {
+          "title": "上海市城市更新和住房发展“十五五”规划：到2030年，计划实施老旧小区改造3000万至4000万平方米",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33819239",
           "heat": ""
         },
         {
@@ -1013,8 +1089,8 @@
           "heat": ""
         },
         {
-          "title": "“成都27岁女子遇害案”被害人母亲起诉网暴者获法院立案：想知道恶意从何而来",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33818955",
+          "title": "澎湃漫评｜座位纠纷别总让乘客自己“协商”",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33816787",
           "heat": ""
         },
         {
@@ -1023,28 +1099,18 @@
           "heat": ""
         },
         {
-          "title": "澎湃漫评｜座位纠纷别总让乘客自己“协商”",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33816787",
-          "heat": ""
-        },
-        {
-          "title": "上海市城市更新和住房发展“十五五”规划：到2030年，计划实施老旧小区改造3000万至4000万平方米",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33819239",
-          "heat": ""
-        },
-        {
           "title": "马上评｜12345热线如何走出“许愿池”困境",
           "url": "https://www.thepaper.cn/newsDetail_forward_33816374",
           "heat": ""
         },
         {
-          "title": "假总编张龙学者外衣崩塌，西安汽车职业大学回应将对其退聘",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33816095",
+          "title": "新闻蒸馏器｜特朗普宣布经济战孤立伊朗，警告任何国家不得提供“生命线”",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33815972",
           "heat": ""
         },
         {
-          "title": "新闻蒸馏器｜特朗普宣布经济战孤立伊朗，警告任何国家不得提供“生命线”",
-          "url": "https://www.thepaper.cn/newsDetail_forward_33815972",
+          "title": "假总编张龙学者外衣崩塌，西安汽车职业大学回应将对其退聘",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33816095",
           "heat": ""
         },
         {
