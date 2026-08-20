@@ -1,6 +1,6 @@
 {
-  "updated": "09:10:33",
-  "total": 284,
+  "updated": "09:15:51",
+  "total": 274,
   "platforms": [
     {
       "id": "zhihu",
@@ -583,59 +583,8 @@
     {
       "id": "wallstreetcn-hot",
       "name": "华尔街见闻",
-      "count": 10,
-      "items": [
-        {
-          "title": "美国财政部出手救长债！美股终结三连跌，Moderna暴涨177%，黄金、加密货币大涨",
-          "url": "https://wallstreetcn.com/articles/3779750",
-          "heat": ""
-        },
-        {
-          "title": "抗癌圣杯！Moderna首个“mRNA个性化癌症疫苗”三期试验成功，股价暴涨近180% ",
-          "url": "https://wallstreetcn.com/articles/3779803",
-          "heat": ""
-        },
-        {
-          "title": "长期美债收益率应声下跌！美财政部将长债回购上限提高至少一倍",
-          "url": "https://wallstreetcn.com/articles/3779819",
-          "heat": ""
-        },
-        {
-          "title": "华尔街见闻早餐FM-Radio | 2026年8月20日",
-          "url": "https://wallstreetcn.com/articles/3779833",
-          "heat": ""
-        },
-        {
-          "title": "美联储会议纪要偏鹰：7月加息阵营不止三人，多人认为若通胀不降需行动，部分料AI推升通胀",
-          "url": "https://wallstreetcn.com/articles/3779834",
-          "heat": ""
-        },
-        {
-          "title": "mRNA个性化癌症疫苗！Moderna的突破意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3779845",
-          "heat": ""
-        },
-        {
-          "title": "以“索罗斯风格”来救美债！从汇率管到利率，贝森特能赢市场吗？",
-          "url": "https://wallstreetcn.com/articles/3779843",
-          "heat": ""
-        },
-        {
-          "title": "华尔街怎么看美财政部意外出手？变种QT来了，又一次“特朗普看跌期权”，沃什控通胀麻烦了",
-          "url": "https://wallstreetcn.com/articles/3779827",
-          "heat": ""
-        },
-        {
-          "title": "但斌，再度加码科技股",
-          "url": "https://wallstreetcn.com/articles/3779809",
-          "heat": ""
-        },
-        {
-          "title": "贝森特“救美债”就是“放弃美元”，花旗：强烈看多黄金！",
-          "url": "https://wallstreetcn.com/articles/3779856",
-          "heat": ""
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "id": "tieba",
