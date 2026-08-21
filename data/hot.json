@@ -1,6 +1,6 @@
 {
-  "updated": "00:00:51",
-  "total": 244,
+  "updated": "00:05:28",
+  "total": 277,
   "platforms": [
     {
       "id": "zhihu",
@@ -954,14 +954,181 @@
     {
       "id": "cls-hot",
       "name": "财联社",
-      "count": 0,
-      "items": []
+      "count": 13,
+      "items": [
+        {
+          "title": "东材科技、四川黄金、北方稀土半年报披露，章建平退出前十大股东名单",
+          "url": "https://www.cls.cn/detail/2459790",
+          "heat": ""
+        },
+        {
+          "title": "【早报】美股存储、光通信板块走强；医药牛股莫德纳暴跌23%；原油大涨、黄金微跌；泡泡玛特、阿里巴巴、中信证券最新业绩公布",
+          "url": "https://www.cls.cn/detail/2460127",
+          "heat": ""
+        },
+        {
+          "title": "Meta被曝每周消耗数万亿Token 悄然成为微软AI大客户",
+          "url": "https://www.cls.cn/detail/2459905",
+          "heat": ""
+        },
+        {
+          "title": "美股收盘：贝森特“救市”有效期仅持续一天 阿里巴巴绩后低开高走",
+          "url": "https://www.cls.cn/detail/2460111",
+          "heat": ""
+        },
+        {
+          "title": "美财政部回购效应消退 美债收益率回升 美股期指走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2459896",
+          "heat": ""
+        },
+        {
+          "title": "上海再出楼市“组合拳”：首次推出购房贷款补贴 外环外二套房首付比例降至15%",
+          "url": "https://www.cls.cn/detail/2459738",
+          "heat": ""
+        },
+        {
+          "title": "芯片商“吃肉”设备商“喝汤” 新益昌H1业绩涨超17倍",
+          "url": "https://www.cls.cn/detail/2460020",
+          "heat": ""
+        },
+        {
+          "title": "贝森特大举干预美国长债市场 华尔街共识最大受害者将是美元",
+          "url": "https://www.cls.cn/detail/2459542",
+          "heat": ""
+        },
+        {
+          "title": "拓荆科技上半年归母净利增长13倍 累计出货超3800个反应腔 三维集成设备新品持续拓展",
+          "url": "https://www.cls.cn/detail/2459844",
+          "heat": ""
+        },
+        {
+          "title": "一波基金跌成了五毛基、四毛基，踩坑的基民怎么办？",
+          "url": "https://www.cls.cn/detail/2459937",
+          "heat": ""
+        },
+        {
+          "title": "特朗普展示白宫施工项目：我非常擅长搞建设 没有人比我做得更好",
+          "url": "https://www.cls.cn/detail/2460003",
+          "heat": ""
+        },
+        {
+          "title": "【数读IPO】一只“高中签率”新股今日申购",
+          "url": "https://www.cls.cn/detail/2460133",
+          "heat": ""
+        },
+        {
+          "title": "美债、伊朗两头忙！贝森特放话：回购还能加码 制裁下周披露",
+          "url": "https://www.cls.cn/detail/2460072",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "thepaper",
       "name": "澎湃新闻",
-      "count": 0,
-      "items": []
+      "count": 20,
+      "items": [
+        {
+          "title": "“成都27岁女子遇害案”被害人母亲起诉网暴者获法院立案：想知道恶意从何而来",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33818955",
+          "heat": ""
+        },
+        {
+          "title": "上海市城市更新和住房发展“十五五”规划：到2030年，计划实施老旧小区改造3000万至4000万平方米",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33819239",
+          "heat": ""
+        },
+        {
+          "title": "加密货币大涨：比特币突破7.2万美元，超19万人爆仓",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33819275",
+          "heat": ""
+        },
+        {
+          "title": "一座城市，如何把体育变成生活方式？上海给出了答案",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33819078",
+          "heat": ""
+        },
+        {
+          "title": "日本拟研发潜射高超声速导弹，加速打造水下进攻性远程打击力",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33818922",
+          "heat": ""
+        },
+        {
+          "title": "妄称自己写了电影《给阿嬷的情书》主题曲，假总编张龙再度被打假",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33819837",
+          "heat": ""
+        },
+        {
+          "title": "人民锐评：座位讨论背后是规则共识",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33820087",
+          "heat": ""
+        },
+        {
+          "title": "伪史话题“唐朝不存在”是如何炮制的？《中国社会科学报》头版刊文梳理来龙去脉",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33817597",
+          "heat": ""
+        },
+        {
+          "title": "特朗普宣布对伊朗采取“史上最严厉经济行动”",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33815315",
+          "heat": ""
+        },
+        {
+          "title": "上海出台楼市“沪八条”，精准施策促进合理购房需求积极释放",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33816779",
+          "heat": ""
+        },
+        {
+          "title": "“外滩亮灯”时刻，为何成为上海最新的“落地签”？",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33815528",
+          "heat": ""
+        },
+        {
+          "title": "上海楼市“沪八条”落地：外环外二套房首付比例降至15%，最高8万元补贴支持“以旧换新”",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33817757",
+          "heat": ""
+        },
+        {
+          "title": "曾经顶流｜《丁香花》原唱唐磊直面“歌红人不红”：我只是普通人",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33667697",
+          "heat": ""
+        },
+        {
+          "title": "河北秦皇岛一底商发生火灾致8死3伤",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33815785",
+          "heat": ""
+        },
+        {
+          "title": "观察丨机器人越来越会干活了，为什么大家还是爱看“打架”和跳舞",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33813225",
+          "heat": ""
+        },
+        {
+          "title": "火车票持票人未上车，座位是否还有效？谁有处置权？12306客服回应",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33817254",
+          "heat": ""
+        },
+        {
+          "title": "澎湃漫评｜座位纠纷别总让乘客自己“协商”",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33816787",
+          "heat": ""
+        },
+        {
+          "title": "马上评｜游客在青岛遭辱骂，公正处置“小案”也是大事",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33817508",
+          "heat": ""
+        },
+        {
+          "title": "受贿数额特别巨大，交通银行原副行长侯维栋被提起公诉",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33815896",
+          "heat": ""
+        },
+        {
+          "title": "马上评｜12345热线如何走出“许愿池”困境",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33816374",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "ifeng",
