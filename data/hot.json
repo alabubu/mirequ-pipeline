@@ -1,6 +1,6 @@
 {
-  "updated": "10:20:36",
-  "total": 285,
+  "updated": "10:25:29",
+  "total": 283,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,58 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 30,
+      "count": 28,
       "items": [
+        {
+          "title": "据美国财经媒体Semafor：尼日利亚政府将提供资金，覆盖高达70%的勘探成本。",
+          "url": "https://flash.jin10.com/detail/20260821182340296800",
+          "heat": false
+        },
+        {
+          "title": "中国民航局：7月份民航旅客运输量同比增长3.9%",
+          "url": "https://flash.jin10.com/detail/20260821182303569800",
+          "heat": false
+        },
+        {
+          "title": "据美国财经媒体Semafor：尼日利亚将向矿业公司发放勘探成本补助。",
+          "url": "https://flash.jin10.com/detail/20260821182231775800",
+          "heat": false
+        },
+        {
+          "title": "中国印尼全面战略对话机制举行首次会议",
+          "url": "https://flash.jin10.com/detail/20260821182223273800",
+          "heat": false
+        },
+        {
+          "title": "花旗：将迈威尔科技(MRVL.O)目标价从225美元上调至275美元。",
+          "url": "https://flash.jin10.com/detail/20260821182002229800",
+          "heat": false
+        },
+        {
+          "title": "期货盯盘神器专属文章",
+          "url": "https://flash.jin10.com/detail/20260821181942843800",
+          "heat": "✰"
+        },
+        {
+          "title": "恒生指数公司：恒生指数成份股数目将由93只增加至95只",
+          "url": "https://flash.jin10.com/detail/20260821181653204800",
+          "heat": "✰"
+        },
+        {
+          "title": "北京证监局召开辖区资本市场支持科技金融工作座谈会",
+          "url": "https://flash.jin10.com/detail/20260821181622038800",
+          "heat": false
+        },
+        {
+          "title": "富国银行：将沃尔玛(WMT.N)目标价从140美元下调至120美元。",
+          "url": "https://flash.jin10.com/detail/20260821181615443800",
+          "heat": false
+        },
+        {
+          "title": "东山精密：2026年上半年净利润29.57亿元，同比增长290.09%",
+          "url": "https://flash.jin10.com/detail/20260821181418991800",
+          "heat": false
+        },
         {
           "title": "墨西哥将燃油价格稳定计划延长6个月。",
           "url": "https://flash.jin10.com/detail/20260821181255855800",
@@ -1447,66 +1497,6 @@
         {
           "title": "贝壳(BEKE.N)美股盘前上涨5.5%。",
           "url": "https://flash.jin10.com/detail/20260821180500908800",
-          "heat": false
-        },
-        {
-          "title": "贝壳：2026年第二季度总交易额为人民币9338亿元，同比增加6.3%",
-          "url": "https://flash.jin10.com/detail/20260821180433285800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：2026年08月21日（周五）全球股市指数-亚太市场",
-          "url": "https://flash.jin10.com/detail/20260821180308075800",
-          "heat": false
-        },
-        {
-          "title": "宏桥控股：上半年净利润156.45亿元 同比扭亏为盈",
-          "url": "https://flash.jin10.com/detail/20260821180128554800",
-          "heat": false
-        },
-        {
-          "title": "金十整理：三星分期撒钱、SK海力士闪电回购，韩国存储双雄开启“高回报时代”",
-          "url": "https://flash.jin10.com/detail/20260821180056925800",
-          "heat": "✰"
-        },
-        {
-          "title": "豪江智能：2026年上半年营收5.77亿元 净利同比降70.73%",
-          "url": "https://flash.jin10.com/detail/20260821180043943800",
-          "heat": false
-        },
-        {
-          "title": "中兴通讯：2026年上半年服务器及存储等算力产品在互联网、金融、电力等行业头部客户规模上量",
-          "url": "https://flash.jin10.com/detail/20260821180033772800",
-          "heat": false
-        },
-        {
-          "title": "中兴通讯：2026年上半年面向运营商客户，国内运营商通信基础设施投资延续下降态势",
-          "url": "https://flash.jin10.com/detail/20260821175954758800",
-          "heat": false
-        },
-        {
-          "title": "CFR高级研究员重磅报告：美债收益率为何难以下降？三大路径都面临现实阻力",
-          "url": "https://flash.jin10.com/detail/20260821175951523800",
-          "heat": "✰"
-        },
-        {
-          "title": "中兴通讯：2026年上半年净利润27.53亿元，同比下降45.57%",
-          "url": "https://flash.jin10.com/detail/20260821175741029800",
-          "heat": "✰"
-        },
-        {
-          "title": "据港交所文件：腾讯控股(00700.HK)于8月21日回购了667,000股，耗资3.003亿港元。",
-          "url": "https://flash.jin10.com/detail/20260821175649817800",
-          "heat": false
-        },
-        {
-          "title": "北交所实施《北京证券交易所交易规则》相关条款",
-          "url": "https://flash.jin10.com/detail/20260821175549572800",
-          "heat": false
-        },
-        {
-          "title": "闪迪推出两款全新NAS SSD，面向专业用户和小型企业",
-          "url": "https://flash.jin10.com/detail/20260821175139725800",
           "heat": false
         }
       ]
