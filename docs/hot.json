@@ -1,6 +1,6 @@
 {
-  "updated": "16:30:59",
-  "total": 215,
+  "updated": "16:35:30",
+  "total": 282,
   "platforms": [
     {
       "id": "zhihu",
@@ -269,8 +269,159 @@
     {
       "id": "douyin",
       "name": "抖音",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "认识一座城从老字号招牌开始",
+          "url": "https://www.douyin.com/hot/2617932",
+          "heat": ""
+        },
+        {
+          "title": "国际金价重回4600美元",
+          "url": "https://www.douyin.com/hot/2617802",
+          "heat": ""
+        },
+        {
+          "title": "一组数据看数智赋能电商经济",
+          "url": "https://www.douyin.com/hot/2618820",
+          "heat": ""
+        },
+        {
+          "title": "总有人在付出为什么不能是我呢",
+          "url": "https://www.douyin.com/hot/2617637",
+          "heat": ""
+        },
+        {
+          "title": "中国U18男篮亚洲杯挺进半决赛",
+          "url": "https://www.douyin.com/hot/2618326",
+          "heat": ""
+        },
+        {
+          "title": "运油20A歼16等已全部抵达埃及",
+          "url": "https://www.douyin.com/hot/2618570",
+          "heat": ""
+        },
+        {
+          "title": "2026成都车展正式开幕",
+          "url": "https://www.douyin.com/hot/2617728",
+          "heat": ""
+        },
+        {
+          "title": "EDG官宣选手stew正式加盟",
+          "url": "https://www.douyin.com/hot/2618194",
+          "heat": ""
+        },
+        {
+          "title": "手指的方向是自由",
+          "url": "https://www.douyin.com/hot/2618442",
+          "heat": ""
+        },
+        {
+          "title": "真正的少女心事是环游世界",
+          "url": "https://www.douyin.com/hot/2618494",
+          "heat": ""
+        },
+        {
+          "title": "相声名家田立禾去世",
+          "url": "https://www.douyin.com/hot/2618094",
+          "heat": ""
+        },
+        {
+          "title": "塞尔维亚90:87险胜法国",
+          "url": "https://www.douyin.com/hot/2617760",
+          "heat": ""
+        },
+        {
+          "title": "李瑞王明昊101:99绝杀追梦格林",
+          "url": "https://www.douyin.com/hot/2618533",
+          "heat": ""
+        },
+        {
+          "title": "侯明昊张碧晨甲乙丙丁唱尽遗憾",
+          "url": "https://www.douyin.com/hot/2618238",
+          "heat": ""
+        },
+        {
+          "title": "说唱巅峰嘉宾帮唱赛抢先看",
+          "url": "https://www.douyin.com/hot/2618777",
+          "heat": ""
+        },
+        {
+          "title": "我要生气啦",
+          "url": "https://www.douyin.com/hot/2618510",
+          "heat": ""
+        },
+        {
+          "title": "白泽杯S3开赛",
+          "url": "https://www.douyin.com/hot/2618022",
+          "heat": ""
+        },
+        {
+          "title": "媒体评青岛男子辱骂女游客",
+          "url": "https://www.douyin.com/hot/2617761",
+          "heat": ""
+        },
+        {
+          "title": "披荆斩棘一公舞台",
+          "url": "https://www.douyin.com/hot/2618984",
+          "heat": ""
+        },
+        {
+          "title": "爱得痛了痛得哭了",
+          "url": "https://www.douyin.com/hot/2618502",
+          "heat": ""
+        },
+        {
+          "title": "余文乐艾热王以太哀人好听",
+          "url": "https://www.douyin.com/hot/2618996",
+          "heat": ""
+        },
+        {
+          "title": "黑神话钟馗主角到底是谁",
+          "url": "https://www.douyin.com/hot/2618296",
+          "heat": ""
+        },
+        {
+          "title": "于是我打开相册回忆暑假",
+          "url": "https://www.douyin.com/hot/2618248",
+          "heat": ""
+        },
+        {
+          "title": "早春晴朗定档0826",
+          "url": "https://www.douyin.com/hot/2618205",
+          "heat": ""
+        },
+        {
+          "title": "00后在客厅拍出综艺群像天花板",
+          "url": "https://www.douyin.com/hot/2618008",
+          "heat": ""
+        },
+        {
+          "title": "张雪机车被查扣事件",
+          "url": "https://www.douyin.com/hot/2617944",
+          "heat": ""
+        },
+        {
+          "title": "桃李杯的权威我后知后觉",
+          "url": "https://www.douyin.com/hot/2618026",
+          "heat": ""
+        },
+        {
+          "title": "看完诺兰奥德赛的后遗症",
+          "url": "https://www.douyin.com/hot/2617905",
+          "heat": ""
+        },
+        {
+          "title": "生是为了证明爱存在的痕迹",
+          "url": "https://www.douyin.com/hot/2616862",
+          "heat": ""
+        },
+        {
+          "title": "原来我也适合美式男孩风",
+          "url": "https://www.douyin.com/hot/2618329",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "bilibili-hot-search",
@@ -432,8 +583,59 @@
     {
       "id": "wallstreetcn-hot",
       "name": "华尔街见闻",
-      "count": 0,
-      "items": []
+      "count": 10,
+      "items": [
+        {
+          "title": "贝森特干预影响消退，美债美股齐跌，沃尔玛暴跌9%，黄金突破200日均线，数字货币再猛涨",
+          "url": "https://wallstreetcn.com/articles/3779853",
+          "heat": ""
+        },
+        {
+          "title": "华尔街见闻早餐FM-Radio | 2026年8月21日",
+          "url": "https://wallstreetcn.com/articles/3779948",
+          "heat": ""
+        },
+        {
+          "title": "回购美债影响力只有24小时？贝森特：我们有很多工具，拭目以待",
+          "url": "https://wallstreetcn.com/articles/3779933",
+          "heat": ""
+        },
+        {
+          "title": "大手笔！OpenAI全面开源Codex Harness",
+          "url": "https://wallstreetcn.com/articles/3779961",
+          "heat": ""
+        },
+        {
+          "title": "知名能源分析师Jeff Currie：醒醒吧，各位，大宗商品正在发出信号",
+          "url": "https://wallstreetcn.com/articles/3779954",
+          "heat": ""
+        },
+        {
+          "title": "贝森特回购难消市场疑虑，30年期美债升至5.26%，美股高开，区块链概念股普涨，金油齐涨",
+          "url": "https://wallstreetcn.com/articles/3779986",
+          "heat": ""
+        },
+        {
+          "title": "长江存储科创板IPO已受理：1-3月营收470.42亿元，归母净利润333.79亿元",
+          "url": "https://wallstreetcn.com/articles/3780014",
+          "heat": ""
+        },
+        {
+          "title": "AI算力红利持续释放，中际旭创上半年净利暴增241.7%，章建平新进成为第九大股东｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3780005",
+          "heat": ""
+        },
+        {
+          "title": "Moderna的“mRNA个性化疫苗”首度成功，中国创新药也在排队中",
+          "url": "https://wallstreetcn.com/articles/3779967",
+          "heat": ""
+        },
+        {
+          "title": "高盛前商品主管Jeff Currie：“海军换美元”走向破裂，大宗商品牛市迈向新阶段",
+          "url": "https://wallstreetcn.com/articles/3779976",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "tieba",
@@ -1155,8 +1357,144 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 0,
-      "items": []
+      "count": 27,
+      "items": [
+        {
+          "title": "巴西政府：巴西总统卢拉加强了与美国共同打击有组织犯罪方面合作的承诺。",
+          "url": "https://flash.jin10.com/detail/20260822001019546800",
+          "heat": false
+        },
+        {
+          "title": "巴西政府：巴西总统卢拉重申了对关税谈判的必要性。",
+          "url": "https://flash.jin10.com/detail/20260822000920717800",
+          "heat": false
+        },
+        {
+          "title": "巴西政府：美国和巴西双方讨论了全球及双边议程。",
+          "url": "https://flash.jin10.com/detail/20260822000911211800",
+          "heat": false
+        },
+        {
+          "title": "据巴西政府声明：巴西总统卢拉与美国总统特朗普于当地时间周五进行了电话会谈。",
+          "url": "https://flash.jin10.com/detail/20260822000809584800",
+          "heat": false
+        },
+        {
+          "title": "据国际文传电讯社：俄罗斯国防部称将任命德尼斯·利亚敏上为无人机部队指挥官。",
+          "url": "https://flash.jin10.com/detail/20260822000621734800",
+          "heat": false
+        },
+        {
+          "title": "据猫眼专业版数据，电影《奥德赛》上映9天，总票房破4亿。",
+          "url": "https://flash.jin10.com/detail/20260822000328320800",
+          "heat": false
+        },
+        {
+          "title": "美国卫生与公众服务部寻求公众对疫苗推荐类别的意见。",
+          "url": "https://flash.jin10.com/detail/20260821235806437800",
+          "heat": false
+        },
+        {
+          "title": "美国联邦贸易委员会（FTC）：安进专利申请收购交易受到反垄断审查。",
+          "url": "https://flash.jin10.com/detail/20260821234916448800",
+          "heat": false
+        },
+        {
+          "title": "英澳加外长谴责以色列不调查袭击慈善组织人员事件",
+          "url": "https://flash.jin10.com/detail/20260821234631911800",
+          "heat": false
+        },
+        {
+          "title": "乌能源部长：越冬能源准备已接近或超额完成计划指标",
+          "url": "https://flash.jin10.com/detail/20260821234612629800",
+          "heat": false
+        },
+        {
+          "title": "伊朗外长称美国经济施压注定失败",
+          "url": "https://flash.jin10.com/detail/20260821234323052800",
+          "heat": false
+        },
+        {
+          "title": "沪金主力合约日内涨幅达2.00%，现报998.38元/克。",
+          "url": "https://flash.jin10.com/detail/20260821234320082800",
+          "heat": "✰"
+        },
+        {
+          "title": "现货黄金日内上涨2%，现报4609.67美元/盎司。纽约期金日内上涨2%，现报4666.70美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260821234237097800",
+          "heat": "✰"
+        },
+        {
+          "title": "金十图示：2026年08月21日（周五）全球股市指数-欧洲市场",
+          "url": "https://flash.jin10.com/detail/20260821234153480800",
+          "heat": false
+        },
+        {
+          "title": "纳斯达克100指数上涨0.6%，至日内高点。",
+          "url": "https://flash.jin10.com/detail/20260821234151386800",
+          "heat": false
+        },
+        {
+          "title": "消息人士：美加贸易协议将引入钢铁配额及25%较低关税",
+          "url": "https://flash.jin10.com/detail/20260821234020435800",
+          "heat": false
+        },
+        {
+          "title": "德国DAX30指数8月21日（周五）收盘上涨136.45点，涨幅0.52%，报26148.00点；<br/>英国富时100指数8月21日（周五）收盘上涨71.22点，涨幅0.66%，报10819.38点；<br/>法国CAC40指数8月21日（周五）收盘上涨31.34点，涨幅0.37%，报8484.43点；<br/>欧洲斯托克50指数8月21日（周五）收盘上涨44.59点，涨幅0.69%，报6466.65点；<br/>西班牙IBEX35指数8月21日（周五）收盘上涨144.52点，涨幅0.73%，报19962.52点；<br/>意大利富时MIB指数8月21日（周五）收盘上涨39.18点，涨幅0.07%，报52705.00点。",
+          "url": "https://flash.jin10.com/detail/20260821233819860800",
+          "heat": false
+        },
+        {
+          "title": "据加拿大《环球邮报》：美国与加拿大的贸易协议将引入钢铁配额制度，并对钢铁征收25%的关税。",
+          "url": "https://flash.jin10.com/detail/20260821233430260800",
+          "heat": "✰"
+        },
+        {
+          "title": "伊朗称将在海上给敌人历史性教训",
+          "url": "https://flash.jin10.com/detail/20260821232958482800",
+          "heat": false
+        },
+        {
+          "title": "特斯拉(TSLA.O)盘中上涨4.4%，创一个月新高。",
+          "url": "https://flash.jin10.com/detail/20260821232411696800",
+          "heat": "✰"
+        },
+        {
+          "title": "伊朗外长阿拉格齐回应“历史上最具破坏性的经济行动”称，这次重演也注定失败。",
+          "url": "https://flash.jin10.com/detail/20260821232324379800",
+          "heat": false
+        },
+        {
+          "title": "品种交易逻辑",
+          "url": "https://flash.jin10.com/detail/20260821232048720800",
+          "heat": "✰"
+        },
+        {
+          "title": "金十数据整理：欧盘美盘重要新闻汇总（2026-08-21）",
+          "url": "https://flash.jin10.com/detail/20260821232040955800",
+          "heat": "✰"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：伊朗海军司令称，将很快在海上给敌人上历史性的一课。",
+          "url": "https://flash.jin10.com/detail/20260821231924432800",
+          "heat": false
+        },
+        {
+          "title": "伊朗陆军总司令：伊朗防御能力改变敌方战略计算",
+          "url": "https://flash.jin10.com/detail/20260821231836164800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：摩根大通(JPM.N)聘请美国银行(BAC.N)TMT并购银行家Fishman。",
+          "url": "https://flash.jin10.com/detail/20260821231629565800",
+          "heat": false
+        },
+        {
+          "title": "秘鲁第二季度GDP同比增长2.6%，市场预测为增长2.5%。",
+          "url": "https://flash.jin10.com/detail/20260821231425837800",
+          "heat": false
+        }
+      ]
     }
   ]
 }
