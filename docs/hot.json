@@ -1,6 +1,6 @@
 {
-  "updated": "04:25:30",
-  "total": 284,
+  "updated": "04:30:57",
+  "total": 244,
   "platforms": [
     {
       "id": "zhihu",
@@ -269,159 +269,8 @@
     {
       "id": "douyin",
       "name": "抖音",
-      "count": 30,
-      "items": [
-        {
-          "title": "美莎克致广西两地159死10失联",
-          "url": "https://www.douyin.com/hot/2617984",
-          "heat": ""
-        },
-        {
-          "title": "美这件事我只取悦自己",
-          "url": "https://www.douyin.com/hot/2615472",
-          "heat": ""
-        },
-        {
-          "title": "工业经济新动能贡献持续增强",
-          "url": "https://www.douyin.com/hot/2617799",
-          "heat": ""
-        },
-        {
-          "title": "总有人在付出为什么不能是我呢",
-          "url": "https://www.douyin.com/hot/2617637",
-          "heat": ""
-        },
-        {
-          "title": "AI补全了我对长辈的所有未知",
-          "url": "https://www.douyin.com/hot/2617078",
-          "heat": ""
-        },
-        {
-          "title": "追梦这件事只要开始就不晚",
-          "url": "https://www.douyin.com/hot/2617187",
-          "heat": ""
-        },
-        {
-          "title": "BLG战胜LGD",
-          "url": "https://www.douyin.com/hot/2617584",
-          "heat": ""
-        },
-        {
-          "title": "这才是曲院风荷正确打开方式",
-          "url": "https://www.douyin.com/hot/2617698",
-          "heat": ""
-        },
-        {
-          "title": "2026成都车展正式开幕",
-          "url": "https://www.douyin.com/hot/2617728",
-          "heat": ""
-        },
-        {
-          "title": "机器人跑出凌波微步既视感",
-          "url": "https://www.douyin.com/hot/2616835",
-          "heat": ""
-        },
-        {
-          "title": "对话吉利汽车创始人李书福",
-          "url": "https://www.douyin.com/hot/2617441",
-          "heat": ""
-        },
-        {
-          "title": "SK海力士发布下一代CPO路线图",
-          "url": "https://www.douyin.com/hot/2617169",
-          "heat": ""
-        },
-        {
-          "title": "秋天的主场是燕麦格雷",
-          "url": "https://www.douyin.com/hot/2616587",
-          "heat": ""
-        },
-        {
-          "title": "华为阔直板手机首发开箱",
-          "url": "https://www.douyin.com/hot/2617436",
-          "heat": ""
-        },
-        {
-          "title": "生是为了证明爱存在的痕迹",
-          "url": "https://www.douyin.com/hot/2616862",
-          "heat": ""
-        },
-        {
-          "title": "原来功夫女足里的脚法是真的",
-          "url": "https://www.douyin.com/hot/2617776",
-          "heat": ""
-        },
-        {
-          "title": "醒来定档0826",
-          "url": "https://www.douyin.com/hot/2617827",
-          "heat": ""
-        },
-        {
-          "title": "英语四六级成绩8月24日起可查",
-          "url": "https://www.douyin.com/hot/2616864",
-          "heat": ""
-        },
-        {
-          "title": "三角洲S11极星守望活动",
-          "url": "https://www.douyin.com/hot/2616634",
-          "heat": ""
-        },
-        {
-          "title": "电影空枪南北殡葬头子合体好好嗑",
-          "url": "https://www.douyin.com/hot/2616790",
-          "heat": ""
-        },
-        {
-          "title": "欢迎来龙餐馆赛夫扮演者入驻抖音",
-          "url": "https://www.douyin.com/hot/2617438",
-          "heat": ""
-        },
-        {
-          "title": "我的童年记忆同框啦",
-          "url": "https://www.douyin.com/hot/2617721",
-          "heat": ""
-        },
-        {
-          "title": "小沈阳披哥头巾教程",
-          "url": "https://www.douyin.com/hot/2617419",
-          "heat": ""
-        },
-        {
-          "title": "谭松韵顶着鲨鱼特效却在吐泡泡",
-          "url": "https://www.douyin.com/hot/2617414",
-          "heat": ""
-        },
-        {
-          "title": "万万没想到吃丑橘我不靠嘴",
-          "url": "https://www.douyin.com/hot/2617244",
-          "heat": ""
-        },
-        {
-          "title": "深度解析黑神话钟馗实机演示",
-          "url": "https://www.douyin.com/hot/2616815",
-          "heat": ""
-        },
-        {
-          "title": "第五人格加页手记妖精图鉴",
-          "url": "https://www.douyin.com/hot/2617859",
-          "heat": ""
-        },
-        {
-          "title": "重器重刑犯跳井救孩子",
-          "url": "https://www.douyin.com/hot/2617211",
-          "heat": ""
-        },
-        {
-          "title": "用五官展现你的love",
-          "url": "https://www.douyin.com/hot/2616912",
-          "heat": ""
-        },
-        {
-          "title": "好看的头像这不就有了吗",
-          "url": "https://www.douyin.com/hot/2616834",
-          "heat": ""
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "id": "bilibili-hot-search",
@@ -583,59 +432,8 @@
     {
       "id": "wallstreetcn-hot",
       "name": "华尔街见闻",
-      "count": 10,
-      "items": [
-        {
-          "title": "贝森特干预影响消退，美债美股齐跌，沃尔玛暴跌9%，黄金突破200日均线，数字货币再猛涨",
-          "url": "https://wallstreetcn.com/articles/3779853",
-          "heat": ""
-        },
-        {
-          "title": "华尔街见闻早餐FM-Radio | 2026年8月21日",
-          "url": "https://wallstreetcn.com/articles/3779948",
-          "heat": ""
-        },
-        {
-          "title": "阿里电话会：AI相关产品ARR突破495亿，平头哥芯片下半年将持续放量，Capex投入预计三年内回本",
-          "url": "https://wallstreetcn.com/articles/3779910",
-          "heat": ""
-        },
-        {
-          "title": "阿里Q2营收同比增9%略超预期，AI基础设施投入推高资本开支，自由现金流净流出扩大至447亿元｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779898",
-          "heat": ""
-        },
-        {
-          "title": "泡泡玛特上半年净利润50.4亿元，海外收入承压，拟最高50亿元回购股份 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779894",
-          "heat": ""
-        },
-        {
-          "title": "英伟达、SK海力士：必须拿下CPO！",
-          "url": "https://wallstreetcn.com/articles/3779909",
-          "heat": ""
-        },
-        {
-          "title": "回购美债影响力只有24小时？贝森特：我们有很多工具，拭目以待",
-          "url": "https://wallstreetcn.com/articles/3779933",
-          "heat": ""
-        },
-        {
-          "title": "上海出台楼市“沪八条”：外环外二套房首付从20%降至15%，出台阶段性购房补贴政策",
-          "url": "https://wallstreetcn.com/articles/3779872",
-          "heat": ""
-        },
-        {
-          "title": "回购提振效果仅维持一日，美债30年期收益率重回5.26%",
-          "url": "https://wallstreetcn.com/articles/3779920",
-          "heat": ""
-        },
-        {
-          "title": "美国国债突破40万亿美元大关，财政\"死亡螺旋\"悄然启动",
-          "url": "https://wallstreetcn.com/articles/3779917",
-          "heat": ""
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "id": "tieba",
