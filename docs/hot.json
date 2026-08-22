@@ -1,6 +1,6 @@
 {
-  "updated": "12:45:31",
-  "total": 280,
+  "updated": "12:50:33",
+  "total": 281,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,38 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 25,
+      "count": 26,
       "items": [
+        {
+          "title": "伊朗称过去一年国防装备产量整体翻番",
+          "url": "https://flash.jin10.com/detail/20260822204819499800",
+          "heat": false
+        },
+        {
+          "title": "VIP・9折看懂特朗普信号！",
+          "url": "https://flash.jin10.com/detail/20260822203926369800",
+          "heat": false
+        },
+        {
+          "title": "<a href=\"https://www.jin10.com/activities/2026/8/year/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/08/P1TeJnmFrFczSy6Bb1fYH.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260822203924231800",
+          "heat": false
+        },
+        {
+          "title": "横琴离境退税业务突破1000单 推动入境购消费超730万元",
+          "url": "https://flash.jin10.com/detail/20260822203919399800",
+          "heat": false
+        },
+        {
+          "title": "保加利亚防长：美军加油机已离开该国空军基地",
+          "url": "https://flash.jin10.com/detail/20260822202102650800",
+          "heat": false
+        },
+        {
+          "title": "伊朗国防部代理部长：即使在战争条件下，新型系统也已投入战场",
+          "url": "https://flash.jin10.com/detail/20260822201908214800",
+          "heat": false
+        },
         {
           "title": "报告显示：我国算力全链条绿色化成效初显",
           "url": "https://flash.jin10.com/detail/20260822201356712800",
@@ -1458,31 +1488,6 @@
           "title": "黄金重回4600关口后，多头瞄准46XX上方，空头提前卡位45XX区域——增强版同步发布！",
           "url": "https://flash.jin10.com/detail/20260822175442458800",
           "heat": "✰"
-        },
-        {
-          "title": "牧原股份与华为签署战略合作协议",
-          "url": "https://flash.jin10.com/detail/20260822173638801800",
-          "heat": false
-        },
-        {
-          "title": "天风证券：AI4S加速科研范式变革，中国CXO有望迎来产业与估值共振",
-          "url": "https://flash.jin10.com/detail/20260822173211849800",
-          "heat": false
-        },
-        {
-          "title": "全球债市现抛售潮 熊猫债发行规模创新高",
-          "url": "https://flash.jin10.com/detail/20260822171431600800",
-          "heat": false
-        },
-        {
-          "title": "五角大楼解雇军报负责人 指其“不服从命令”",
-          "url": "https://flash.jin10.com/detail/20260822170233089800",
-          "heat": false
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗官员呼吁卡塔尔将被拘留的伊朗飞行员转移至陆地医院。伊朗官员表示，被扣押的飞行员在水上，身体状况“很差”。",
-          "url": "https://flash.jin10.com/detail/20260822164151313800",
-          "heat": false
         }
       ]
     }
