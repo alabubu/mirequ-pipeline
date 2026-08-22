@@ -1,6 +1,6 @@
 {
-  "updated": "18:30:52",
-  "total": 180,
+  "updated": "18:35:30",
+  "total": 285,
   "platforms": [
     {
       "id": "zhihu",
@@ -954,32 +954,562 @@
     {
       "id": "cls-hot",
       "name": "财联社",
-      "count": 0,
-      "items": []
+      "count": 13,
+      "items": [
+        {
+          "title": "磷化铟缺货真相：国内产业链“资源强、制造弱” 提纯、良率与认证环节仍待突破",
+          "url": "https://www.cls.cn/detail/2461334",
+          "heat": ""
+        },
+        {
+          "title": "【早报】国常会最新部署，事关新一代通信网建设；中际旭创、东山精密、东方财富等发布半年报；加密货币持续走高",
+          "url": "https://www.cls.cn/detail/2461292",
+          "heat": ""
+        },
+        {
+          "title": "钟才文：中国经济的韧性与活力",
+          "url": "https://www.cls.cn/detail/2461332",
+          "heat": ""
+        },
+        {
+          "title": "30年美债收益率再次逼近5.3% 贝森特大举干市只管用两天？",
+          "url": "https://www.cls.cn/detail/2461311",
+          "heat": ""
+        },
+        {
+          "title": "CPO龙头中际旭创业绩出炉！H1光模块销量同比翻倍 经营现金流同比降4成|财报解读",
+          "url": "https://www.cls.cn/detail/2461198",
+          "heat": ""
+        },
+        {
+          "title": "国家卫健委发布会：白血病不再是不治之症",
+          "url": "https://www.cls.cn/detail/2461468",
+          "heat": ""
+        },
+        {
+          "title": "特朗普：可出动美军干预债市",
+          "url": "https://www.cls.cn/detail/2461395",
+          "heat": ""
+        },
+        {
+          "title": "美股收盘：三大指数周线齐跌 有色板块上演普涨浪潮",
+          "url": "https://www.cls.cn/detail/2461289",
+          "heat": ""
+        },
+        {
+          "title": "机器人集体“上岗”背后：大脑、数据、灵巧手三大暗战开打|直击2026WRC",
+          "url": "https://www.cls.cn/detail/2461414",
+          "heat": ""
+        },
+        {
+          "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
+          "url": "https://www.cls.cn/detail/2461262",
+          "heat": ""
+        },
+        {
+          "title": "9秒39，中国机器人打破人类百米世界纪录",
+          "url": "https://www.cls.cn/detail/2461459",
+          "heat": ""
+        },
+        {
+          "title": "现货黄金重回4600美元 比特币一周狂涨逾20% | 环球市场",
+          "url": "https://www.cls.cn/detail/2461299",
+          "heat": ""
+        },
+        {
+          "title": "第19号台风，最新路径公布",
+          "url": "https://www.cls.cn/detail/2461297",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "thepaper",
       "name": "澎湃新闻",
-      "count": 0,
-      "items": []
+      "count": 20,
+      "items": [
+        {
+          "title": "马上评｜一场占座大讨论，一次普及规则的契机",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33826561",
+          "heat": ""
+        },
+        {
+          "title": "饭店将饮料盛装高脚杯后以398元一杯出售？一男子发布不实信息被依法行拘",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33831670",
+          "heat": ""
+        },
+        {
+          "title": "医生疏忽致孕妇误服有毒液体，光明网：反思不能止于医生“停职”",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33830816",
+          "heat": ""
+        },
+        {
+          "title": "马上评｜别因张丹丹的一句话忽视了真问题",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33831955",
+          "heat": ""
+        },
+        {
+          "title": "媒体采访“零食占座”事件孩子妈妈：未请到假送孩子，多买一张因儿童不能单独购票",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33833527",
+          "heat": ""
+        },
+        {
+          "title": "“女子在家开灯遭对楼业主投诉”物业发声：投诉方称对方通宵开灯，男邻居找上门女生难免产生安全顾虑",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33831947",
+          "heat": ""
+        },
+        {
+          "title": "中国共产党第二十届中央纪律检查委员会第六次全体会议公报",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33832183",
+          "heat": ""
+        },
+        {
+          "title": "财晓得｜新里程碑！mRNA联手K药大败黑色素瘤，离攻克癌症还有多远",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33824455",
+          "heat": ""
+        },
+        {
+          "title": "多地技校回击“拉踩”：不能靠抹黑、造谣来争抢生源",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33832251",
+          "heat": ""
+        },
+        {
+          "title": "观察丨具身智能还在等待“ChatGPT时刻”，产业链与生态成竞争关键",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33825848",
+          "heat": ""
+        },
+        {
+          "title": "高峰枫｜荷马谈电影《奥德赛》",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33825581",
+          "heat": ""
+        },
+        {
+          "title": "四年五次亲历俄乌之后，看到了战事怎样的未来？｜907编辑部",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33819525",
+          "heat": ""
+        },
+        {
+          "title": "因存在严重安全隐患等问题，河南确山县霸王台景区被取消3A等级",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33826574",
+          "heat": ""
+        },
+        {
+          "title": "59岁交警回应“老父亲式”训诫骑行团：我儿子也骑车，真把他们当孩子",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33826475",
+          "heat": ""
+        },
+        {
+          "title": "上海这五场“关于鲁迅”系列讲座，带我们回到文学发生的现场",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33832847",
+          "heat": ""
+        },
+        {
+          "title": "“广东佛冈一旧砖瓦窑被责令拆除”续：当地暂缓砖窑处置，尽力化解争议",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33831989",
+          "heat": ""
+        },
+        {
+          "title": "释疑｜一天只过几艘船，特朗普却说海峡畅通，哪个是霍尔木兹的“真相”？",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33825790",
+          "heat": ""
+        },
+        {
+          "title": "第20号台风“简拉维”生成！目前三台风并存，形势复杂",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33833473",
+          "heat": ""
+        },
+        {
+          "title": "签署海洋安全合作备忘录、举行联合军演……日印为何强化防务合作",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33831986",
+          "heat": ""
+        },
+        {
+          "title": "价格周报｜立秋后气温回落、终端消费略有改善，本周猪价上涨收复11元/公斤",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33826079",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "ifeng",
       "name": "凤凰网",
-      "count": 0,
-      "items": []
+      "count": 12,
+      "items": [
+        {
+          "title": "“这次对华让步，特朗普该羞得没脸见人”",
+          "url": "https://news.ifeng.com/c/8vnQpWNT85e",
+          "heat": ""
+        },
+        {
+          "title": "人均“十万加”，特朗普考虑出兵干预",
+          "url": "https://news.ifeng.com/c/8vnnjMt8Nty",
+          "heat": ""
+        },
+        {
+          "title": "选址台岛以东，中印尼联演传递清晰信号",
+          "url": "https://news.ifeng.com/c/8vnmUzGcbf5",
+          "heat": ""
+        },
+        {
+          "title": "五角大楼解雇军报负责人，指其“不服从命令”",
+          "url": "https://news.ifeng.com/c/8vnZGrZPLJV",
+          "heat": ""
+        },
+        {
+          "title": "签署海洋安全合作备忘录、举行联合军演…日印要干什么？",
+          "url": "https://news.ifeng.com/c/8vngW94JXLR",
+          "heat": ""
+        },
+        {
+          "title": "梅洛尼谈特朗普：错付了",
+          "url": "https://news.ifeng.com/c/8vntoGTfOZC",
+          "heat": ""
+        },
+        {
+          "title": "指多次袭击国际组织，以色列为何有恃无恐？",
+          "url": "https://news.ifeng.com/c/8vnraEFhIOy",
+          "heat": ""
+        },
+        {
+          "title": "日本新财年预算显著增加，资金从何而来？",
+          "url": "https://news.ifeng.com/c/8vnhIc0EUBV",
+          "heat": ""
+        },
+        {
+          "title": "在关键矿产领域，“欧洲不仅落后中国，现在连美国都要追不上了”",
+          "url": "https://news.ifeng.com/c/8vnsM7oZMXz",
+          "heat": ""
+        },
+        {
+          "title": "“超级明星学者”，辞职9天后身亡",
+          "url": "https://news.ifeng.com/c/8vnUV785LNH",
+          "heat": ""
+        },
+        {
+          "title": "离谱！日本官方助推“犯罪者恋综”，翻大车",
+          "url": "https://news.ifeng.com/c/8vnqJEBWKpQ",
+          "heat": ""
+        },
+        {
+          "title": "韦东奕为何突然“带货”？",
+          "url": "https://news.ifeng.com/c/8vnnjMt8NuB",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "toutiao",
       "name": "今日头条",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "约1000家兰州拉面店完成门头更换",
+          "url": "https://www.toutiao.com/trending/7676024665728942116/",
+          "heat": ""
+        },
+        {
+          "title": "宇树预赛小组垫底 回应缩减参赛项目",
+          "url": "https://www.toutiao.com/trending/7676860598499413567/",
+          "heat": ""
+        },
+        {
+          "title": "暑期旅游市场迸发新活力",
+          "url": "https://www.toutiao.com/trending/7676598849334624292/",
+          "heat": ""
+        },
+        {
+          "title": "男子20年省吃俭用攒789万6天被骗光",
+          "url": "https://www.toutiao.com/trending/7676788498724290614/",
+          "heat": ""
+        },
+        {
+          "title": "司机不满后车喇叭催促恶意别车被罚款",
+          "url": "https://www.toutiao.com/trending/7676697549138378793/",
+          "heat": ""
+        },
+        {
+          "title": "马克龙宣布进一步加强对乌军事支持",
+          "url": "https://www.toutiao.com/trending/7676857375940640831/",
+          "heat": ""
+        },
+        {
+          "title": "男子错过服务区找了个“野生”充电桩",
+          "url": "https://www.toutiao.com/trending/7676415166716182591/",
+          "heat": ""
+        },
+        {
+          "title": "名嘴：高市明年或被小泉进次郎接替",
+          "url": "https://www.toutiao.com/trending/7676834679320006195/",
+          "heat": ""
+        },
+        {
+          "title": "白血病不再是不治之症",
+          "url": "https://www.toutiao.com/trending/7676757653166493235/",
+          "heat": ""
+        },
+        {
+          "title": "渔民死亡未被立案 海警称无告知义务",
+          "url": "https://www.toutiao.com/trending/7676060060195291172/",
+          "heat": ""
+        },
+        {
+          "title": "上海一餐厅订餐须用国外软件？不实",
+          "url": "https://www.toutiao.com/trending/7676276128608337946/",
+          "heat": ""
+        },
+        {
+          "title": "实探追觅造车办公地：工位大片闲置",
+          "url": "https://www.toutiao.com/trending/7676837324298387977/",
+          "heat": ""
+        },
+        {
+          "title": "零食占座当事人母亲发声",
+          "url": "https://www.toutiao.com/trending/7676273721929957412/",
+          "heat": ""
+        },
+        {
+          "title": "女孩求职被拒发现自己竟是“精神病”",
+          "url": "https://www.toutiao.com/trending/7676789925887229961/",
+          "heat": ""
+        },
+        {
+          "title": "55元捡漏1.41万项链女子获5元补偿",
+          "url": "https://www.toutiao.com/trending/7676401953496547370/",
+          "heat": ""
+        },
+        {
+          "title": "专家：座位是给人坐的不是来放零食的",
+          "url": "https://www.toutiao.com/trending/7676841883338804790/",
+          "heat": ""
+        },
+        {
+          "title": "亚朵“枕头被子”收入逼近主业",
+          "url": "https://www.toutiao.com/trending/7676644904126365702/",
+          "heat": ""
+        },
+        {
+          "title": "邵永灵：联合国秘书长争夺战杀出黑马",
+          "url": "https://www.toutiao.com/trending/7676799459103084075/",
+          "heat": ""
+        },
+        {
+          "title": "机器人和丁宁切磋球技",
+          "url": "https://www.toutiao.com/trending/7676467255630106155/",
+          "heat": ""
+        },
+        {
+          "title": "以色列土耳其会爆发冲突吗",
+          "url": "https://www.toutiao.com/trending/7676860223486709254/",
+          "heat": ""
+        },
+        {
+          "title": "中国大模型把美国AI逼到墙角",
+          "url": "https://www.toutiao.com/trending/7676841171972263443/",
+          "heat": ""
+        },
+        {
+          "title": "男子患癌在车间自缢 公司赔20余万",
+          "url": "https://www.toutiao.com/trending/7676481699853402131/",
+          "heat": ""
+        },
+        {
+          "title": "美伊进入经济战 中东局势何去何从",
+          "url": "https://www.toutiao.com/trending/7676865928620936754/",
+          "heat": ""
+        },
+        {
+          "title": "机器人跑出9秒32打破人类百米纪录",
+          "url": "https://www.toutiao.com/trending/7676228031299682310/",
+          "heat": ""
+        },
+        {
+          "title": "驻日美军士兵被发现在医院停车场死亡",
+          "url": "https://www.toutiao.com/trending/7676740004747739155/",
+          "heat": ""
+        },
+        {
+          "title": "80岁西班牙“狼孩”去世",
+          "url": "https://www.toutiao.com/trending/7676779945427042354/",
+          "heat": ""
+        },
+        {
+          "title": "你会花20多万买vala pro吗",
+          "url": "https://www.toutiao.com/trending/7676796926431789082/",
+          "heat": ""
+        },
+        {
+          "title": "身高1.08米男生被深圳企业主动录用",
+          "url": "https://www.toutiao.com/trending/7676757399679778825/",
+          "heat": ""
+        },
+        {
+          "title": "山中失联男子从30多米高处坠崖",
+          "url": "https://www.toutiao.com/trending/7676752663949656107/",
+          "heat": ""
+        },
+        {
+          "title": "传统车企集体开火“速成车”背后",
+          "url": "https://www.toutiao.com/trending/7676348897861799443/",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "日本将为拉美开发银行贷款提供保险",
+          "url": "https://flash.jin10.com/detail/20260823021156800800",
+          "heat": false
+        },
+        {
+          "title": "派拉蒙影业与加州预定于8月24日就华纳兄弟的相关交易开展首轮磋商。",
+          "url": "https://flash.jin10.com/detail/20260823020847335800",
+          "heat": false
+        },
+        {
+          "title": "以色列称无意与土耳其升级冲突 绝不接受土在叙驻军",
+          "url": "https://flash.jin10.com/detail/20260823020452151800",
+          "heat": false
+        },
+        {
+          "title": "以色列外长：我们不会接受土耳其军队在叙利亚北部的部署。",
+          "url": "https://flash.jin10.com/detail/20260823015949138800",
+          "heat": false
+        },
+        {
+          "title": "特朗普6月调整投资组合，抛售Meta等股票、买入伯克希尔·哈撒韦",
+          "url": "https://flash.jin10.com/detail/20260823015208413800",
+          "heat": "✰"
+        },
+        {
+          "title": "美国将参加亚太经合组织高官会",
+          "url": "https://flash.jin10.com/detail/20260823014415240800",
+          "heat": false
+        },
+        {
+          "title": "加拿大最大工会与通用汽车达成初步协议",
+          "url": "https://flash.jin10.com/detail/20260823013929076800",
+          "heat": false
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：只要我担任总理，就不会有一个由伊朗控制的巴勒斯坦国。",
+          "url": "https://flash.jin10.com/detail/20260823012713800800",
+          "heat": false
+        },
+        {
+          "title": "据沙特媒体哈达斯（alhadath）：法塔赫代表团取消了原定于周一在埃及与哈马斯代表团的会晤。",
+          "url": "https://flash.jin10.com/detail/20260823011159806800",
+          "heat": false
+        },
+        {
+          "title": "日本茨城县发生5.9级地震 东京震感明显",
+          "url": "https://flash.jin10.com/detail/20260823011027923800",
+          "heat": false
+        },
+        {
+          "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁",
+          "url": "https://flash.jin10.com/detail/20260823010359942800",
+          "heat": false
+        },
+        {
+          "title": "乌克兰无人机袭击了俄罗斯在线零售商Ozon的仓库，造成至少10人死亡。",
+          "url": "https://flash.jin10.com/detail/20260823010038434800",
+          "heat": false
+        },
+        {
+          "title": "以色列外长：我们更倾向于与土耳其通过外交方式解决问题。",
+          "url": "https://flash.jin10.com/detail/20260823003853399800",
+          "heat": false
+        },
+        {
+          "title": "贸易争端升级 加拿大将对美国商品加征等额反制关税",
+          "url": "https://flash.jin10.com/detail/20260823001422907800",
+          "heat": "✰"
+        },
+        {
+          "title": "普京称俄军加大对乌企业打击",
+          "url": "https://flash.jin10.com/detail/20260823000648930800",
+          "heat": false
+        },
+        {
+          "title": "加拿大总理卡尼：政府准备在新的50%关税下为受影响的行业提供财政支持。",
+          "url": "https://flash.jin10.com/detail/20260822233818890800",
+          "heat": false
+        },
+        {
+          "title": "加拿大总理卡尼：加拿大将为某些行业提供关税保护。",
+          "url": "https://flash.jin10.com/detail/20260822233655107800",
+          "heat": false
+        },
+        {
+          "title": "加拿大总理卡尼：美墨加贸易协定（USMCA）的未来“没有好消息”。",
+          "url": "https://flash.jin10.com/detail/20260822233613812800",
+          "heat": false
+        },
+        {
+          "title": "加拿大总理卡尼：美国希望维持对中重型卡车的高额关税。",
+          "url": "https://flash.jin10.com/detail/20260822233531895800",
+          "heat": false
+        },
+        {
+          "title": "加拿大总理卡尼：（谈美国的临时变卦）美国已采取措施限制加拿大达成其他贸易协定的能力。",
+          "url": "https://flash.jin10.com/detail/20260822233506699800",
+          "heat": false
+        },
+        {
+          "title": "加拿大总理卡尼：美国要求过高，而回馈的过少。",
+          "url": "https://flash.jin10.com/detail/20260822233340992800",
+          "heat": false
+        },
+        {
+          "title": "加拿大总理卡尼：出于无奈而征收报复性关税。",
+          "url": "https://flash.jin10.com/detail/20260822233323769800",
+          "heat": false
+        },
+        {
+          "title": "加拿大总理卡尼：美国的要求揭示了他们对经济伙伴关系承诺的局限性。",
+          "url": "https://flash.jin10.com/detail/20260822233309006800",
+          "heat": false
+        },
+        {
+          "title": "加拿大总理卡尼：近期加拿大与美国之间的分歧仍然“过大”。",
+          "url": "https://flash.jin10.com/detail/20260822233245235800",
+          "heat": false
+        },
+        {
+          "title": "加拿大总理卡尼：加拿大针对美国的（关税）措施将于9月8日生效。",
+          "url": "https://flash.jin10.com/detail/20260822233132472800",
+          "heat": "✰"
+        },
+        {
+          "title": "加拿大总理卡尼：将在未来几天公布新的关税措施细节。",
+          "url": "https://flash.jin10.com/detail/20260822233104736800",
+          "heat": false
+        },
+        {
+          "title": "加拿大总理卡尼：加拿大针对美国的措施将主要集中在钢铁、乳制品等其他领域。",
+          "url": "https://flash.jin10.com/detail/20260822233052812800",
+          "heat": false
+        },
+        {
+          "title": "加拿大总理卡尼：我们并未准备削弱本国关键产业。",
+          "url": "https://flash.jin10.com/detail/20260822233036360800",
+          "heat": false
+        },
+        {
+          "title": "加拿大总理卡尼：我们曾愿意在与美国的谈判中对战略领域（特别是钢铁、铝和汽车）取消实施剩余的报复性关税。",
+          "url": "https://flash.jin10.com/detail/20260822233017349800",
+          "heat": false
+        },
+        {
+          "title": "加拿大总理卡尼：我认为美国并不希望我们停止任何能源供应。",
+          "url": "https://flash.jin10.com/detail/20260822232852653800",
+          "heat": false
+        }
+      ]
     }
   ]
 }
