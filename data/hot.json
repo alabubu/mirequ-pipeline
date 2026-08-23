@@ -1,6 +1,6 @@
 {
-  "updated": "02:30:52",
-  "total": 272,
+  "updated": "02:35:29",
+  "total": 284,
   "platforms": [
     {
       "id": "zhihu",
@@ -1133,8 +1133,69 @@
     {
       "id": "ifeng",
       "name": "凤凰网",
-      "count": 0,
-      "items": []
+      "count": 12,
+      "items": [
+        {
+          "title": "美加贸易谈判破裂，这次是加拿大掀桌子了",
+          "url": "https://news.ifeng.com/c/8vojYZOgHgs",
+          "heat": ""
+        },
+        {
+          "title": "“混乱关税造成的损失无法弥补”，高额退税正打击美国经济",
+          "url": "https://news.ifeng.com/c/8vnyf2qA9ZD",
+          "heat": ""
+        },
+        {
+          "title": "加拿大民众：华盛顿恶霸一直打我们，我们不会忍气吞声",
+          "url": "https://news.ifeng.com/c/8volG8RluX0",
+          "heat": ""
+        },
+        {
+          "title": "“这次对华让步，特朗普该羞得没脸见人”",
+          "url": "https://news.ifeng.com/c/8vnQpWNT85e",
+          "heat": ""
+        },
+        {
+          "title": "人均“十万加”，特朗普考虑出兵干预",
+          "url": "https://news.ifeng.com/c/8vnnjMt8Nty",
+          "heat": ""
+        },
+        {
+          "title": "很高调！伊朗首次公开地下军工生产线",
+          "url": "https://news.ifeng.com/c/8voDo6Z7dp3",
+          "heat": ""
+        },
+        {
+          "title": "梅洛尼谈特朗普：错付了",
+          "url": "https://news.ifeng.com/c/8vntoGTfOZC",
+          "heat": ""
+        },
+        {
+          "title": "又一家！美国法律AI公司放弃美国模型，转用Kimi K3",
+          "url": "https://news.ifeng.com/c/8vo3EquEZjj",
+          "heat": ""
+        },
+        {
+          "title": "指多次袭击国际组织，以色列为何有恃无恐？",
+          "url": "https://news.ifeng.com/c/8vnraEFhIOy",
+          "heat": ""
+        },
+        {
+          "title": "“超级明星学者”，辞职9天后身亡",
+          "url": "https://news.ifeng.com/c/8vnUV785LNH",
+          "heat": ""
+        },
+        {
+          "title": "离谱！日本官方助推“犯罪者恋综”，翻大车",
+          "url": "https://news.ifeng.com/c/8vnqJEBWKpQ",
+          "heat": ""
+        },
+        {
+          "title": "韦东奕为何突然“带货”？",
+          "url": "https://news.ifeng.com/c/8vnnjMt8NuB",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "toutiao",
