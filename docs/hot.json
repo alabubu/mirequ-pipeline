@@ -1,6 +1,6 @@
 {
-  "updated": "00:15:32",
-  "total": 280,
+  "updated": "00:20:32",
+  "total": 282,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,48 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 25,
+      "count": 27,
       "items": [
+        {
+          "title": "航行警告 南海海域实弹射击",
+          "url": "https://flash.jin10.com/detail/20260823081637396800",
+          "heat": false
+        },
+        {
+          "title": "韩股暴跌难阻风险偏好 散户转向高息结构产品",
+          "url": "https://flash.jin10.com/detail/20260823081628981800",
+          "heat": false
+        },
+        {
+          "title": "受台风“紫檀”影响 国铁广州局部分列车停运",
+          "url": "https://flash.jin10.com/detail/20260823081232388800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：昨日今晨重要新闻汇总（2026-08-23）",
+          "url": "https://flash.jin10.com/detail/20260823080946148800",
+          "heat": "✰"
+        },
+        {
+          "title": "匈牙利总理毛焦尔·彼得22日宣布，得益于紧急工程施工作业及多瑙河水位回升，该国唯一的核电站——保克什核电站3号机组已于当天恢复发电。",
+          "url": "https://flash.jin10.com/detail/20260823080635143800",
+          "heat": false
+        },
+        {
+          "title": "翔宇医疗激光毫米波治疗仪获国家医疗器械注册证",
+          "url": "https://flash.jin10.com/detail/20260823080622436800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：中东局势跟踪（8月23日）",
+          "url": "https://flash.jin10.com/detail/20260823075913231800",
+          "heat": "✰"
+        },
+        {
+          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（8月23日）",
+          "url": "https://flash.jin10.com/detail/20260823075036246800",
+          "heat": false
+        },
         {
           "title": "上周有近200艘船只通行霍尔木兹海峡",
           "url": "https://flash.jin10.com/detail/20260823062034777800",
@@ -1452,36 +1492,6 @@
         {
           "title": "特朗普减肥药“低价计划”遇冷：多数州医疗补助项目拒绝买单",
           "url": "https://flash.jin10.com/detail/20260823041421837800",
-          "heat": false
-        },
-        {
-          "title": "雷扎伊警告伊朗邻国不要加入美国的经济战",
-          "url": "https://flash.jin10.com/detail/20260823040500477800",
-          "heat": false
-        },
-        {
-          "title": "拉脱维亚遭遇严重风暴灾害 超18万用户停电",
-          "url": "https://flash.jin10.com/detail/20260823035617115800",
-          "heat": false
-        },
-        {
-          "title": "据半岛电视台：知情人士透露，巴基斯坦首位国防军总司令阿西姆·穆尼尔预计将在未来几天内返回德黑兰。",
-          "url": "https://flash.jin10.com/detail/20260823034225351800",
-          "heat": false
-        },
-        {
-          "title": "日本茨城县5.9级地震 附近多处核设施暂未见异常",
-          "url": "https://flash.jin10.com/detail/20260823034147896800",
-          "heat": false
-        },
-        {
-          "title": "部分美国人工智能公司下调大模型使用价格",
-          "url": "https://flash.jin10.com/detail/20260823033815939800",
-          "heat": false
-        },
-        {
-          "title": "声明显示：加拿大总理卡尼与各省及地区首长举行视频会议，讨论暂停对美贸易谈判事宜。卡尼概述了保护加拿大利益的下一步措施，包括将于劳工节后的周二生效的对等关税。",
-          "url": "https://flash.jin10.com/detail/20260823033242142800",
           "heat": false
         }
       ]
