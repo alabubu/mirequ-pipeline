@@ -1,12 +1,113 @@
 {
-  "updated": "17:31:13",
-  "total": 238,
+  "updated": "17:35:33",
+  "total": 282,
   "platforms": [
     {
       "id": "zhihu",
       "name": "知乎",
-      "count": 0,
-      "items": []
+      "count": 20,
+      "items": [
+        {
+          "title": "如何评价南信大团队在《Science》上发文「中国太阳能扩张政策导致鸟类生物多样性下降」？",
+          "url": "https://www.zhihu.com/question/2074259711533266774",
+          "heat": "802 万热度"
+        },
+        {
+          "title": "古人是否真的没有肉可以吃？",
+          "url": "https://www.zhihu.com/question/34020226",
+          "heat": "445 万热度"
+        },
+        {
+          "title": "如何评价《凡人修仙传》动画 188 集，黄龙山大战正式开始，但在线人数却依旧下跌，才十万左右？你怎么看？",
+          "url": "https://www.zhihu.com/question/2074457746506892269",
+          "heat": "379 万热度"
+        },
+        {
+          "title": "宇树机器人 100 米预赛小组垫底，同组第一名 100 米 9 秒 39 打破人类纪录，如何本场比赛各家机器人表现？",
+          "url": "https://www.zhihu.com/question/2074793323445711007",
+          "heat": "338 万热度"
+        },
+        {
+          "title": "孕妇产检时误服含甲醇有毒液体，服药前两次向医生确认，当地卫健委已介入，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2073817492271772349",
+          "heat": "328 万热度"
+        },
+        {
+          "title": "嫦娥七号任务不满足发射条件，不能在今年预定窗口实施，原因可能有哪些？嫦娥七号原定将完成哪些主要任务？",
+          "url": "https://www.zhihu.com/question/2072730203407606130",
+          "heat": "295 万热度"
+        },
+        {
+          "title": "TI15 决赛 Spirit 3:2 击败 VISION 夺得队史第三座 TI 冠军，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2074784919734183469",
+          "heat": "294 万热度"
+        },
+        {
+          "title": "韩红基金会救护车采购陷争议，市场监管部门称供应商已被立案调查，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2074921713666449766",
+          "heat": "282 万热度"
+        },
+        {
+          "title": "时隔 9 年口碑大反转，《我的前半生》2026 年突然全网爆火，真正原因到底是什么？",
+          "url": "https://www.zhihu.com/question/2072741297400685952",
+          "heat": "270 万热度"
+        },
+        {
+          "title": "阿里巴巴拟配售 800 亿港元新股，全部投入 AI 建设，怎样解读这一操作？对市场有哪些影响？",
+          "url": "https://www.zhihu.com/question/2074867306811881229",
+          "heat": "260 万热度"
+        },
+        {
+          "title": "著名战地记者唐师曾逝世，享年 65 岁，你对他有哪些记忆？",
+          "url": "https://www.zhihu.com/question/2074907888091410873",
+          "heat": "244 万热度"
+        },
+        {
+          "title": "如何评价美国海军最新公开的 AIM-424「恶意」远程空空导弹？",
+          "url": "https://www.zhihu.com/question/2074785102589072121",
+          "heat": "229 万热度"
+        },
+        {
+          "title": "警方通报「博主称小红书因遭举报上市失败」，造谣者已被行拘，其将承担哪些责任？此事对小红书影响有多大？",
+          "url": "https://www.zhihu.com/question/2074915129171211419",
+          "heat": "198 万热度"
+        },
+        {
+          "title": "反复观摩《教父》真的能让一个男人更成熟通透吗？",
+          "url": "https://www.zhihu.com/question/660307217",
+          "heat": "177 万热度"
+        },
+        {
+          "title": "银行员工称考核压力大自己买 1 万，基层员工「自费上班」抗 KPI 合理吗？银行业务目前面临什么困境？",
+          "url": "https://www.zhihu.com/question/2074064812326090233",
+          "heat": "147 万热度"
+        },
+        {
+          "title": "男子 20 年攒下 789 万，这种极致节俭的财富积累方式在当下还可行吗？",
+          "url": "https://www.zhihu.com/question/2074609906632626474",
+          "heat": "137 万热度"
+        },
+        {
+          "title": "古代士兵中箭后没有消炎药，伤口感染了还能扛过去吗？",
+          "url": "https://www.zhihu.com/question/2062593631098343674",
+          "heat": "128 万热度"
+        },
+        {
+          "title": "现在哪个行业还是蓝海？",
+          "url": "https://www.zhihu.com/question/662437470",
+          "heat": "116 万热度"
+        },
+        {
+          "title": "美加贸易谈判最后时刻破裂，美国将加征 50% 关税，加拿大将对美实施对等关税，将产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2074490542076052322",
+          "heat": "104 万热度"
+        },
+        {
+          "title": "8 月鸡蛋价格差不多涨了七八毛，受哪些因素影响？还会持续上涨吗？",
+          "url": "https://www.zhihu.com/question/2074886362625304212",
+          "heat": "101 万热度"
+        }
+      ]
     },
     {
       "id": "weibo",
@@ -853,8 +954,74 @@
     {
       "id": "cls-hot",
       "name": "财联社",
-      "count": 0,
-      "items": []
+      "count": 13,
+      "items": [
+        {
+          "title": "【早报】外资加速涌入中国高技术产业；美对部分加拿大商品加征50%关税",
+          "url": "https://www.cls.cn/detail/2461511",
+          "heat": ""
+        },
+        {
+          "title": "特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票",
+          "url": "https://www.cls.cn/detail/2461516",
+          "heat": ""
+        },
+        {
+          "title": "A股科技板块进入右侧配置窗口？投资主线有哪些？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2461748",
+          "heat": ""
+        },
+        {
+          "title": "国家卫健委发布会：白血病不再是不治之症",
+          "url": "https://www.cls.cn/detail/2461468",
+          "heat": ""
+        },
+        {
+          "title": "英伟达服务器传出涨价消息 涨幅“很多情况下超过15%”",
+          "url": "https://www.cls.cn/detail/2461501",
+          "heat": ""
+        },
+        {
+          "title": "2只“高中签率”新股下周开启申购",
+          "url": "https://www.cls.cn/detail/2461627",
+          "heat": ""
+        },
+        {
+          "title": "周末要闻汇总：《促进网信企业高质量发展行动计划（2026-2030年）》印发；章建平新进成为中际旭创第九大股东",
+          "url": "https://www.cls.cn/detail/2461663",
+          "heat": ""
+        },
+        {
+          "title": "独角兽遍地背后：一级市场正在为“确定性”买单|观察",
+          "url": "https://www.cls.cn/detail/2461668",
+          "heat": ""
+        },
+        {
+          "title": "财联社VIP会员周限时开启，专属会员券限时领取",
+          "url": "https://www.cls.cn/detail/2460300",
+          "heat": ""
+        },
+        {
+          "title": "特朗普：可出动美军干预债市",
+          "url": "https://www.cls.cn/detail/2461395",
+          "heat": ""
+        },
+        {
+          "title": "出货已超4万台 工厂准备好为“人形”买单了吗？",
+          "url": "https://www.cls.cn/detail/2461593",
+          "heat": ""
+        },
+        {
+          "title": "环球下周看点：贝森特、黄仁勋、沃什轮番登场",
+          "url": "https://www.cls.cn/detail/2461506",
+          "heat": ""
+        },
+        {
+          "title": "机器人集体“上岗”背后：大脑、数据、灵巧手三大暗战开打|直击2026WRC",
+          "url": "https://www.cls.cn/detail/2461414",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "thepaper",
@@ -966,8 +1133,69 @@
     {
       "id": "ifeng",
       "name": "凤凰网",
-      "count": 0,
-      "items": []
+      "count": 12,
+      "items": [
+        {
+          "title": "“欧洲大战”要来了？",
+          "url": "https://news.ifeng.com/c/8vpdetmO7DF",
+          "heat": ""
+        },
+        {
+          "title": "泽连斯基：乌克兰尚不具备战时选举条件",
+          "url": "https://news.ifeng.com/c/8vpcs0VkT4z",
+          "heat": ""
+        },
+        {
+          "title": "很高调！伊朗首次公开地下军工生产线",
+          "url": "https://news.ifeng.com/c/8voDo6Z7dp3",
+          "heat": ""
+        },
+        {
+          "title": "内部人掀桌子，泽连斯基团队出现裂痕？",
+          "url": "https://v.ifeng.com/c/8vpa1Rig1e3",
+          "heat": ""
+        },
+        {
+          "title": "凤凰直击俄乌战局：乌军在册女兵超55000人",
+          "url": "https://news.ifeng.com/c/8vpP38DrKnN",
+          "heat": ""
+        },
+        {
+          "title": "伊朗：感谢中方主持公道正义",
+          "url": "https://news.ifeng.com/c/8vpGK1Qy48w",
+          "heat": ""
+        },
+        {
+          "title": "普京警告：乌克兰已打开潘多拉魔盒，乌敏感经济部门岌岌可危",
+          "url": "https://news.ifeng.com/c/8vozJD1SATh",
+          "heat": ""
+        },
+        {
+          "title": "又一家！美国法律AI公司放弃美国模型，转用Kimi K3",
+          "url": "https://news.ifeng.com/c/8vo3EquEZjj",
+          "heat": ""
+        },
+        {
+          "title": "引用《论语》博好感，高市当真懂“民无信不立”的含义？",
+          "url": "https://news.ifeng.com/c/8vpd3lk6P3t",
+          "heat": ""
+        },
+        {
+          "title": "韩红基金会救护车采购陷争议，供应商已被立案调查",
+          "url": "https://news.ifeng.com/c/8vpMYjgaiCf",
+          "heat": ""
+        },
+        {
+          "title": "达利欧：美国3年内或现债务危机，建议配置黄金降低投资风险",
+          "url": "https://news.ifeng.com/c/8vpQrJnSbny",
+          "heat": ""
+        },
+        {
+          "title": "韦东奕主编练习册，迫于压力下架？",
+          "url": "https://news.ifeng.com/c/8vpHLALSqJr",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "toutiao",
@@ -1129,8 +1357,18 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 28,
+      "count": 27,
       "items": [
+        {
+          "title": "土耳其央行将融资利率恢复至37%的政策利率",
+          "url": "https://flash.jin10.com/detail/20260824012248690800",
+          "heat": false
+        },
+        {
+          "title": "美军称对伊朗海上封锁以来已拦截75艘商船",
+          "url": "https://flash.jin10.com/detail/20260824010631153800",
+          "heat": false
+        },
         {
           "title": "巴基斯坦外交部：巴基斯坦副总理兼外交部长伊沙克·达尔已抵达伦敦，对英国进行正式访问，将与英国各高级官员会晤；他还将与国际海事组织秘书长会面，讨论区域海上安全问题。",
           "url": "https://flash.jin10.com/detail/20260824010303014800",
@@ -1254,21 +1492,6 @@
         {
           "title": "分析师：伊朗基准股指年底前达到700万点并非遥不可及",
           "url": "https://flash.jin10.com/detail/20260823223133571800",
-          "heat": false
-        },
-        {
-          "title": "伊朗称针对美国各种敌对行动均已制定应对方案",
-          "url": "https://flash.jin10.com/detail/20260823221349760800",
-          "heat": false
-        },
-        {
-          "title": "一周展望：黄金冲上4600后，美伊制裁、杰克逊霍尔、PCE将轮番轰炸",
-          "url": "https://flash.jin10.com/detail/20260823221328329800",
-          "heat": "✰"
-        },
-        {
-          "title": "驻沙特大使馆提醒在沙中国公民遵守出入境大额现金申报规定并谨防各类诈骗",
-          "url": "https://flash.jin10.com/detail/20260823220552807800",
           "heat": false
         }
       ]
