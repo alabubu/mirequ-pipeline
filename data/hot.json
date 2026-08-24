@@ -1,6 +1,6 @@
 {
-  "updated": "15:50:37",
-  "total": 281,
+  "updated": "15:55:31",
+  "total": 275,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,136 +1357,106 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 26,
+      "count": 20,
       "items": [
         {
-          "title": "市场消息：美国战略石油储备的原油库存上周下降约370万桶，降至2.897亿桶，为1982年以来最低水平。",
-          "url": "https://flash.jin10.com/detail/20260824232342819800",
-          "heat": false
-        },
-        {
-          "title": "英国将向乌克兰提供“风暴之影”导弹生产技术",
-          "url": "https://flash.jin10.com/detail/20260824231800285800",
-          "heat": false
-        },
-        {
-          "title": "金十数据整理：欧盘美盘重要新闻汇总（2026-08-24）",
-          "url": "https://flash.jin10.com/detail/20260824231431103800",
+          "title": "美豆油日内大跌4.00%，现报66.71美分/磅。",
+          "url": "https://flash.jin10.com/detail/20260824235149032800",
           "heat": "✰"
         },
         {
-          "title": "联合国成立工作组应对霍尔木兹海峡危机",
-          "url": "https://flash.jin10.com/detail/20260824231223302800",
+          "title": "据韩联社：韩国外交部长与美国国务卿鲁比奥周一进行了电话会谈。",
+          "url": "https://flash.jin10.com/detail/20260824234727095800",
           "heat": false
         },
         {
-          "title": "全市场都在等美联储，但只有少数人做足准备！",
-          "url": "https://flash.jin10.com/detail/20260824230609128800",
+          "title": "金十图示：2026年08月24日（周一）全球股市指数-欧洲市场",
+          "url": "https://flash.jin10.com/detail/20260824234714063800",
           "heat": false
         },
         {
-          "title": "英伟达：Nebius成为首家采用英伟达Groq 3 LPX的AI云服务商。",
-          "url": "https://flash.jin10.com/detail/20260824230607218800",
+          "title": "据福克斯新闻：美国财长贝森特将公布伊朗二级制裁细节。",
+          "url": "https://flash.jin10.com/detail/20260824234403987800",
           "heat": false
         },
         {
-          "title": "英伟达：SpaceXAI Starmind卫星将使用新一代机架级代理型AI超级计算机与基础设施平台Vera Rubin NVL72。",
-          "url": "https://flash.jin10.com/detail/20260824230514893800",
+          "title": "据福克斯新闻：美国财长贝森特将就切断与伊朗的经济联系发出最后警告。",
+          "url": "https://flash.jin10.com/detail/20260824234342725800",
           "heat": false
         },
         {
-          "title": "英伟达的Groq 3 LPX输出速度达到每秒3400个Token。",
-          "url": "https://flash.jin10.com/detail/20260824230414513800",
+          "title": "德国DAX30指数8月24日（周一）收盘下跌24.26点，跌幅0.09%，报26104.29点；<br/>英国富时100指数8月24日（周一）收盘上涨35.27点，涨幅0.33%，报10851.83点；<br/>法国CAC40指数8月24日（周一）收盘下跌31.42点，跌幅0.37%，报8453.01点；<br/>欧洲斯托克50指数8月24日（周一）收盘下跌16.50点，跌幅0.26%，报6449.15点；<br/>西班牙IBEX35指数8月24日（周一）收盘上涨138.97点，涨幅0.70%，报20100.47点；<br/>意大利富时MIB指数8月24日（周一）收盘下跌123.04点，跌幅0.23%，报52545.00点。",
+          "url": "https://flash.jin10.com/detail/20260824233904241800",
           "heat": false
         },
         {
-          "title": "英伟达：SpaceXAI将在Vera Rubin平台上扩展GROK。",
-          "url": "https://flash.jin10.com/detail/20260824230343944800",
+          "title": "美国至8月24日6个月国债竞拍-投标倍数 3.05，前值2.97。",
+          "url": "https://flash.jin10.com/detail/20260824233347473800",
           "heat": false
         },
         {
-          "title": "市场消息：SpaceXAI将采用英伟达Vera CPU，以大规模加速智能体AI。",
-          "url": "https://flash.jin10.com/detail/20260824230251240800",
+          "title": "美国至8月24日6个月国债竞拍-得标利率配置百分比 59.64%，前值18.55%。",
+          "url": "https://flash.jin10.com/detail/20260824233347448800",
+          "heat": false
+        },
+        {
+          "title": "美国至8月24日6个月国债竞拍-得标利率 3.79%，前值3.78%。",
+          "url": "https://flash.jin10.com/detail/20260824233347443800",
+          "heat": false
+        },
+        {
+          "title": "美国至8月24日3个月国债竞拍-得标利率配置百分比 97.66%，前值44.68%。",
+          "url": "https://flash.jin10.com/detail/20260824233346209800",
+          "heat": false
+        },
+        {
+          "title": "美国至8月24日3个月国债竞拍-投标倍数 3.08，前值2.86。",
+          "url": "https://flash.jin10.com/detail/20260824233345076800",
+          "heat": false
+        },
+        {
+          "title": "美国至8月24日3个月国债竞拍-得标利率 3.715%，前值3.72%。",
+          "url": "https://flash.jin10.com/detail/20260824233335951800",
+          "heat": false
+        },
+        {
+          "title": "美、布两油短线一度走低0.6美元，现分别报84.3美元/桶和90.6美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260824233244649800",
+          "heat": false
+        },
+        {
+          "title": "墨西哥总统辛鲍姆：墨西哥正在努力降低钢铁和汽车的关税。",
+          "url": "https://flash.jin10.com/detail/20260824233135884800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：美国方面表示，未通过白宫发布的关税公告属于猜测。",
+          "url": "https://flash.jin10.com/detail/20260824233117937800",
           "heat": "✰"
         },
         {
-          "title": "据港交所文件显示，上海移芯通信科技股份有限公司向港交所提交上市申请书。",
-          "url": "https://flash.jin10.com/detail/20260824230215363800",
+          "title": "花旗：（关于黄金）实物需求需要跟上，才能支撑此次反弹。",
+          "url": "https://flash.jin10.com/detail/20260824233056879800",
           "heat": false
         },
         {
-          "title": "市场消息：英伟达旗下AI推理加速器Groq 3 LPX已全面投入生产。",
-          "url": "https://flash.jin10.com/detail/20260824230143374800",
+          "title": "墨西哥总统辛鲍姆：墨西哥预计与美国达成贸易协议。",
+          "url": "https://flash.jin10.com/detail/20260824233048146800",
+          "heat": false
+        },
+        {
+          "title": "花旗：将0-3个月黄金价格目标上调至每盎司4,800美元，之前为4,500美元。维持6-12个月目标不变，为每盎司5,000美元。",
+          "url": "https://flash.jin10.com/detail/20260824233037972800",
+          "heat": false
+        },
+        {
+          "title": "WTI原油跌破84美元/桶，日内跌2.71%。",
+          "url": "https://flash.jin10.com/detail/20260824233032168800",
           "heat": "✰"
         },
         {
-          "title": "截至23:00收盘，国内期货主力合约涨多跌少，乙二醇（EG）、沥青涨超3%，燃料油涨超2%，短纤、对二甲苯、20号胶、丙烯涨近2%，瓶片涨超1%。跌幅方面，聚氯乙烯（PVC）跌超2%，菜油、豆二跌超1%，纸浆、棕榈油、豆油跌近1%。",
-          "url": "https://flash.jin10.com/detail/20260824230016368800",
-          "heat": "✰"
-        },
-        {
-          "title": "谈崩之后再加码：特朗普对加拿大汽车产业亮出50%关税大棒",
-          "url": "https://flash.jin10.com/detail/20260824230003946800",
-          "heat": "✰"
-        },
-        {
-          "title": "欧盟外交与安全政策高级代表卡拉斯：提议在今年秋季对俄罗斯实施更严厉的制裁。",
-          "url": "https://flash.jin10.com/detail/20260824225618489800",
-          "heat": false
-        },
-        {
-          "title": "德银：油价冲击开始进入远期通胀，长债压力重新抬头",
-          "url": "https://flash.jin10.com/detail/20260824225225595800",
-          "heat": false
-        },
-        {
-          "title": "市场消息：法国总统马克龙与沙特王储在爱丽舍宫握手，准备进行双边会谈。",
-          "url": "https://flash.jin10.com/detail/20260824224837000800",
-          "heat": false
-        },
-        {
-          "title": "乌克兰总统泽连斯基：尽管俄罗斯展开攻击，试图全面封锁运输，但每天仍有三到四艘船只进入大奥德萨港口。",
-          "url": "https://flash.jin10.com/detail/20260824224547292800",
-          "heat": false
-        },
-        {
-          "title": "据沙特阿拉伯阿拉比亚电视台：法国总理在巴黎的法国军事博物馆欢迎沙特王储穆罕默德·本·萨勒曼。 法国总统将在爱丽舍宫接见沙特王储。",
-          "url": "https://flash.jin10.com/detail/20260824224432652800",
-          "heat": false
-        },
-        {
-          "title": "纳斯达克100指数跌幅缩窄至1%，此前一度跌1.5%。",
-          "url": "https://flash.jin10.com/detail/20260824224249724800",
-          "heat": false
-        },
-        {
-          "title": "2026年8月票房破50亿",
-          "url": "https://flash.jin10.com/detail/20260824224226995800",
-          "heat": false
-        },
-        {
-          "title": "联合国秘书长古特雷斯：霍尔木兹海峡的交通几乎停滞不前。航行权利和航行自由符合国际法。",
-          "url": "https://flash.jin10.com/detail/20260824224108436800",
-          "heat": false
-        },
-        {
-          "title": "沙特国家航运公司Bahri：确认油轮“Amzan”卷入红海事件。仍与该船保持联系，并持续监测事态发展。",
-          "url": "https://flash.jin10.com/detail/20260824223846846800",
-          "heat": false
-        },
-        {
-          "title": "“消失的石油”？霍尔木兹通航数据成谜，美方与商业数据分歧显著",
-          "url": "https://flash.jin10.com/detail/20260824223842669800",
-          "heat": "✰"
-        },
-        {
-          "title": "俄乌在白俄罗斯交换20名被俘人员",
-          "url": "https://flash.jin10.com/detail/20260824223809987800",
-          "heat": false
-        },
-        {
-          "title": "特朗普对加拿大汽车和钢铁加征关税，对多领域的潜在影响",
-          "url": "https://flash.jin10.com/detail/20260824223619294800",
+          "title": "据日经新闻：利用人工智能开发新材料是日本首相高市早苗经济议程中的17个战略领域之一。",
+          "url": "https://flash.jin10.com/detail/20260824232802308800",
           "heat": false
         }
       ]
