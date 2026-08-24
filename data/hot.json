@@ -1,6 +1,6 @@
 {
-  "updated": "01:01:06",
-  "total": 255,
+  "updated": "01:05:28",
+  "total": 283,
   "platforms": [
     {
       "id": "zhihu",
@@ -591,11 +591,6 @@
           "heat": ""
         },
         {
-          "title": "因存储芯片成本飙升，英伟达高端服务器被曝明年将涨价15%",
-          "url": "https://wallstreetcn.com/articles/3780066",
-          "heat": ""
-        },
-        {
           "title": "七年来首次配售新股！阿里800亿港元配股获超额认购，将全部投入AI建设",
           "url": "https://wallstreetcn.com/articles/3780075",
           "heat": ""
@@ -606,13 +601,13 @@
           "heat": ""
         },
         {
-          "title": "特朗普的“大麻烦”：40万亿美元债务，6.5%按揭利率与5美元柴油价格",
-          "url": "https://wallstreetcn.com/articles/3780067",
+          "title": "SemiAnalysis：闪存制造正“由钨转钼”",
+          "url": "https://wallstreetcn.com/articles/3780077",
           "heat": ""
         },
         {
-          "title": "SemiAnalysis：闪存制造正“由钨转钼”",
-          "url": "https://wallstreetcn.com/articles/3780077",
+          "title": "特朗普的“大麻烦”：40万亿美元债务，6.5%按揭利率与5美元柴油价格",
+          "url": "https://wallstreetcn.com/articles/3780067",
           "heat": ""
         },
         {
@@ -633,6 +628,11 @@
         {
           "title": "周末集体跳水！伊朗最新警告！加密货币，17.92万人爆仓",
           "url": "https://wallstreetcn.com/articles/3780093",
+          "heat": ""
+        },
+        {
+          "title": "9月将是科技重要的决胜窗口",
+          "url": "https://wallstreetcn.com/articles/3780091",
           "heat": ""
         }
       ]
@@ -957,6 +957,11 @@
       "count": 13,
       "items": [
         {
+          "title": "【早报】事关AI，阿里巴巴、英伟达大动作来了；长存控股IPO获受理",
+          "url": "https://www.cls.cn/detail/2461820",
+          "heat": ""
+        },
+        {
           "title": "A股科技板块进入右侧配置窗口？投资主线有哪些？十大券商策略来了",
           "url": "https://www.cls.cn/detail/2461748",
           "heat": ""
@@ -964,11 +969,6 @@
         {
           "title": "【早报】外资加速涌入中国高技术产业；美对部分加拿大商品加征50%关税",
           "url": "https://www.cls.cn/detail/2461511",
-          "heat": ""
-        },
-        {
-          "title": "【早报】事关AI，阿里巴巴、英伟达大动作来了；长存控股IPO获受理",
-          "url": "https://www.cls.cn/detail/2461820",
           "heat": ""
         },
         {
@@ -982,13 +982,18 @@
           "heat": ""
         },
         {
+          "title": "独角兽遍地背后：一级市场正在为“确定性”买单|观察",
+          "url": "https://www.cls.cn/detail/2461668",
+          "heat": ""
+        },
+        {
           "title": "国家卫健委发布会：白血病不再是不治之症",
           "url": "https://www.cls.cn/detail/2461468",
           "heat": ""
         },
         {
-          "title": "独角兽遍地背后：一级市场正在为“确定性”买单|观察",
-          "url": "https://www.cls.cn/detail/2461668",
+          "title": "钟才文：上半年经济增长4.7%说明了什么？",
+          "url": "https://www.cls.cn/detail/2461824",
           "heat": ""
         },
         {
@@ -1012,13 +1017,8 @@
           "heat": ""
         },
         {
-          "title": "钟才文：上半年经济增长4.7%说明了什么？",
-          "url": "https://www.cls.cn/detail/2461824",
-          "heat": ""
-        },
-        {
-          "title": "环球下周看点：贝森特、黄仁勋、沃什轮番登场",
-          "url": "https://www.cls.cn/detail/2461506",
+          "title": "“飙涨300%”，订单排到年底！又一国产设备，全球爆单",
+          "url": "https://www.cls.cn/detail/2461763",
           "heat": ""
         }
       ]
@@ -1357,8 +1357,149 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 0,
-      "items": []
+      "count": 28,
+      "items": [
+        {
+          "title": "<a href=\"https://www.jin10.com/activities/2026/8/year/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/08/P1TeJnmFrFczSy6Bb1fYH.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260824090254336800",
+          "heat": false
+        },
+        {
+          "title": "WTI原油回落至85美元/桶下方，日内跌1.52%；布伦特原油失守91美元/桶，日内跌幅1.52%。",
+          "url": "https://flash.jin10.com/detail/20260824090209924800",
+          "heat": false
+        },
+        {
+          "title": "台湾加权指数8月24日（周一）开盘上涨20.48点，涨幅0.05%，报45244.77点。",
+          "url": "https://flash.jin10.com/detail/20260824090149077800",
+          "heat": false
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 8月24日（周一）早盘盘初上涨2.04%报997.75元/克；<br/>上海黄金交易所白银T+D 8月24日（周一）早盘盘初上涨1.3%报16854.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260824090147035800",
+          "heat": false
+        },
+        {
+          "title": "沪银主力合约日内涨幅扩大至2.00%，现报16944.00元/千克。",
+          "url": "https://flash.jin10.com/detail/20260824090146608800",
+          "heat": false
+        },
+        {
+          "title": "软银计划在日本发行1万亿日元零售债券",
+          "url": "https://flash.jin10.com/detail/20260824090132129800",
+          "heat": false
+        },
+        {
+          "title": "富时中国A50指数期货开盘下跌0.3%",
+          "url": "https://flash.jin10.com/detail/20260824090053636800",
+          "heat": false
+        },
+        {
+          "title": "早盘开盘，国内期货主力合约涨多跌少，集运欧线涨超4%，焦炭、碳酸锂涨超3%，纯碱、焦煤、玻璃、沪金涨超2%，合成橡胶、沪银涨近2%。跌幅方面，豆油、沥青、菜油跌近1%。",
+          "url": "https://flash.jin10.com/detail/20260824090002677800",
+          "heat": "✰"
+        },
+        {
+          "title": "伊朗宣布发现大型天然气田",
+          "url": "https://flash.jin10.com/detail/20260824085629979800",
+          "heat": false
+        },
+        {
+          "title": "从基金角度看CBOT大豆后市：CBOT大豆净多单骤增近20%，市场情绪大幅升温！",
+          "url": "https://flash.jin10.com/detail/20260824085248562800",
+          "heat": false
+        },
+        {
+          "title": "机构：日本9月加息概率大增之际 市场密切留意官员讲话",
+          "url": "https://flash.jin10.com/detail/20260824085000426800",
+          "heat": false
+        },
+        {
+          "title": "两市融资余额减少61.58亿元",
+          "url": "https://flash.jin10.com/detail/20260824084708641800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月24日（周一）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20260824084516980800",
+          "heat": false
+        },
+        {
+          "title": "超强台风“沙德尔”25日前对我国近海海域无影响",
+          "url": "https://flash.jin10.com/detail/20260824084514083800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：上周五全球股市走势回顾（2026-08-24）",
+          "url": "https://flash.jin10.com/detail/20260824083816444800",
+          "heat": false
+        },
+        {
+          "title": "WTI原油日内跌幅达1.00%，现报85.44美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260824083608652800",
+          "heat": "✰"
+        },
+        {
+          "title": "无视贝森特看跌期权！40万亿美债风暴失控，华尔街疯狂质疑财政部",
+          "url": "https://flash.jin10.com/detail/20260824083152765800",
+          "heat": "✰"
+        },
+        {
+          "title": "据希腊媒体报道，在伊朗对驻欧洲美军基地发出威胁后，雅典向克里特岛调派了一套防空系统。",
+          "url": "https://flash.jin10.com/detail/20260824083104396800",
+          "heat": false
+        },
+        {
+          "title": "中国地震台网自动测定：08月24日08时26分在四川宜宾市长宁县附近发生4.9级左右地震，最终结果以正式速报为准。",
+          "url": "https://flash.jin10.com/detail/20260824083033642800",
+          "heat": false
+        },
+        {
+          "title": "现货黄金短线下跌30美元，跌破4600美元/盎司关口。",
+          "url": "https://flash.jin10.com/detail/20260824082719280800",
+          "heat": "✰"
+        },
+        {
+          "title": "中信建投：预计隔膜行业将维持供需紧平衡状态",
+          "url": "https://flash.jin10.com/detail/20260824082449087800",
+          "heat": false
+        },
+        {
+          "title": "文件显示，软银集团债券的暂定票面利率在4.3%至4.9%之间，具体利率将于9月4日确定。",
+          "url": "https://flash.jin10.com/detail/20260824082227946800",
+          "heat": false
+        },
+        {
+          "title": "美加贸易战难歇 加拿大谋划国内支持措施至特朗普卸任",
+          "url": "https://flash.jin10.com/detail/20260824082217038800",
+          "heat": false
+        },
+        {
+          "title": "美国邮政署出台新规 要求各州提交申请邮寄选票的选民名单",
+          "url": "https://flash.jin10.com/detail/20260824081619552800",
+          "heat": false
+        },
+        {
+          "title": "芝加哥玉米期货价格升至2023年8月以来最高水平，现涨幅2.16%，报519.5美分/蒲式耳。",
+          "url": "https://flash.jin10.com/detail/20260824081603428800",
+          "heat": "✰"
+        },
+        {
+          "title": "现货白银日内涨超1.00%，现报69.64美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260824081338164800",
+          "heat": false
+        },
+        {
+          "title": "从握手到关税战：美加谈判为何一夜破裂？加拿大称“同一份协议，两种理解”",
+          "url": "https://flash.jin10.com/detail/20260824081317975800",
+          "heat": "✰"
+        },
+        {
+          "title": "软银将发行1万亿日元债券。",
+          "url": "https://flash.jin10.com/detail/20260824081035384800",
+          "heat": false
+        }
+      ]
     }
   ]
 }
