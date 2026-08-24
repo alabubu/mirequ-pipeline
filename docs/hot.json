@@ -1,6 +1,6 @@
 {
-  "updated": "21:30:43",
-  "total": 243,
+  "updated": "21:35:27",
+  "total": 280,
   "platforms": [
     {
       "id": "zhihu",
@@ -1133,8 +1133,69 @@
     {
       "id": "ifeng",
       "name": "凤凰网",
-      "count": 0,
-      "items": []
+      "count": 12,
+      "items": [
+        {
+          "title": "美国公布对伊朗“经济战”具体行动措施",
+          "url": "https://news.ifeng.com/c/8vrVvEe5HaF",
+          "heat": ""
+        },
+        {
+          "title": "“特朗普正就制裁伊朗致电各国领导人”",
+          "url": "https://news.ifeng.com/c/8vrWJFkKrTc",
+          "heat": ""
+        },
+        {
+          "title": "美加敌对迅速发酵，加拿大亮出“杀手锏”",
+          "url": "https://news.ifeng.com/c/8vrQqTvqKpG",
+          "heat": ""
+        },
+        {
+          "title": "中方回应美财长威胁",
+          "url": "https://news.ifeng.com/c/8vquF8u2sOZ",
+          "heat": ""
+        },
+        {
+          "title": "美军左右为难",
+          "url": "https://news.ifeng.com/c/8vrOCWJ9SH4",
+          "heat": ""
+        },
+        {
+          "title": "金与正，没接特朗普的话",
+          "url": "https://news.ifeng.com/c/8vqw7NCqQ1S",
+          "heat": ""
+        },
+        {
+          "title": "越南为这条连接中越的铁路增加投资200多亿，钱都花哪儿了？",
+          "url": "https://news.ifeng.com/c/8vr6O4gFc9V",
+          "heat": ""
+        },
+        {
+          "title": "伊朗官员：特朗普“说太多”",
+          "url": "https://news.ifeng.com/c/8vqKE38LhPQ",
+          "heat": ""
+        },
+        {
+          "title": "数名中国公民被沙特有关部门拘押，中使馆发声",
+          "url": "https://news.ifeng.com/c/8vqHb209ydK",
+          "heat": ""
+        },
+        {
+          "title": "这场中国的运动会，震惊日本和美国网络",
+          "url": "https://news.ifeng.com/c/8vrRE8kIbTs",
+          "heat": ""
+        },
+        {
+          "title": "载有20名中国船员的货船在孟加拉湾沉没，多方回应",
+          "url": "https://news.ifeng.com/c/8vrFBvJwsMr",
+          "heat": ""
+        },
+        {
+          "title": "发射窗口是个啥？嫦娥七号为何不能过几天再发？",
+          "url": "https://news.ifeng.com/c/8vr5I30Hq6s",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "toutiao",
@@ -1296,8 +1357,134 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 0,
-      "items": []
+      "count": 25,
+      "items": [
+        {
+          "title": "消息人士： 摩根大通(JPM.N)和桑坦德银行牵头为阿根廷液化天然气项目提供高达150亿美元的融资。",
+          "url": "https://flash.jin10.com/detail/20260825051919950800",
+          "heat": false
+        },
+        {
+          "title": "伊朗外交部：美威胁对伊发起新一轮制裁违反国际法",
+          "url": "https://flash.jin10.com/detail/20260825051709871800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：中东局势跟踪（8月25日）",
+          "url": "https://flash.jin10.com/detail/20260825051612551800",
+          "heat": "✰"
+        },
+        {
+          "title": "美国最高法允许特朗普推行限制邮寄投票的措施",
+          "url": "https://flash.jin10.com/detail/20260825051541615800",
+          "heat": false
+        },
+        {
+          "title": "消息人士：智能戒指制造商Oura计划通过IPO融资至多30亿美元。",
+          "url": "https://flash.jin10.com/detail/20260825050819510800",
+          "heat": false
+        },
+        {
+          "title": "据泰晤士报：英国首相伯纳姆因成本问题搁置泰晤士水务接管计划。",
+          "url": "https://flash.jin10.com/detail/20260825050349412800",
+          "heat": false
+        },
+        {
+          "title": "据韩国工会：现代汽车与韩国工会达成初步工资协议。",
+          "url": "https://flash.jin10.com/detail/20260825050157334800",
+          "heat": false
+        },
+        {
+          "title": "消息人士：乌克兰基辅拉响防空警报。",
+          "url": "https://flash.jin10.com/detail/20260825050103919800",
+          "heat": false
+        },
+        {
+          "title": "被Citadel折价接盘的AI基金遭SEC调查",
+          "url": "https://flash.jin10.com/detail/20260825050012840800",
+          "heat": false
+        },
+        {
+          "title": "韩国8月消费者信心指数 104.5，前值106.8。",
+          "url": "https://flash.jin10.com/detail/20260825050002152800",
+          "heat": false
+        },
+        {
+          "title": "美媒：美国正准备撤销多达20万个商务和旅游签证",
+          "url": "https://flash.jin10.com/detail/20260825044736170800",
+          "heat": false
+        },
+        {
+          "title": "据半岛电视台：巴基斯坦陆军参谋长穆尼尔已离开德黑兰。然而，他传递的信息可能已无法完全适应伊朗国内政治变化。这是因为伊朗最高国家安全委员会更换秘书长之后，谈判环境变得更加复杂。目前局势仍停留在原地。（此前伊朗总统府于8月9日宣布，伊朗革命卫队前总司令穆赫辛·雷扎伊被任命为伊朗最高国家安全委员会秘书，接替穆罕默德·巴格尔·佐尔加德。）",
+          "url": "https://flash.jin10.com/detail/20260825044553391800",
+          "heat": "✰"
+        },
+        {
+          "title": "美国最高法院推翻了此前在23个州和华盛顿特区阻止特朗普限制邮寄选票行政命令的司法裁决。",
+          "url": "https://flash.jin10.com/detail/20260825044253424800",
+          "heat": false
+        },
+        {
+          "title": "据美联社：美国正准备撤销多达20万个商务和旅游签证。",
+          "url": "https://flash.jin10.com/detail/20260825043911228800",
+          "heat": "✰"
+        },
+        {
+          "title": "以军称摧毁两处哈马斯武器库",
+          "url": "https://flash.jin10.com/detail/20260825043118653800",
+          "heat": false
+        },
+        {
+          "title": "模块化电力公司Aggreko递交IPO申请，寻求以“AGKO”为代码在纽约证券交易所上市。",
+          "url": "https://flash.jin10.com/detail/20260825042913378800",
+          "heat": false
+        },
+        {
+          "title": "伊朗最高领袖顾问：回应美方威胁将比以往更加坚决",
+          "url": "https://flash.jin10.com/detail/20260825042235889800",
+          "heat": false
+        },
+        {
+          "title": "伊朗总统：美国恃强凌弱无助于解决问题",
+          "url": "https://flash.jin10.com/detail/20260825041954467800",
+          "heat": false
+        },
+        {
+          "title": "美国软硬兼施督促加拿大重回谈判桌",
+          "url": "https://flash.jin10.com/detail/20260825041951867800",
+          "heat": false
+        },
+        {
+          "title": "消息人士：壳牌(SHEL.N)已搁置特立尼达和多巴哥海上天然气项目“Aphrodite”。",
+          "url": "https://flash.jin10.com/detail/20260825041745487800",
+          "heat": false
+        },
+        {
+          "title": "据纽约时报：美国证券交易委员会已向华尔街主要银行发出传票，要求提供有关人工智能对冲基金Situational Awareness交易的信息。",
+          "url": "https://flash.jin10.com/detail/20260825041631129800",
+          "heat": false
+        },
+        {
+          "title": "美民众对伊战争支持率仅31% 特朗普支持率仍处历史低位",
+          "url": "https://flash.jin10.com/detail/20260825041400861800",
+          "heat": false
+        },
+        {
+          "title": "据沙特阿拉比亚电视台：美国驻土耳其大使兼叙利亚问题特使巴拉克表示，美国取消叙利亚“支持恐怖主义国家”认定，是重建进程中的关键一步。",
+          "url": "https://flash.jin10.com/detail/20260825040910850800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月24日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260825040655666800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月24日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260825040555979800",
+          "heat": false
+        }
+      ]
     }
   ]
 }
