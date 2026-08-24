@@ -1,6 +1,6 @@
 {
-  "updated": "10:30:54",
-  "total": 242,
+  "updated": "10:35:30",
+  "total": 285,
   "platforms": [
     {
       "id": "zhihu",
@@ -583,8 +583,59 @@
     {
       "id": "wallstreetcn-hot",
       "name": "华尔街见闻",
-      "count": 0,
-      "items": []
+      "count": 10,
+      "items": [
+        {
+          "title": "华尔街见闻早餐FM-Radio | 2026年8月24日",
+          "url": "https://wallstreetcn.com/articles/3780045",
+          "heat": ""
+        },
+        {
+          "title": "“拯救美债”接力棒：贝森特上周搞砸了，本周看沃什了",
+          "url": "https://wallstreetcn.com/articles/3780106",
+          "heat": ""
+        },
+        {
+          "title": "本周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了",
+          "url": "https://wallstreetcn.com/articles/3779970",
+          "heat": ""
+        },
+        {
+          "title": "创业板跌超3%，煤炭逆势爆发，算力硬件下挫、“易中天”齐跌，恒科指跌逾3%，阿里大跌超9%",
+          "url": "https://wallstreetcn.com/articles/3780116",
+          "heat": ""
+        },
+        {
+          "title": "英伟达财报“万众瞩目”：Rubin周期、循环融资与远期市场份额",
+          "url": "https://wallstreetcn.com/articles/3780083",
+          "heat": ""
+        },
+        {
+          "title": "伊朗总统称“应以理性方式摆脱“既非战争、也非和平”状态”，军方称“若美打经济战，霍尔木兹海峡和波斯湾将再无石油出口”",
+          "url": "https://wallstreetcn.com/articles/3780102",
+          "heat": ""
+        },
+        {
+          "title": "周末集体跳水！伊朗最新警告！加密货币，17.92万人爆仓",
+          "url": "https://wallstreetcn.com/articles/3780093",
+          "heat": ""
+        },
+        {
+          "title": "9月将是科技重要的决胜窗口",
+          "url": "https://wallstreetcn.com/articles/3780091",
+          "heat": ""
+        },
+        {
+          "title": "美银Hartnett警告：贝森特若压不住长端利率，美元暴跌与资产抛售将接踵而至",
+          "url": "https://wallstreetcn.com/articles/3780113",
+          "heat": ""
+        },
+        {
+          "title": "人民日报钟才文：我国宏观政策工具箱充足，逆周期调节空间依然较大，有条件根据形势变化出台务实管用的增量政策",
+          "url": "https://wallstreetcn.com/articles/3780104",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "tieba",
@@ -903,14 +954,181 @@
     {
       "id": "cls-hot",
       "name": "财联社",
-      "count": 0,
-      "items": []
+      "count": 13,
+      "items": [
+        {
+          "title": "英伟达财报即将登场！高盛：若不释放这三大利好 股价恐仍将下行",
+          "url": "https://www.cls.cn/detail/2462162",
+          "heat": ""
+        },
+        {
+          "title": "宇树科技，较首日开盘蒸发2000亿市值",
+          "url": "https://www.cls.cn/detail/2462010",
+          "heat": ""
+        },
+        {
+          "title": "国务院国资委召开中央企业6G未来产业推进会",
+          "url": "https://www.cls.cn/detail/2462098",
+          "heat": ""
+        },
+        {
+          "title": "芯片杠杆ETF暴跌七成依旧吸金！华尔街感慨：这不是投资，是豪赌",
+          "url": "https://www.cls.cn/detail/2462042",
+          "heat": ""
+        },
+        {
+          "title": "网红分析师被造谣接“8亿罚单”，诽谤者判了",
+          "url": "https://www.cls.cn/detail/2462154",
+          "heat": ""
+        },
+        {
+          "title": "SK海力士公布最新HBM进展 称竞争焦点从内存性能转向封装技术",
+          "url": "https://www.cls.cn/detail/2462053",
+          "heat": ""
+        },
+        {
+          "title": "【每日收评】双创指数均跌超3%，算力硬件股全线调整，黄金、煤炭板块逆势走强",
+          "url": "https://www.cls.cn/detail/2462393",
+          "heat": ""
+        },
+        {
+          "title": "国管公积金新政 首套房最高可贷款340万元",
+          "url": "https://www.cls.cn/detail/2462450",
+          "heat": ""
+        },
+        {
+          "title": "【焦点复盘】科创50放量失守半年线，全市场近4000股飘绿，CPO、CRO概念双双大跌",
+          "url": "https://www.cls.cn/detail/2462460",
+          "heat": ""
+        },
+        {
+          "title": "“钼”成300层+NAND必选项 机构：沉积设备迎10亿美元增量市场",
+          "url": "https://www.cls.cn/detail/2462060",
+          "heat": ""
+        },
+        {
+          "title": "不认同阿里新股配售？美股“大空头”重大调仓：清仓阿里、押注京东！",
+          "url": "https://www.cls.cn/detail/2461979",
+          "heat": ""
+        },
+        {
+          "title": "银行股“新高秀”开启！又有两家股价刷新纪录，相关ETF份额分化，这些股市净率逼近1倍",
+          "url": "https://www.cls.cn/detail/2462482",
+          "heat": ""
+        },
+        {
+          "title": "【午报】创业板指半日跌超3%，算力硬件股领跌，煤炭、农业等防御性板块逆势走强",
+          "url": "https://www.cls.cn/detail/2462093",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "thepaper",
       "name": "澎湃新闻",
-      "count": 0,
-      "items": []
+      "count": 20,
+      "items": [
+        {
+          "title": "安徽省委常委覃卫国任合肥市委书记",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33836415",
+          "heat": ""
+        },
+        {
+          "title": "韩红基金会六千万元采购救护车引质疑，记者实探供应商办公地",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33836969",
+          "heat": ""
+        },
+        {
+          "title": "嫦娥七号任务不满足发射条件，不能在今年预定窗口实施",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33836910",
+          "heat": ""
+        },
+        {
+          "title": "韩红基金会救护车采购陷争议，市场监管部门：供应商已被立案调查",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33836367",
+          "heat": ""
+        },
+        {
+          "title": "国铁集团：旅客未检票乘车视为不行使席位使用权利，有特殊需求可购买多于实际乘车人数的车票乘车",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33836643",
+          "heat": ""
+        },
+        {
+          "title": "中农批宿迁市场：自河北康保运来大白菜检测结果合格，举报人未提出异议",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33837902",
+          "heat": ""
+        },
+        {
+          "title": "受贿数额特别巨大，新疆维吾尔自治区政协原副主席金之镇被提起公诉",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33838265",
+          "heat": ""
+        },
+        {
+          "title": "央媒调查云南腾冲面目全非的“别墅”小镇：私挖山体，住宅扩建成几千平米",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33837921",
+          "heat": ""
+        },
+        {
+          "title": "曾经顶流｜四十年前红遍两岸的刘墉，如今很多年轻人已不识",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33692599",
+          "heat": ""
+        },
+        {
+          "title": "四川省地震局：成都高新减灾研究所冒用“中国地震预警网”名义发布地震预警信息，此前已终止授权",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33838846",
+          "heat": ""
+        },
+        {
+          "title": "厦门一公司被曝用敌敌畏给多家餐厅消杀，湖里区最新通报",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33839322",
+          "heat": ""
+        },
+        {
+          "title": "马上评丨和稀泥式调解，快速灭火还是放大舆情？",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33839225",
+          "heat": ""
+        },
+        {
+          "title": "上海蔬菜集团：大白菜甲醛检测结果均为阴性，执行“每批必检、先检后售”",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33838703",
+          "heat": ""
+        },
+        {
+          "title": "泸州邮政再遭学生投诉：寄档案时被“捆绑”办联通卡，监管部门正核实\n",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33836865",
+          "heat": ""
+        },
+        {
+          "title": "媒体：醉酒乘客被丢在高速，平台判司机无责谁给的底气？",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33837793",
+          "heat": ""
+        },
+        {
+          "title": "江苏多地市场强化大白菜检测，部分已禁止康保县大白菜入场",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33839104",
+          "heat": ""
+        },
+        {
+          "title": "四川南充市民讲述收到“7.7级地震预警”：正要下楼时预警变为3.9级，鱼缸中的水轻微晃动 ",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33839701",
+          "heat": ""
+        },
+        {
+          "title": "《龙餐馆》中，马俊生为什么非死不可？",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33831286",
+          "heat": ""
+        },
+        {
+          "title": "男子称遭遇“套路贷”立案五年多无果，长沙警方：成立专案组全力侦办",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33838387",
+          "heat": ""
+        },
+        {
+          "title": "四川宜宾市长宁县发生4.7级地震网友收到7.7级预警信息？成都高新减灾研究所致歉",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33838653",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "ifeng",
