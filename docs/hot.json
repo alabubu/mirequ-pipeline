@@ -1,6 +1,6 @@
 {
-  "updated": "00:50:31",
-  "total": 285,
+  "updated": "00:55:26",
+  "total": 282,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,73 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 30,
+      "count": 27,
       "items": [
+        {
+          "title": "雷军在微博发文称，玄戒O100，基于玄戒创新的高带宽矩阵总线，实现远超传统旗舰SoC的端侧AI性能。未来将应用于手机、汽车、机器人等全生态品类。",
+          "url": "https://flash.jin10.com/detail/20260825085214282800",
+          "heat": false
+        },
+        {
+          "title": "两市融资余额减少41.86亿元",
+          "url": "https://flash.jin10.com/detail/20260825084659649800",
+          "heat": false
+        },
+        {
+          "title": "中信证券：银行板块半年报信号积极 全年绝对收益料将延续",
+          "url": "https://flash.jin10.com/detail/20260825084650724800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：每日期货市场要闻速递（2026-08-25）",
+          "url": "https://flash.jin10.com/detail/20260825084441443800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：隔日全球股市走势回顾（2026-08-25）",
+          "url": "https://flash.jin10.com/detail/20260825084200092800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月25日（周二）投机情绪指数",
+          "url": "https://flash.jin10.com/detail/20260825084144143800",
+          "heat": false
+        },
+        {
+          "title": "路透调查：35位经济学家中有18位预计韩国央行将在8月27日将基准利率上调至3.00%，其余经济学家则认为利率将维持在2.75%不变。",
+          "url": "https://flash.jin10.com/detail/20260825084016399800",
+          "heat": false
+        },
+        {
+          "title": "据韩联社：SK海力士工会否决了与管理层达成的初步薪资协议。据悉该初步协议在投票中以50.08%的反对票被否决。此前，工会领导层与管理层在将协议提交会员投票前已达成了该初步协议。",
+          "url": "https://flash.jin10.com/detail/20260825084006628800",
+          "heat": "✰"
+        },
+        {
+          "title": "纽约期金突破4750美元/盎司，日内涨0.85%。",
+          "url": "https://flash.jin10.com/detail/20260825083214089800",
+          "heat": false
+        },
+        {
+          "title": "加拿大财长：今天，我与各省和地区同僚以及加拿大主要金融机构的首席执行官举行了会晤。我们团结一致、决心坚定，并致力于实现一个首要目标：保护加拿大，保护我们的劳动者、各行业以及我们的主权。",
+          "url": "https://flash.jin10.com/detail/20260825083133294800",
+          "heat": false
+        },
+        {
+          "title": "巴内政部长：与伊朗总统的会晤“富有成效”",
+          "url": "https://flash.jin10.com/detail/20260825082737032800",
+          "heat": false
+        },
+        {
+          "title": "美债失控火烧欧洲，德国财长怒轰：全怪特朗普！",
+          "url": "https://flash.jin10.com/detail/20260825082645066800",
+          "heat": "✰"
+        },
+        {
+          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸： 今日有6000亿元1年期中期借贷便利（MLF）到期，澳洲联储将公布8月货币政策会议纪要。",
+          "url": "https://flash.jin10.com/detail/20260825082232562800",
+          "heat": false
+        },
         {
           "title": "期货盯盘神器专属文章",
           "url": "https://flash.jin10.com/detail/20260825081936015800",
@@ -1427,86 +1492,6 @@
         {
           "title": "韩国KOSPI指数回落至6500点下方，日内跌3.02%。",
           "url": "https://flash.jin10.com/detail/20260825080546147800",
-          "heat": false
-        },
-        {
-          "title": "日经225指数8月25日（周二）开盘下跌358.16点，跌幅0.55%，报65169.93点。",
-          "url": "https://flash.jin10.com/detail/20260825080120039800",
-          "heat": false
-        },
-        {
-          "title": "韩国KOSPI指数盘初跌2.40%，三星电子跌3%，SK海力士跌4%。",
-          "url": "https://flash.jin10.com/detail/20260825080114249800",
-          "heat": "✰"
-        },
-        {
-          "title": "贝森特喊话削减美国赤字，但共和党自己也承认：今年很难真正动刀",
-          "url": "https://flash.jin10.com/detail/20260825075335853800",
-          "heat": "✰"
-        },
-        {
-          "title": "多空情绪实时跟进",
-          "url": "https://flash.jin10.com/detail/20260825075156537800",
-          "heat": false
-        },
-        {
-          "title": "现货白银日内涨幅达1.00%，现报69.64美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260825075033361800",
-          "heat": false
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260825075001963800",
-          "heat": "✰"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加103.99吨，当前持仓量为15399.26吨。欢迎点击查看数据中心...",
-          "url": "https://flash.jin10.com/detail/20260825074900881800",
-          "heat": "✰"
-        },
-        {
-          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（8月25日）",
-          "url": "https://flash.jin10.com/detail/20260825073841100800",
-          "heat": false
-        },
-        {
-          "title": "现货价格",
-          "url": "https://flash.jin10.com/detail/20260825073746168800",
-          "heat": false
-        },
-        {
-          "title": "现货价格",
-          "url": "https://flash.jin10.com/detail/20260825073725302800",
-          "heat": false
-        },
-        {
-          "title": "知情人士：卢特尼克在关键时刻的施压令美加贸易谈判破裂",
-          "url": "https://flash.jin10.com/detail/20260825073306241800",
-          "heat": false
-        },
-        {
-          "title": "金十数据整理：每日科技要闻速递（8月25日）",
-          "url": "https://flash.jin10.com/detail/20260825072614521800",
-          "heat": false
-        },
-        {
-          "title": "英国首相计划下月访美 以游说特朗普援乌",
-          "url": "https://flash.jin10.com/detail/20260825072453354800",
-          "heat": false
-        },
-        {
-          "title": "美最高法院为特朗普邮寄选票限制令开绿灯，但中期选举前的法律战仍未结束",
-          "url": "https://flash.jin10.com/detail/20260825072132762800",
-          "heat": "✰"
-        },
-        {
-          "title": "人民日报钟才文：推动高质量发展行稳致远",
-          "url": "https://flash.jin10.com/detail/20260825072047166800",
-          "heat": false
-        },
-        {
-          "title": "市场消息：英国首相伯纳姆计划下月访美，以游说特朗普支持乌克兰的需求。",
-          "url": "https://flash.jin10.com/detail/20260825071831299800",
           "heat": false
         }
       ]
