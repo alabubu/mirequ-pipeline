@@ -1,6 +1,6 @@
 {
-  "updated": "22:30:43",
-  "total": 250,
+  "updated": "22:35:26",
+  "total": 284,
   "platforms": [
     {
       "id": "zhihu",
@@ -583,8 +583,59 @@
     {
       "id": "wallstreetcn-hot",
       "name": "华尔街见闻",
-      "count": 0,
-      "items": []
+      "count": 10,
+      "items": [
+        {
+          "title": "华尔街见闻早餐FM-Radio | 2026年8月25日",
+          "url": "https://wallstreetcn.com/articles/3780189",
+          "heat": ""
+        },
+        {
+          "title": "杰克逊霍尔成美债关键一战，美银警告：沃什若不释放加息信号，30年期收益率或冲上5.5%",
+          "url": "https://wallstreetcn.com/articles/3780233",
+          "heat": ""
+        },
+        {
+          "title": "“贝森特的老师”强烈反对贝森特：回购美债是消耗“用两个世纪积累的资产”--美债公信力",
+          "url": "https://wallstreetcn.com/articles/3780224",
+          "heat": ""
+        },
+        {
+          "title": "过去三周，投资机构买入黄金期货规模创纪录！",
+          "url": "https://wallstreetcn.com/articles/3780196",
+          "heat": ""
+        },
+        {
+          "title": "美伊外交缓和油价重挫，美股三大指数齐涨，英伟达终结七连跌涨超2%",
+          "url": "https://wallstreetcn.com/articles/3780215",
+          "heat": ""
+        },
+        {
+          "title": "英伟达震撼首测Vera Rubin，DeepSeek吞吐暴涨30倍！",
+          "url": "https://wallstreetcn.com/articles/3780194",
+          "heat": ""
+        },
+        {
+          "title": "“钟才文”连发四文，释放新信号",
+          "url": "https://wallstreetcn.com/articles/3780214",
+          "heat": ""
+        },
+        {
+          "title": "贝森特的真正算盘：逼空美债CTA，将10年期收益率打到4.3%？",
+          "url": "https://wallstreetcn.com/articles/3780229",
+          "heat": ""
+        },
+        {
+          "title": "救美债！除了回购，贝森特还有一个大招：美元稳定币",
+          "url": "https://wallstreetcn.com/articles/3780192",
+          "heat": ""
+        },
+        {
+          "title": "OpenAI高管预判：Codex与ChatGPT终将“消失”，未来将只留一个“个人AGI”",
+          "url": "https://wallstreetcn.com/articles/3780238",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "tieba",
@@ -975,8 +1026,109 @@
     {
       "id": "thepaper",
       "name": "澎湃新闻",
-      "count": 0,
-      "items": []
+      "count": 20,
+      "items": [
+        {
+          "title": "曾经顶流｜“广东雨神”卢大雨讲述这十年：我可能仍在梦里",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33749775",
+          "heat": ""
+        },
+        {
+          "title": "江苏常州通报“星宇股份被曝批量劝退应届生”：企业人力资源总监被停职",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33847318",
+          "heat": ""
+        },
+        {
+          "title": "“甲醛白菜”背后：利润驱动与监管困局",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33841778",
+          "heat": ""
+        },
+        {
+          "title": "马上评｜电动自行车限速上调，法律与国标能否统一？",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33845418",
+          "heat": ""
+        },
+        {
+          "title": "追问“甲醛白菜”：将甲醛纳入检测有无必要？在哪个环节发力更有效率？",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33839813",
+          "heat": ""
+        },
+        {
+          "title": "网售新型避责术曝光：“100%蚕丝衫”无蚕丝，售假者玩“店铺矩阵”规避监管",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33840657",
+          "heat": ""
+        },
+        {
+          "title": "实地调查“甲醛白菜”背后生意经：收购商用甲醛省下打冷费，一车能省2万元",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33847324",
+          "heat": ""
+        },
+        {
+          "title": "释疑｜加拿大对等反制美国，两国关税战打得有多凶？",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33841997",
+          "heat": ""
+        },
+        {
+          "title": "条漫｜“甲醛白菜”背后：一颗白菜的“保鲜”账",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33806203",
+          "heat": ""
+        },
+        {
+          "title": "2026鲁迅文学周丨2005年后出生的人如何理解鲁迅？",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33840474",
+          "heat": ""
+        },
+        {
+          "title": "我驻泰使馆确认一中国公民在泰遭绑架，目前已得到妥善安置",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33844705",
+          "heat": ""
+        },
+        {
+          "title": "上海首推鲁迅文学周！沿着虹口“文学光路”遇见大先生",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33845494",
+          "heat": ""
+        },
+        {
+          "title": "机器人运动会2.0，赛出了哪些新亮点？",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33841913",
+          "heat": ""
+        },
+        {
+          "title": "马上评｜劝退应届生“打螺丝”？套路招聘该付出代价",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33846408",
+          "heat": ""
+        },
+        {
+          "title": "央媒五问“湖南店主帮扶老人遭索赔”事件：无责店主为何产生赔付？",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33847168",
+          "heat": ""
+        },
+        {
+          "title": "“甲醛白菜”背后②｜从业者谈冷链成本：比常温货车费用高20%—30%，一些商贩不愿把白菜放冷库",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33845493",
+          "heat": ""
+        },
+        {
+          "title": "“甲醛白菜”背后③｜从业者谈远距离运输普通低价白菜现状：正常情况均为就近销售，但有的高温地区种不出来",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33846064",
+          "heat": ""
+        },
+        {
+          "title": "专访｜迈赫兰·古尔：中美苦思的创新问题，其他国家早就给出了答案",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33838368",
+          "heat": ""
+        },
+        {
+          "title": "何小鹏：人形机器人单台毛利或远超汽车，四季度汽车业务目标月销6万台",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33844466",
+          "heat": ""
+        },
+        {
+          "title": "“甲醛白菜”背后①｜多位农产品从业者自称违规系个别现象，有人铤而走险“说白了还是成本问题”",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33844795",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "ifeng",
@@ -1205,8 +1357,48 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 25,
+      "count": 29,
       "items": [
+        {
+          "title": "金十数据整理：昨日今晨重要新闻汇总（2026-08-26）",
+          "url": "https://flash.jin10.com/detail/20260826063247391800",
+          "heat": "✰"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司（CBS）：当地时间周二，一架美国陆军“黑鹰”直升机在丹佛以西进行例行训练时发生了一起“航空事故”。据悉机上共有四人，未报告有人员受伤。",
+          "url": "https://flash.jin10.com/detail/20260826063241906800",
+          "heat": false
+        },
+        {
+          "title": "特朗普已向国会提交沙特核协议 仍坚持沙特须与以色列关系正常化",
+          "url": "https://flash.jin10.com/detail/20260826062820360800",
+          "heat": false
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少36.53吨，当前持仓量为15362.73吨。欢迎点击查看数据中心...",
+          "url": "https://flash.jin10.com/detail/20260826062107430800",
+          "heat": "✰"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少1.141吨，当前持仓量为1048.348吨。",
+          "url": "https://flash.jin10.com/detail/20260826061922890800",
+          "heat": "✰"
+        },
+        {
+          "title": "机构：日本央行料加快紧缩步伐 近期联合干预效果有限",
+          "url": "https://flash.jin10.com/detail/20260826061448732800",
+          "heat": false
+        },
+        {
+          "title": "美国官员：美国总统特朗普仍认为，只有沙特阿拉伯加入《亚伯拉罕协议》并承认以色列，与沙特的核协议才能推进。",
+          "url": "https://flash.jin10.com/detail/20260826061416137800",
+          "heat": false
+        },
+        {
+          "title": "美联储贴现利率会议纪要：4家地区联储支持加息",
+          "url": "https://flash.jin10.com/detail/20260826060938373800",
+          "heat": false
+        },
         {
           "title": "路透调查：89%的经济学家认为，日本首相高市早苗的财政政策对日元施加了下行压力。",
           "url": "https://flash.jin10.com/detail/20260826060406741800",
@@ -1311,26 +1503,6 @@
           "title": "美联储巴尔金：如果债务继续增加，投资者迟早会在某个时点停止购买（美债）。",
           "url": "https://flash.jin10.com/detail/20260826050047659800",
           "heat": "✰"
-        },
-        {
-          "title": "美联储巴尔金：美国的债务问题最终会面临清算。",
-          "url": "https://flash.jin10.com/detail/20260826050031616800",
-          "heat": false
-        },
-        {
-          "title": "消息人士：乌克兰基辅拉起防空警报。",
-          "url": "https://flash.jin10.com/detail/20260826045844027800",
-          "heat": false
-        },
-        {
-          "title": "美国至8月21日当周API精炼油库存 -50万桶，预期-167.4万桶，前值-279.7万桶。",
-          "url": "https://flash.jin10.com/detail/20260826045710577800",
-          "heat": false
-        },
-        {
-          "title": "美国至8月21日当周API汽油库存 -320万桶，预期-100万桶，前值107.6万桶。",
-          "url": "https://flash.jin10.com/detail/20260826045655318800",
-          "heat": false
         }
       ]
     }
