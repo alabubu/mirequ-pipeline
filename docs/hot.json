@@ -1,6 +1,6 @@
 {
-  "updated": "12:02:08",
-  "total": 283,
+  "updated": "12:05:29",
+  "total": 284,
   "platforms": [
     {
       "id": "zhihu",
@@ -611,13 +611,13 @@
           "heat": ""
         },
         {
-          "title": "美财长公布多项针对伊朗的经济制裁措施，伊称其贸易伙伴“不会认真对待”美方制裁言论",
-          "url": "https://wallstreetcn.com/articles/3780180",
+          "title": "英伟达震撼首测Vera Rubin，DeepSeek吞吐暴涨30倍！",
+          "url": "https://wallstreetcn.com/articles/3780194",
           "heat": ""
         },
         {
-          "title": "英伟达震撼首测Vera Rubin，DeepSeek吞吐暴涨30倍！",
-          "url": "https://wallstreetcn.com/articles/3780194",
+          "title": "美财长公布多项针对伊朗的经济制裁措施，伊称其贸易伙伴“不会认真对待”美方制裁言论",
+          "url": "https://wallstreetcn.com/articles/3780180",
           "heat": ""
         },
         {
@@ -987,6 +987,11 @@
           "heat": ""
         },
         {
+          "title": "【焦点复盘】大消费、创新药板块联袂做多，沪指缩量反弹收复30日均线，两市成交额再创4个月地量",
+          "url": "https://www.cls.cn/detail/2463671",
+          "heat": ""
+        },
+        {
           "title": "股价直逼500元！“北证一哥”剑指历史新高，北交所百元股扩容，这些个股交投活跃",
           "url": "https://www.cls.cn/detail/2463696",
           "heat": ""
@@ -997,8 +1002,8 @@
           "heat": ""
         },
         {
-          "title": "【焦点复盘】大消费、创新药板块联袂做多，沪指缩量反弹收复30日均线，两市成交额再创4个月地量",
-          "url": "https://www.cls.cn/detail/2463671",
+          "title": "马云出手增持阿里 与管理层合计买入阿里巴巴超8亿港元",
+          "url": "https://www.cls.cn/detail/2463817",
           "heat": ""
         },
         {
@@ -1014,11 +1019,6 @@
         {
           "title": "高盛上调预测：2030年中国芯片业资本开支将达820亿美元",
           "url": "https://www.cls.cn/detail/2463334",
-          "heat": ""
-        },
-        {
-          "title": "金融危机“吹哨人”预警：AI泡沫还有不到一年就会破裂！",
-          "url": "https://www.cls.cn/detail/2463488",
           "heat": ""
         }
       ]
@@ -1357,146 +1357,151 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 28,
+      "count": 29,
       "items": [
         {
-          "title": "市场消息：伊朗外长会见阿曼外长。",
-          "url": "https://flash.jin10.com/detail/20260825193340919800",
+          "title": "SuperX AI Technology：截至2026年8月20日，已收到约20%的订单预付款。",
+          "url": "https://flash.jin10.com/detail/20260825200323499800",
+          "heat": false
+        },
+        {
+          "title": "SuperX AI Technology：项目预计于2026年11月中旬交付。",
+          "url": "https://flash.jin10.com/detail/20260825200306885800",
+          "heat": false
+        },
+        {
+          "title": "SuperX 获得了3880万美元的英伟达B300服务器订单，进一步加快了其在日本人工智能基础设施市场的扩展。",
+          "url": "https://flash.jin10.com/detail/20260825200225746800",
+          "heat": false
+        },
+        {
+          "title": "谷歌云推出Gemini企业版法律服务。",
+          "url": "https://flash.jin10.com/detail/20260825200154964800",
+          "heat": false
+        },
+        {
+          "title": "思科(CSCO.O)：将在10月与英伟达合作提供超微计算解决方案。",
+          "url": "https://flash.jin10.com/detail/20260825200134840800",
+          "heat": false
+        },
+        {
+          "title": "思科与英伟达合作扩展安全人工智能工厂，以迎接机架规模时代。",
+          "url": "https://flash.jin10.com/detail/20260825200056924800",
+          "heat": "✰"
+        },
+        {
+          "title": "波罗的海干散货运价指数涨1.53%，至2926点。",
+          "url": "https://flash.jin10.com/detail/20260825200056703800",
+          "heat": false
+        },
+        {
+          "title": "匈牙利将基准利率下调25个基点至5.50%，符合市场预期。",
+          "url": "https://flash.jin10.com/detail/20260825200034720800",
+          "heat": false
+        },
+        {
+          "title": "交易学院正在直播中",
+          "url": "https://flash.jin10.com/detail/20260825200033340800",
+          "heat": false
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 8月25日（周二）晚盘盘初上涨0.13%报1001.14元/克；<br/>上海黄金交易所白银T+D 8月25日（周二）晚盘盘初下跌0.66%报16521.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260825200028546800",
+          "heat": false
+        },
+        {
+          "title": "温氏股份：上半年净利润亏损43.66亿元，同比由盈转亏",
+          "url": "https://flash.jin10.com/detail/20260825200003884800",
+          "heat": false
+        },
+        {
+          "title": "瑞银：市场脆弱性指标触顶，美联储议息与中期选举或引发巨震！",
+          "url": "https://flash.jin10.com/detail/20260825195820008800",
+          "heat": "✰"
+        },
+        {
+          "title": "重组AI游戏部门？腾讯相关人士回应",
+          "url": "https://flash.jin10.com/detail/20260825195804897800",
           "heat": false
         },
         {
           "title": "正在直播中",
-          "url": "https://flash.jin10.com/detail/20260825193212818800",
+          "url": "https://flash.jin10.com/detail/20260825195020919800",
           "heat": false
         },
         {
-          "title": "德国汽车工业协会VDA：汽车行业依赖于正常且可靠的贸易关系。",
-          "url": "https://flash.jin10.com/detail/20260825193208275800",
+          "title": "集邦咨询：存储器合约价持续飙升，预估2027年占主要CSP资本支出比重将达68%",
+          "url": "https://flash.jin10.com/detail/20260825195017516800",
           "heat": false
         },
         {
-          "title": "中核科技：上半年净利润6230.42万元，同比下降18.90%",
-          "url": "https://flash.jin10.com/detail/20260825193139692800",
-          "heat": false
-        },
-        {
-          "title": "德国汽车工业协会VDA：美国对加拿大的关税令德国汽车产业感到担忧。",
-          "url": "https://flash.jin10.com/detail/20260825193132711800",
-          "heat": false
-        },
-        {
-          "title": "外资机构席位·期货品种持仓一览（8月25日）",
-          "url": "https://flash.jin10.com/detail/20260825193123613800",
+          "title": "2027年FOMC票委、里奇蒙联储主席巴尔金将于十分钟后就《神秘的美国经济》发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260825195000000800",
           "heat": "✰"
         },
         {
-          "title": "欧菲光：上半年净亏损4.44亿元，同比下降307.36%",
-          "url": "https://flash.jin10.com/detail/20260825193011576800",
+          "title": "卓胜微：2026年上半年净利润亏损3.71亿元，上年同期亏损1.47亿元",
+          "url": "https://flash.jin10.com/detail/20260825194952668800",
           "heat": false
         },
         {
-          "title": "蒙特利尔银行CEO：加拿大提供了丰富的资源、广泛的贸易协议和稳定的环境。",
-          "url": "https://flash.jin10.com/detail/20260825192851825800",
+          "title": "特朗普：我爱法裔加拿大人，绝不会干涉他们说法语",
+          "url": "https://flash.jin10.com/detail/20260825194901123800",
           "heat": false
         },
         {
-          "title": "中东局势恶化推高航运成本，波斯湾和红海保险费率齐涨",
-          "url": "https://flash.jin10.com/detail/20260825192840067800",
+          "title": "蒙特利尔银行CFO：政府支持可能有助于减轻关税影响。",
+          "url": "https://flash.jin10.com/detail/20260825194856398800",
           "heat": false
         },
         {
-          "title": "蒙特利尔银行CEO：客户对美国贸易政策和关税的变化适应良好。北美仍然是最具吸引力的投资目的地之一。",
-          "url": "https://flash.jin10.com/detail/20260825192834279800",
+          "title": "市场消息：法国巴黎银行获得沙特地区总部投资许可证。",
+          "url": "https://flash.jin10.com/detail/20260825194744656800",
           "heat": false
         },
         {
-          "title": "厦门港务：上半年净利润3.48亿元，同比下降5.96%",
-          "url": "https://flash.jin10.com/detail/20260825192830796800",
+          "title": "黄金涨得越狠，为何水贝商家越冷静？",
+          "url": "https://flash.jin10.com/detail/20260825194657330800",
           "heat": false
         },
         {
-          "title": "AMD(AMD.O)盘前涨2.4%；瑞杰金融将该公司评级从跑赢大市上调至强烈买入。",
-          "url": "https://flash.jin10.com/detail/20260825192709797800",
+          "title": "受整体债市上涨影响，英国两年期国债收益率下跌5个基点至4.33%。",
+          "url": "https://flash.jin10.com/detail/20260825194452855800",
           "heat": false
         },
         {
-          "title": "央行成黄金多头坚实后盾！美元真正反弹还需要满足两个条件 | Live分析更新中",
-          "url": "https://flash.jin10.com/detail/20260825192432190800",
+          "title": "蒙特利尔银行首席风险官：不认为近期的关税公告会引发广泛的信用事件。",
+          "url": "https://flash.jin10.com/detail/20260825194428804800",
+          "heat": false
+        },
+        {
+          "title": "阿曼外长与伊朗外长会面",
+          "url": "https://flash.jin10.com/detail/20260825194325662800",
+          "heat": false
+        },
+        {
+          "title": "蒙特利尔银行高管：得益于人工智能驱动的扩张，加拿大经济增长已恢复，美国经济增长依然稳健。",
+          "url": "https://flash.jin10.com/detail/20260825194155967800",
+          "heat": false
+        },
+        {
+          "title": "蒙特利尔银行高管：北美经济在地缘政治风险加剧和贸易环境变化的背景下，依然展现出韧性。",
+          "url": "https://flash.jin10.com/detail/20260825194140775800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：巴基斯坦内政部长在从伊朗返回数小时后，与美国驻巴基斯坦临时代办进行了会面。",
+          "url": "https://flash.jin10.com/detail/20260825194123494800",
+          "heat": false
+        },
+        {
+          "title": "招商证券：2026年上半年净利润106.24亿元 同比增长104.87%",
+          "url": "https://flash.jin10.com/detail/20260825194013047800",
           "heat": "✰"
         },
         {
-          "title": "农夫山泉：上半年净利润88.9亿元 同比增长16.6%",
-          "url": "https://flash.jin10.com/detail/20260825192347607800",
-          "heat": false
-        },
-        {
-          "title": "农夫山泉(09633.HK)：上半年总收益同比增16%；上半年拥有人应占溢利同比增16.6%。",
-          "url": "https://flash.jin10.com/detail/20260825192139134800",
-          "heat": false
-        },
-        {
-          "title": " 登海种业：当前玉米种业市场整体呈现供大于求局面，行业供需矛盾依然突出",
-          "url": "https://flash.jin10.com/detail/20260825191719127800",
-          "heat": false
-        },
-        {
-          "title": "四川长虹：上半年净利润16.46亿元，同比增长228.62%",
-          "url": "https://flash.jin10.com/detail/20260825191546459800",
-          "heat": false
-        },
-        {
-          "title": "伊朗最高国家安全委员会秘书雷扎伊：美国在西亚的未来将没有立足之地。",
-          "url": "https://flash.jin10.com/detail/20260825191320592800",
-          "heat": false
-        },
-        {
-          "title": "美国总统特朗普：伊朗没有向大批军方人员支付薪资。",
-          "url": "https://flash.jin10.com/detail/20260825191246527800",
-          "heat": false
-        },
-        {
-          "title": "中金公司：获批发行不超过800亿元公司债",
-          "url": "https://flash.jin10.com/detail/20260825191238672800",
-          "heat": false
-        },
-        {
-          "title": "美国总统特朗普：伊朗人道主义危机必须立即停止。",
-          "url": "https://flash.jin10.com/detail/20260825191221962800",
-          "heat": false
-        },
-        {
-          "title": "BOSS直聘：2026年第二季度营收23.99亿元，同比增长14.1%",
-          "url": "https://flash.jin10.com/detail/20260825191212878800",
-          "heat": false
-        },
-        {
-          "title": "阿联酋总统顾问：伊朗对海湾国家的袭击是“严重误判”",
-          "url": "https://flash.jin10.com/detail/20260825190831514800",
-          "heat": false
-        },
-        {
-          "title": "全志科技：上半年净利润4.9亿元，同比增长204.17%",
-          "url": "https://flash.jin10.com/detail/20260825190828719800",
-          "heat": false
-        },
-        {
-          "title": "中韩半导体ETF华泰柏瑞8月26日开盘起至当日10:30停牌",
-          "url": "https://flash.jin10.com/detail/20260825190807040800",
-          "heat": false
-        },
-        {
-          "title": "卡塔尔反对伊朗企图将地区国家拖入战争",
-          "url": "https://flash.jin10.com/detail/20260825190643122800",
-          "heat": false
-        },
-        {
-          "title": "金风科技：上半年净利润18.55亿元，同比增长24.67%",
-          "url": "https://flash.jin10.com/detail/20260825190607405800",
-          "heat": false
-        },
-        {
-          "title": "纳指ETF国泰8月26日开盘起至当日10:30停牌",
-          "url": "https://flash.jin10.com/detail/20260825190529691800",
+          "title": "据沙特媒体哈达斯（Alhadath）：当地政府军与胡塞武装在塔伊兹东北部卡拉巴战线爆发激烈交火。",
+          "url": "https://flash.jin10.com/detail/20260825194002279800",
           "heat": false
         }
       ]
