@@ -1,6 +1,6 @@
 {
-  "updated": "19:30:47",
-  "total": 279,
+  "updated": "19:35:29",
+  "total": 280,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,73 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 24,
+      "count": 25,
       "items": [
+        {
+          "title": "据俄新社：伊朗和巴基斯坦消息人士表示，德黑兰与华盛顿已就停火达成一致，其中包括霍尔木兹海峡的航行自由。",
+          "url": "https://flash.jin10.com/detail/20260826033239322800",
+          "heat": "✰"
+        },
+        {
+          "title": "国际油价25日显著下跌",
+          "url": "https://flash.jin10.com/detail/20260826032901004800",
+          "heat": false
+        },
+        {
+          "title": "OpenAI高层持续变动 数据中心负责人离开公司",
+          "url": "https://flash.jin10.com/detail/20260826032846220800",
+          "heat": false
+        },
+        {
+          "title": "消息人士：欧洲央行拟9月加息，但无意释放持续加息信号",
+          "url": "https://flash.jin10.com/detail/20260826032444422800",
+          "heat": false
+        },
+        {
+          "title": "美国法官称邮政局发布限制邮寄投票的最终规定违反法院命令，但不会采取行动予以阻止。",
+          "url": "https://flash.jin10.com/detail/20260826032233990800",
+          "heat": false
+        },
+        {
+          "title": "消息人士：欧洲央行决策者准备在九月加息，以遏制伊朗战争的副作用，但欧洲央行决策者似乎不太愿意释放进一步收紧货币政策的信号。",
+          "url": "https://flash.jin10.com/detail/20260826032034907800",
+          "heat": false
+        },
+        {
+          "title": "美元指数25日下跌",
+          "url": "https://flash.jin10.com/detail/20260826031954056800",
+          "heat": false
+        },
+        {
+          "title": "据华尔街日报：OpenAI数据中心负责人已离职。",
+          "url": "https://flash.jin10.com/detail/20260826031849050800",
+          "heat": false
+        },
+        {
+          "title": "消息人士：贡沃（Gunvor）正在洽谈以12亿至15亿美元收购Silver Hill旗下Haynesville页岩气资产。若交易成功，获贡沃支持的Western Natural将运营Silver Hill在Haynesville页岩气区的资产。",
+          "url": "https://flash.jin10.com/detail/20260826031349524800",
+          "heat": false
+        },
+        {
+          "title": "伊朗外长阿拉格齐：拟议中的霍尔木兹海峡新通道、水雷联合清除以及未来管理框架，正是一个典型案例。",
+          "url": "https://flash.jin10.com/detail/20260826031107635800",
+          "heat": false
+        },
+        {
+          "title": "伊朗外长阿拉格奇：与巴基斯坦和阿曼会谈中，强调了区域解决方案。",
+          "url": "https://flash.jin10.com/detail/20260826031011671800",
+          "heat": false
+        },
+        {
+          "title": "伊朗外长阿拉格奇：伊朗致力于维护和平与稳定，这与其对邻国的坚定外交政策相符。",
+          "url": "https://flash.jin10.com/detail/20260826030942441800",
+          "heat": false
+        },
+        {
+          "title": "据伊通社（IRNA）：伊朗能源部长表示，伊朗目前拥有超过1000个发电机组，装机容量已从过去约7万兆瓦提升至超过10.3万兆瓦，并将在不久后达到13万兆瓦。",
+          "url": "https://flash.jin10.com/detail/20260826030623811800",
+          "heat": false
+        },
         {
           "title": "恒指期货夜盘收涨0.38%，报25648点，高水137点。",
           "url": "https://flash.jin10.com/detail/20260826030256246800",
@@ -1417,66 +1482,6 @@
         {
           "title": "IMF总裁警告财政风险上升 呼吁各国控制债务赤字",
           "url": "https://flash.jin10.com/detail/20260826024412572800",
-          "heat": false
-        },
-        {
-          "title": "美国军工企业Northrop Grumman：美国金穹导弹防御项目正在加速落地，预计公司将在该项目中获得相当大的份额。",
-          "url": "https://flash.jin10.com/detail/20260826024042336800",
-          "heat": false
-        },
-        {
-          "title": "英国财政大臣：支持美国推动外交解决方案的努力，欢迎通过“经济孤立”等方式对伊朗加大施压。",
-          "url": "https://flash.jin10.com/detail/20260826023820823800",
-          "heat": false
-        },
-        {
-          "title": "英国财政大臣：（关于伊朗制裁）呼吁伊朗停止在包括霍尔木兹海峡在内的地区进行破坏性活动。",
-          "url": "https://flash.jin10.com/detail/20260826023616077800",
-          "heat": false
-        },
-        {
-          "title": "古巴谴责美国延长对古实施经济封锁",
-          "url": "https://flash.jin10.com/detail/20260826023452349800",
-          "heat": false
-        },
-        {
-          "title": "阿曼外交大臣称有望很快宣布霍尔木兹海峡临时航道安排",
-          "url": "https://flash.jin10.com/detail/20260826023309314800",
-          "heat": false
-        },
-        {
-          "title": "美国原油期货结算价为每桶82.36美元，下跌2.65美元，跌幅3.12%。",
-          "url": "https://flash.jin10.com/detail/20260826023124383800",
-          "heat": false
-        },
-        {
-          "title": "夜盘主力合约收盘",
-          "url": "https://flash.jin10.com/detail/20260826023111607800",
-          "heat": false
-        },
-        {
-          "title": "英伟达财报前瞻：市场期待的不只是“超预期”还有增长路径",
-          "url": "https://flash.jin10.com/detail/20260826023111541800",
-          "heat": false
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 8月25日（周二）晚盘收盘下跌0.11%报1003.39元/克；<br/>上海黄金交易所白银T+D 8月25日（周二）晚盘收盘上涨0.72%报16749.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260826023047263800",
-          "heat": false
-        },
-        {
-          "title": "市场消息：美国民主党敦促美联储主席沃什维持美国联邦公开市场委员会（FOMC）每年举行8次会议的安排。",
-          "url": "https://flash.jin10.com/detail/20260826022806857800",
-          "heat": false
-        },
-        {
-          "title": "据日经新闻：日本寻求在长期技术支持下资助稀土矿业。",
-          "url": "https://flash.jin10.com/detail/20260826021048169800",
-          "heat": false
-        },
-        {
-          "title": "美联储贴现利率会议纪要显示，12家地方联储中有4家在7月投票支持提高贴现利率。",
-          "url": "https://flash.jin10.com/detail/20260826020807238800",
           "heat": false
         }
       ]
