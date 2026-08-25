@@ -1,6 +1,6 @@
 {
-  "updated": "04:05:37",
-  "total": 283,
+  "updated": "04:10:31",
+  "total": 284,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,138 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 28,
+      "count": 29,
       "items": [
+        {
+          "title": "港股午评：恒生指数跌0.25% 生物技术板块走强",
+          "url": "https://flash.jin10.com/detail/20260825120830605800",
+          "heat": false
+        },
+        {
+          "title": "墨西哥捡漏机会来了！特朗普跟加拿大撕破脸，给了它新的筹码",
+          "url": "https://flash.jin10.com/detail/20260825120653400800",
+          "heat": "✰"
+        },
+        {
+          "title": "澳元接近11周高位 澳洲联储会议纪要强化加息预期",
+          "url": "https://flash.jin10.com/detail/20260825120645808800",
+          "heat": false
+        },
+        {
+          "title": "澳洲联储市场部负责人雅各布斯：走向充裕准备金之路，是从央行决定准备金数量的体系，过渡到由银行系统决定准备金数量的体系。",
+          "url": "https://flash.jin10.com/detail/20260825120510652800",
+          "heat": false
+        },
+        {
+          "title": "澳洲联储市场部负责人雅各布斯：随着储备变得更加依赖需求，积极的流动性管理对金融机构将变得更加重要。",
+          "url": "https://flash.jin10.com/detail/20260825120422418800",
+          "heat": false
+        },
+        {
+          "title": "报道称，印度央行正在抛售美元以支撑印度卢比。",
+          "url": "https://flash.jin10.com/detail/20260825120347875800",
+          "heat": false
+        },
+        {
+          "title": "韩国计划在9月缩减政府债券发行规模",
+          "url": "https://flash.jin10.com/detail/20260825120309023800",
+          "heat": false
+        },
+        {
+          "title": "据媒体报道，韩国下月将减少政府债券发行量。",
+          "url": "https://flash.jin10.com/detail/20260825120247980800",
+          "heat": false
+        },
+        {
+          "title": "澳洲联储市场部负责人雅各布斯：目标是建立一个能够灵活提供银行系统所需任何数量的系统，同时使现金利率保持在委员会目标附近。",
+          "url": "https://flash.jin10.com/detail/20260825120219426800",
+          "heat": false
+        },
+        {
+          "title": "期货盯盘神器专属文章",
+          "url": "https://flash.jin10.com/detail/20260825120105821800",
+          "heat": "✰"
+        },
+        {
+          "title": "韩国央行：二季度家庭贷款人均新增贷款金额为3414万韩元，较上一季度减少128万韩元；人均住房抵押贷款为2亿829万韩元，较上一季度减少2110万韩元。",
+          "url": "https://flash.jin10.com/detail/20260825120042077800",
+          "heat": false
+        },
+        {
+          "title": "金价从三个月高位回落 分析师称短期内仍有良好支撑",
+          "url": "https://flash.jin10.com/detail/20260825120027727800",
+          "heat": false
+        },
+        {
+          "title": "IDC：预计2026年中国人工智能基础数据服务市场规模78.34亿元",
+          "url": "https://flash.jin10.com/detail/20260825120025563800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-08-25）",
+          "url": "https://flash.jin10.com/detail/20260825115643495800",
+          "heat": "✰"
+        },
+        {
+          "title": "日本9月和10月不再额外释放国家石油储备",
+          "url": "https://flash.jin10.com/detail/20260825115457470800",
+          "heat": false
+        },
+        {
+          "title": "蓝思科技：运动相机组装业务两个项目已进入量产爬坡阶段",
+          "url": "https://flash.jin10.com/detail/20260825115319098800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月25日（周二）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260825115116197800",
+          "heat": false
+        },
+        {
+          "title": "金十图示：2026年08月25日（周二）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260825115111776800",
+          "heat": false
+        },
+        {
+          "title": "金价被推向新验证点，但短线涨幅可能过大？",
+          "url": "https://flash.jin10.com/detail/20260825114632555800",
+          "heat": "✰"
+        },
+        {
+          "title": "长征六号丙遥一运载火箭发射成功",
+          "url": "https://flash.jin10.com/detail/20260825114610029800",
+          "heat": "✰"
+        },
+        {
+          "title": "中国芯片已满足本土70%需求，投资大增高盛大幅上调半导体设备需求",
+          "url": "https://flash.jin10.com/detail/20260825114544759800",
+          "heat": false
+        },
+        {
+          "title": "泰国工业联合会：泰国7月国内汽车销量同比增长20.07%。（6月同比增长17.26%）",
+          "url": "https://flash.jin10.com/detail/20260825114448172800",
+          "heat": false
+        },
+        {
+          "title": "贝森特导师德鲁肯米勒批评扩大回购操作：让债市发声！（全文翻译）",
+          "url": "https://flash.jin10.com/detail/20260825114354606800",
+          "heat": "✰"
+        },
+        {
+          "title": "建研设计：所在联合体为中标候选人，投标总报价29.91亿元",
+          "url": "https://flash.jin10.com/detail/20260825114327663800",
+          "heat": false
+        },
+        {
+          "title": "德福科技：子公司表面处理机可补充公司HVLP系列铜箔扩产需求",
+          "url": "https://flash.jin10.com/detail/20260825114256462800",
+          "heat": false
+        },
+        {
+          "title": "交易商称，印度央行可能出售美元以限制印度卢比贬值。",
+          "url": "https://flash.jin10.com/detail/20260825114153566800",
+          "heat": false
+        },
         {
           "title": "深圳：1—7月规模以上工业增加值同比增长9.2%",
           "url": "https://flash.jin10.com/detail/20260825113834508800",
@@ -1373,131 +1503,6 @@
           "title": "A股午评：创业板指半日下跌1.43% 农业、大消费概念走强",
           "url": "https://flash.jin10.com/detail/20260825113519585800",
           "heat": false
-        },
-        {
-          "title": "金十图示：2026年08月25日（周二）富时中国A50指数成分股午盘收盘行情一览：中际旭创、新易盛等半导体及通信设备股跌幅居前；银行、保险及部分周期股相对抗跌，券商、白酒板块表现分化。",
-          "url": "https://flash.jin10.com/detail/20260825113349600800",
-          "heat": false
-        },
-        {
-          "title": "泰国工业联合会：7月汽车产量同比增长6.12%（6月为下降7.55%）。",
-          "url": "https://flash.jin10.com/detail/20260825113349594800",
-          "heat": false
-        },
-        {
-          "title": "股指期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260825113107783800",
-          "heat": false
-        },
-        {
-          "title": "国债期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260825113103422800",
-          "heat": false
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约跌多涨少，碳酸锂跌超5%，聚氯乙烯（PVC）跌近3%，集运欧线、焦煤、红枣、纯碱、沪银、鸡蛋跌超2%。涨幅方面，燃料油、乙二醇（EG）、对二甲苯、纯苯、苯乙烯（EB）、瓶片涨超2%，甲醇、沥青涨近2%。",
-          "url": "https://flash.jin10.com/detail/20260825113053788800",
-          "heat": "✰"
-        },
-        {
-          "title": "前美国伊朗问题特使：美国对伊新制裁既“违法”又没用，还可能招致报复和局势升级",
-          "url": "https://flash.jin10.com/detail/20260825113052718800",
-          "heat": false
-        },
-        {
-          "title": "离岸人民币同业拆息利率多数上行，隔夜拆息创近一周新高",
-          "url": "https://flash.jin10.com/detail/20260825112829580800",
-          "heat": false
-        },
-        {
-          "title": "英国授权乌克兰本土制造巡航导弹，莫斯科警告：将打击乌生产基地！",
-          "url": "https://flash.jin10.com/detail/20260825112659895800",
-          "heat": "✰"
-        },
-        {
-          "title": "苏州：1—7月全市规模以上工业总产值同比增长7.1%",
-          "url": "https://flash.jin10.com/detail/20260825112623796800",
-          "heat": false
-        },
-        {
-          "title": "农业法修订草案二审稿拟完善支持农业和农村经济发展措施",
-          "url": "https://flash.jin10.com/detail/20260825112540813800",
-          "heat": false
-        },
-        {
-          "title": "加通贝祥：将Workday(WDAY.O)目标价从200美元上调至225美元。",
-          "url": "https://flash.jin10.com/detail/20260825112329635800",
-          "heat": false
-        },
-        {
-          "title": "保时捷与印度最大IT服务公司达成15亿美元的AI部署合作协议",
-          "url": "https://flash.jin10.com/detail/20260825111907286800",
-          "heat": false
-        },
-        {
-          "title": "巴陆军参谋长与伊朗举行会谈，聚焦防止冲突升级及海峡重开",
-          "url": "https://flash.jin10.com/detail/20260825111750389800",
-          "heat": false
-        },
-        {
-          "title": "A股锂矿概念震荡下挫，国城矿业逼近跌停，天华新能、金银河、盛新锂能、大中矿业、永兴材料、融捷股份跌超6%。",
-          "url": "https://flash.jin10.com/detail/20260825111642223800",
-          "heat": false
-        },
-        {
-          "title": "道富投资：美财政部购债可争取时间 但无法恢复信誉",
-          "url": "https://flash.jin10.com/detail/20260825111630719800",
-          "heat": false
-        },
-        {
-          "title": "国内品牌金饰克价重回1400元",
-          "url": "https://flash.jin10.com/detail/20260825111239944800",
-          "heat": "✰"
-        },
-        {
-          "title": "金十数据整理：每日存储市场要闻速递（2026-08-25）",
-          "url": "https://flash.jin10.com/detail/20260825111102073800",
-          "heat": "✰"
-        },
-        {
-          "title": "巴基斯坦内政部长：与伊朗总统的会晤以“非常积极的基调”结束。",
-          "url": "https://flash.jin10.com/detail/20260825111038954800",
-          "heat": false
-        },
-        {
-          "title": "巴基斯坦内政部长：巴基斯坦与伊朗讨论恢复伊斯兰堡谅解备忘录以解决冲突。与伊朗的会谈聚焦中东紧张局势及和平之路。",
-          "url": "https://flash.jin10.com/detail/20260825111011458800",
-          "heat": false
-        },
-        {
-          "title": "俄罗斯克拉斯诺达尔边疆区州长称，炼油厂火灾是由于无人机袭击造成的。",
-          "url": "https://flash.jin10.com/detail/20260825110917584800",
-          "heat": false
-        },
-        {
-          "title": "俄罗斯克拉斯诺达尔边疆区州长称，阿菲普斯基炼油厂发生火灾。",
-          "url": "https://flash.jin10.com/detail/20260825110858801800",
-          "heat": false
-        },
-        {
-          "title": "巴基斯坦内政部长：与伊朗领导层的谈判取得显著进展。",
-          "url": "https://flash.jin10.com/detail/20260825110829092800",
-          "heat": false
-        },
-        {
-          "title": "隔夜shibor报1.4350%，上涨1.6个基点；7天shibor报1.4535%，上涨2.15个基点；3个月shibor报1.4300%，与上日持平。点击查看>>",
-          "url": "https://flash.jin10.com/detail/20260825110800762800",
-          "heat": false
-        },
-        {
-          "title": "金十图示：2026年08月25日（周二）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260825110745605800",
-          "heat": false
-        },
-        {
-          "title": "中国7月本年迄今全国发电装机容量 407820万千瓦，前值404252万千瓦。",
-          "url": "https://flash.jin10.com/detail/20260825110546138800",
-          "heat": "✰"
         }
       ]
     }
