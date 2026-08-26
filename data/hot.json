@@ -1,6 +1,6 @@
 {
-  "updated": "00:30:51",
-  "total": 285,
+  "updated": "00:35:34",
+  "total": 284,
   "platforms": [
     {
       "id": "zhihu",
@@ -601,13 +601,8 @@
           "heat": ""
         },
         {
-          "title": "过去三周，投资机构买入黄金期货规模创纪录！",
-          "url": "https://wallstreetcn.com/articles/3780196",
-          "heat": ""
-        },
-        {
-          "title": "英伟达震撼首测Vera Rubin，DeepSeek吞吐暴涨30倍！",
-          "url": "https://wallstreetcn.com/articles/3780194",
+          "title": "华尔街见闻早餐FM-Radio | 2026年8月26日",
+          "url": "https://wallstreetcn.com/articles/3780294",
           "heat": ""
         },
         {
@@ -616,23 +611,28 @@
           "heat": ""
         },
         {
+          "title": "美伊停火谈判传重大进展！据称就霍尔木兹自由通航达成共识，布油一度跌6%",
+          "url": "https://wallstreetcn.com/articles/3780290",
+          "heat": ""
+        },
+        {
           "title": "贝森特的真正算盘：逼空美债CTA，将10年期收益率打到4.3%？",
           "url": "https://wallstreetcn.com/articles/3780229",
           "heat": ""
         },
         {
-          "title": "华尔街见闻早餐FM-Radio | 2026年8月26日",
-          "url": "https://wallstreetcn.com/articles/3780294",
-          "heat": ""
-        },
-        {
-          "title": "救美债！除了回购，贝森特还有一个大招：美元稳定币",
-          "url": "https://wallstreetcn.com/articles/3780192",
-          "heat": ""
-        },
-        {
           "title": "OpenAI高管预判：Codex与ChatGPT终将“消失”，未来将只留一个“个人AGI”",
           "url": "https://wallstreetcn.com/articles/3780238",
+          "heat": ""
+        },
+        {
+          "title": "字节加入企业办公Agent大战：发布“豆包工作”",
+          "url": "https://wallstreetcn.com/articles/3780216",
+          "heat": ""
+        },
+        {
+          "title": "首款2纳米芯片！时隔两年苹果Mac mini上新，库克交棒前再掀新品攻势",
+          "url": "https://wallstreetcn.com/articles/3780268",
           "heat": ""
         }
       ]
@@ -1357,8 +1357,58 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 30,
+      "count": 29,
       "items": [
+        {
+          "title": "澳大利亚7月西太平洋领先指标月率 0.03%，前值0.04%。",
+          "url": "https://flash.jin10.com/detail/20260826083120065800",
+          "heat": false
+        },
+        {
+          "title": "据The Information：OpenAI曾大量从Salesforce(CRM.N)招聘销售人员，以向大型企业推销其人工智能技术。如今，部分销售人员已返回Salesforce，进一步加剧了OpenAI企业销售团队的重组。",
+          "url": "https://flash.jin10.com/detail/20260826082604980800",
+          "heat": false
+        },
+        {
+          "title": "鲁比奥被曝告知盟友暂不打击伊朗，并着手恢复美驻中东多国外交人员",
+          "url": "https://flash.jin10.com/detail/20260826082455007800",
+          "heat": "✰"
+        },
+        {
+          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸： 今日将公布美国7月PCE物价指数数据以及美国当周EIA原油库存数据。",
+          "url": "https://flash.jin10.com/detail/20260826082128485800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：每日期货市场要闻速递（2026-08-26）",
+          "url": "https://flash.jin10.com/detail/20260826081739862800",
+          "heat": false
+        },
+        {
+          "title": "韩国KOSPI指数涨1%，三星电子涨2.2%，SK海力士涨1.8%。",
+          "url": "https://flash.jin10.com/detail/20260826081651494800",
+          "heat": false
+        },
+        {
+          "title": "中信证券：沃什可能需要调整此前“全面模糊”的沟通策略",
+          "url": "https://flash.jin10.com/detail/20260826081439252800",
+          "heat": false
+        },
+        {
+          "title": "新闻交易员：海峡风险真过去了吗？",
+          "url": "https://flash.jin10.com/detail/20260826081155303800",
+          "heat": "✰"
+        },
+        {
+          "title": "澳大利亚S&P/ASX200指数8月26日（周三）开盘上涨18.40点，涨幅0.20%，报9183.00点。",
+          "url": "https://flash.jin10.com/detail/20260826081003011800",
+          "heat": false
+        },
+        {
+          "title": "海大集团8月25日在业绩说明会上表示，受生猪养殖模式、体系逐步成型、团队专业能力不断提升、外购仔猪成本走低带动，今年下半年生猪养殖成本预计会下降。",
+          "url": "https://flash.jin10.com/detail/20260826080835586800",
+          "heat": false
+        },
         {
           "title": "日本企业服务通胀在7月加速",
           "url": "https://flash.jin10.com/detail/20260826080458792800",
@@ -1453,61 +1503,6 @@
           "title": "一位白宫官员透露，在加拿大采取报复性措施之后，特朗普政府正在讨论对加拿大实施额外的贸易制裁。",
           "url": "https://flash.jin10.com/detail/20260826073107140800",
           "heat": "✰"
-        },
-        {
-          "title": "加拿大宣布200亿对美关税报复措施，特朗普放话将安大略湖改名“美国湖”",
-          "url": "https://flash.jin10.com/detail/20260826072649827800",
-          "heat": "✰"
-        },
-        {
-          "title": "据美国证交会（SEC）披露的文件，美光科技(MU.O)总裁兼首席执行官Sanjay Mehrotra于8月21日以每股平均价968.9美元售出4万股普通股股份，价值约为3875.62万美元。",
-          "url": "https://flash.jin10.com/detail/20260826072413215800",
-          "heat": false
-        },
-        {
-          "title": "韩国人工智能初创公司Wrtn以8.7亿美元的估值完成融资",
-          "url": "https://flash.jin10.com/detail/20260826071443658800",
-          "heat": false
-        },
-        {
-          "title": "金十数据全球财经早餐 | 2026年8月26日",
-          "url": "https://flash.jin10.com/detail/20260826070350285800",
-          "heat": "✰"
-        },
-        {
-          "title": "能源领域独立投资研究与咨询机构HFI Research指出，API与EIA数据的运行误差高达2000万桶。这意味着，最新的API报告所报道的原油库存增加约400万桶的数据被严重夸大。为了回归近期的平均水平，其预计EIA将报告库存减少300万桶。",
-          "url": "https://flash.jin10.com/detail/20260826065415652800",
-          "heat": false
-        },
-        {
-          "title": "今日重点关注的财经数据与事件：2026年8月26日 周三",
-          "url": "https://flash.jin10.com/detail/20260826065000001800",
-          "heat": "✰"
-        },
-        {
-          "title": "美联储巴尔金：美国债务的上升最终将面临“清算”",
-          "url": "https://flash.jin10.com/detail/20260826064755016800",
-          "heat": false
-        },
-        {
-          "title": "现货白银站上69美元/盎司，日内涨0.49%。",
-          "url": "https://flash.jin10.com/detail/20260826064723527800",
-          "heat": false
-        },
-        {
-          "title": "巴西财政部发布声明，表示将于周三公布年度融资计划的变更。",
-          "url": "https://flash.jin10.com/detail/20260826064220134800",
-          "heat": false
-        },
-        {
-          "title": "伊朗与阿曼拟建立霍尔木兹临时航道，俄媒获悉美伊将重启谈判",
-          "url": "https://flash.jin10.com/detail/20260826064015835800",
-          "heat": "✰"
-        },
-        {
-          "title": "据伊通社（IRNA）：伊朗驻联合国大使表示，美国所谓的“经济压力行动”可能带来严重后果。我们呼吁所有国家拒绝并谴责美国政权实施的跨国单边强制措施，这些措施旨在迫使成员国遵循美国的政策，忽视其主权和合法政策。",
-          "url": "https://flash.jin10.com/detail/20260826063914628800",
-          "heat": false
         }
       ]
     }
