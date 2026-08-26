@@ -1,6 +1,6 @@
 {
-  "updated": "09:01:04",
-  "total": 243,
+  "updated": "09:05:27",
+  "total": 285,
   "platforms": [
     {
       "id": "zhihu",
@@ -1133,8 +1133,69 @@
     {
       "id": "ifeng",
       "name": "凤凰网",
-      "count": 0,
-      "items": []
+      "count": 12,
+      "items": [
+        {
+          "title": "中方反问：美国士兵在那里做什么？他们到底想查什么",
+          "url": "https://news.ifeng.com/c/8vtYfquIIFU",
+          "heat": ""
+        },
+        {
+          "title": "美国嘴上喊封锁，身体很诚实：没了“中国制造”动不了",
+          "url": "https://news.ifeng.com/c/8vt1kRRKz0p",
+          "heat": ""
+        },
+        {
+          "title": "民调：特朗普的支持率为33%，达历史最低",
+          "url": "https://news.ifeng.com/c/8vtcz08sie8",
+          "heat": ""
+        },
+        {
+          "title": "金正恩主持劳动党政治局扩大会议，未回应特朗普对话提议",
+          "url": "https://news.ifeng.com/c/8vu2ukNWU3Y",
+          "heat": ""
+        },
+        {
+          "title": "孟加拉国拟采购24架中国歼10CE战斗机",
+          "url": "https://news.ifeng.com/c/8vtzRQj9zKQ",
+          "heat": ""
+        },
+        {
+          "title": "马克龙宣布“大消息”",
+          "url": "https://news.ifeng.com/c/8vtaXnb6wN2",
+          "heat": ""
+        },
+        {
+          "title": "乌克兰怎么就成了“无人机神教”教主？",
+          "url": "https://news.ifeng.com/c/8vtuDQeKfre",
+          "heat": ""
+        },
+        {
+          "title": "对加拿大态度强硬，特朗普底气何来？",
+          "url": "https://news.ifeng.com/c/8vtsZz4nJFu",
+          "heat": ""
+        },
+        {
+          "title": "加沙男孩怒撕风筝质问内塔尼亚胡：你满意了吗？",
+          "url": "https://news.ifeng.com/c/8vtzgnmE0Jg",
+          "heat": ""
+        },
+        {
+          "title": "涉嫌杀害25岁在韩女留学生，30多岁男子被捕画面曝光",
+          "url": "https://v.ifeng.com/c/8vtutgJkw6g",
+          "heat": ""
+        },
+        {
+          "title": "韩国警方公布中国女生遇害案细节：凶手作案后男扮女装",
+          "url": "https://news.ifeng.com/c/8vtzLMzMYFZ",
+          "heat": ""
+        },
+        {
+          "title": "中国女游客在网红打卡点不幸溺亡，一对中国夫妇曾在此被巨浪卷走",
+          "url": "https://news.ifeng.com/c/8vtlLR4X7f2",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "toutiao",
@@ -1296,8 +1357,159 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "伊朗总统强调特殊形势下要着力“稳经济”",
+          "url": "https://flash.jin10.com/detail/20260826165605723800",
+          "heat": false
+        },
+        {
+          "title": "据港交所文件：渣打集团(02888.HK)于8月25日在其他交易所回购总计366,855股，耗资800万英镑。",
+          "url": "https://flash.jin10.com/detail/20260826165516566800",
+          "heat": false
+        },
+        {
+          "title": "伊朗议长：伊朗和伊拉克在建立地区秩序方面发挥关键作用",
+          "url": "https://flash.jin10.com/detail/20260826165457650800",
+          "heat": false
+        },
+        {
+          "title": "金十整理：9月全球央行议息日历出炉——多国加息预期升温",
+          "url": "https://flash.jin10.com/detail/20260826165445049800",
+          "heat": "✰"
+        },
+        {
+          "title": "郑州住房公积金贷款政策再优化 二手房首付比例下调至20%",
+          "url": "https://flash.jin10.com/detail/20260826165438819800",
+          "heat": false
+        },
+        {
+          "title": "股东特别大会批准，百度双重上市在即",
+          "url": "https://flash.jin10.com/detail/20260826165345787800",
+          "heat": false
+        },
+        {
+          "title": "中国海洋石油：上半年归母净利润人民币858亿元，同比增长23.4%",
+          "url": "https://flash.jin10.com/detail/20260826165141893800",
+          "heat": false
+        },
+        {
+          "title": "知乎：2026年第二季度净亏损3740万元",
+          "url": "https://flash.jin10.com/detail/20260826165038336800",
+          "heat": false
+        },
+        {
+          "title": "俄罗斯：没有西方援助，乌克兰将难以维持",
+          "url": "https://flash.jin10.com/detail/20260826165023478800",
+          "heat": false
+        },
+        {
+          "title": "商汤：上半年实现毛利人民币12.06亿元，同比增长32.9%",
+          "url": "https://flash.jin10.com/detail/20260826165008653800",
+          "heat": false
+        },
+        {
+          "title": "澳大利亚将推进AI数据中心能源新规，昆士兰州转为支持",
+          "url": "https://flash.jin10.com/detail/20260826164939810800",
+          "heat": false
+        },
+        {
+          "title": "商汤：上半年本集团实现收入人民币29.11亿元，同比增长23.4%",
+          "url": "https://flash.jin10.com/detail/20260826164916397800",
+          "heat": false
+        },
+        {
+          "title": "商汤：上半年净利润6.17亿元 自上市以来首次录得IFRS口径下的盈利",
+          "url": "https://flash.jin10.com/detail/20260826164824305800",
+          "heat": "✰"
+        },
+        {
+          "title": "伊朗政府安抚市场担忧 称国内汽油供应充足",
+          "url": "https://flash.jin10.com/detail/20260826164737442800",
+          "heat": false
+        },
+        {
+          "title": "特发信息：2026年半年度净利润6206.67万元 同比增长1007.52%",
+          "url": "https://flash.jin10.com/detail/20260826164433503800",
+          "heat": false
+        },
+        {
+          "title": "国际原油期货价格一度跌超3%",
+          "url": "https://flash.jin10.com/detail/20260826164426091800",
+          "heat": "✰"
+        },
+        {
+          "title": "上海：支持二维材料等新材料器件研发 推动三维堆叠架构芯片设计和流片",
+          "url": "https://flash.jin10.com/detail/20260826164312230800",
+          "heat": false
+        },
+        {
+          "title": "剑桥科技：计划2026年底光模块年化产能不少于600万支",
+          "url": "https://flash.jin10.com/detail/20260826164254931800",
+          "heat": false
+        },
+        {
+          "title": "上海：布局第四代核电、小微堆、海洋核动力等技术",
+          "url": "https://flash.jin10.com/detail/20260826164221958800",
+          "heat": false
+        },
+        {
+          "title": "上海：加快开发多形态的通用智能机器人等标志性产品",
+          "url": "https://flash.jin10.com/detail/20260826164145000800",
+          "heat": false
+        },
+        {
+          "title": "日元160附近现“抄底资金”：澳洲养老金逆势做多，同时减持美债",
+          "url": "https://flash.jin10.com/detail/20260826164055728800",
+          "heat": "✰"
+        },
+        {
+          "title": "据半岛电视台援引伊朗总统的话称，伊朗的方针是通过理解和谈判解决问题，但也将坚决应对经济压力。",
+          "url": "https://flash.jin10.com/detail/20260826164026484800",
+          "heat": false
+        },
+        {
+          "title": "金十整理：英伟达财报今日揭盅 市场紧盯这五件事",
+          "url": "https://flash.jin10.com/detail/20260826163825816800",
+          "heat": false
+        },
+        {
+          "title": "上海：加快端侧AI芯片、下一代新型显示、柔性材料传感器等关键技术突破",
+          "url": "https://flash.jin10.com/detail/20260826163821814800",
+          "heat": false
+        },
+        {
+          "title": "据港交所文件：汇丰控股(00005.HK)于8月25日回购了325,600股，耗资5310万港元。",
+          "url": "https://flash.jin10.com/detail/20260826163810175800",
+          "heat": false
+        },
+        {
+          "title": "上海：促进卫星互联网与北斗、6G、AI融合发展 加快推进卫星互联网和北斗规模化应用",
+          "url": "https://flash.jin10.com/detail/20260826163804982800",
+          "heat": false
+        },
+        {
+          "title": "通威股份：上半年亏损51.19亿元，2025年同期亏损49.55亿元",
+          "url": "https://flash.jin10.com/detail/20260826163803974800",
+          "heat": false
+        },
+        {
+          "title": "理想汽车(02015.HK)：截至2026年6月30日，现金状况为人民币875亿元（129亿美元）。",
+          "url": "https://flash.jin10.com/detail/20260826163721133800",
+          "heat": false
+        },
+        {
+          "title": "据港交所文件：汇丰控股(00005.HK)于8月25日在其他交易所回购了总计200,000股，耗资300万英镑。",
+          "url": "https://flash.jin10.com/detail/20260826163716765800",
+          "heat": false
+        },
+        {
+          "title": "理想汽车：已累计以约631.5百万美元购回约91.7百万股A类普通股",
+          "url": "https://flash.jin10.com/detail/20260826163628259800",
+          "heat": false
+        }
+      ]
     }
   ]
 }
