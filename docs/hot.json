@@ -1,6 +1,6 @@
 {
-  "updated": "10:01:05",
-  "total": 261,
+  "updated": "10:05:30",
+  "total": 284,
   "platforms": [
     {
       "id": "zhihu",
@@ -583,8 +583,59 @@
     {
       "id": "wallstreetcn-hot",
       "name": "华尔街见闻",
-      "count": 0,
-      "items": []
+      "count": 10,
+      "items": [
+        {
+          "title": "美伊外交缓和重挫油价，美股三大指数齐涨，英伟达终结七连跌涨超2%",
+          "url": "https://wallstreetcn.com/articles/3780215",
+          "heat": ""
+        },
+        {
+          "title": "停火谈判重大进展！美伊传就霍尔木兹自由通航达成共识、伊朗与阿曼拟设临时安全通道，布油一度跌6%",
+          "url": "https://wallstreetcn.com/articles/3780290",
+          "heat": ""
+        },
+        {
+          "title": "华尔街见闻早餐FM-Radio | 2026年8月26日",
+          "url": "https://wallstreetcn.com/articles/3780294",
+          "heat": ""
+        },
+        {
+          "title": "一石激起千层浪！短短9个月，OpenAI自研ASIC芯片已超越英伟达Blackwell？",
+          "url": "https://wallstreetcn.com/articles/3780301",
+          "heat": ""
+        },
+        {
+          "title": "Anthropic拟向投资者披露超30万亿美元市场潜力，IPO估值目标约2万亿美元",
+          "url": "https://wallstreetcn.com/articles/3780285",
+          "heat": ""
+        },
+        {
+          "title": "美国保险业爆出大雷：210亿美金遭暗箱操作，华尔街大鳄的体育帝国摇摇欲坠",
+          "url": "https://wallstreetcn.com/articles/3780298",
+          "heat": ""
+        },
+        {
+          "title": "首款2纳米芯片！时隔两年苹果Mac mini上新，库克交棒前再掀新品攻势",
+          "url": "https://wallstreetcn.com/articles/3780268",
+          "heat": ""
+        },
+        {
+          "title": "SemiAnalysis创始人：到2028年，全球大部分AI算力只属于两家公司",
+          "url": "https://wallstreetcn.com/articles/3780327",
+          "heat": ""
+        },
+        {
+          "title": "速度更快、功耗更低，OpenAI JALAPENO芯片强势叫板英伟达GB300",
+          "url": "https://wallstreetcn.com/articles/3780270",
+          "heat": ""
+        },
+        {
+          "title": "以牙还牙！加拿大官宣等额200亿美元对美报复性关税，钢铝关税翻倍至50%",
+          "url": "https://wallstreetcn.com/articles/3780272",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "tieba",
@@ -903,8 +954,74 @@
     {
       "id": "cls-hot",
       "name": "财联社",
-      "count": 0,
-      "items": []
+      "count": 13,
+      "items": [
+        {
+          "title": "“钟才文”关键时点发声，又带来市场提振的风向标",
+          "url": "https://www.cls.cn/detail/2464538",
+          "heat": ""
+        },
+        {
+          "title": "今晚全球瞩目！美联储“最青睐通胀指标”将出炉 利率剧本会否改写？",
+          "url": "https://www.cls.cn/detail/2464525",
+          "heat": ""
+        },
+        {
+          "title": "连续四季不涨反跌！英伟达今夜放榜 该如何克服财报“魔咒”？",
+          "url": "https://www.cls.cn/detail/2464403",
+          "heat": ""
+        },
+        {
+          "title": "缓冲迅速耗尽！汇丰警告：新一轮全球粮食危机要来了",
+          "url": "https://www.cls.cn/detail/2464649",
+          "heat": ""
+        },
+        {
+          "title": "宇树科技连跌5日，股价跌破600元，市值较历史高点蒸发2000亿元",
+          "url": "https://www.cls.cn/detail/2464805",
+          "heat": ""
+        },
+        {
+          "title": "《上海市战略性新兴产业发展“十五五”规划》印发",
+          "url": "https://www.cls.cn/detail/2464966",
+          "heat": ""
+        },
+        {
+          "title": "【每日收评】三大指数缩量震荡全线收红，大金融、有色板块联袂领涨",
+          "url": "https://www.cls.cn/detail/2464971",
+          "heat": ""
+        },
+        {
+          "title": "【焦点复盘】证券板块强势做多，沪指低开高走收复20日线，创新药概念全天表现分化",
+          "url": "https://www.cls.cn/detail/2465007",
+          "heat": ""
+        },
+        {
+          "title": "国台办评“北京没冰箱”：民进党当局在岛内蓄意制造“信息茧房”",
+          "url": "https://www.cls.cn/detail/2464429",
+          "heat": ""
+        },
+        {
+          "title": "电子特气龙头半年报“悲喜不相通”：华特气体营收净利双升、金宏气体增收不增利",
+          "url": "https://www.cls.cn/detail/2464450",
+          "heat": ""
+        },
+        {
+          "title": "【VIP日报】贵金属板块大涨 栏目解读金价上涨逻辑 提及2家公司涨停",
+          "url": "https://www.cls.cn/detail/2464939",
+          "heat": ""
+        },
+        {
+          "title": "【午报】三大指数震荡拉升集体飘红，大金融、有色板块双双领涨",
+          "url": "https://www.cls.cn/detail/2464524",
+          "heat": ""
+        },
+        {
+          "title": "短期内半导体股又要跌？美银：英伟达等股或迎买入良机！",
+          "url": "https://www.cls.cn/detail/2464373",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "thepaper",
