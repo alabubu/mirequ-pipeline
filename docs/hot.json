@@ -1,6 +1,6 @@
 {
-  "updated": "22:45:35",
-  "total": 280,
+  "updated": "22:50:31",
+  "total": 282,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,38 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 25,
+      "count": 27,
       "items": [
+        {
+          "title": "现货白银日内涨幅达1.00%，现报68.80美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260827063208959800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：昨日今晨重要新闻汇总（2026-08-27）",
+          "url": "https://flash.jin10.com/detail/20260827063008960800",
+          "heat": "✰"
+        },
+        {
+          "title": "惠普(HPQ.N)高管：随着工作负载从云端转移到终端设备，AI个人电脑如今提供的价值已超过去年。",
+          "url": "https://flash.jin10.com/detail/20260827062331046800",
+          "heat": false
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少2.853吨，当前持仓量为1045.495吨。",
+          "url": "https://flash.jin10.com/detail/20260827062228920800",
+          "heat": "✰"
+        },
+        {
+          "title": "现货黄金向上触及4610美元/盎司，日内涨0.34%。",
+          "url": "https://flash.jin10.com/detail/20260827061851941800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：中东局势跟踪（8月27日）",
+          "url": "https://flash.jin10.com/detail/20260827060629003800",
+          "heat": "✰"
+        },
         {
           "title": "美联储9月维持利率不变的概率为63.5%",
           "url": "https://flash.jin10.com/detail/20260827060348483800",
@@ -1462,26 +1492,6 @@
         {
           "title": "亚马逊将购买200万颗英伟达芯片用于数据中心扩建",
           "url": "https://flash.jin10.com/detail/20260827052646972800",
-          "heat": false
-        },
-        {
-          "title": "英伟达(NVDA.O)首席财务官：未来公司计划增加向股东返还扣除战略用途后的剩余自由现金流。",
-          "url": "https://flash.jin10.com/detail/20260827052619855800",
-          "heat": false
-        },
-        {
-          "title": "英伟达(NVDA.O)首席财务官：向中国客户出货的H200产品营收占数据中心总营收不到1%。向中国客户的出货均符合美国政府颁发的出口许可证要求。公司业绩展望中未计入任何来自中国的数据中心计算业务营收。",
-          "url": "https://flash.jin10.com/detail/20260827052538540800",
-          "heat": false
-        },
-        {
-          "title": "英伟达(NVDA.O)首席财务官：预计明年来自AI实验室的需求将贡献公司整体业务约四分之一。",
-          "url": "https://flash.jin10.com/detail/20260827052517680800",
-          "heat": false
-        },
-        {
-          "title": "英伟达(NVDA.O)首席财务官：有些人会把这称为“循环融资”，但我们的看法不同。",
-          "url": "https://flash.jin10.com/detail/20260827052420636800",
           "heat": false
         }
       ]
