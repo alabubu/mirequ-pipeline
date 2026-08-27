@@ -1,6 +1,6 @@
 {
-  "updated": "20:00:53",
-  "total": 268,
+  "updated": "20:05:31",
+  "total": 278,
   "platforms": [
     {
       "id": "zhihu",
@@ -583,8 +583,59 @@
     {
       "id": "wallstreetcn-hot",
       "name": "华尔街见闻",
-      "count": 0,
-      "items": []
+      "count": 10,
+      "items": [
+        {
+          "title": "英伟达上季营收超预期翻倍大增，本季料首破千亿大关，下财年70%增速指引碾压预期 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3780378",
+          "heat": ""
+        },
+        {
+          "title": "华尔街见闻早餐FM-Radio | 2026年8月27日",
+          "url": "https://wallstreetcn.com/articles/3780385",
+          "heat": ""
+        },
+        {
+          "title": "7月PCE通胀略超预期，美股三大指数微跌，存储芯片逆势走强，黄金失守4600美元",
+          "url": "https://wallstreetcn.com/articles/3780328",
+          "heat": ""
+        },
+        {
+          "title": "智谱新模型“牛来”跑在10万国产卡上，SemiAnalaysis评价“英伟达护城河再受考验”",
+          "url": "https://wallstreetcn.com/articles/3780391",
+          "heat": ""
+        },
+        {
+          "title": "英伟达电话会：毛利率Q4财季触底，预计明年营收增长70%、CPU收入翻倍增长、内存瓶颈持续",
+          "url": "https://wallstreetcn.com/articles/3780381",
+          "heat": ""
+        },
+        {
+          "title": "苹果9月10日发布首款折叠iPhone，开启特努斯时代",
+          "url": "https://wallstreetcn.com/articles/3780369",
+          "heat": ""
+        },
+        {
+          "title": "AI热情重燃，美股开盘涨跌互现，纳指涨近1%，英伟达绩后大涨6%，油涨金跌",
+          "url": "https://wallstreetcn.com/articles/3780415",
+          "heat": ""
+        },
+        {
+          "title": "“大空头”Michael Burry买入英伟达看涨期权“对冲”，同时加码做空",
+          "url": "https://wallstreetcn.com/articles/3780433",
+          "heat": ""
+        },
+        {
+          "title": "报道：英伟达129亿美元收购Hugging Face，AI\"中间层\"争夺战全面打响",
+          "url": "https://wallstreetcn.com/articles/3780408",
+          "heat": ""
+        },
+        {
+          "title": "英伟达用两个季度的毛利率，买未来两年的确定性",
+          "url": "https://wallstreetcn.com/articles/3780400",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "tieba",
