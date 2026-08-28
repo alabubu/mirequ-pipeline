@@ -1,6 +1,6 @@
 {
-  "updated": "07:31:04",
-  "total": 249,
+  "updated": "07:35:31",
+  "total": 281,
   "platforms": [
     {
       "id": "zhihu",
@@ -269,8 +269,159 @@
     {
       "id": "douyin",
       "name": "抖音",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "四川隆昌发生5.1级地震",
+          "url": "https://www.douyin.com/hot/2626856",
+          "heat": ""
+        },
+        {
+          "title": "“沙德尔”在浙江玉环登陆",
+          "url": "https://www.douyin.com/hot/2626469",
+          "heat": ""
+        },
+        {
+          "title": "争分夺秒全力救援",
+          "url": "https://www.douyin.com/hot/2626656",
+          "heat": ""
+        },
+        {
+          "title": "秋季外套大测评",
+          "url": "https://www.douyin.com/hot/2625048",
+          "heat": ""
+        },
+        {
+          "title": "西藏泥石流救援现场",
+          "url": "https://www.douyin.com/hot/2626756",
+          "heat": ""
+        },
+        {
+          "title": "中国男篮83:57大胜卡塔尔男篮",
+          "url": "https://www.douyin.com/hot/2626417",
+          "heat": ""
+        },
+        {
+          "title": "跨越次元来见你的意难平",
+          "url": "https://www.douyin.com/hot/2626481",
+          "heat": ""
+        },
+        {
+          "title": "GTA6加长版实机预告公布",
+          "url": "https://www.douyin.com/hot/2626489",
+          "heat": ""
+        },
+        {
+          "title": "秋日citygirl穿搭",
+          "url": "https://www.douyin.com/hot/2626040",
+          "heat": ""
+        },
+        {
+          "title": "欧冠抽签结果出炉",
+          "url": "https://www.douyin.com/hot/2626767",
+          "heat": ""
+        },
+        {
+          "title": "苹果华为小米折叠屏集中撞档9月",
+          "url": "https://www.douyin.com/hot/2625706",
+          "heat": ""
+        },
+        {
+          "title": "催我返校的消息排到了法国",
+          "url": "https://www.douyin.com/hot/2626753",
+          "heat": ""
+        },
+        {
+          "title": "四川泸州近期发生山火系不实消息",
+          "url": "https://www.douyin.com/hot/2626980",
+          "heat": ""
+        },
+        {
+          "title": "燕麦系燃烧我的卡路里",
+          "url": "https://www.douyin.com/hot/2626647",
+          "heat": ""
+        },
+        {
+          "title": "梗最多的一个暑假要结束了",
+          "url": "https://www.douyin.com/hot/2626317",
+          "heat": ""
+        },
+        {
+          "title": "栾念尚之桃以包换包嗑到了",
+          "url": "https://www.douyin.com/hot/2625975",
+          "heat": ""
+        },
+        {
+          "title": "开学前的周五我就这样嗨",
+          "url": "https://www.douyin.com/hot/2626687",
+          "heat": ""
+        },
+        {
+          "title": "丰田要求供应商降价",
+          "url": "https://www.douyin.com/hot/2626553",
+          "heat": ""
+        },
+        {
+          "title": "权威的音乐就该配权威的脸",
+          "url": "https://www.douyin.com/hot/2625825",
+          "heat": ""
+        },
+        {
+          "title": "西藏泥石流558人失联3人遇难",
+          "url": "https://www.douyin.com/hot/2625118",
+          "heat": ""
+        },
+        {
+          "title": "孙千的flora是形容词",
+          "url": "https://www.douyin.com/hot/2625998",
+          "heat": ""
+        },
+        {
+          "title": "99年专属bgm女孩27",
+          "url": "https://www.douyin.com/hot/2625812",
+          "heat": ""
+        },
+        {
+          "title": "学功夫练武术舞蹈挑战",
+          "url": "https://www.douyin.com/hot/2625704",
+          "heat": ""
+        },
+        {
+          "title": "万物皆可饽饽山挑战",
+          "url": "https://www.douyin.com/hot/2626304",
+          "heat": ""
+        },
+        {
+          "title": "胆子肥嘟嘟已全面进入萌宠圈",
+          "url": "https://www.douyin.com/hot/2625990",
+          "heat": ""
+        },
+        {
+          "title": "这音频简直完美演绎摸猫人的心",
+          "url": "https://www.douyin.com/hot/2626310",
+          "heat": ""
+        },
+        {
+          "title": "说再见太难再见我的爱",
+          "url": "https://www.douyin.com/hot/2626069",
+          "heat": ""
+        },
+        {
+          "title": "唐九洲看小说被吓到的是我",
+          "url": "https://www.douyin.com/hot/2626802",
+          "heat": ""
+        },
+        {
+          "title": "我们的少年时代2八人组队",
+          "url": "https://www.douyin.com/hot/2625586",
+          "heat": ""
+        },
+        {
+          "title": "记录我的开学典礼",
+          "url": "https://www.douyin.com/hot/2625507",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "bilibili-hot-search",
@@ -1206,126 +1357,136 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 24,
+      "count": 26,
       "items": [
         {
-          "title": "土耳其统计局：土耳其七月贸易逆差为73.43亿美元。",
-          "url": "https://flash.jin10.com/detail/20260828150443497800",
+          "title": "外交部：中尼专家研判此次泥石流灾害由尼境内高位冰川崩塌引发",
+          "url": "https://flash.jin10.com/detail/20260828153430592800",
           "heat": false
         },
         {
-          "title": "医疗保障法2027年1月1日起施行",
-          "url": "https://flash.jin10.com/detail/20260828150346774800",
+          "title": "市场消息：Anthropic计划在美国劳动节（9月7日）后公布其IPO招股说明书，并可能在9月下旬或10月初在美上市。",
+          "url": "https://flash.jin10.com/detail/20260828153341636800",
           "heat": "✰"
         },
         {
-          "title": "卢特尼克痛批加方“临阵毁约”：我们被利用了",
-          "url": "https://flash.jin10.com/detail/20260828150337075800",
+          "title": "阿科力：部分生产装置停产检修",
+          "url": "https://flash.jin10.com/detail/20260828153315344800",
+          "heat": false
+        },
+        {
+          "title": "消息人士：一家全球铝生产商在日本谈判中寻求10月至12月每吨310美元的溢价，较本季度下降22%。",
+          "url": "https://flash.jin10.com/detail/20260828153258769800",
+          "heat": false
+        },
+        {
+          "title": "伊朗、阿曼同意开辟霍尔木兹临时航道 或助美伊打破僵局",
+          "url": "https://flash.jin10.com/detail/20260828153227467800",
           "heat": "✰"
         },
         {
-          "title": "今年前8月市场监管总局已发布服务业国家标准900余项",
-          "url": "https://flash.jin10.com/detail/20260828150333985800",
+          "title": "WTI原油期货日内跌幅达1.00%，现报82.70美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260828153223382800",
           "heat": false
         },
         {
-          "title": "纽约期银日内涨幅扩大至3.00%，现报71.30美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260828150329414800",
+          "title": "现货白银日内涨幅扩大至2.00%，现报70.66美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260828153219249800",
           "heat": "✰"
         },
         {
-          "title": "油价今晚要上调 加满一箱油要多花14.5元",
-          "url": "https://flash.jin10.com/detail/20260828150249259800",
+          "title": "泰国央行：泰国8月21日的净远期头寸为248亿美元，较8月14日的247亿美元有所增加。",
+          "url": "https://flash.jin10.com/detail/20260828153210816800",
+          "heat": false
+        },
+        {
+          "title": "泰国央行：泰国国际储备在8月21日为2847亿美元，较8月14日的2809亿美元有所增加。",
+          "url": "https://flash.jin10.com/detail/20260828153119176800",
+          "heat": false
+        },
+        {
+          "title": "哈萨克斯坦称石油产量已恢复稳定",
+          "url": "https://flash.jin10.com/detail/20260828153104753800",
+          "heat": false
+        },
+        {
+          "title": "当地州长：俄罗斯雅罗斯拉夫尔地区的工业设施遭到无人机袭击。",
+          "url": "https://flash.jin10.com/detail/20260828153038630800",
+          "heat": false
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 8月28日（周五）收盘下跌0.17%报995.0元/克；<br/>上海黄金交易所白银T+D 8月28日（周五）收盘上涨2.78%报17180.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260828153018439800",
+          "heat": false
+        },
+        {
+          "title": "美国驻印度特使：印度计划采购经实战检验的“标枪”反坦克系统。",
+          "url": "https://flash.jin10.com/detail/20260828152916020800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：卡塔尔能源将针对意大利爱迪生（Edison）公司的液化天然气不可抗力期限延长至11月4日。",
+          "url": "https://flash.jin10.com/detail/20260828152858129800",
+          "heat": false
+        },
+        {
+          "title": "软银寻求100亿美元贷款为OpenAI投资再融资",
+          "url": "https://flash.jin10.com/detail/20260828152833512800",
+          "heat": false
+        },
+        {
+          "title": "法国财政部长：炎热的夏季还将对第三季度GDP产生具体影响。",
+          "url": "https://flash.jin10.com/detail/20260828152828136800",
+          "heat": false
+        },
+        {
+          "title": "美国中央司令部上将：近期美国军队在对伊朗实施海上封锁的同时，保护了近1500艘运输约7.5亿桶原油的商船通过霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260828152800341800",
+          "heat": false
+        },
+        {
+          "title": "马来西亚央行：马来西亚7月广义货币M2增长5.8%，M1增长8.2%。",
+          "url": "https://flash.jin10.com/detail/20260828152650052800",
+          "heat": false
+        },
+        {
+          "title": "法国财政部长：法国GDP数据反映出“糟糕夏天”的影响。某些地区的收成将非常困难。",
+          "url": "https://flash.jin10.com/detail/20260828152637100800",
+          "heat": false
+        },
+        {
+          "title": "马来西亚央行：马来西亚7月广义货币M3同比增长5.7%。",
+          "url": "https://flash.jin10.com/detail/20260828152605320800",
+          "heat": false
+        },
+        {
+          "title": "乌克兰8月迄今食品出口达142万公吨",
+          "url": "https://flash.jin10.com/detail/20260828152429030800",
+          "heat": false
+        },
+        {
+          "title": "知情人士：软银寻求100亿美元贷款，为投资OpenAI融资债务再融资。",
+          "url": "https://flash.jin10.com/detail/20260828152403914800",
           "heat": "✰"
         },
         {
-          "title": "意大利富时MIB指数日内涨幅达1.00%。",
-          "url": "https://flash.jin10.com/detail/20260828150235440800",
+          "title": "今年第23号台风“班朗”在西北太平洋洋面上生成",
+          "url": "https://flash.jin10.com/detail/20260828152128136800",
           "heat": false
         },
         {
-          "title": "金十图示：2026年08月28日（周五）各大货币对表现",
-          "url": "https://flash.jin10.com/detail/20260828150225085800",
-          "heat": false
-        },
-        {
-          "title": "中国上证综指8月28日（周五）收盘下跌4.39点，跌幅：0.11%，报3952.18点；<br/>中国深证成指8月28日（周五）收盘下跌95.81点，跌幅：0.68%，报13953.07点；<br/>中国沪深300指数8月28日（周五）收盘下跌21.1点，跌幅：0.46%，报4609.18点；<br/>中国创业板指数8月28日（周五）收盘下跌48.95点，跌幅：1.41%，报3424.4点；<br/>中国科创50指数8月28日（周五）收盘下跌31.33点，跌幅：1.85%，报1662.15点。",
-          "url": "https://flash.jin10.com/detail/20260828150217541800",
-          "heat": false
-        },
-        {
-          "title": "期货盯盘神器专属文章",
-          "url": "https://flash.jin10.com/detail/20260828150146963800",
+          "title": "上期所：本周铜库存减少17120吨，铝库存减少12299吨，锌库存减少2285吨，铅库存减少1914吨，镍库存减少150吨，锡库存增加363吨，天然橡胶库存增加830吨。",
+          "url": "https://flash.jin10.com/detail/20260828152059112800",
           "heat": "✰"
         },
         {
-          "title": "英国富时100指数8月28日（周五）开盘上涨54.56点，涨幅0.51%，报10847.10点；<br/>法国CAC40指数8月28日（周五）开盘上涨72.63点，涨幅0.87%，报8392.50点；<br/>欧洲斯托克50指数8月28日（周五）开盘上涨44.22点，涨幅0.69%，报6468.95点；<br/>西班牙IBEX35指数8月28日（周五）开盘上涨139.12点，涨幅0.70%，报20020.72点；<br/>意大利富时MIB指数8月28日（周五）开盘上涨454.88点，涨幅0.87%，报52720.00点；<br/>德国DAX30指数8月28日（周五）开盘上涨142.32点，涨幅0.54%，报26498.29点。",
-          "url": "https://flash.jin10.com/detail/20260828150134106800",
-          "heat": false
-        },
-        {
-          "title": "西班牙8月CPI月率初值 0.7%，预期0.60%，前值0.30%。",
-          "url": "https://flash.jin10.com/detail/20260828150131547800",
-          "heat": false
-        },
-        {
-          "title": "西班牙8月调和CPI月率初值 0.6%，预期0.80%，前值0.00%。",
-          "url": "https://flash.jin10.com/detail/20260828150118439800",
-          "heat": false
-        },
-        {
-          "title": "沪深两市今日成交额合计21017.15亿元，中际旭创成交额居首",
-          "url": "https://flash.jin10.com/detail/20260828150114721800",
-          "heat": false
-        },
-        {
-          "title": "股指期货午盘收盘",
-          "url": "https://flash.jin10.com/detail/20260828150109971800",
-          "heat": false
-        },
-        {
-          "title": "午盘收盘，国内期货主力合约涨多跌少，苹果、碳酸锂、钯涨超4%，SC原油涨近4%，沪银、纯碱涨超3%，聚氯乙烯（PVC）、焦煤、玻璃、铂、对二甲苯、沥青涨超2%。跌幅方面，菜籽跌超4%，集运欧线跌近2%，燃料油跌超1%，豆一跌近1%。",
-          "url": "https://flash.jin10.com/detail/20260828150056335800",
+          "title": "国际金爆发性涨势还未真正开启，今晚反弹的门槛其实很低？ | Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260828152052651800",
           "heat": "✰"
         },
         {
-          "title": "西班牙8月CPI年率初值 4.3%，预期4.20%，前值3.60%。",
-          "url": "https://flash.jin10.com/detail/20260828150002198800",
-          "heat": false
-        },
-        {
-          "title": "瑞士8月KOF经济领先指标 106.7，预期103.3，前值由103.5修正为104.2。",
-          "url": "https://flash.jin10.com/detail/20260828150002192800",
-          "heat": "✰"
-        },
-        {
-          "title": "西班牙8月调和CPI年率初值 4.5%，预期4.60%，前值3.90%。",
-          "url": "https://flash.jin10.com/detail/20260828150002190800",
-          "heat": false
-        },
-        {
-          "title": "黄金布局意愿有所升温，或是在为突破性行情提前做准备——增强版同步发布！",
-          "url": "https://flash.jin10.com/detail/20260828145926119800",
-          "heat": "✰"
-        },
-        {
-          "title": "德国10年期国债收益率升至15年高位",
-          "url": "https://flash.jin10.com/detail/20260828145918195800",
-          "heat": false
-        },
-        {
-          "title": "国家发改委：自8月28日24时起，国内汽、柴油（标准品）价格每吨分别上调375元、360元。",
-          "url": "https://flash.jin10.com/detail/20260828145757732800",
-          "heat": "✰"
-        },
-        {
-          "title": "金十数据整理：每日全球外汇市场要闻速递（2026-08-28）",
-          "url": "https://flash.jin10.com/detail/20260828145741454800",
-          "heat": "✰"
-        },
-        {
-          "title": "飞猪：暑期国内酒店间夜量同比增长66% 门票增长近30%",
-          "url": "https://flash.jin10.com/detail/20260828145644212800",
+          "title": "金十图示：北京时间8月28日22:00将有欧元、日元、英镑、加元等外汇期权大单到期，3个行权价10亿以上大单，敬请管理风险。",
+          "url": "https://flash.jin10.com/detail/20260828152048447800",
           "heat": false
         }
       ]
