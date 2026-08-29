@@ -1,6 +1,6 @@
 {
-  "updated": "07:40:29",
-  "total": 284,
+  "updated": "07:45:33",
+  "total": 283,
   "platforms": [
     {
       "id": "zhihu",
@@ -601,11 +601,6 @@
           "heat": ""
         },
         {
-          "title": "今夜，沃什能否拯救美债？或决定AI牛市命运",
-          "url": "https://wallstreetcn.com/articles/3780538",
-          "heat": ""
-        },
-        {
           "title": "“三箭齐发”，中国住房金融制度迎来划时代变革",
           "url": "https://wallstreetcn.com/articles/3780620",
           "heat": ""
@@ -628,6 +623,11 @@
         {
           "title": "华尔街怎么看沃什杰克逊霍尔首秀？鹰派“修正”7月沟通，9月不加息或再伤美联储信誉",
           "url": "https://wallstreetcn.com/articles/3780602",
+          "heat": ""
+        },
+        {
+          "title": "长鑫科技上半年营收1503亿元，同比增873.6%，净利776亿大幅扭亏｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3780561",
           "heat": ""
         },
         {
@@ -1357,8 +1357,28 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 29,
+      "count": 28,
       "items": [
+        {
+          "title": "尼日尔总统府附近发生激烈枪战",
+          "url": "https://flash.jin10.com/detail/20260829153943108800",
+          "heat": false
+        },
+        {
+          "title": "俄罗斯称已打击乌克兰尼古拉耶夫的一处转运站",
+          "url": "https://flash.jin10.com/detail/20260829153724328800",
+          "heat": false
+        },
+        {
+          "title": "当局表示，乌克兰袭击俄罗斯别尔哥罗德地区造成三人死亡。",
+          "url": "https://flash.jin10.com/detail/20260829152143118800",
+          "heat": false
+        },
+        {
+          "title": "百度智能云分拆平台产品事业部：MaaS划入基础设施、Agent独立成军",
+          "url": "https://flash.jin10.com/detail/20260829151445196800",
+          "heat": false
+        },
         {
           "title": "伊朗外汇需求低于预期，央行5亿美元现钞供应仅成交2000万美元",
           "url": "https://flash.jin10.com/detail/20260829150811832800",
@@ -1477,31 +1497,6 @@
         {
           "title": "上半年全国新设外商投资企业3.5万户 同比增长7.0%",
           "url": "https://flash.jin10.com/detail/20260829120115250800",
-          "heat": false
-        },
-        {
-          "title": "水利部：普热普强藏布堰塞湖水面面积继续减小",
-          "url": "https://flash.jin10.com/detail/20260829114930379800",
-          "heat": false
-        },
-        {
-          "title": "OpenAI宣布终止与Cursor合作，因SpaceX已收购该公司",
-          "url": "https://flash.jin10.com/detail/20260829113731268800",
-          "heat": false
-        },
-        {
-          "title": "尼泊尔警方：尼泊尔洪灾死亡人数上升至626人。",
-          "url": "https://flash.jin10.com/detail/20260829112703965800",
-          "heat": false
-        },
-        {
-          "title": "我国首次实现地月双向高速激光通信",
-          "url": "https://flash.jin10.com/detail/20260829112313261800",
-          "heat": false
-        },
-        {
-          "title": "高市早苗内阁支持率持续走低",
-          "url": "https://flash.jin10.com/detail/20260829112042414800",
           "heat": false
         }
       ]
