@@ -1,6 +1,6 @@
 {
-  "updated": "02:15:34",
-  "total": 282,
+  "updated": "02:20:36",
+  "total": 283,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,33 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 27,
+      "count": 28,
       "items": [
+        {
+          "title": "委内瑞拉临时总统：与美国石油协议为期25年，目标是将产量提升至150万桶/日",
+          "url": "https://flash.jin10.com/detail/20260830100811178800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（2026-08-30）",
+          "url": "https://flash.jin10.com/detail/20260830100214248800",
+          "heat": false
+        },
+        {
+          "title": "据华尔街日报：美国将以35%的股份参与委内瑞拉大亨贝坦科特的石油项目。",
+          "url": "https://flash.jin10.com/detail/20260830095546811800",
+          "heat": false
+        },
+        {
+          "title": "委内瑞拉临时总统罗德里格斯：与美国的能源协议将为期25年，协议旨在将产量提高至每日150万桶。委内瑞拉保留对其资源的主权。",
+          "url": "https://flash.jin10.com/detail/20260830095514563800",
+          "heat": false
+        },
+        {
+          "title": "SK海力士CEO：内存芯片短缺将持续至2030年",
+          "url": "https://flash.jin10.com/detail/20260830095441764800",
+          "heat": false
+        },
         {
           "title": "美国国家航空航天局：美国国家航空航天局与SpaceX调整Crew-13发射日期，以解决龙飞船推进系统的氧化剂泄漏问题。",
           "url": "https://flash.jin10.com/detail/20260830093952704800",
@@ -1472,26 +1497,6 @@
         {
           "title": "特朗普6月两度交易“酷澎”，恰逢韩国处罚该公司引发两国争端",
           "url": "https://flash.jin10.com/detail/20260830053054901800",
-          "heat": false
-        },
-        {
-          "title": "伊拉克官员：伊拉克寻求成为伊朗和美国之间的“桥梁”",
-          "url": "https://flash.jin10.com/detail/20260830052026233800",
-          "heat": false
-        },
-        {
-          "title": "SK海力士：对在美国投资持开放态度",
-          "url": "https://flash.jin10.com/detail/20260830050842462800",
-          "heat": false
-        },
-        {
-          "title": "伊拉克总理安全顾问卡西姆·阿拉吉：伊拉克寻求成为伊朗和美国之间的“桥梁”。",
-          "url": "https://flash.jin10.com/detail/20260830044633491800",
-          "heat": false
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社引述以色列媒体“Kan”：沙特曾试图说服美国对也门胡塞武装采取军事行动，但华盛顿拒绝了利雅得的请求。",
-          "url": "https://flash.jin10.com/detail/20260830044248337800",
           "heat": false
         }
       ]
