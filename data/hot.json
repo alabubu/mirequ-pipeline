@@ -1,6 +1,6 @@
 {
-  "updated": "15:40:38",
-  "total": 282,
+  "updated": "15:45:37",
+  "total": 274,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,141 +1357,101 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 27,
+      "count": 19,
       "items": [
         {
-          "title": "高盛首席执行官：我认为目前金融系统状况非常良好。",
-          "url": "https://flash.jin10.com/detail/20260831230912784800",
+          "title": "以色列总理内塔尼亚胡称与希腊达成的防务协议是“以色列防务和技术产业巨大能力的证明”。",
+          "url": "https://flash.jin10.com/detail/20260831234012318800",
           "heat": false
         },
         {
-          "title": "高盛首席执行官：我们必须持续推动更高水平的经济增长，以应对我们的支出和债务水平。",
-          "url": "https://flash.jin10.com/detail/20260831230821607800",
+          "title": "高通(QCOM.O)：Horizon Ultra AI PC将于2026年9月20日起面向企业客户发售。",
+          "url": "https://flash.jin10.com/detail/20260831233944402800",
           "heat": false
         },
         {
-          "title": "美国天然气期货小幅上涨 炎热天气提振制冷需求",
-          "url": "https://flash.jin10.com/detail/20260831230805056800",
+          "title": "高通(QCOM.O)：公司与Humain在LEAP 2026大会上推出搭载骁龙X2 Elite的Horizon Ultra AI PC。",
+          "url": "https://flash.jin10.com/detail/20260831233925849800",
           "heat": false
         },
         {
-          "title": "金十数据整理：欧盘美盘重要新闻汇总（2026-08-31）",
-          "url": "https://flash.jin10.com/detail/20260831230730088800",
-          "heat": "✰"
-        },
-        {
-          "title": "据伊朗努尔新闻：伊朗总统佩泽希齐扬欢迎麦加防御协议。",
-          "url": "https://flash.jin10.com/detail/20260831230730010800",
+          "title": "市场消息：美国钢铁工人联合会暂时延长与美国钢铁(X.N)、克利夫兰-克里夫斯公司的合同，各方将继续进行工会谈判。",
+          "url": "https://flash.jin10.com/detail/20260831233732885800",
           "heat": false
         },
         {
-          "title": "高盛首席执行官：目前，我在信贷系统中没有看到太多风险。",
-          "url": "https://flash.jin10.com/detail/20260831230648072800",
+          "title": "市场消息：美国在一项法院裁决后，解除了针对海地及其他74个国家的签证暂停措施。",
+          "url": "https://flash.jin10.com/detail/20260831233545804800",
           "heat": false
         },
         {
-          "title": "金十提示：美联储主席沃什在北卡罗来纳州举行的G20会议上发言。",
-          "url": "https://flash.jin10.com/detail/20260831230558382800",
+          "title": "美国至8月31日3个月国债竞拍-投标倍数 2.77，前值3.08。",
+          "url": "https://flash.jin10.com/detail/20260831233208283800",
           "heat": false
         },
         {
-          "title": "据福克斯商业新闻：美国财长贝森特正在与俄罗斯代表团会晤。",
-          "url": "https://flash.jin10.com/detail/20260831230519465800",
+          "title": "美国至8月31日3个月国债竞拍-得标利率 3.77%，前值3.72%。",
+          "url": "https://flash.jin10.com/detail/20260831233208186800",
           "heat": false
         },
         {
-          "title": "高盛首席执行官：（谈及美国经济）认为贸易政策和关税在某种程度上是逆风。",
-          "url": "https://flash.jin10.com/detail/20260831230455133800",
+          "title": "美国至8月31日3个月国债竞拍-得标利率配置百分比 66.77%，前值97.66%。",
+          "url": "https://flash.jin10.com/detail/20260831233208185800",
           "heat": false
         },
         {
-          "title": "消息人士：俄罗斯雅罗斯拉夫尔炼油厂在8月28日遭无人机袭击后，其三套原油蒸馏装置中有两套已停产。",
-          "url": "https://flash.jin10.com/detail/20260831230445671800",
+          "title": "美国至8月31日6个月国债竞拍-投标倍数 2.63，前值3.05。",
+          "url": "https://flash.jin10.com/detail/20260831233206880800",
           "heat": false
         },
         {
-          "title": "美联储主席沃什：美国经济增长似乎已有所增强。",
-          "url": "https://flash.jin10.com/detail/20260831230419103800",
+          "title": "美国至8月31日6个月国债竞拍-得标利率配置百分比 49.27%，前值59.64%。",
+          "url": "https://flash.jin10.com/detail/20260831233206857800",
           "heat": false
         },
         {
-          "title": "高盛首席执行官：（谈及美国经济）经济表现良好。",
-          "url": "https://flash.jin10.com/detail/20260831230401564800",
+          "title": "美国至8月31日6个月国债竞拍-得标利率 3.885%，前值3.79%。",
+          "url": "https://flash.jin10.com/detail/20260831233206856800",
           "heat": false
         },
         {
-          "title": "高盛首席执行官：美国消费者仍相当有韧性。",
-          "url": "https://flash.jin10.com/detail/20260831230324182800",
+          "title": "伊朗副外长：美国新制裁效果有限，不会波及伊朗经济新领域",
+          "url": "https://flash.jin10.com/detail/20260831232924226800",
           "heat": false
         },
         {
-          "title": "高盛首席执行官：关税对经济构成阻力。",
-          "url": "https://flash.jin10.com/detail/20260831230318221800",
+          "title": "美国副总统万斯：（谈及委内瑞拉石油交易）我们将看到产量大幅提升。",
+          "url": "https://flash.jin10.com/detail/20260831232222101800",
           "heat": false
         },
         {
-          "title": "特斯拉(TSLA.O)股价刷新逾一周以来新高，现涨4.5%。",
-          "url": "https://flash.jin10.com/detail/20260831230306713800",
+          "title": "美国副总统万斯：美国总统特朗普正在向伊朗传递一个信息——停止（挑衅）否则将面临后果。",
+          "url": "https://flash.jin10.com/detail/20260831232200298800",
           "heat": false
         },
         {
-          "title": "美联储和财政部“各打各的”，黄金被夹在政策博弈中",
-          "url": "https://flash.jin10.com/detail/20260831230144418800",
-          "heat": "✰"
-        },
-        {
-          "title": "微创医疗：二零二六年中期业绩延迟，九月一日暂停买卖",
-          "url": "https://flash.jin10.com/detail/20260831230124844800",
+          "title": "美国副总统万斯：（关于伊朗）认为美国总统特朗普通过有关哈尔克岛的帖子向伊朗传递信息。",
+          "url": "https://flash.jin10.com/detail/20260831232124004800",
           "heat": false
         },
         {
-          "title": "截至23:00收盘，国内期货主力合约涨跌不一。对二甲苯、聚氯乙烯（PVC）、聚氯乙烯（PVC）月均价、甲醇涨超3%，乙二醇（EG）、瓶片、沥青、塑料月均价涨近3%。跌幅方面，焦炭、焦煤、菜油、豆一跌超1%，菜粕、铁矿石、螺纹钢、热卷跌近1%。",
-          "url": "https://flash.jin10.com/detail/20260831230030226800",
-          "heat": "✰"
-        },
-        {
-          "title": "沃什只是前菜，9月三场风暴已排期！",
-          "url": "https://flash.jin10.com/detail/20260831230018210800",
+          "title": "伊朗总统府：伊朗总统佩泽希齐扬向巴基斯坦总理确认，若对方履行承诺，伊朗已准备好执行谅解备忘录。",
+          "url": "https://flash.jin10.com/detail/20260831231741256800",
           "heat": false
         },
         {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850609&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/08/IwyyLao1HOczlitYLgZ84.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260831230015981800",
+          "title": "阿布扎比国家石油公司在战争影响后恢复满负荷运转",
+          "url": "https://flash.jin10.com/detail/20260831231644936800",
           "heat": false
         },
         {
-          "title": "伊朗议会国家安全和外交政策委员会主席阿齐兹：霍尔木兹海峡的安全仅由伊朗这唯一一个主权国家来保障。",
-          "url": "https://flash.jin10.com/detail/20260831225852546800",
+          "title": "市场消息：阿布扎比国家石油公司在遭受战争影响后恢复至满负荷生产。",
+          "url": "https://flash.jin10.com/detail/20260831231415300800",
           "heat": false
         },
         {
-          "title": "欧盟将对ChatGPT等3家美国服务平台加强监管",
-          "url": "https://flash.jin10.com/detail/20260831225626307800",
-          "heat": false
-        },
-        {
-          "title": "印度最大石油生产商将投资7.36亿美元建设战略储备",
-          "url": "https://flash.jin10.com/detail/20260831225533839800",
-          "heat": false
-        },
-        {
-          "title": "伊朗称超过90%的导弹仍可投入使用",
-          "url": "https://flash.jin10.com/detail/20260831225109229800",
-          "heat": false
-        },
-        {
-          "title": "法国总统马克龙：瑞典战略协议有助于支持法国前沿核威慑。",
-          "url": "https://flash.jin10.com/detail/20260831224934226800",
-          "heat": false
-        },
-        {
-          "title": "伊朗议员联名信：汇率波动背后不只是战争与投机",
-          "url": "https://flash.jin10.com/detail/20260831224819384800",
-          "heat": false
-        },
-        {
-          "title": "法国总统马克龙：其他欧洲盟友可能会随后加入“护卫舰俱乐部”。",
-          "url": "https://flash.jin10.com/detail/20260831224709396800",
+          "title": "伊朗总统府：伊朗总统佩泽希齐扬向巴基斯坦总理明确表示，必须避免战争，要在地区实现和平与安全。",
+          "url": "https://flash.jin10.com/detail/20260831231213008800",
           "heat": false
         }
       ]
