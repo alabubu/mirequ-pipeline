@@ -1,6 +1,6 @@
 {
-  "updated": "22:40:34",
-  "total": 278,
+  "updated": "22:45:34",
+  "total": 282,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,58 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 23,
+      "count": 27,
       "items": [
+        {
+          "title": "贝森特与日本央行行长及财务大臣相继会谈 称日本有必要明确加息路线",
+          "url": "https://flash.jin10.com/detail/20260901064024559800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：美国国务院批准以8亿美元向伊拉克出售直升机的潜在交易。",
+          "url": "https://flash.jin10.com/detail/20260901063950867800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：昨日今晨重要新闻汇总（2026-09-01）",
+          "url": "https://flash.jin10.com/detail/20260901063432804800",
+          "heat": "✰"
+        },
+        {
+          "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1042.357吨，较前一个交易日维持不变。",
+          "url": "https://flash.jin10.com/detail/20260901062910069800",
+          "heat": false
+        },
+        {
+          "title": "“沙德尔”再度加强为台风",
+          "url": "https://flash.jin10.com/detail/20260901062900444800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（9月1日）",
+          "url": "https://flash.jin10.com/detail/20260901061908596800",
+          "heat": false
+        },
+        {
+          "title": "特朗普呼吁两党立法振兴美国影视制作业",
+          "url": "https://flash.jin10.com/detail/20260901061806760800",
+          "heat": false
+        },
+        {
+          "title": "英国财政部：英国国家犯罪局针对俄罗斯的A7制裁规避网络发布全国警报，英国财政大臣希利将违反制裁的最高罚款提高至100%。",
+          "url": "https://flash.jin10.com/detail/20260901061725543800",
+          "heat": false
+        },
+        {
+          "title": "金十数据整理：中东局势跟踪（9月1日）",
+          "url": "https://flash.jin10.com/detail/20260901061406455800",
+          "heat": "✰"
+        },
+        {
+          "title": "美联储9月维持利率不变的概率为34.6%",
+          "url": "https://flash.jin10.com/detail/20260901060358136800",
+          "heat": false
+        },
         {
           "title": "美国SEC和CFTC第四次推迟对冲基金披露要求",
           "url": "https://flash.jin10.com/detail/20260901060252999800",
@@ -1442,36 +1492,6 @@
         {
           "title": "特朗普被问是否排除对伊使用核武：很蠢的问题",
           "url": "https://flash.jin10.com/detail/20260901044625252800",
-          "heat": false
-        },
-        {
-          "title": "五角大楼将Grok和ChatGPT纳入军事系统",
-          "url": "https://flash.jin10.com/detail/20260901044615334800",
-          "heat": false
-        },
-        {
-          "title": "极端天气致以色列多地供水受影响",
-          "url": "https://flash.jin10.com/detail/20260901044004313800",
-          "heat": false
-        },
-        {
-          "title": "据华尔街日报：由商人贝坦古尔特（Betancourt）运营的委内瑞拉石油公司计划未来几年向委内瑞拉派遣超过50台钻井设备。",
-          "url": "https://flash.jin10.com/detail/20260901043647019800",
-          "heat": false
-        },
-        {
-          "title": "洲际交易所：自10月5日交易日起，洲际交易所将挂牌交易金融天然气凝液、美国地区实物原油、美洲原油以及美国原油期货期权合约。",
-          "url": "https://flash.jin10.com/detail/20260901043608296800",
-          "heat": false
-        },
-        {
-          "title": "美国总统特朗普：我们不需要他们的产品。所以，如果我们切断与那个国家的贸易，我们就净赚400亿美元。多找几个这样的国家，我们就成了一台超级赚钱机器。",
-          "url": "https://flash.jin10.com/detail/20260901042528895800",
-          "heat": false
-        },
-        {
-          "title": "美最高法院叫停下级法院禁令 特朗普白宫新舞厅建设获准推进",
-          "url": "https://flash.jin10.com/detail/20260901042416630800",
           "heat": false
         }
       ]
