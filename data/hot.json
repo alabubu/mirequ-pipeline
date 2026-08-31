@@ -1,6 +1,6 @@
 {
-  "updated": "19:10:32",
-  "total": 280,
+  "updated": "19:15:37",
+  "total": 281,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,108 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 25,
+      "count": 26,
       "items": [
+        {
+          "title": "美国总统特朗普：又有九家制药公司承诺降低药品价格。",
+          "url": "https://flash.jin10.com/detail/20260901031008870800",
+          "heat": false
+        },
+        {
+          "title": "美国总统特朗普在声明中提到了全球性肿瘤药企BeOne Medicines和澳大利亚全球性生物技术公司 CSL。",
+          "url": "https://flash.jin10.com/detail/20260901030957547800",
+          "heat": false
+        },
+        {
+          "title": "美国总统特朗普宣布新的药品定价协议。",
+          "url": "https://flash.jin10.com/detail/20260901030823073800",
+          "heat": false
+        },
+        {
+          "title": "美国总统特朗普就医疗可负担性发表声明。",
+          "url": "https://flash.jin10.com/detail/20260901030807164800",
+          "heat": false
+        },
+        {
+          "title": "据卡塔尔通讯社：海湾合作委员会谴责伊朗对约旦的攻击。",
+          "url": "https://flash.jin10.com/detail/20260901030501672800",
+          "heat": false
+        },
+        {
+          "title": "恒指期货夜盘收跌0.42%，报25346点，低水221点。",
+          "url": "https://flash.jin10.com/detail/20260901030343701800",
+          "heat": false
+        },
+        {
+          "title": "Meta Platforms CEO扎克伯格：Meta Platforms(META.O)为Muse Code推出按月付费订阅计划。",
+          "url": "https://flash.jin10.com/detail/20260901030259421800",
+          "heat": false
+        },
+        {
+          "title": "Meta Platforms CEO扎克伯格：Meta Platforms(META.O)推出AI编程工具“Muse Code”。",
+          "url": "https://flash.jin10.com/detail/20260901030236250800",
+          "heat": false
+        },
+        {
+          "title": "美国向炼油商批准自2017年以来最高水平的生物燃料豁免。",
+          "url": "https://flash.jin10.com/detail/20260901025927695800",
+          "heat": false
+        },
+        {
+          "title": "数据中心建设面临民意阻力 AI巨头出手游说",
+          "url": "https://flash.jin10.com/detail/20260901025858423800",
+          "heat": false
+        },
+        {
+          "title": "美国环保署：批准18项申请的全部豁免，批准11项申请的50%豁免，驳回3项申请，并认定2项申请不符合资格。",
+          "url": "https://flash.jin10.com/detail/20260901025602484800",
+          "heat": false
+        },
+        {
+          "title": "美国环保署：宣布对34家小型炼油厂提出的34项豁免申请作出决定。",
+          "url": "https://flash.jin10.com/detail/20260901025545854800",
+          "heat": false
+        },
+        {
+          "title": "伊朗革命卫队：目前首要重点是威慑 并非战争或谈判",
+          "url": "https://flash.jin10.com/detail/20260901025437432800",
+          "heat": "✰"
+        },
+        {
+          "title": "美国环保署：将2025合规年度可再生燃料标准合规报告截止日期从2026年9月1日延长至2026年10月1日。",
+          "url": "https://flash.jin10.com/detail/20260901025341035800",
+          "heat": false
+        },
+        {
+          "title": "据相关声明：美国环保署宣布延长2025合规年度可再生燃料标准合规报告截止日期。",
+          "url": "https://flash.jin10.com/detail/20260901025155114800",
+          "heat": false
+        },
+        {
+          "title": "欧盟委员会：欧盟自周四起暂停从巴西进口肉类。",
+          "url": "https://flash.jin10.com/detail/20260901025048041800",
+          "heat": false
+        },
+        {
+          "title": "据阿拉比亚电视台：也门政府军无人机打击胡塞武装在萨达省巴吉姆地区的阵地、工事及车辆。",
+          "url": "https://flash.jin10.com/detail/20260901024740719800",
+          "heat": false
+        },
+        {
+          "title": "据伊通社（IRNA）：伊朗能源部长表示，随着发电扩容和用电管理计划推进，伊朗将很快实现电力供应完全自给自足。",
+          "url": "https://flash.jin10.com/detail/20260901024533534800",
+          "heat": false
+        },
+        {
+          "title": "布伦特原油期货结算价为每桶90.49美元，上涨2.39美元，涨幅2.71%。",
+          "url": "https://flash.jin10.com/detail/20260901024453972800",
+          "heat": false
+        },
+        {
+          "title": "亚马逊云服务(AWS)：亚马逊云推出与微软Azure连接的多云互通服务测试版，今天起在美国、澳大利亚悉尼和德国法兰克福等地区开放使用。",
+          "url": "https://flash.jin10.com/detail/20260901024255232800",
+          "heat": false
+        },
         {
           "title": "亚马逊云服务(AWS)与微软(MSFT.O)Azure合作扩展多云网络。",
           "url": "https://flash.jin10.com/detail/20260901024052448800",
@@ -1387,101 +1487,6 @@
         {
           "title": "据相关法院记录显示，美国超过20个州加入了联邦贸易委员会对亚马逊(AMZN.O)的诉讼。",
           "url": "https://flash.jin10.com/detail/20260901022725187800",
-          "heat": false
-        },
-        {
-          "title": "据相关法院记录显示，美国联邦贸易委员会起诉亚马逊(AMZN.O)。",
-          "url": "https://flash.jin10.com/detail/20260901022622995800",
-          "heat": false
-        },
-        {
-          "title": "苹果老将席勒卸任App Store及发布会负责人",
-          "url": "https://flash.jin10.com/detail/20260901022527312800",
-          "heat": false
-        },
-        {
-          "title": "比拉梅·迪奥普就任新一届西共体委员会主席",
-          "url": "https://flash.jin10.com/detail/20260901021729837800",
-          "heat": false
-        },
-        {
-          "title": "据伊朗媒体Fars News：伊朗交通部长表示，在战争期间，多名飞行员在执行药品运输任务时遭到袭击。",
-          "url": "https://flash.jin10.com/detail/20260901021640582800",
-          "heat": false
-        },
-        {
-          "title": "美国交通部长达菲：特朗普政府即将宣布大幅降低车辆燃油经济性标准。",
-          "url": "https://flash.jin10.com/detail/20260901021429372800",
-          "heat": false
-        },
-        {
-          "title": "据日经新闻：日本宫城县正争取SK海力士(SKHY.O)赴当地建设先进存储芯片工厂，但面临美国争夺投资以及韩国对技术外泄的担忧。",
-          "url": "https://flash.jin10.com/detail/20260901020903041800",
-          "heat": false
-        },
-        {
-          "title": "美官员：特朗普或批准重启对伊朗的打击行动",
-          "url": "https://flash.jin10.com/detail/20260901020619512800",
-          "heat": "✰"
-        },
-        {
-          "title": "美国FTC拟起诉亚马逊操纵广告价格 七年牟取数百亿美元",
-          "url": "https://flash.jin10.com/detail/20260901020528476800",
-          "heat": false
-        },
-        {
-          "title": "美国海军：“北达科他”号核潜艇完成维修升级，已于8月29日提前重返舰队并恢复作战状态。",
-          "url": "https://flash.jin10.com/detail/20260901020331265800",
-          "heat": false
-        },
-        {
-          "title": "亚马逊(AMZN.O)短线下挫，跌超3%，创盘中低位。消息面上，美国联邦贸易委员会计划于周一对亚马逊提起诉讼。",
-          "url": "https://flash.jin10.com/detail/20260901020325633800",
-          "heat": "✰"
-        },
-        {
-          "title": "据华尔街日报：美国联邦贸易委员会官员表示，计划于周一对亚马逊(AMZN.O)提起诉讼。",
-          "url": "https://flash.jin10.com/detail/20260901020056932800",
-          "heat": false
-        },
-        {
-          "title": "据沙特阿拉伯阿拉比亚电视台：波兰方面表示在波罗的海拦截了一架俄罗斯侦察机。",
-          "url": "https://flash.jin10.com/detail/20260901015904929800",
-          "heat": false
-        },
-        {
-          "title": "据Axios：美国总统特朗普要求苹果(AAPL.O)在地图上将安大略湖更名为“美国湖”。",
-          "url": "https://flash.jin10.com/detail/20260901015755346800",
-          "heat": false
-        },
-        {
-          "title": "据加拿大当地政界人士透露，比亚迪已就收购Stellantis位于多伦多郊区的闲置汽车工厂进行询价。",
-          "url": "https://flash.jin10.com/detail/20260901015221068800",
-          "heat": false
-        },
-        {
-          "title": "伊朗最高领袖办公室称，伊朗将对2577名罪犯实施赦免、减刑或改判。",
-          "url": "https://flash.jin10.com/detail/20260901015048905800",
-          "heat": false
-        },
-        {
-          "title": "基辅市长：在霍洛西伊夫区，一架无人机残骸坠落在路边，应急部门已赶赴现场。",
-          "url": "https://flash.jin10.com/detail/20260901014712326800",
-          "heat": false
-        },
-        {
-          "title": "据以色列总理办公室发布的照片显示，总理内塔尼亚胡在摩萨德总部与摩萨德局长罗曼·戈夫曼举行会晤。",
-          "url": "https://flash.jin10.com/detail/20260901014200782800",
-          "heat": false
-        },
-        {
-          "title": "据日经新闻：日本寻求争取承办全面进步跨太平洋伙伴关系协定（CPTPP）秘书处。",
-          "url": "https://flash.jin10.com/detail/20260901014002210800",
-          "heat": false
-        },
-        {
-          "title": "市场消息：Nscale为德克萨斯州沃德县和麦迪逊县的AI部署项目完成了约30亿美元的融资。",
-          "url": "https://flash.jin10.com/detail/20260901013732141800",
           "heat": false
         }
       ]
