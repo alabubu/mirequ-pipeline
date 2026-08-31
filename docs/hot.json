@@ -1,12 +1,113 @@
 {
-  "updated": "18:00:56",
-  "total": 175,
+  "updated": "18:05:30",
+  "total": 279,
   "platforms": [
     {
       "id": "zhihu",
       "name": "知乎",
-      "count": 0,
-      "items": []
+      "count": 20,
+      "items": [
+        {
+          "title": "新版《国防动员法》2026 年 10 月 1 日实施，哪些信息值得关注？会带来什么影响？",
+          "url": "https://www.zhihu.com/question/2076954184558047646",
+          "heat": "425 万热度"
+        },
+        {
+          "title": "杨瀚森准绝杀！男篮世预赛第二阶段，中国男篮 89:87 战胜黎巴嫩男篮，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2077708039566659709",
+          "heat": "355 万热度"
+        },
+        {
+          "title": "中小学开学选班主任真的「堪比泰国征兵现场」吗？为什么年轻人不爱当班主任了？班主任的一天都要干啥？",
+          "url": "https://www.zhihu.com/question/2077535461820592872",
+          "heat": "286 万热度"
+        },
+        {
+          "title": "济南一小区选择不要物业公司，居民自己管自己，一户一天一块钱，怎样看待这种方式？有哪些利弊？",
+          "url": "https://www.zhihu.com/question/2077786847460026340",
+          "heat": "232 万热度"
+        },
+        {
+          "title": "怎么看 OpenAI 的 Codex 将取消上下文压缩，换成「硬切窗口 」和「外部记忆」？",
+          "url": "https://www.zhihu.com/question/2077507444545165165",
+          "heat": "177 万热度"
+        },
+        {
+          "title": "宇树股价「腰斩」从 1100 跌至 555 元，机器人第一股 2200 亿蒸发，有哪些原因和影响？",
+          "url": "https://www.zhihu.com/question/2077739048634946054",
+          "heat": "156 万热度"
+        },
+        {
+          "title": "中国女排无缘亚锦赛冠军，赛后很多网友呼吁召回朱婷，为什么中国女排不召回朱婷？一个朱婷能解决所有问题吗？",
+          "url": "https://www.zhihu.com/question/2077683343475176196",
+          "heat": "135 万热度"
+        },
+        {
+          "title": "餐饮店用来「过油」的油，炸了那么多不同种类的食物，再用来炒菜难道不会串味吗?",
+          "url": "https://www.zhihu.com/question/2014321032002036362",
+          "heat": "132 万热度"
+        },
+        {
+          "title": "年薪 60+ 万，一手提拔我的领导跟公司大老板有分歧，要我辞职跟他去创业，我该怎么办？",
+          "url": "https://www.zhihu.com/question/2075219931705119529",
+          "heat": "130 万热度"
+        },
+        {
+          "title": "武器里面有哪些违反直觉的设计？",
+          "url": "https://www.zhihu.com/question/1987593216678195666",
+          "heat": "98 万热度"
+        },
+        {
+          "title": "演员王鸥发文称正独自养育一个孩子，对此你有哪些祝福？",
+          "url": "https://www.zhihu.com/question/2077802961162301807",
+          "heat": "97 万热度"
+        },
+        {
+          "title": "尼泊尔泥石流灾害已致 903 人遇难，4247 人失联，目前当地救援情况如何？",
+          "url": "https://www.zhihu.com/question/2077738468134708619",
+          "heat": "95 万热度"
+        },
+        {
+          "title": "女子工作 6 年多被迫离职，最后半个月工资仅 55 元，被踢出 845 个工作群，维权历经近一年，为什么这么难？",
+          "url": "https://www.zhihu.com/question/2077550784615539428",
+          "heat": "94 万热度"
+        },
+        {
+          "title": "Kimi K3 的实际表现真有被吹捧的那么强吗？",
+          "url": "https://www.zhihu.com/question/2063649731096614014",
+          "heat": "93 万热度"
+        },
+        {
+          "title": "玄幻小说中的那些号称「全知全能」的 BOSS 为什么不在早期就消灭掉主角?",
+          "url": "https://www.zhihu.com/question/2034991469417714411",
+          "heat": "76 万热度"
+        },
+        {
+          "title": "美军袭击伊朗拉腊克岛，这是美军一个月来首次对伊采取军事行动，伊方誓言报复，本次冲突会升级吗？",
+          "url": "https://www.zhihu.com/question/2077683153028888495",
+          "heat": "75 万热度"
+        },
+        {
+          "title": "为什么这个世界上存在有电影院，但没有游戏院的说法呢？",
+          "url": "https://www.zhihu.com/question/2072412309545301574",
+          "heat": "75 万热度"
+        },
+        {
+          "title": "悟透了什么道理之后让你的人生越来越顺了？",
+          "url": "https://www.zhihu.com/question/3269055313",
+          "heat": "74 万热度"
+        },
+        {
+          "title": "在足球或篮球等项目中，有没有球员在俱乐部只是蓝领角色，但在国家队却是绝对核心的案例？",
+          "url": "https://www.zhihu.com/question/2077008189174833858",
+          "heat": "72 万热度"
+        },
+        {
+          "title": "在家吃火锅，怎样才能做出比店里还好吃的味道？",
+          "url": "https://www.zhihu.com/question/1955952470686667537",
+          "heat": "71 万热度"
+        }
+      ]
     },
     {
       "id": "weibo",
@@ -168,8 +269,159 @@
     {
       "id": "douyin",
       "name": "抖音",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "杨瀚森绝杀",
+          "url": "https://www.douyin.com/hot/2631032",
+          "heat": ""
+        },
+        {
+          "title": "西藏泥石流已致16死546失联",
+          "url": "https://www.douyin.com/hot/2625118",
+          "heat": ""
+        },
+        {
+          "title": "多架次直升机驰援吉隆灾区",
+          "url": "https://www.douyin.com/hot/2630933",
+          "heat": ""
+        },
+        {
+          "title": "中国男篮89:87黎巴嫩男篮",
+          "url": "https://www.douyin.com/hot/2630864",
+          "heat": ""
+        },
+        {
+          "title": "沙德尔残涡或重新加强为台风",
+          "url": "https://www.douyin.com/hot/2630295",
+          "heat": ""
+        },
+        {
+          "title": "开学与家人临别那一刻",
+          "url": "https://www.douyin.com/hot/2629212",
+          "heat": ""
+        },
+        {
+          "title": "中式早餐包罗万味",
+          "url": "https://www.douyin.com/hot/2630243",
+          "heat": ""
+        },
+        {
+          "title": "穿成想成为的样子",
+          "url": "https://www.douyin.com/hot/2630279",
+          "heat": ""
+        },
+        {
+          "title": "江苏省委常委刘建洋被查",
+          "url": "https://www.douyin.com/hot/2630924",
+          "heat": ""
+        },
+        {
+          "title": "分别总是在九月 回忆是思念的愁",
+          "url": "https://www.douyin.com/hot/2630768",
+          "heat": ""
+        },
+        {
+          "title": "预习我的早秋穿搭",
+          "url": "https://www.douyin.com/hot/2630453",
+          "heat": ""
+        },
+        {
+          "title": "尼泊尔泥石流已致超900人遇难",
+          "url": "https://www.douyin.com/hot/2630315",
+          "heat": ""
+        },
+        {
+          "title": "首批“20后”开始上小学啦",
+          "url": "https://www.douyin.com/hot/2630639",
+          "heat": ""
+        },
+        {
+          "title": "军工贸易公司骨干沦为双料间谍",
+          "url": "https://www.douyin.com/hot/2629933",
+          "heat": ""
+        },
+        {
+          "title": "看完早春晴朗的后遗症",
+          "url": "https://www.douyin.com/hot/2630752",
+          "heat": ""
+        },
+        {
+          "title": "全抖音都在找luke",
+          "url": "https://www.douyin.com/hot/2630963",
+          "heat": ""
+        },
+        {
+          "title": "你怎么舍得让我的泪流向海",
+          "url": "https://www.douyin.com/hot/2629533",
+          "heat": ""
+        },
+        {
+          "title": "幸福和快乐是结局",
+          "url": "https://www.douyin.com/hot/2629486",
+          "heat": ""
+        },
+        {
+          "title": "写给00后的一封信英文版",
+          "url": "https://www.douyin.com/hot/2629753",
+          "heat": ""
+        },
+        {
+          "title": "人们常在开学前一天回忆假期",
+          "url": "https://www.douyin.com/hot/2630513",
+          "heat": ""
+        },
+        {
+          "title": "上学路“修”到了云端",
+          "url": "https://www.douyin.com/hot/2630913",
+          "heat": ""
+        },
+        {
+          "title": "首部AI长剧后西游记开播",
+          "url": "https://www.douyin.com/hot/2630543",
+          "heat": ""
+        },
+        {
+          "title": "徐艺洋黄子韬终于正经一次",
+          "url": "https://www.douyin.com/hot/2630974",
+          "heat": ""
+        },
+        {
+          "title": "HangHang挑战赛冠军找到了",
+          "url": "https://www.douyin.com/hot/2631014",
+          "heat": ""
+        },
+        {
+          "title": "开学前最后一条视频",
+          "url": "https://www.douyin.com/hot/2630305",
+          "heat": ""
+        },
+        {
+          "title": "飞到我心上开播",
+          "url": "https://www.douyin.com/hot/2630122",
+          "heat": ""
+        },
+        {
+          "title": "井柏然进行曲音乐起",
+          "url": "https://www.douyin.com/hot/2629892",
+          "heat": ""
+        },
+        {
+          "title": "马嘉祺EP心室试听",
+          "url": "https://www.douyin.com/hot/2630833",
+          "heat": ""
+        },
+        {
+          "title": "天聋地哑孤独怎么会是惩罚",
+          "url": "https://www.douyin.com/hot/2630536",
+          "heat": ""
+        },
+        {
+          "title": "被自己的可爱贴纸萌到了",
+          "url": "https://www.douyin.com/hot/2630450",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "bilibili-hot-search",
@@ -948,14 +1200,286 @@
     {
       "id": "toutiao",
       "name": "今日头条",
-      "count": 0,
-      "items": []
+      "count": 30,
+      "items": [
+        {
+          "title": "网友意外拍到泥石流暴发瞬间",
+          "url": "https://www.toutiao.com/trending/7679390702224051775/",
+          "heat": ""
+        },
+        {
+          "title": "杨瀚森绝杀 中国男篮险胜黎巴嫩",
+          "url": "https://www.toutiao.com/trending/7680184733321399851/",
+          "heat": ""
+        },
+        {
+          "title": "感受中国服贸增长强劲动能",
+          "url": "https://www.toutiao.com/trending/7679720793416679467/",
+          "heat": ""
+        },
+        {
+          "title": "情侣住酒店145天将房间变成垃圾场",
+          "url": "https://www.toutiao.com/trending/7680035430733824019/",
+          "heat": ""
+        },
+        {
+          "title": "美国炸鸡巨头中国首店开业",
+          "url": "https://www.toutiao.com/trending/7680143828572966426/",
+          "heat": ""
+        },
+        {
+          "title": "电脑两个月从一万二涨到一万七",
+          "url": "https://www.toutiao.com/trending/7679783766550315050/",
+          "heat": ""
+        },
+        {
+          "title": "俄罗斯为何要向中国购买破冰货轮",
+          "url": "https://www.toutiao.com/trending/7680114865947545115/",
+          "heat": ""
+        },
+        {
+          "title": "特朗普在加拿大的实名认证地标要没了",
+          "url": "https://www.toutiao.com/trending/7680204181482769962/",
+          "heat": ""
+        },
+        {
+          "title": "江苏省委组织部部长刘建洋被查",
+          "url": "https://www.toutiao.com/trending/7680163695116795950/",
+          "heat": ""
+        },
+        {
+          "title": "吉隆口岸核心区现存建筑仅剩水塔",
+          "url": "https://www.toutiao.com/trending/7679429995109990436/",
+          "heat": ""
+        },
+        {
+          "title": "“外卖员向饮料里加百草枯”系谣言",
+          "url": "https://www.toutiao.com/trending/7679617565794094646/",
+          "heat": ""
+        },
+        {
+          "title": "包贝尔因出轨风波新剧被除名",
+          "url": "https://www.toutiao.com/trending/7679680466010013702/",
+          "heat": ""
+        },
+        {
+          "title": "日本男星电车内性侵女高中生被捕",
+          "url": "https://www.toutiao.com/trending/7680146632003960838/",
+          "heat": ""
+        },
+        {
+          "title": "中国男人为什么突然不爱皮鞋了",
+          "url": "https://www.toutiao.com/trending/7679838986369502763/",
+          "heat": ""
+        },
+        {
+          "title": "尼泊尔一侧失联中国公民近百人",
+          "url": "https://www.toutiao.com/trending/7679987182568800298/",
+          "heat": ""
+        },
+        {
+          "title": "王俊杰替补拿下11分5篮板1抢断",
+          "url": "https://www.toutiao.com/trending/7679999917033701439/",
+          "heat": ""
+        },
+        {
+          "title": "662分考生高考出分后和父亲实地探校",
+          "url": "https://www.toutiao.com/trending/7680101161253371955/",
+          "heat": ""
+        },
+        {
+          "title": "韩副总理欲坐飞机赴美却得知职位不保",
+          "url": "https://www.toutiao.com/trending/7679218383044529727/",
+          "heat": ""
+        },
+        {
+          "title": "战友 我们等你们回来签收快递",
+          "url": "https://www.toutiao.com/trending/7679686575811297290/",
+          "heat": ""
+        },
+        {
+          "title": "茶饮店模特半裸出任一日店长引争议",
+          "url": "https://www.toutiao.com/trending/7680079646913905162/",
+          "heat": ""
+        },
+        {
+          "title": "演员王鸥：我目前独自养育一个孩子",
+          "url": "https://www.toutiao.com/trending/7680034439359348790/",
+          "heat": ""
+        },
+        {
+          "title": "罗永浩再怒斥电视机厂商",
+          "url": "https://www.toutiao.com/trending/7680106886075777065/",
+          "heat": ""
+        },
+        {
+          "title": "家电三巨头集体“造人”",
+          "url": "https://www.toutiao.com/trending/7680182518041021988/",
+          "heat": ""
+        },
+        {
+          "title": "班主任何时变成了“烫手山芋”",
+          "url": "https://www.toutiao.com/trending/7680000536682725417/",
+          "heat": ""
+        },
+        {
+          "title": "为什么建议35岁就开始控糖",
+          "url": "https://www.toutiao.com/trending/7679793017007472650/",
+          "heat": ""
+        },
+        {
+          "title": "“子涵梓萱”的时代已经过去",
+          "url": "https://www.toutiao.com/trending/7679861057686601764/",
+          "heat": ""
+        },
+        {
+          "title": "大连蓝天救援车被指售卖祭祀用品",
+          "url": "https://www.toutiao.com/trending/7680182675856146474/",
+          "heat": ""
+        },
+        {
+          "title": "马杜罗狱中近照曝光：双手比耶",
+          "url": "https://www.toutiao.com/trending/7680069765401939499/",
+          "heat": ""
+        },
+        {
+          "title": "绿营人士力挺统一释放什么信号",
+          "url": "https://www.toutiao.com/trending/7679986506375381002/",
+          "heat": ""
+        },
+        {
+          "title": "杨鸣现身中国男篮世预赛现场",
+          "url": "https://www.toutiao.com/trending/7680128718480539667/",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 0,
-      "items": []
+      "count": 24,
+      "items": [
+        {
+          "title": "据日经新闻：日本寻求争取承办全面进步跨太平洋伙伴关系协定（CPTPP）秘书处。",
+          "url": "https://flash.jin10.com/detail/20260901014002210800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：Nscale为德克萨斯州沃德县和麦迪逊县的AI部署项目完成了约30亿美元的融资。",
+          "url": "https://flash.jin10.com/detail/20260901013732141800",
+          "heat": false
+        },
+        {
+          "title": "伊朗武装力量：将对任何利用地区国家领土、领空或海域攻击伊朗的行动予以“远超对等”的回击。美军除了撤出该地区别无选择。",
+          "url": "https://flash.jin10.com/detail/20260901013613087800",
+          "heat": false
+        },
+        {
+          "title": "俄罗斯总统普京在比什凯克出席上海合作组织峰会期间与哈萨克斯坦总统托卡耶夫举行会晤。",
+          "url": "https://flash.jin10.com/detail/20260901013108200800",
+          "heat": false
+        },
+        {
+          "title": "俄罗斯国防部：当天俄境内多个地区共击落180架乌克兰无人机。",
+          "url": "https://flash.jin10.com/detail/20260901013001497800",
+          "heat": false
+        },
+        {
+          "title": "英国保守党表示，克里斯·菲尔普（Chris Philp）将继续担任影子内政大臣。",
+          "url": "https://flash.jin10.com/detail/20260901012920428800",
+          "heat": false
+        },
+        {
+          "title": "伊朗：结束战争很简单 仅需美国履行承诺",
+          "url": "https://flash.jin10.com/detail/20260901012750980800",
+          "heat": false
+        },
+        {
+          "title": "市场消息：投资机构Dragoneer计划利用所持OpenAI和SpaceX等资产，为一只旨在继续长期持有现有资产的新基金募集20亿美元。",
+          "url": "https://flash.jin10.com/detail/20260901012413005800",
+          "heat": false
+        },
+        {
+          "title": "瑞士议会委员会：关于资本要求的最终决定可能要到2027年才能作出。",
+          "url": "https://flash.jin10.com/detail/20260901012124317800",
+          "heat": false
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的67.26亿美元。",
+          "url": "https://flash.jin10.com/detail/20260901011602781800",
+          "heat": false
+        },
+        {
+          "title": "国际货币基金组织发言人：国际货币基金组织赴塞内加尔代表团的工作已取得“实质性进展”。",
+          "url": "https://flash.jin10.com/detail/20260901011508525800",
+          "heat": false
+        },
+        {
+          "title": "瑞士议会委员会主席：这不是瑞银(UBS.N)的胜利，而是服务于瑞士的解决方案。",
+          "url": "https://flash.jin10.com/detail/20260901011431039800",
+          "heat": false
+        },
+        {
+          "title": "消息人士：国际货币基金组织（IMF）完成对塞内加尔的考察后，预计将取得“积极进展”。",
+          "url": "https://flash.jin10.com/detail/20260901011408825800",
+          "heat": false
+        },
+        {
+          "title": "据黎巴嫩通讯社：敌对无人机连续三次袭击了黎巴嫩南部的曼苏里镇和马沙区。",
+          "url": "https://flash.jin10.com/detail/20260901011113138800",
+          "heat": false
+        },
+        {
+          "title": "瑞士议会委员会：该提案不应使瑞银(UBS.N)在普通股一级资本（CET1）方面增加成本，但会在额外一级资本（AT1）方面产生影响。",
+          "url": "https://flash.jin10.com/detail/20260901010901587800",
+          "heat": false
+        },
+        {
+          "title": "据CNBC：美国总统特朗普将于周二会见美国炼油商和燃料经销商，讨论扩大炼油产能并降低汽油价格。",
+          "url": "https://flash.jin10.com/detail/20260901010820673800",
+          "heat": false
+        },
+        {
+          "title": "消息人士：乌克兰基辅发生无人机袭击，现场传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260901010744546800",
+          "heat": false
+        },
+        {
+          "title": "瑞士议会委员会：如果触及该资本触发门槛，将不得派发股息或进行资本返还。",
+          "url": "https://flash.jin10.com/detail/20260901010434894800",
+          "heat": false
+        },
+        {
+          "title": "瑞士议会委员会：将强化AT1资本要求，把触发门槛提高至约11%。",
+          "url": "https://flash.jin10.com/detail/20260901010314458800",
+          "heat": false
+        },
+        {
+          "title": "据以色列第13频道：以色列方面评估认为，伊朗与美国之间的紧张局势升级不会演变成正面冲突。",
+          "url": "https://flash.jin10.com/detail/20260901010239563800",
+          "heat": false
+        },
+        {
+          "title": "瑞士议会委员会：提议瑞银(UBS.N)海外子公司的资本要求中，50%由普通股一级资本（CET1）覆盖，另外50%由额外一级资本（AT1）覆盖。",
+          "url": "https://flash.jin10.com/detail/20260901010135416800",
+          "heat": false
+        },
+        {
+          "title": "瑞士议会委员会：已就瑞银(UBS.N)的资本要求作出决定。",
+          "url": "https://flash.jin10.com/detail/20260901010040229800",
+          "heat": false
+        },
+        {
+          "title": "美国财长贝森特：美国担任G20主席国期间将把更强劲、更持久的经济增长作为核心优先事项。美国正通过吸引资本、减税和扩大能源优势推动新一轮增长。",
+          "url": "https://flash.jin10.com/detail/20260901005956884800",
+          "heat": false
+        },
+        {
+          "title": "据有关通知：亚马逊(AMZN.O)将于2026年10月1日起在华盛顿裁员121人。",
+          "url": "https://flash.jin10.com/detail/20260901005836693800",
+          "heat": false
+        }
+      ]
     }
   ]
 }
