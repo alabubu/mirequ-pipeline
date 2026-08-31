@@ -1,6 +1,6 @@
 {
-  "updated": "18:10:35",
-  "total": 279,
+  "updated": "18:15:37",
+  "total": 280,
   "platforms": [
     {
       "id": "zhihu",
@@ -1357,8 +1357,68 @@
     {
       "id": "jin10",
       "name": "金十数据",
-      "count": 24,
+      "count": 25,
       "items": [
+        {
+          "title": "据日经新闻：日本宫城县正争取SK海力士(SKHY.O)赴当地建设先进存储芯片工厂，但面临美国争夺投资以及韩国对技术外泄的担忧。",
+          "url": "https://flash.jin10.com/detail/20260901020903041800",
+          "heat": false
+        },
+        {
+          "title": "美官员：特朗普或批准重启对伊朗的打击行动",
+          "url": "https://flash.jin10.com/detail/20260901020619512800",
+          "heat": "✰"
+        },
+        {
+          "title": "美国FTC拟起诉亚马逊操纵广告价格 七年牟取数百亿美元",
+          "url": "https://flash.jin10.com/detail/20260901020528476800",
+          "heat": false
+        },
+        {
+          "title": "美国海军：“北达科他”号核潜艇完成维修升级，已于8月29日提前重返舰队并恢复作战状态。",
+          "url": "https://flash.jin10.com/detail/20260901020331265800",
+          "heat": false
+        },
+        {
+          "title": "亚马逊(AMZN.O)短线下挫，跌超3%，创盘中低位。消息面上，美国联邦贸易委员会计划于周一对亚马逊提起诉讼。",
+          "url": "https://flash.jin10.com/detail/20260901020325633800",
+          "heat": "✰"
+        },
+        {
+          "title": "据华尔街日报：美国联邦贸易委员会官员表示，计划于周一对亚马逊(AMZN.O)提起诉讼。",
+          "url": "https://flash.jin10.com/detail/20260901020056932800",
+          "heat": false
+        },
+        {
+          "title": "据沙特阿拉伯阿拉比亚电视台：波兰方面表示在波罗的海拦截了一架俄罗斯侦察机。",
+          "url": "https://flash.jin10.com/detail/20260901015904929800",
+          "heat": false
+        },
+        {
+          "title": "据Axios：美国总统特朗普要求苹果(AAPL.O)在地图上将安大略湖更名为“美国湖”。",
+          "url": "https://flash.jin10.com/detail/20260901015755346800",
+          "heat": false
+        },
+        {
+          "title": "据加拿大当地政界人士透露，比亚迪已就收购Stellantis位于多伦多郊区的闲置汽车工厂进行询价。",
+          "url": "https://flash.jin10.com/detail/20260901015221068800",
+          "heat": false
+        },
+        {
+          "title": "伊朗最高领袖办公室称，伊朗将对2577名罪犯实施赦免、减刑或改判。",
+          "url": "https://flash.jin10.com/detail/20260901015048905800",
+          "heat": false
+        },
+        {
+          "title": "基辅市长：在霍洛西伊夫区，一架无人机残骸坠落在路边，应急部门已赶赴现场。",
+          "url": "https://flash.jin10.com/detail/20260901014712326800",
+          "heat": false
+        },
+        {
+          "title": "据以色列总理办公室发布的照片显示，总理内塔尼亚胡在摩萨德总部与摩萨德局长罗曼·戈夫曼举行会晤。",
+          "url": "https://flash.jin10.com/detail/20260901014200782800",
+          "heat": false
+        },
         {
           "title": "据日经新闻：日本寻求争取承办全面进步跨太平洋伙伴关系协定（CPTPP）秘书处。",
           "url": "https://flash.jin10.com/detail/20260901014002210800",
@@ -1422,61 +1482,6 @@
         {
           "title": "消息人士：国际货币基金组织（IMF）完成对塞内加尔的考察后，预计将取得“积极进展”。",
           "url": "https://flash.jin10.com/detail/20260901011408825800",
-          "heat": false
-        },
-        {
-          "title": "据黎巴嫩通讯社：敌对无人机连续三次袭击了黎巴嫩南部的曼苏里镇和马沙区。",
-          "url": "https://flash.jin10.com/detail/20260901011113138800",
-          "heat": false
-        },
-        {
-          "title": "瑞士议会委员会：该提案不应使瑞银(UBS.N)在普通股一级资本（CET1）方面增加成本，但会在额外一级资本（AT1）方面产生影响。",
-          "url": "https://flash.jin10.com/detail/20260901010901587800",
-          "heat": false
-        },
-        {
-          "title": "据CNBC：美国总统特朗普将于周二会见美国炼油商和燃料经销商，讨论扩大炼油产能并降低汽油价格。",
-          "url": "https://flash.jin10.com/detail/20260901010820673800",
-          "heat": false
-        },
-        {
-          "title": "消息人士：乌克兰基辅发生无人机袭击，现场传出爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260901010744546800",
-          "heat": false
-        },
-        {
-          "title": "瑞士议会委员会：如果触及该资本触发门槛，将不得派发股息或进行资本返还。",
-          "url": "https://flash.jin10.com/detail/20260901010434894800",
-          "heat": false
-        },
-        {
-          "title": "瑞士议会委员会：将强化AT1资本要求，把触发门槛提高至约11%。",
-          "url": "https://flash.jin10.com/detail/20260901010314458800",
-          "heat": false
-        },
-        {
-          "title": "据以色列第13频道：以色列方面评估认为，伊朗与美国之间的紧张局势升级不会演变成正面冲突。",
-          "url": "https://flash.jin10.com/detail/20260901010239563800",
-          "heat": false
-        },
-        {
-          "title": "瑞士议会委员会：提议瑞银(UBS.N)海外子公司的资本要求中，50%由普通股一级资本（CET1）覆盖，另外50%由额外一级资本（AT1）覆盖。",
-          "url": "https://flash.jin10.com/detail/20260901010135416800",
-          "heat": false
-        },
-        {
-          "title": "瑞士议会委员会：已就瑞银(UBS.N)的资本要求作出决定。",
-          "url": "https://flash.jin10.com/detail/20260901010040229800",
-          "heat": false
-        },
-        {
-          "title": "美国财长贝森特：美国担任G20主席国期间将把更强劲、更持久的经济增长作为核心优先事项。美国正通过吸引资本、减税和扩大能源优势推动新一轮增长。",
-          "url": "https://flash.jin10.com/detail/20260901005956884800",
-          "heat": false
-        },
-        {
-          "title": "据有关通知：亚马逊(AMZN.O)将于2026年10月1日起在华盛顿裁员121人。",
-          "url": "https://flash.jin10.com/detail/20260901005836693800",
           "heat": false
         }
       ]
