@@ -1,113 +1,12 @@
 {
-  "updated": "13:55:29",
-  "total": 281,
+  "updated": "14:01:05",
+  "total": 236,
   "platforms": [
     {
       "id": "zhihu",
       "name": "知乎",
-      "count": 20,
-      "items": [
-        {
-          "title": "新版《国防动员法》2026 年 10 月 1 日实施，哪些信息值得关注？会带来什么影响？",
-          "url": "https://www.zhihu.com/question/2076954184558047646",
-          "heat": "396 万热度"
-        },
-        {
-          "title": "「如果国家限制租金，房东就会宁愿房子空置到烂掉也不租给有需要的人」，如何看待这种观点？",
-          "url": "https://www.zhihu.com/question/2076752492956799656",
-          "heat": "301 万热度"
-        },
-        {
-          "title": "年薪 60+ 万，一手提拔我的领导跟公司大老板有分歧，要我辞职跟他去创业，我该怎么办？",
-          "url": "https://www.zhihu.com/question/2075219931705119529",
-          "heat": "227 万热度"
-        },
-        {
-          "title": "中国女排无缘亚锦赛冠军，赛后很多网友呼吁召回朱婷，为什么中国女排不召回朱婷？一个朱婷能解决所有问题吗？",
-          "url": "https://www.zhihu.com/question/2077683343475176196",
-          "heat": "210 万热度"
-        },
-        {
-          "title": "中小学开学选班主任真的「堪比泰国征兵现场」吗？为什么年轻人不爱当班主任了？班主任的一天都要干啥？",
-          "url": "https://www.zhihu.com/question/2077535461820592872",
-          "heat": "137 万热度"
-        },
-        {
-          "title": "杨瀚森准绝杀！男篮世预赛第二阶段，中国男篮 89:87 战胜黎巴嫩男篮，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2077708039566659709",
-          "heat": "132 万热度"
-        },
-        {
-          "title": "宇树股价「腰斩」从 1100 跌至 555 元，机器人第一股 2200 亿蒸发，有哪些原因和影响？",
-          "url": "https://www.zhihu.com/question/2077739048634946054",
-          "heat": "126 万热度"
-        },
-        {
-          "title": "餐饮店用来「过油」的油，炸了那么多不同种类的食物，再用来炒菜难道不会串味吗?",
-          "url": "https://www.zhihu.com/question/2014321032002036362",
-          "heat": "120 万热度"
-        },
-        {
-          "title": "济南一小区选择不要物业公司，居民自己管自己，一户一天一块钱，怎样看待这种方式？有哪些利弊？",
-          "url": "https://www.zhihu.com/question/2077786847460026340",
-          "heat": "114 万热度"
-        },
-        {
-          "title": "只花 200 块，如何在二手平台凑一套装备体面开学？",
-          "url": "https://www.zhihu.com/question/2075246991349477989",
-          "heat": "102 万热度"
-        },
-        {
-          "title": "演员王鸥发文称正独自养育一个孩子，对此你有哪些祝福？",
-          "url": "https://www.zhihu.com/question/2077802961162301807",
-          "heat": "99 万热度"
-        },
-        {
-          "title": "尼泊尔泥石流灾害已致 903 人遇难，4247 人失联，目前当地救援情况如何？",
-          "url": "https://www.zhihu.com/question/2077738468134708619",
-          "heat": "96 万热度"
-        },
-        {
-          "title": "女子工作 6 年多被迫离职，最后半个月工资仅 55 元，被踢出 845 个工作群，维权历经近一年，为什么这么难？",
-          "url": "https://www.zhihu.com/question/2077550784615539428",
-          "heat": "93 万热度"
-        },
-        {
-          "title": "如果《人民的名义》里面的大风厂真的爆炸了会怎么样？",
-          "url": "https://www.zhihu.com/question/667976800",
-          "heat": "90 万热度"
-        },
-        {
-          "title": "多所高校发布本科毕业论文抽检通知，将对问题论文指导教师追责，此举将如何影响高校教师的论文指导方式？",
-          "url": "https://www.zhihu.com/question/2076732320636261212",
-          "heat": "90 万热度"
-        },
-        {
-          "title": "美军袭击伊朗拉腊克岛，这是美军一个月来首次对伊采取军事行动，伊方誓言报复，本次冲突会升级吗？",
-          "url": "https://www.zhihu.com/question/2077683153028888495",
-          "heat": "90 万热度"
-        },
-        {
-          "title": "为什么这个世界上存在有电影院，但没有游戏院的说法呢？",
-          "url": "https://www.zhihu.com/question/2072412309545301574",
-          "heat": "90 万热度"
-        },
-        {
-          "title": "三星杯预赛，中国棋手大获全胜，斩获全部 14 公开 + 女子 + 青年组名额，韩国仅获 1 元老组名额，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2077696757526259320",
-          "heat": "90 万热度"
-        },
-        {
-          "title": "女朋友说「什么都不用送」时，是真的不期待礼物，还是不想替你做选择题？",
-          "url": "https://www.zhihu.com/question/2072666413970482225",
-          "heat": "90 万热度"
-        },
-        {
-          "title": "《姜子牙》导演程腾的新作《大唐妖探》的票房预测仅 4300 多万，如何看待这一数据？",
-          "url": "https://www.zhihu.com/question/2074636898895664828",
-          "heat": "89 万热度"
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "id": "weibo",
@@ -954,74 +853,8 @@
     {
       "id": "cls-hot",
       "name": "财联社",
-      "count": 13,
-      "items": [
-        {
-          "title": "AI应用迎利好！工信部拟开展专项行动 服务采购、项目出海多维度获支持",
-          "url": "https://www.cls.cn/detail/2469551",
-          "heat": ""
-        },
-        {
-          "title": "工信部：探索通过首购首用、风险补偿等模式 加大大模型、智能体、Token等服务采购力度",
-          "url": "https://www.cls.cn/detail/2469454",
-          "heat": ""
-        },
-        {
-          "title": "商务部等7部门：到2030年 社会消费品零售总额达60万亿元左右",
-          "url": "https://www.cls.cn/detail/2469641",
-          "heat": ""
-        },
-        {
-          "title": "【每日收评】三大指数午后集体拉升全线收红，短剧概念股集体爆发，芯片产业链再度走强",
-          "url": "https://www.cls.cn/detail/2469628",
-          "heat": ""
-        },
-        {
-          "title": "【焦点复盘】沪指日线5连阳收复年线，AI应用端掀批量涨停，超节点概念午后大放异彩",
-          "url": "https://www.cls.cn/detail/2469672",
-          "heat": ""
-        },
-        {
-          "title": "美伊冲突重燃推高油价 美股三大期指小幅下跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2469970",
-          "heat": ""
-        },
-        {
-          "title": "国常会：研究促进招商引资高质量发展有关工作",
-          "url": "https://www.cls.cn/detail/2469938",
-          "heat": ""
-        },
-        {
-          "title": "南向资金追踪｜8月净买入近104亿港元 加仓科技抛售医药及金融股",
-          "url": "https://www.cls.cn/detail/2469827",
-          "heat": ""
-        },
-        {
-          "title": "“最科创”券商排名出炉，“双投”发威，有头部券商占到一半净利润",
-          "url": "https://www.cls.cn/detail/2469514",
-          "heat": ""
-        },
-        {
-          "title": "OpenAI和Anthropic也加入哄抢：苹果Mac mini成为AI行业最喜欢硬件",
-          "url": "https://www.cls.cn/detail/2469595",
-          "heat": ""
-        },
-        {
-          "title": "华为上半年收入4678亿增9.55%，研发投入1213.8亿创新高，称将持续构筑昇腾、鲲鹏、鸿蒙生态",
-          "url": "https://www.cls.cn/detail/2469891",
-          "heat": ""
-        },
-        {
-          "title": "GLP-1减肥药风口之后，华尔街又盯上了这一医药金矿",
-          "url": "https://www.cls.cn/detail/2469846",
-          "heat": ""
-        },
-        {
-          "title": "HBM供应链生变：SK海力士被曝考虑英特尔代工 台积电危险了？",
-          "url": "https://www.cls.cn/detail/2469708",
-          "heat": ""
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "id": "thepaper",
@@ -1133,69 +966,8 @@
     {
       "id": "ifeng",
       "name": "凤凰网",
-      "count": 12,
-      "items": [
-        {
-          "title": "“真刀真枪”，又打起来了",
-          "url": "https://news.ifeng.com/c/8w2eEeNpDGP",
-          "heat": ""
-        },
-        {
-          "title": "时隔1个月再度袭击伊朗，美国军方却为何直呼“吃不消”？",
-          "url": "https://news.ifeng.com/c/8w2qkRl4JUw",
-          "heat": ""
-        },
-        {
-          "title": "伊朗称在霍尔木兹海峡上空击落美军MQ－9无人机",
-          "url": "https://news.ifeng.com/c/8w2DjWsOABO",
-          "heat": ""
-        },
-        {
-          "title": "日本印度勾连，各自有怎样的盘算？",
-          "url": "https://original.ifeng.com/c/8w2nky8USi6",
-          "heat": ""
-        },
-        {
-          "title": "4倍兵力围城！乌东要地俄军两师险遭切割",
-          "url": "https://original.ifeng.com/c/8w20R72WrX0",
-          "heat": ""
-        },
-        {
-          "title": "美财长称世界不允许中国有1.2万亿美元贸易顺差，外交部回应",
-          "url": "https://news.ifeng.com/c/8w2XjWBEwFk",
-          "heat": ""
-        },
-        {
-          "title": "美国友人“赛考斯”现身外交部蓝厅，特意戴了一条龙纹领带",
-          "url": "https://original.ifeng.com/c/8w2pPFBx8lN",
-          "heat": ""
-        },
-        {
-          "title": "美国大峡谷突发山洪，1人死亡15人下落不明，地貌被严重改变",
-          "url": "https://news.ifeng.com/c/8w2EiYux9D9",
-          "heat": ""
-        },
-        {
-          "title": "张雪看凤凰卫视节目被82岁老车迷感动，亲赴香港交车",
-          "url": "https://original.ifeng.com/c/8w2Lmkn9wCM",
-          "heat": ""
-        },
-        {
-          "title": "韩国：“甲醛白菜”未流入",
-          "url": "https://news.ifeng.com/c/8w2sXh1nz8q",
-          "heat": ""
-        },
-        {
-          "title": "广西2.5万亩蔗田被淹，蔗农：可能1年白干了",
-          "url": "https://news.ifeng.com/c/8w2ZcuDjAtS",
-          "heat": ""
-        },
-        {
-          "title": "邓紫棋科幻小说入围第37届银河奖，本人回应",
-          "url": "https://news.ifeng.com/c/8w2g40DTVRt",
-          "heat": ""
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "id": "toutiao",
