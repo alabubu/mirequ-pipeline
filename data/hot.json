@@ -1,6 +1,6 @@
 {
-  "updated": "06:31:01",
-  "total": 269,
+  "updated": "06:35:28",
+  "total": 282,
   "platforms": [
     {
       "id": "zhihu",
@@ -954,8 +954,74 @@
     {
       "id": "cls-hot",
       "name": "财联社",
-      "count": 0,
-      "items": []
+      "count": 13,
+      "items": [
+        {
+          "title": "万亿总资产券商扩张至5家，谁在上半年加速扩张？万亿已成分水岭",
+          "url": "https://www.cls.cn/detail/2469048",
+          "heat": ""
+        },
+        {
+          "title": "局势升级！美军袭击伊朗拉腊克岛 伊朗向美军基地发射导弹",
+          "url": "https://www.cls.cn/detail/2469012",
+          "heat": ""
+        },
+        {
+          "title": "沃什为9月加息敞开大门？来看看“新美联储通讯社”如何评价！",
+          "url": "https://www.cls.cn/detail/2469047",
+          "heat": ""
+        },
+        {
+          "title": "国家统计局：8月制造业PMI为49.8% 较上月回升",
+          "url": "https://www.cls.cn/detail/2469056",
+          "heat": ""
+        },
+        {
+          "title": "【数读IPO】医疗器械领域细分“小巨人”今日申购",
+          "url": "https://www.cls.cn/detail/2468993",
+          "heat": ""
+        },
+        {
+          "title": "房地产信贷新规后首个交易日银行板块走强，地产信贷逻辑将迎来根本改变",
+          "url": "https://www.cls.cn/detail/2469306",
+          "heat": ""
+        },
+        {
+          "title": "8月31日投资避雷针：11天涨超90%人气股上半年净亏损957.91万元  同比转亏",
+          "url": "https://www.cls.cn/detail/2469030",
+          "heat": ""
+        },
+        {
+          "title": "沃什掀起“加息风暴”？法兴银行：美联储将在明年3月之前加息三次！",
+          "url": "https://www.cls.cn/detail/2469206",
+          "heat": ""
+        },
+        {
+          "title": "AI引爆存储需求！关于SK海力士赴日建厂，崔泰源最新表态",
+          "url": "https://www.cls.cn/detail/2469254",
+          "heat": ""
+        },
+        {
+          "title": "《后西游记》定档，短剧概念“取到真经”了？",
+          "url": "https://www.cls.cn/detail/2469239",
+          "heat": ""
+        },
+        {
+          "title": "美股牛市还能持续多久？美银：恐在秋季受挫，两大“逆风”来袭！",
+          "url": "https://www.cls.cn/detail/2469007",
+          "heat": ""
+        },
+        {
+          "title": "AI大模型持续升级 网络安全需求随之井喷",
+          "url": "https://www.cls.cn/detail/2468980",
+          "heat": ""
+        },
+        {
+          "title": "订单排到年底！这一千亿级“冷”市场，“热”起来了！",
+          "url": "https://www.cls.cn/detail/2469258",
+          "heat": ""
+        }
+      ]
     },
     {
       "id": "thepaper",
